@@ -6,7 +6,7 @@ from llama_index.core import Settings
 from llama_index.llms.openai import OpenAI
 import pandas as pd
 import numpy as np
-from typing import List, Optional
+from typing import List, Optional, Tuple
 import chardet
 import logging
 import warnings
@@ -35,6 +35,17 @@ class CSVHandler:
                 if delimiter in header:
                     return delimiter
         return ','  # Default to comma if no other delimiter is found
+
+    def read_file_with_description(self, file_path: str, encoding: str, delimiter: str) -> Tuple[str, pd.DataFrame]:
+        """Read CSV file and extract the description from first row."""
+        # Read the first line separately as description
+        with open(file_path, 'r', encoding=encoding) as file:
+            description = file.readline().strip().replace('"', '')
+        
+        # Read the rest of the file as DataFrame, skipping the description row
+        df = pd.read_csv(file_path, encoding=encoding, sep=delimiter, skiprows=1, on_bad_lines='warn')
+        
+        return description, df
 
     def clean_column_names(self, df: pd.DataFrame) -> pd.DataFrame:
         """Clean and standardize column names."""
@@ -151,8 +162,8 @@ def process_csv_files(file_paths: List[str]) -> List[Document]:
             
             logger.info(f"Processing {file_path} with encoding {encoding} and delimiter {delimiter}")
             
-            # Read the CSV file
-            df = pd.read_csv(file_path, encoding=encoding, sep=delimiter, on_bad_lines='warn')
+            # Read the CSV file with description
+            description, df = csv_handler.read_file_with_description(file_path, encoding, delimiter)
             
             # Clean and process the data
             df = csv_handler.clean_column_names(df)
@@ -165,10 +176,26 @@ def process_csv_files(file_paths: List[str]) -> List[Document]:
                 logger.warning(f"{file_path}: {warning}")
             
             # Convert to string for LlamaIndex
-            text = df.to_string(index=False)
-            documents.append(Document(text=text))
+            text = f"File Description: {description}\n\nData:\n{df.to_string(index=False)}"
+            
+            # Create document with metadata
+            document = Document(
+                text=text,
+                metadata={
+                    "source": file_path,
+                    "description": description,
+                    "warnings": warnings,
+                    "encoding": encoding,
+                    "delimiter": delimiter,
+                    "num_rows": len(df),
+                    "num_columns": len(df.columns),
+                    "column_names": list(df.columns)
+                }
+            )
+            documents.append(document)
             
             logger.info(f"Successfully processed {file_path}")
+            logger.info(f"Description: {description}")
             
         except Exception as e:
             logger.error(f"Error processing {file_path}: {str(e)}")
@@ -181,16 +208,30 @@ def main():
     load_dotenv()
     Settings.llm = OpenAI()
 
-    csv_files = ["data/Population.csv", "data/PopulationProjection.csv"]
+    csv_files = ["data/Population.csv", "data/PopulationProjection.csv", "data/2020CensusAndPopulation.csv", "data/Household.csv"]
     documents = process_csv_files(csv_files)
 
     if documents:
+        # Print descriptions of processed files
+        print("\nProcessed Files:")
+        for doc in documents:
+            print(f"\nFile: {doc.metadata['source']}")
+            print(f"Description: {doc.metadata['description']}")
+            print(f"Rows: {doc.metadata['num_rows']}")
+            print(f"Columns: {doc.metadata['num_columns']}")
+            if doc.metadata['warnings']:
+                print("Warnings:", doc.metadata['warnings'])
+            print("-" * 50)
+
         index = VectorStoreIndex.from_documents(documents)
         query_engine = index.as_query_engine()
 
-        res = input("Enter your query: ")
-        response = query_engine.query(res)
-        print(response)
+        while True:
+            res = input("\nEnter your query (or 'quit' to exit): ")
+            if res.lower() == 'quit':
+                break
+            response = query_engine.query(res)
+            print("\nResponse:", response)
     else:
         logger.error("No documents were successfully processed")
 

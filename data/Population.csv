@@ -1,408 +1,408 @@
-"Total Population, Household Population, and Number of Households by Region and Province/Highly Urbanized City: Philippines, 2020"
-
-"Geographic Location";"Parameter";Total Population, Household Population, and Number of Households: Philippines, 2020
-"PHILIPPINES /a";"Total Population";109033245
-"PHILIPPINES /a";"Household Population";108667043
-"PHILIPPINES /a";"Number of Households";26393906
-"..NATIONAL CAPITAL REGION (NCR)";"Total Population";13484462
-"..NATIONAL CAPITAL REGION (NCR)";"Household Population";13403551
-"..NATIONAL CAPITAL REGION (NCR)";"Number of Households";3499652
-"....City of Manila";"Total Population";1846513
-"....City of Manila";"Household Population";1837785
-"....City of Manila";"Number of Households";486293
-"....City of Mandaluyong";"Total Population";425758
-"....City of Mandaluyong";"Household Population";419333
-"....City of Mandaluyong";"Number of Households";116954
-"....City of Marikina";"Total Population";456059
-"....City of Marikina";"Household Population";452961
-"....City of Marikina";"Number of Households";104415
-"....City of Pasig";"Total Population";803159
-"....City of Pasig";"Household Population";801439
-"....City of Pasig";"Number of Households";212895
-"....Quezon City";"Total Population";2960048
-"....Quezon City";"Household Population";2950493
-"....Quezon City";"Number of Households";738724
-"....City of San Juan";"Total Population";126347
-"....City of San Juan";"Household Population";124699
-"....City of San Juan";"Number of Households";31519
-"....City of Caloocan";"Total Population";1661584
-"....City of Caloocan";"Household Population";1659025
-"....City of Caloocan";"Number of Households";404252
-"....City of Malabon";"Total Population";380522
-"....City of Malabon";"Household Population";379463
-"....City of Malabon";"Number of Households";94241
-"....City of Navotas";"Total Population";247543
-"....City of Navotas";"Household Population";246743
-"....City of Navotas";"Number of Households";63167
-"....City of Valenzuela";"Total Population";714978
-"....City of Valenzuela";"Household Population";713181
-"....City of Valenzuela";"Number of Households";193025
-"....City of Las Piñas";"Total Population";606293
-"....City of Las Piñas";"Household Population";604283
-"....City of Las Piñas";"Number of Households";156899
-"....City of Makati";"Total Population";629616
-"....City of Makati";"Household Population";624032
-"....City of Makati";"Number of Households";186381
-"....City of Muntinlupa";"Total Population";543445
-"....City of Muntinlupa";"Household Population";519112
-"....City of Muntinlupa";"Number of Households";138331
-"....City of Parañaque";"Total Population";689992
-"....City of Parañaque";"Household Population";686313
-"....City of Parañaque";"Number of Households";182216
-"....Pasay City";"Total Population";440656
-"....Pasay City";"Household Population";437003
-"....Pasay City";"Number of Households";127629
-"....City of Taguig";"Total Population";886722
-"....City of Taguig";"Household Population";882622
-"....City of Taguig";"Number of Households";246873
-"....Pateros";"Total Population";65227
-"....Pateros";"Household Population";65064
-"....Pateros";"Number of Households";15838
-"..CORDILLERA ADMINISTRATIVE REGION (CAR)";"Total Population";1797660
-"..CORDILLERA ADMINISTRATIVE REGION (CAR)";"Household Population";1791121
-"..CORDILLERA ADMINISTRATIVE REGION (CAR)";"Number of Households";439166
-"....Abra";"Total Population";250985
-"....Abra";"Household Population";250309
-"....Abra";"Number of Households";58956
-"....Apayao";"Total Population";124366
-"....Apayao";"Household Population";123937
-"....Apayao";"Number of Households";28862
-"....Benguet *";"Total Population";460683
-"....Benguet *";"Household Population";459468
-"....Benguet *";"Number of Households";116692
-"....Ifugao";"Total Population";207498
-"....Ifugao";"Household Population";207130
-"....Ifugao";"Number of Households";48756
-"....Kalinga";"Total Population";229570
-"....Kalinga";"Household Population";229328
-"....Kalinga";"Number of Households";48079
-"....Mountain Province";"Total Population";158200
-"....Mountain Province";"Household Population";157798
-"....Mountain Province";"Number of Households";37601
-"....City of Baguio";"Total Population";366358
-"....City of Baguio";"Household Population";363151
-"....City of Baguio";"Number of Households";100220
-"..REGION I (ILOCOS REGION)";"Total Population";5301139
-"..REGION I (ILOCOS REGION)";"Household Population";5292297
-"..REGION I (ILOCOS REGION)";"Number of Households";1306256
-"....Ilocos Norte";"Total Population";609588
-"....Ilocos Norte";"Household Population";608508
-"....Ilocos Norte";"Number of Households";152972
-"....Ilocos Sur";"Total Population";706009
-"....Ilocos Sur";"Household Population";704218
-"....Ilocos Sur";"Number of Households";172048
-"....La Union";"Total Population";822352
-"....La Union";"Household Population";820343
-"....La Union";"Number of Households";205034
-"....Pangasinan";"Total Population";3163190
-"....Pangasinan";"Household Population";3159228
-"....Pangasinan";"Number of Households";776202
-"..REGION II (CAGAYAN VALLEY)";"Total Population";3685744
-"..REGION II (CAGAYAN VALLEY)";"Household Population";3679748
-"..REGION II (CAGAYAN VALLEY)";"Number of Households";907472
-"....Batanes";"Total Population";18831
-"....Batanes";"Household Population";18593
-"....Batanes";"Number of Households";5547
-"....Cagayan";"Total Population";1268603
-"....Cagayan";"Household Population";1265540
-"....Cagayan";"Number of Households";301528
-"....Isabela";"Total Population";1697050
-"....Isabela";"Household Population";1695539
-"....Isabela";"Number of Households";422670
-"....Nueva Vizcaya";"Total Population";497432
-"....Nueva Vizcaya";"Household Population";496546
-"....Nueva Vizcaya";"Number of Households";128181
-"....Quirino";"Total Population";203828
-"....Quirino";"Household Population";203530
-"....Quirino";"Number of Households";49546
-"..REGION III (CENTRAL LUZON)";"Total Population";12422172
-"..REGION III (CENTRAL LUZON)";"Household Population";12387811
-"..REGION III (CENTRAL LUZON)";"Number of Households";3040488
-"....Aurora";"Total Population";235750
-"....Aurora";"Household Population";234991
-"....Aurora";"Number of Households";57037
-"....Bataan";"Total Population";853373
-"....Bataan";"Household Population";849575
-"....Bataan";"Number of Households";208941
-"....Bulacan";"Total Population";3708890
-"....Bulacan";"Household Population";3696937
-"....Bulacan";"Number of Households";920608
-"....Nueva Ecija";"Total Population";2310134
-"....Nueva Ecija";"Household Population";2306751
-"....Nueva Ecija";"Number of Households";572583
-"....Pampanga *";"Total Population";2437709
-"....Pampanga *";"Household Population";2433144
-"....Pampanga *";"Number of Households";573920
-"....Tarlac";"Total Population";1503456
-"....Tarlac";"Household Population";1499064
-"....Tarlac";"Number of Households";359561
-"....Zambales *";"Total Population";649615
-"....Zambales *";"Household Population";647545
-"....Zambales *";"Number of Households";165045
-"....City of Angeles";"Total Population";462928
-"....City of Angeles";"Household Population";461165
-"....City of Angeles";"Number of Households";116343
-"....City of Olongapo";"Total Population";260317
-"....City of Olongapo";"Household Population";258639
-"....City of Olongapo";"Number of Households";66450
-"..REGION IV-A (CALABARZON)";"Total Population";16195042
-"..REGION IV-A (CALABARZON)";"Household Population";16139770
-"..REGION IV-A (CALABARZON)";"Number of Households";4062720
-"....Batangas";"Total Population";2908494
-"....Batangas";"Household Population";2902855
-"....Batangas";"Number of Households";716192
-"....Cavite";"Total Population";4344829
-"....Cavite";"Household Population";4318663
-"....Cavite";"Number of Households";1096120
-"....Laguna";"Total Population";3382193
-"....Laguna";"Household Population";3373136
-"....Laguna";"Number of Households";915398
-"....Quezon *";"Total Population";1950459
-"....Quezon *";"Household Population";1945444
-"....Quezon *";"Number of Households";483703
-"....Rizal";"Total Population";3330143
-"....Rizal";"Household Population";3321325
-"....Rizal";"Number of Households";784402
-"....City of Lucena";"Total Population";278924
-"....City of Lucena";"Household Population";278347
-"....City of Lucena";"Number of Households";66905
-"..MIMAROPA REGION";"Total Population";3228558
-"..MIMAROPA REGION";"Household Population";3212287
-"..MIMAROPA REGION";"Number of Households";792875
-"....Marinduque";"Total Population";239207
-"....Marinduque";"Household Population";238830
-"....Marinduque";"Number of Households";60557
-"....Occidental Mindoro";"Total Population";525354
-"....Occidental Mindoro";"Household Population";521444
-"....Occidental Mindoro";"Number of Households";126633
-"....Oriental Mindoro";"Total Population";908339
-"....Oriental Mindoro";"Household Population";906661
-"....Oriental Mindoro";"Number of Households";215076
-"....Palawan *";"Total Population";939594
-"....Palawan *";"Household Population";934669
-"....Palawan *";"Number of Households";230836
-"....Romblon";"Total Population";308985
-"....Romblon";"Household Population";308072
-"....Romblon";"Number of Households";77639
-"....City of Puerto Princesa";"Total Population";307079
-"....City of Puerto Princesa";"Household Population";302611
-"....City of Puerto Princesa";"Number of Households";82134
-"..REGION V (BICOL REGION)";"Total Population";6082165
-"..REGION V (BICOL REGION)";"Household Population";6067290
-"..REGION V (BICOL REGION)";"Number of Households";1365044
-"....Albay";"Total Population";1374768
-"....Albay";"Household Population";1372550
-"....Albay";"Number of Households";311448
-"....Camarines Norte";"Total Population";629699
-"....Camarines Norte";"Household Population";628807
-"....Camarines Norte";"Number of Households";144155
-"....Camarines Sur";"Total Population";2068244
-"....Camarines Sur";"Household Population";2062277
-"....Camarines Sur";"Number of Households";455276
-"....Catanduanes";"Total Population";271879
-"....Catanduanes";"Household Population";270775
-"....Catanduanes";"Number of Households";60352
-"....Masbate";"Total Population";908920
-"....Masbate";"Household Population";906731
-"....Masbate";"Number of Households";206351
-"....Sorsogon";"Total Population";828655
-"....Sorsogon";"Household Population";826150
-"....Sorsogon";"Number of Households";187462
-"..REGION VI (WESTERN VISAYAS)";"Total Population";7954723
-"..REGION VI (WESTERN VISAYAS)";"Household Population";7935531
-"..REGION VI (WESTERN VISAYAS)";"Number of Households";1939989
-"....Aklan";"Total Population";615475
-"....Aklan";"Household Population";612985
-"....Aklan";"Number of Households";151381
-"....Antique";"Total Population";612974
-"....Antique";"Household Population";611478
-"....Antique";"Number of Households";147696
-"....Capiz";"Total Population";804952
-"....Capiz";"Household Population";803879
-"....Capiz";"Number of Households";202033
-"....Guimaras";"Total Population";187842
-"....Guimaras";"Household Population";187576
-"....Guimaras";"Number of Households";47476
-"....Iloilo *";"Total Population";2051899
-"....Iloilo *";"Household Population";2048039
-"....Iloilo *";"Number of Households";506187
-"....Negros Occidental *";"Total Population";2623172
-"....Negros Occidental *";"Household Population";2618672
-"....Negros Occidental *";"Number of Households";637967
-"....City of Bacolod";"Total Population";600783
-"....City of Bacolod";"Household Population";597615
-"....City of Bacolod";"Number of Households";142936
-"....City of Iloilo";"Total Population";457626
-"....City of Iloilo";"Household Population";455287
-"....City of Iloilo";"Number of Households";104313
-"..REGION VII (CENTRAL VISAYAS)";"Total Population";8081988
-"..REGION VII (CENTRAL VISAYAS)";"Household Population";8046285
-"..REGION VII (CENTRAL VISAYAS)";"Number of Households";1966588
-"....Bohol";"Total Population";1394329
-"....Bohol";"Household Population";1390524
-"....Bohol";"Number of Households";322022
-"....Cebu *";"Total Population";3325385
-"....Cebu *";"Household Population";3309850
-"....Cebu *";"Number of Households";799486
-"....Negros Oriental";"Total Population";1432990
-"....Negros Oriental";"Household Population";1428548
-"....Negros Oriental";"Number of Households";347961
-"....Siquijor";"Total Population";103395
-"....Siquijor";"Household Population";103014
-"....Siquijor";"Number of Households";25805
-"....City of Cebu";"Total Population";964169
-"....City of Cebu";"Household Population";958626
-"....City of Cebu";"Number of Households";238317
-"....City of Lapu-Lapu (Opon)";"Total Population";497604
-"....City of Lapu-Lapu (Opon)";"Household Population";494672
-"....City of Lapu-Lapu (Opon)";"Number of Households";129652
-"....City of Mandaue";"Total Population";364116
-"....City of Mandaue";"Household Population";361051
-"....City of Mandaue";"Number of Households";103345
-"..REGION VIII (EASTERN VISAYAS)";"Total Population";4547150
-"..REGION VIII (EASTERN VISAYAS)";"Household Population";4531512
-"..REGION VIII (EASTERN VISAYAS)";"Number of Households";1082106
-"....Biliran";"Total Population";179312
-"....Biliran";"Household Population";178715
-"....Biliran";"Number of Households";43053
-"....Eastern Samar";"Total Population";477168
-"....Eastern Samar";"Household Population";475847
-"....Eastern Samar";"Number of Households";115777
-"....Leyte *";"Total Population";1776847
-"....Leyte *";"Household Population";1771011
-"....Leyte *";"Number of Households";443470
-"....Northern Samar";"Total Population";639186
-"....Northern Samar";"Household Population";636995
-"....Northern Samar";"Number of Households";139885
-"....Samar (Western Samar)";"Total Population";793183
-"....Samar (Western Samar)";"Household Population";791045
-"....Samar (Western Samar)";"Number of Households";181794
-"....Southern Leyte";"Total Population";429573
-"....Southern Leyte";"Household Population";428484
-"....Southern Leyte";"Number of Households";100876
-"....City of Tacloban";"Total Population";251881
-"....City of Tacloban";"Household Population";249415
-"....City of Tacloban";"Number of Households";57251
-"..REGION IX (ZAMBOANGA PENINSULA)";"Total Population";3875576
-"..REGION IX (ZAMBOANGA PENINSULA)";"Household Population";3862588
-"..REGION IX (ZAMBOANGA PENINSULA)";"Number of Households";895899
-"....Zamboanga del Norte";"Total Population";1047455
-"....Zamboanga del Norte";"Household Population";1046017
-"....Zamboanga del Norte";"Number of Households";247971
-"....Zamboanga del Sur *";"Total Population";1050668
-"....Zamboanga del Sur *";"Household Population";1048402
-"....Zamboanga del Sur *";"Number of Households";239258
-"....Zamboanga Sibugay";"Total Population";669840
-"....Zamboanga Sibugay";"Household Population";668648
-"....Zamboanga Sibugay";"Number of Households";154669
-"....City of Isabela **";"Total Population";130379
-"....City of Isabela **";"Household Population";130130
-"....City of Isabela **";"Number of Households";26649
-"....City of Zamboanga";"Total Population";977234
-"....City of Zamboanga";"Household Population";969391
-"....City of Zamboanga";"Number of Households";227352
-"..REGION X (NORTHERN MINDANAO)";"Total Population";5022768
-"..REGION X (NORTHERN MINDANAO)";"Household Population";5007798
-"..REGION X (NORTHERN MINDANAO)";"Number of Households";1197736
-"....Bukidnon";"Total Population";1541308
-"....Bukidnon";"Household Population";1537629
-"....Bukidnon";"Number of Households";357112
-"....Camiguin";"Total Population";92808
-"....Camiguin";"Household Population";92696
-"....Camiguin";"Number of Households";22281
-"....Lanao del Norte *";"Total Population";722902
-"....Lanao del Norte *";"Household Population";721716
-"....Lanao del Norte *";"Number of Households";161458
-"....Misamis Occidental";"Total Population";617333
-"....Misamis Occidental";"Household Population";614951
-"....Misamis Occidental";"Number of Households";149188
-"....Misamis Oriental *";"Total Population";956900
-"....Misamis Oriental *";"Household Population";954953
-"....Misamis Oriental *";"Number of Households";230233
-"....City of Cagayan de Oro";"Total Population";728402
-"....City of Cagayan de Oro";"Household Population";723671
-"....City of Cagayan de Oro";"Number of Households";190225
-"....City of Iligan";"Total Population";363115
-"....City of Iligan";"Household Population";362182
-"....City of Iligan";"Number of Households";87239
-"..REGION XI (DAVAO REGION)";"Total Population";5243536
-"..REGION XI (DAVAO REGION)";"Household Population";5223802
-"..REGION XI (DAVAO REGION)";"Number of Households";1337781
-"....Davao de Oro (Compostela Valley)";"Total Population";767547
-"....Davao de Oro (Compostela Valley)";"Household Population";766299
-"....Davao de Oro (Compostela Valley)";"Number of Households";188918
-"....Davao del Norte";"Total Population";1125057
-"....Davao del Norte";"Household Population";1115167
-"....Davao del Norte";"Number of Households";271655
-"....Davao del Sur *";"Total Population";680481
-"....Davao del Sur *";"Household Population";679457
-"....Davao del Sur *";"Number of Households";182681
-"....Davao Occidental";"Total Population";317159
-"....Davao Occidental";"Household Population";316907
-"....Davao Occidental";"Number of Households";78185
-"....Davao Oriental";"Total Population";576343
-"....Davao Oriental";"Household Population";574984
-"....Davao Oriental";"Number of Households";140064
-"....City of Davao";"Total Population";1776949
-"....City of Davao";"Household Population";1770988
-"....City of Davao";"Number of Households";476278
-"..REGION XII (SOCCSKSARGEN)";"Total Population";4360974
-"..REGION XII (SOCCSKSARGEN)";"Household Population";4351773
-"..REGION XII (SOCCSKSARGEN)";"Number of Households";1065453
-"....Cotabato (North Cotabato)";"Total Population";1275185
-"....Cotabato (North Cotabato)";"Household Population";1273594
-"....Cotabato (North Cotabato)";"Number of Households";308443
-"....Sarangani";"Total Population";558946
-"....Sarangani";"Household Population";558069
-"....Sarangani";"Number of Households";133865
-"....South Cotabato *";"Total Population";975476
-"....South Cotabato *";"Household Population";973146
-"....South Cotabato *";"Number of Households";244987
-"....Sultan Kudarat";"Total Population";854052
-"....Sultan Kudarat";"Household Population";851554
-"....Sultan Kudarat";"Number of Households";202813
-"....City of General Santos (Dadiangas)";"Total Population";697315
-"....City of General Santos (Dadiangas)";"Household Population";695410
-"....City of General Santos (Dadiangas)";"Number of Households";175345
-"..REGION XIII (CARAGA)";"Total Population";2804788
-"..REGION XIII (CARAGA)";"Household Population";2795340
-"..REGION XIII (CARAGA)";"Number of Households";661773
-"....Agusan del Norte *";"Total Population";387503
-"....Agusan del Norte *";"Household Population";386211
-"....Agusan del Norte *";"Number of Households";91016
-"....Agusan del Sur";"Total Population";739367
-"....Agusan del Sur";"Household Population";737991
-"....Agusan del Sur";"Number of Households";173962
-"....Dinagat Islands";"Total Population";128117
-"....Dinagat Islands";"Household Population";127963
-"....Dinagat Islands";"Number of Households";29391
-"....Surigao del Norte";"Total Population";534636
-"....Surigao del Norte";"Household Population";531753
-"....Surigao del Norte";"Number of Households";127445
-"....Surigao del Sur";"Total Population";642255
-"....Surigao del Sur";"Household Population";640512
-"....Surigao del Sur";"Number of Households";150551
-"....City of Butuan";"Total Population";372910
-"....City of Butuan";"Household Population";370910
-"....City of Butuan";"Number of Households";89408
-"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM)";"Total Population";4944800
-"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM)";"Household Population";4938539
-"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM)";"Number of Households";832908
-"....Basilan";"Total Population";426207
-"....Basilan";"Household Population";425111
-"....Basilan";"Number of Households";73419
-"....Lanao del Sur";"Total Population";1195518
-"....Lanao del Sur";"Household Population";1194507
-"....Lanao del Sur";"Number of Households";183629
-"....Maguindanao";"Total Population";1667258
-"....Maguindanao";"Household Population";1666353
-"....Maguindanao";"Number of Households";287284
-"....Sulu";"Total Population";1000108
-"....Sulu";"Household Population";998675
-"....Sulu";"Number of Households";166140
-"....Tawi-Tawi";"Total Population";440276
-"....Tawi-Tawi";"Household Population";438545
-"....Tawi-Tawi";"Number of Households";74768
-"....Eight (8) Area Clusters ***";"Total Population";215433
-"....Eight (8) Area Clusters ***";"Household Population";215348
-"....Eight (8) Area Clusters ***";"Number of Households";47668
+"Total Population, Household Population, and Number of Households by Region and Province/Highly Urbanized City: Philippines, 2020",,,
+,,,
+"Geographic Location;""Parameter"";Total Population", Household Population, and Number of Households: Philippines,2020
+"PHILIPPINES /a;""Total Population"";109033245",,,
+"PHILIPPINES /a;""Household Population"";108667043",,,
+"PHILIPPINES /a;""Number of Households"";26393906",,,
+"..NATIONAL CAPITAL REGION (NCR);""Total Population"";13484462",,,
+"..NATIONAL CAPITAL REGION (NCR);""Household Population"";13403551",,,
+"..NATIONAL CAPITAL REGION (NCR);""Number of Households"";3499652",,,
+"....City of Manila;""Total Population"";1846513",,,
+"....City of Manila;""Household Population"";1837785",,,
+"....City of Manila;""Number of Households"";486293",,,
+"....City of Mandaluyong;""Total Population"";425758",,,
+"....City of Mandaluyong;""Household Population"";419333",,,
+"....City of Mandaluyong;""Number of Households"";116954",,,
+"....City of Marikina;""Total Population"";456059",,,
+"....City of Marikina;""Household Population"";452961",,,
+"....City of Marikina;""Number of Households"";104415",,,
+"....City of Pasig;""Total Population"";803159",,,
+"....City of Pasig;""Household Population"";801439",,,
+"....City of Pasig;""Number of Households"";212895",,,
+"....Quezon City;""Total Population"";2960048",,,
+"....Quezon City;""Household Population"";2950493",,,
+"....Quezon City;""Number of Households"";738724",,,
+"....City of San Juan;""Total Population"";126347",,,
+"....City of San Juan;""Household Population"";124699",,,
+"....City of San Juan;""Number of Households"";31519",,,
+"....City of Caloocan;""Total Population"";1661584",,,
+"....City of Caloocan;""Household Population"";1659025",,,
+"....City of Caloocan;""Number of Households"";404252",,,
+"....City of Malabon;""Total Population"";380522",,,
+"....City of Malabon;""Household Population"";379463",,,
+"....City of Malabon;""Number of Households"";94241",,,
+"....City of Navotas;""Total Population"";247543",,,
+"....City of Navotas;""Household Population"";246743",,,
+"....City of Navotas;""Number of Households"";63167",,,
+"....City of Valenzuela;""Total Population"";714978",,,
+"....City of Valenzuela;""Household Population"";713181",,,
+"....City of Valenzuela;""Number of Households"";193025",,,
+"....City of Las Piñas;""Total Population"";606293",,,
+"....City of Las Piñas;""Household Population"";604283",,,
+"....City of Las Piñas;""Number of Households"";156899",,,
+"....City of Makati;""Total Population"";629616",,,
+"....City of Makati;""Household Population"";624032",,,
+"....City of Makati;""Number of Households"";186381",,,
+"....City of Muntinlupa;""Total Population"";543445",,,
+"....City of Muntinlupa;""Household Population"";519112",,,
+"....City of Muntinlupa;""Number of Households"";138331",,,
+"....City of Parañaque;""Total Population"";689992",,,
+"....City of Parañaque;""Household Population"";686313",,,
+"....City of Parañaque;""Number of Households"";182216",,,
+"....Pasay City;""Total Population"";440656",,,
+"....Pasay City;""Household Population"";437003",,,
+"....Pasay City;""Number of Households"";127629",,,
+"....City of Taguig;""Total Population"";886722",,,
+"....City of Taguig;""Household Population"";882622",,,
+"....City of Taguig;""Number of Households"";246873",,,
+"....Pateros;""Total Population"";65227",,,
+"....Pateros;""Household Population"";65064",,,
+"....Pateros;""Number of Households"";15838",,,
+"..CORDILLERA ADMINISTRATIVE REGION (CAR);""Total Population"";1797660",,,
+"..CORDILLERA ADMINISTRATIVE REGION (CAR);""Household Population"";1791121",,,
+"..CORDILLERA ADMINISTRATIVE REGION (CAR);""Number of Households"";439166",,,
+"....Abra;""Total Population"";250985",,,
+"....Abra;""Household Population"";250309",,,
+"....Abra;""Number of Households"";58956",,,
+"....Apayao;""Total Population"";124366",,,
+"....Apayao;""Household Population"";123937",,,
+"....Apayao;""Number of Households"";28862",,,
+"....Benguet *;""Total Population"";460683",,,
+"....Benguet *;""Household Population"";459468",,,
+"....Benguet *;""Number of Households"";116692",,,
+"....Ifugao;""Total Population"";207498",,,
+"....Ifugao;""Household Population"";207130",,,
+"....Ifugao;""Number of Households"";48756",,,
+"....Kalinga;""Total Population"";229570",,,
+"....Kalinga;""Household Population"";229328",,,
+"....Kalinga;""Number of Households"";48079",,,
+"....Mountain Province;""Total Population"";158200",,,
+"....Mountain Province;""Household Population"";157798",,,
+"....Mountain Province;""Number of Households"";37601",,,
+"....City of Baguio;""Total Population"";366358",,,
+"....City of Baguio;""Household Population"";363151",,,
+"....City of Baguio;""Number of Households"";100220",,,
+"..REGION I (ILOCOS REGION);""Total Population"";5301139",,,
+"..REGION I (ILOCOS REGION);""Household Population"";5292297",,,
+"..REGION I (ILOCOS REGION);""Number of Households"";1306256",,,
+"....Ilocos Norte;""Total Population"";609588",,,
+"....Ilocos Norte;""Household Population"";608508",,,
+"....Ilocos Norte;""Number of Households"";152972",,,
+"....Ilocos Sur;""Total Population"";706009",,,
+"....Ilocos Sur;""Household Population"";704218",,,
+"....Ilocos Sur;""Number of Households"";172048",,,
+"....La Union;""Total Population"";822352",,,
+"....La Union;""Household Population"";820343",,,
+"....La Union;""Number of Households"";205034",,,
+"....Pangasinan;""Total Population"";3163190",,,
+"....Pangasinan;""Household Population"";3159228",,,
+"....Pangasinan;""Number of Households"";776202",,,
+"..REGION II (CAGAYAN VALLEY);""Total Population"";3685744",,,
+"..REGION II (CAGAYAN VALLEY);""Household Population"";3679748",,,
+"..REGION II (CAGAYAN VALLEY);""Number of Households"";907472",,,
+"....Batanes;""Total Population"";18831",,,
+"....Batanes;""Household Population"";18593",,,
+"....Batanes;""Number of Households"";5547",,,
+"....Cagayan;""Total Population"";1268603",,,
+"....Cagayan;""Household Population"";1265540",,,
+"....Cagayan;""Number of Households"";301528",,,
+"....Isabela;""Total Population"";1697050",,,
+"....Isabela;""Household Population"";1695539",,,
+"....Isabela;""Number of Households"";422670",,,
+"....Nueva Vizcaya;""Total Population"";497432",,,
+"....Nueva Vizcaya;""Household Population"";496546",,,
+"....Nueva Vizcaya;""Number of Households"";128181",,,
+"....Quirino;""Total Population"";203828",,,
+"....Quirino;""Household Population"";203530",,,
+"....Quirino;""Number of Households"";49546",,,
+"..REGION III (CENTRAL LUZON);""Total Population"";12422172",,,
+"..REGION III (CENTRAL LUZON);""Household Population"";12387811",,,
+"..REGION III (CENTRAL LUZON);""Number of Households"";3040488",,,
+"....Aurora;""Total Population"";235750",,,
+"....Aurora;""Household Population"";234991",,,
+"....Aurora;""Number of Households"";57037",,,
+"....Bataan;""Total Population"";853373",,,
+"....Bataan;""Household Population"";849575",,,
+"....Bataan;""Number of Households"";208941",,,
+"....Bulacan;""Total Population"";3708890",,,
+"....Bulacan;""Household Population"";3696937",,,
+"....Bulacan;""Number of Households"";920608",,,
+"....Nueva Ecija;""Total Population"";2310134",,,
+"....Nueva Ecija;""Household Population"";2306751",,,
+"....Nueva Ecija;""Number of Households"";572583",,,
+"....Pampanga *;""Total Population"";2437709",,,
+"....Pampanga *;""Household Population"";2433144",,,
+"....Pampanga *;""Number of Households"";573920",,,
+"....Tarlac;""Total Population"";1503456",,,
+"....Tarlac;""Household Population"";1499064",,,
+"....Tarlac;""Number of Households"";359561",,,
+"....Zambales *;""Total Population"";649615",,,
+"....Zambales *;""Household Population"";647545",,,
+"....Zambales *;""Number of Households"";165045",,,
+"....City of Angeles;""Total Population"";462928",,,
+"....City of Angeles;""Household Population"";461165",,,
+"....City of Angeles;""Number of Households"";116343",,,
+"....City of Olongapo;""Total Population"";260317",,,
+"....City of Olongapo;""Household Population"";258639",,,
+"....City of Olongapo;""Number of Households"";66450",,,
+"..REGION IV-A (CALABARZON);""Total Population"";16195042",,,
+"..REGION IV-A (CALABARZON);""Household Population"";16139770",,,
+"..REGION IV-A (CALABARZON);""Number of Households"";4062720",,,
+"....Batangas;""Total Population"";2908494",,,
+"....Batangas;""Household Population"";2902855",,,
+"....Batangas;""Number of Households"";716192",,,
+"....Cavite;""Total Population"";4344829",,,
+"....Cavite;""Household Population"";4318663",,,
+"....Cavite;""Number of Households"";1096120",,,
+"....Laguna;""Total Population"";3382193",,,
+"....Laguna;""Household Population"";3373136",,,
+"....Laguna;""Number of Households"";915398",,,
+"....Quezon *;""Total Population"";1950459",,,
+"....Quezon *;""Household Population"";1945444",,,
+"....Quezon *;""Number of Households"";483703",,,
+"....Rizal;""Total Population"";3330143",,,
+"....Rizal;""Household Population"";3321325",,,
+"....Rizal;""Number of Households"";784402",,,
+"....City of Lucena;""Total Population"";278924",,,
+"....City of Lucena;""Household Population"";278347",,,
+"....City of Lucena;""Number of Households"";66905",,,
+"..MIMAROPA REGION;""Total Population"";3228558",,,
+"..MIMAROPA REGION;""Household Population"";3212287",,,
+"..MIMAROPA REGION;""Number of Households"";792875",,,
+"....Marinduque;""Total Population"";239207",,,
+"....Marinduque;""Household Population"";238830",,,
+"....Marinduque;""Number of Households"";60557",,,
+"....Occidental Mindoro;""Total Population"";525354",,,
+"....Occidental Mindoro;""Household Population"";521444",,,
+"....Occidental Mindoro;""Number of Households"";126633",,,
+"....Oriental Mindoro;""Total Population"";908339",,,
+"....Oriental Mindoro;""Household Population"";906661",,,
+"....Oriental Mindoro;""Number of Households"";215076",,,
+"....Palawan *;""Total Population"";939594",,,
+"....Palawan *;""Household Population"";934669",,,
+"....Palawan *;""Number of Households"";230836",,,
+"....Romblon;""Total Population"";308985",,,
+"....Romblon;""Household Population"";308072",,,
+"....Romblon;""Number of Households"";77639",,,
+"....City of Puerto Princesa;""Total Population"";307079",,,
+"....City of Puerto Princesa;""Household Population"";302611",,,
+"....City of Puerto Princesa;""Number of Households"";82134",,,
+"..REGION V (BICOL REGION);""Total Population"";6082165",,,
+"..REGION V (BICOL REGION);""Household Population"";6067290",,,
+"..REGION V (BICOL REGION);""Number of Households"";1365044",,,
+"....Albay;""Total Population"";1374768",,,
+"....Albay;""Household Population"";1372550",,,
+"....Albay;""Number of Households"";311448",,,
+"....Camarines Norte;""Total Population"";629699",,,
+"....Camarines Norte;""Household Population"";628807",,,
+"....Camarines Norte;""Number of Households"";144155",,,
+"....Camarines Sur;""Total Population"";2068244",,,
+"....Camarines Sur;""Household Population"";2062277",,,
+"....Camarines Sur;""Number of Households"";455276",,,
+"....Catanduanes;""Total Population"";271879",,,
+"....Catanduanes;""Household Population"";270775",,,
+"....Catanduanes;""Number of Households"";60352",,,
+"....Masbate;""Total Population"";908920",,,
+"....Masbate;""Household Population"";906731",,,
+"....Masbate;""Number of Households"";206351",,,
+"....Sorsogon;""Total Population"";828655",,,
+"....Sorsogon;""Household Population"";826150",,,
+"....Sorsogon;""Number of Households"";187462",,,
+"..REGION VI (WESTERN VISAYAS);""Total Population"";7954723",,,
+"..REGION VI (WESTERN VISAYAS);""Household Population"";7935531",,,
+"..REGION VI (WESTERN VISAYAS);""Number of Households"";1939989",,,
+"....Aklan;""Total Population"";615475",,,
+"....Aklan;""Household Population"";612985",,,
+"....Aklan;""Number of Households"";151381",,,
+"....Antique;""Total Population"";612974",,,
+"....Antique;""Household Population"";611478",,,
+"....Antique;""Number of Households"";147696",,,
+"....Capiz;""Total Population"";804952",,,
+"....Capiz;""Household Population"";803879",,,
+"....Capiz;""Number of Households"";202033",,,
+"....Guimaras;""Total Population"";187842",,,
+"....Guimaras;""Household Population"";187576",,,
+"....Guimaras;""Number of Households"";47476",,,
+"....Iloilo *;""Total Population"";2051899",,,
+"....Iloilo *;""Household Population"";2048039",,,
+"....Iloilo *;""Number of Households"";506187",,,
+"....Negros Occidental *;""Total Population"";2623172",,,
+"....Negros Occidental *;""Household Population"";2618672",,,
+"....Negros Occidental *;""Number of Households"";637967",,,
+"....City of Bacolod;""Total Population"";600783",,,
+"....City of Bacolod;""Household Population"";597615",,,
+"....City of Bacolod;""Number of Households"";142936",,,
+"....City of Iloilo;""Total Population"";457626",,,
+"....City of Iloilo;""Household Population"";455287",,,
+"....City of Iloilo;""Number of Households"";104313",,,
+"..REGION VII (CENTRAL VISAYAS);""Total Population"";8081988",,,
+"..REGION VII (CENTRAL VISAYAS);""Household Population"";8046285",,,
+"..REGION VII (CENTRAL VISAYAS);""Number of Households"";1966588",,,
+"....Bohol;""Total Population"";1394329",,,
+"....Bohol;""Household Population"";1390524",,,
+"....Bohol;""Number of Households"";322022",,,
+"....Cebu *;""Total Population"";3325385",,,
+"....Cebu *;""Household Population"";3309850",,,
+"....Cebu *;""Number of Households"";799486",,,
+"....Negros Oriental;""Total Population"";1432990",,,
+"....Negros Oriental;""Household Population"";1428548",,,
+"....Negros Oriental;""Number of Households"";347961",,,
+"....Siquijor;""Total Population"";103395",,,
+"....Siquijor;""Household Population"";103014",,,
+"....Siquijor;""Number of Households"";25805",,,
+"....City of Cebu;""Total Population"";964169",,,
+"....City of Cebu;""Household Population"";958626",,,
+"....City of Cebu;""Number of Households"";238317",,,
+"....City of Lapu-Lapu (Opon);""Total Population"";497604",,,
+"....City of Lapu-Lapu (Opon);""Household Population"";494672",,,
+"....City of Lapu-Lapu (Opon);""Number of Households"";129652",,,
+"....City of Mandaue;""Total Population"";364116",,,
+"....City of Mandaue;""Household Population"";361051",,,
+"....City of Mandaue;""Number of Households"";103345",,,
+"..REGION VIII (EASTERN VISAYAS);""Total Population"";4547150",,,
+"..REGION VIII (EASTERN VISAYAS);""Household Population"";4531512",,,
+"..REGION VIII (EASTERN VISAYAS);""Number of Households"";1082106",,,
+"....Biliran;""Total Population"";179312",,,
+"....Biliran;""Household Population"";178715",,,
+"....Biliran;""Number of Households"";43053",,,
+"....Eastern Samar;""Total Population"";477168",,,
+"....Eastern Samar;""Household Population"";475847",,,
+"....Eastern Samar;""Number of Households"";115777",,,
+"....Leyte *;""Total Population"";1776847",,,
+"....Leyte *;""Household Population"";1771011",,,
+"....Leyte *;""Number of Households"";443470",,,
+"....Northern Samar;""Total Population"";639186",,,
+"....Northern Samar;""Household Population"";636995",,,
+"....Northern Samar;""Number of Households"";139885",,,
+"....Samar (Western Samar);""Total Population"";793183",,,
+"....Samar (Western Samar);""Household Population"";791045",,,
+"....Samar (Western Samar);""Number of Households"";181794",,,
+"....Southern Leyte;""Total Population"";429573",,,
+"....Southern Leyte;""Household Population"";428484",,,
+"....Southern Leyte;""Number of Households"";100876",,,
+"....City of Tacloban;""Total Population"";251881",,,
+"....City of Tacloban;""Household Population"";249415",,,
+"....City of Tacloban;""Number of Households"";57251",,,
+"..REGION IX (ZAMBOANGA PENINSULA);""Total Population"";3875576",,,
+"..REGION IX (ZAMBOANGA PENINSULA);""Household Population"";3862588",,,
+"..REGION IX (ZAMBOANGA PENINSULA);""Number of Households"";895899",,,
+"....Zamboanga del Norte;""Total Population"";1047455",,,
+"....Zamboanga del Norte;""Household Population"";1046017",,,
+"....Zamboanga del Norte;""Number of Households"";247971",,,
+"....Zamboanga del Sur *;""Total Population"";1050668",,,
+"....Zamboanga del Sur *;""Household Population"";1048402",,,
+"....Zamboanga del Sur *;""Number of Households"";239258",,,
+"....Zamboanga Sibugay;""Total Population"";669840",,,
+"....Zamboanga Sibugay;""Household Population"";668648",,,
+"....Zamboanga Sibugay;""Number of Households"";154669",,,
+"....City of Isabela **;""Total Population"";130379",,,
+"....City of Isabela **;""Household Population"";130130",,,
+"....City of Isabela **;""Number of Households"";26649",,,
+"....City of Zamboanga;""Total Population"";977234",,,
+"....City of Zamboanga;""Household Population"";969391",,,
+"....City of Zamboanga;""Number of Households"";227352",,,
+"..REGION X (NORTHERN MINDANAO);""Total Population"";5022768",,,
+"..REGION X (NORTHERN MINDANAO);""Household Population"";5007798",,,
+"..REGION X (NORTHERN MINDANAO);""Number of Households"";1197736",,,
+"....Bukidnon;""Total Population"";1541308",,,
+"....Bukidnon;""Household Population"";1537629",,,
+"....Bukidnon;""Number of Households"";357112",,,
+"....Camiguin;""Total Population"";92808",,,
+"....Camiguin;""Household Population"";92696",,,
+"....Camiguin;""Number of Households"";22281",,,
+"....Lanao del Norte *;""Total Population"";722902",,,
+"....Lanao del Norte *;""Household Population"";721716",,,
+"....Lanao del Norte *;""Number of Households"";161458",,,
+"....Misamis Occidental;""Total Population"";617333",,,
+"....Misamis Occidental;""Household Population"";614951",,,
+"....Misamis Occidental;""Number of Households"";149188",,,
+"....Misamis Oriental *;""Total Population"";956900",,,
+"....Misamis Oriental *;""Household Population"";954953",,,
+"....Misamis Oriental *;""Number of Households"";230233",,,
+"....City of Cagayan de Oro;""Total Population"";728402",,,
+"....City of Cagayan de Oro;""Household Population"";723671",,,
+"....City of Cagayan de Oro;""Number of Households"";190225",,,
+"....City of Iligan;""Total Population"";363115",,,
+"....City of Iligan;""Household Population"";362182",,,
+"....City of Iligan;""Number of Households"";87239",,,
+"..REGION XI (DAVAO REGION);""Total Population"";5243536",,,
+"..REGION XI (DAVAO REGION);""Household Population"";5223802",,,
+"..REGION XI (DAVAO REGION);""Number of Households"";1337781",,,
+"....Davao de Oro (Compostela Valley);""Total Population"";767547",,,
+"....Davao de Oro (Compostela Valley);""Household Population"";766299",,,
+"....Davao de Oro (Compostela Valley);""Number of Households"";188918",,,
+"....Davao del Norte;""Total Population"";1125057",,,
+"....Davao del Norte;""Household Population"";1115167",,,
+"....Davao del Norte;""Number of Households"";271655",,,
+"....Davao del Sur *;""Total Population"";680481",,,
+"....Davao del Sur *;""Household Population"";679457",,,
+"....Davao del Sur *;""Number of Households"";182681",,,
+"....Davao Occidental;""Total Population"";317159",,,
+"....Davao Occidental;""Household Population"";316907",,,
+"....Davao Occidental;""Number of Households"";78185",,,
+"....Davao Oriental;""Total Population"";576343",,,
+"....Davao Oriental;""Household Population"";574984",,,
+"....Davao Oriental;""Number of Households"";140064",,,
+"....City of Davao;""Total Population"";1776949",,,
+"....City of Davao;""Household Population"";1770988",,,
+"....City of Davao;""Number of Households"";476278",,,
+"..REGION XII (SOCCSKSARGEN);""Total Population"";4360974",,,
+"..REGION XII (SOCCSKSARGEN);""Household Population"";4351773",,,
+"..REGION XII (SOCCSKSARGEN);""Number of Households"";1065453",,,
+"....Cotabato (North Cotabato);""Total Population"";1275185",,,
+"....Cotabato (North Cotabato);""Household Population"";1273594",,,
+"....Cotabato (North Cotabato);""Number of Households"";308443",,,
+"....Sarangani;""Total Population"";558946",,,
+"....Sarangani;""Household Population"";558069",,,
+"....Sarangani;""Number of Households"";133865",,,
+"....South Cotabato *;""Total Population"";975476",,,
+"....South Cotabato *;""Household Population"";973146",,,
+"....South Cotabato *;""Number of Households"";244987",,,
+"....Sultan Kudarat;""Total Population"";854052",,,
+"....Sultan Kudarat;""Household Population"";851554",,,
+"....Sultan Kudarat;""Number of Households"";202813",,,
+"....City of General Santos (Dadiangas);""Total Population"";697315",,,
+"....City of General Santos (Dadiangas);""Household Population"";695410",,,
+"....City of General Santos (Dadiangas);""Number of Households"";175345",,,
+"..REGION XIII (CARAGA);""Total Population"";2804788",,,
+"..REGION XIII (CARAGA);""Household Population"";2795340",,,
+"..REGION XIII (CARAGA);""Number of Households"";661773",,,
+"....Agusan del Norte *;""Total Population"";387503",,,
+"....Agusan del Norte *;""Household Population"";386211",,,
+"....Agusan del Norte *;""Number of Households"";91016",,,
+"....Agusan del Sur;""Total Population"";739367",,,
+"....Agusan del Sur;""Household Population"";737991",,,
+"....Agusan del Sur;""Number of Households"";173962",,,
+"....Dinagat Islands;""Total Population"";128117",,,
+"....Dinagat Islands;""Household Population"";127963",,,
+"....Dinagat Islands;""Number of Households"";29391",,,
+"....Surigao del Norte;""Total Population"";534636",,,
+"....Surigao del Norte;""Household Population"";531753",,,
+"....Surigao del Norte;""Number of Households"";127445",,,
+"....Surigao del Sur;""Total Population"";642255",,,
+"....Surigao del Sur;""Household Population"";640512",,,
+"....Surigao del Sur;""Number of Households"";150551",,,
+"....City of Butuan;""Total Population"";372910",,,
+"....City of Butuan;""Household Population"";370910",,,
+"....City of Butuan;""Number of Households"";89408",,,
+"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM);""Total Population"";4944800",,,
+"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM);""Household Population"";4938539",,,
+"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (BARMM);""Number of Households"";832908",,,
+"....Basilan;""Total Population"";426207",,,
+"....Basilan;""Household Population"";425111",,,
+"....Basilan;""Number of Households"";73419",,,
+"....Lanao del Sur;""Total Population"";1195518",,,
+"....Lanao del Sur;""Household Population"";1194507",,,
+"....Lanao del Sur;""Number of Households"";183629",,,
+"....Maguindanao;""Total Population"";1667258",,,
+"....Maguindanao;""Household Population"";1666353",,,
+"....Maguindanao;""Number of Households"";287284",,,
+"....Sulu;""Total Population"";1000108",,,
+"....Sulu;""Household Population"";998675",,,
+"....Sulu;""Number of Households"";166140",,,
+"....Tawi-Tawi;""Total Population"";440276",,,
+"....Tawi-Tawi;""Household Population"";438545",,,
+"....Tawi-Tawi;""Number of Households"";74768",,,
+"....Eight (8) Area Clusters ***;""Total Population"";215433",,,
+"....Eight (8) Area Clusters ***;""Household Population"";215348",,,
+"....Eight (8) Area Clusters ***;""Number of Households"";47668",,,
