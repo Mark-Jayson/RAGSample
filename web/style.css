@@ -1,0 +1,145 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar {
+    background-color: #0066d3;
+    color: #fff;
+    height: 60px;
+    padding: 0 20px;
+    font-family: "K2D", serif;
+    font-weight: 700;
+    /* position: sticky; /* Uncomment if needed */
+    top: 0; /* Uncomment if using position: sticky */
+  }
+  
+  .logo {
+    width: auto;
+    height: 55px;
+  }
+  
+  .banner-text {
+    font-family: "K2D", serif;
+    font-weight: 600;
+    margin: 50px;
+    font-size: 60px;
+    line-height: 1;
+  }
+  
+  .image-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    height: 360px; /* Adjust height as needed */
+    width: 100%;
+  }
+  
+  .image-section {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .user-input {
+    /* Adjust position and size as needed */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .input-group {
+    width: 50vw;
+    border-radius: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: -5px;
+    margin: auto;
+  }
+  
+  .form-control {
+    height: 60px;
+    border-radius: 20px 0 0 20px;
+    padding: 20px;
+  }
+  
+  .btn {
+    border-radius: 0 20px 20px 0;
+  }
+  
+  .main-content {
+    margin-left: 4rem;
+    transition: margin-left 0.3s ease;
+    max-width: 99vw;
+  }
+  
+  .main-content.expanded {
+    margin-left: 16rem;
+  }
+
+  #side-panel{
+    background-color: #ff0000;
+    color: #ff0000;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: -16rem;
+    min-width: 1vw;
+    transition: left 0.3s ease;
+  }
+.loginbg{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    font-family: 'K2D', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+    text-align: center;
+    position: absolute;
+    z-index: 1;
+  }
+  
+.landing{
+    
+}
+.overlay{
+    background-color: rgba(0,0,0,0.3);
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    z-index: 10;
+}
+
+.container{
+    display: flex;
+    background-color: seashell;
+    top: 20%;
+    left: 20%;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    z-index: 100;
+    height: auto;
+    width: 60vw;
+    border-radius: 20px;
+    
+}
+.content{
+    background-color: #0066CC;
+    font-size: 15px;
+    border-radius: 20px 0 0 20px;
+    padding: 20px;
+}
+.content img{
+    width: 80%;
+    height: auto;
+}
+
