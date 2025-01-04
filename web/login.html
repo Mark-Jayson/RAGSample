@@ -28,7 +28,7 @@
         
         <div class="container">
             <div class="row">
-                <div class="content col-md-6 ">  
+                <div class="content col-5 ">  
                         <img src="assets/Logo White.png" alt="LOGO" class="title-logo">
                         <div class="text">
                             JuanGPT is a conversational AI assistant that allows you to get information and insights about the Demographics and Social Statistics data of the Philippine Statistics Authority. 
@@ -36,20 +36,24 @@
                     
                 </div>
                 
-                    <div class="login-form col-md-6 p-5 bg-white rounded">
+                    <div class="login-form col-7 p-5 bg-white rounded">
                         <h1 class="text-center" style="font-family: K2D;  font-weight: 600; color: #FBB31C; font-size: 30px;">Log In</h1>
                         <hr>
-                        <form action="login.php" method="POST">
-                            <div class="mb-3">
-                                <label for="username" class="form-label">Email</label>
-                                <input type="text" class="form-control" id="username" name="username" required>
+                        
+                        <form>
+                            <div class="form-floating mb-2">
+                                <input type="email" class="form-control form-control-sm" id="email" placeholder="name@example.com">
+                                <label for="email">Email address</label>
                             </div>
-                            <div class="mb-3">
-                                <label for="password" class="form-label">Password</label>
-                                <input type="password" class="form-control" id="password" name="password" required>
+                    
+                            <div class="form-floating mb-2">
+                                <input type="password" class="form-control form-control-sm" id="password" placeholder="Password">
+                                <label for="password">Password</label>
                             </div>
-                            <button type="submit" class="btn btn-primary rounded mx-auto">Log In</button>
+                    
+                            <button type="submit" class=" submit px-9 btn btn-primary m-auto rounded-pill">Sign in</button>
                         </form>
+                          
                     </div>
                 
             </div>
