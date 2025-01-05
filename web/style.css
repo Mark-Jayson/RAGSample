@@ -110,7 +110,6 @@ body {
     z-index: 1;
   }
   
-
 .overlay{
     background-color: rgba(0,0,0,0.3);
     height: 100vh;
@@ -133,6 +132,7 @@ body {
     border-radius: 20px;
     
 }
+
 .content{
     background-color: #0066CC;
     font-size: 15px;
@@ -141,10 +141,12 @@ body {
     text-align: center ;
     color: white;
 }
+
 .content img{
     width: 80%;
     height: auto;
 }
+
 .toggle-button {
     position: fixed;
     top: 0%;
@@ -152,6 +154,7 @@ body {
     z-index: 500;
     padding: 1rem;
 }
+
 hr{
     width: 100%;
     margin-top: 15px;
@@ -164,11 +167,13 @@ hr{
 }
 
 .form-floating > .form-control:focus ~ label,
-.form-floating > .form-control:not(:placeholder-shown) ~ label {
-    transform: translateY(-2.4rem) translateX(-0.5rem) scale(0.80);
-    background: rgba(253, 0, 0, 0); 
-    color: #000000;
-}
+    .form-floating > .form-control:not(:placeholder-shown) ~ label {
+        opacity: 1;
+        transform: scale(0.85) translateY(-0.5rem) translateX(0.15rem);
+        background-color: rgba(255, 255, 255, 0);
+        padding: 0 0.25rem;
+        color: #000000;
+    }
 .form-control{
         
         height: 30px;
@@ -187,6 +192,63 @@ hr{
 #smallbutton{
     display: none;
 }
+#bluelogo{
+    display: none;
+}
+
+.chat-container {
+    background-color: #f8f9fa00;
+    margin-top: 60px;
+    padding-bottom: 10px;
+}
+
+.message {
+    opacity: 0;
+    animation: fadeIn 0.3s ease-in forwards;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+
+
+.user-input {
+    border-radius: 25px;
+    
+    height: 65px;
+    width: 50vw; 
+    display: flex;
+    
+    top: 90%;
+    left: 50%;
+    z-index: 999;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+}
+#chat{
+    height: 60px;
+    margin-top: -2px;
+    width: 70vw;
+    padding: 20px;
+    border-radius: 25px;
+    border:rgba(0, 0, 0, 0.8)
+}
+
+
+
+/* Responsive adjustments */
+
 
 /* MEDIUM */
 
@@ -205,7 +267,7 @@ hr{
       font-size: 30px;
     }
   
-    .input-group {
+    .user-input {
       width: 80vw;
       top: 50%;
     left: 20%;
@@ -214,7 +276,15 @@ hr{
     .control {
       width: 50vw;
     }
-  }
+    .chat-container {
+        margin-top: 50px;
+    }
+
+    .message-content {
+        font-size: 0.9rem;
+    }
+}
+  
   
   /* SMALL */
   
@@ -253,5 +323,89 @@ hr{
       .control {
         width: 50vw;
       }
+      .content{
+        display: none;
+    }
+    .login-form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: auto;  /* Changed from 70vh to auto for better form display */
+        width: 80vw;   /* Increased from 70vw for better mobile view */
+        padding: 10px;
+        background-color: #0066CC;
+        color: white;
+    }
+
+    .form-floating {
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+
+    .form-floating > .form-control {
+        height: calc(3.5rem + 2px); /* Ensure consistent height for inputs */
+        padding: 1rem 0.75rem;
+        font-size: 1rem;
+    }
+
+    .form-floating > label {
+        padding: 1rem 0.75rem;
+        color: #495057;
+        background-color: transparent;
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        pointer-events: none;
+        border: 1px solid transparent;
+        transform-origin: 0 0;
+        transition: opacity .1s ease-in-out,transform .1s ease-in-out;
+    }
+
+    /* Fix label positioning on focus/filled state for mobile */
+    .form-floating > .form-control:focus ~ label,
+    .form-floating > .form-control:not(:placeholder-shown) ~ label {
+        opacity: 1;
+        transform: scale(0.85) translateY(-0.5rem) translateX(0.15rem);
+        background-color: rgba(255, 255, 255, 0);
+        padding: 0 0.25rem;
+        color: #000000;
+    }
+
+    /* Ensure form controls have proper background */
+    .form-control {
+        background-color: white !important;
+        margin-top: 0;  /* Remove extra margin that might cause spacing issues */
+        height: auto;   /* Let the content determine the height */
+    }
+
+    /* Ensure submit button is properly visible */
+    .submit {
+        margin-top: 1rem;
+        padding: 0.5rem 2rem;
+        width: auto;
+    }
+    #bluelogo{
+        display: block;
+        width: 120px;
+        height: auto;
+        margin: 10px;
+    }
+    .chat-container {
+        padding: 10px;
+    }
+
+    .user-input {
+        margin: 0 10px;
+    }
+
+    .avatar {
+        width: 32px;
+        height: 32px;
+        font-size: 0.9rem;
+    }
+    
+    
     
 }
