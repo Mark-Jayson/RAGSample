@@ -104,7 +104,6 @@ body {
   z-index: 10;
 }
 
-.container,
 .container {
   top: 13%;
   left: 15%;
@@ -147,7 +146,7 @@ body {
 
 .form>label {
   position: absolute;
-  top: -10px;
+  top: -20px;
   left: 10px;
   font-size: 0.9rem;
   padding: 0 0.25rem;
@@ -155,7 +154,7 @@ body {
 
 .form-control {
   height: 60px;
-  margin-top: 30px;
+  margin-top: 40px;
   border-radius: 15px;
   padding: 0 0.75rem;
   background-color: rgba(207, 204, 204, 0.3);
@@ -165,6 +164,7 @@ body {
   border: none;
   width: 200px;
 }
+
 /* ACCOUNT REGISRATION PAGE---END */
 
 #smallbutton {
@@ -221,23 +221,26 @@ body {
   border: rgba(0, 0, 0, 0.8)
 }
 
-
-
 /* RESPONSIVE ADJUSTMENTS */
 
 /* MEDIUM */
 @media (max-width: 767px) {
 
   /* ACCOUNT REGISRATION PAGE---START */
+  .account-form {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+  }
+
   #bluelogo {
     display: block;
-    width: 120px;
+    width: 200px;
     height: auto;
     margin: 10px;
   }
 
   .container {
-    top: 10%;
+    top: 8%;
   }
 
   .content {
@@ -252,10 +255,11 @@ body {
   }
 
   .form-control {
-    margin-top: 20px;
+    margin-top: 40px;
     border-radius: 15px;
     height: 50px;
   }
+
   /* ACCOUNT REGISRATION PAGE---END */
 
   .image-container {
@@ -291,7 +295,6 @@ body {
   }
 }
 
-
 /* SMALL */
 @media (max-width: 576px) {
   .image-container {
@@ -299,9 +302,28 @@ body {
     height: 240px;
   }
 
+  /* ACCOUNT REGISRATION PAGE---START */
+  .container {
+    top: 9%;
+  }
+
+  .account-form {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+  }
+
+  #bluelogo {
+    display: block;
+    width: 180px;
+    height: auto;
+    margin: 10px;
+  }
+
   .account-page {
     font-size: 12px;
   }
+
+  /* ACCOUNT REGISRATION PAGE---END */
 
   .banner-text {
     font-size: 30px;
@@ -334,13 +356,6 @@ body {
 
   .control {
     width: 50vw;
-  }
-
-  #bluelogo {
-    display: block;
-    width: 120px;
-    height: auto;
-    margin: 10px;
   }
 
   .chat-container {
