@@ -1,0 +1,121 @@
+"Number of Live Births by Place of Occurrence and Attendant at Birth: 2016"
+
+"Place of Occurrence";"Total";"Health Professional";"Traditional Birth Attendants";"Others";"Not Stated"
+"PHILIPPINES";1731289;1586763;132471;7700;4355
+"National Capital Region (NCR)";241061;233731;6950;278;102
+"..City of Manila";59060;58516;397;97;50
+"..City of Mandaluyong";5609;5566;43;0;0
+"..City of Marikina";9883;9750;117;12;4
+"..City of Pasig";17145;16224;915;6;0
+"..Quezon City";58723;57387;1242;82;12
+"..City of San Juan";2356;2346;2;0;8
+"..Caloocan City";21198;19972;1219;6;1
+"..City of Malabon";3621;3436;184;1;0
+"..City of Navotas";2999;2951;48;0;0
+"..City of Valenzuela";8738;8489;244;3;2
+"..City of Las Piñas";9734;8933;784;16;1
+"..City of Makati";6946;6925;13;8;0
+"..City of Muntinlupa";7702;7227;469;3;3
+"..City of Parañaque";7819;7420;385;13;1
+"..Pasay City";6236;6136;82;6;12
+"..Pateros";898;897;1;0;0
+"..Taguig City";12394;11556;805;25;8
+"Cordillera Administrative Region (Car)";31779;29908;860;963;48
+"..Abra";4814;4191;592;12;19
+"..Benguet";14672;14317;18;327;10
+"..Ifugao";3046;2719;55;270;2
+"..Kalinga";3623;3392;66;165;0
+"..Mountain Province";3217;3034;60;116;7
+"..Apayao";2407;2255;69;73;10
+"Region I (Ilocos Region)";81162;79682;1114;152;214
+"..Ilocos Norte";7977;7918;28;15;16
+"..Ilocos Sur";9561;9440;91;29;1
+"..La Union";12632;12527;86;11;8
+"..Pangasinan";50992;49797;909;97;189
+"Region II (Cagayan Valley)";56630;53254;2740;531;105
+"..Batanes";237;235;0;1;1
+"..Cagayan";18728;17581;1134;13;0
+"..Isabela";25860;24676;1101;16;67
+"..Nueva Vizcaya";8819;8012;364;430;13
+"..Quirino";2986;2750;141;71;24
+"Region III (Central Luzon)";189153;181831;6761;154;407
+"..Bataan";14367;14182;141;32;12
+"..Bulacan";52576;50554;1969;21;32
+"..Nueva Ecija";31790;29645;2060;26;59
+"..Pampanga";47320;46646;502;40;132
+"..Tarlac";23222;23001;206;4;11
+"..Zambales";16296;14834;1283;22;157
+"..Aurora";3582;2969;600;9;4
+"Region IV-A (CALABARZON)";234741;213464;20561;549;167
+"..Batangas";46526;41516;4790;207;13
+"..Cavite";53056;50633;2393;30;0
+"..Laguna";52189;47593;4419;48;129
+"..Quezon";36301;32321;3811;144;25
+"..Rizal";46669;41401;5148;120;0
+"MIMAROPA Region";48714;41031;6910;577;196
+"..Marinduque";3823;3612;193;15;3
+"..Occidental Mindoro";8477;6376;1754;324;23
+"..Oriental Mindoro";13748;11643;1773;189;143
+"..Palawan";17944;14859;3020;48;17
+"..Romblon";4722;4541;170;1;10
+"Region V (Bicol Region)";115623;102146;12982;268;227
+"..Albay";26040;24087;1768;69;116
+"..Camarines Norte";12881;11966;872;37;6
+"..Camarines Sur";40317;32690;7498;74;55
+"..Catanduanes";5795;5449;340;6;0
+"..Masbate";15569;13530;1990;9;40
+"..Sorsogon";15021;14424;514;73;10
+"Region VI (Western Visayas)";115885;104707;9757;1025;396
+"..Aklan";11285;9609;1592;64;20
+"..Antique";7799;6701;1001;69;28
+"..Capiz";11456;10166;1275;9;6
+"..Iloilo";36830;34569;2104;35;122
+"..Negros Occidental";46518;41841;3632;826;219
+"..Guimaras";1997;1821;153;22;1
+"Region VII (Central Visayas)";145671;135965;7710;953;1043
+"..Bohol";22216;21716;259;36;205
+"..Cebu";98274;93993;2928;663;690
+"..Negros Oriental";23906;18983;4521;254;148
+"..Siquijor";1275;1273;2;0;0
+"Region VIII (Eastern Visayas)";74308;68859;5103;174;172
+"..Eastern Samar";7171;6677;457;12;25
+"..Leyte";36871;34729;1988;106;48
+"..Northern Samar";9621;8718;840;7;56
+"..Samar (Western Samar)";10999;9228;1749;9;13
+"..Southern Leyte";6124;6053;45;7;19
+"..Biliran";3522;3454;24;33;11
+"Region IX (Zamboanga Peninsula)";62488;54210;7645;478;155
+"..Zamboanga Del Norte";15878;13941;1839;80;18
+"..Zamboanga Del Sur";34035;30258;3530;159;88
+"..Zamboanga Sibugay";10935;9212;1447;236;40
+"..City Of Isabela";1640;799;829;3;9
+"Region X (Northern Mindanao)";91315;80858;9897;240;320
+"..Bukidnon";29527;25480;3874;111;62
+"..Camiguin";1617;1613;2;2;0
+"..Lanao Del Norte";15993;13018;2879;23;73
+"..Misamis Occidental";12012;11099;806;23;84
+"..Misamis Oriental";32166;29648;2336;81;101
+"Region XI (Davao Region)";92463;85999;5599;662;203
+"..Davao Del Norte";22800;21507;1240;38;15
+"..Davao Del Sur";47858;44992;2108;591;167
+"..Davao Oriental";8199;7395;785;5;14
+"..Compostela Valley";11886;10944;917;22;3
+"..Davao Occidental";1720;1161;549;6;4
+"Region XII (SOCCSKSARGEN)";80675;69823;10316;510;26
+"..Cotabato (North Cotabato)";24481;18752;5621;101;7
+"..South Cotabato";30812;28599;1869;343;1
+"..Sultan Kudarat";11456;10176;1228;39;13
+"..Sarangani";7970;6981;962;25;2
+"..Cotabato City";5956;5315;636;2;3
+"Region XIII (Caraga)";42946;38451;3911;59;525
+"..Agusan Del Norte";11940;11216;703;10;11
+"..Agusan Del Sur";11023;8899;2104;11;9
+"..Surigao Del Norte";8428;7706;578;35;109
+"..Surigao Del Sur";10793;9965;433;1;394
+"..Dinagat Islands";762;665;93;2;2
+"Autonomous Region In Muslim Mindanao (ARMM)";26675;12844;13655;127;49
+"..Basilan";1600;399;1197;0;4
+"..Lanao Del Sur";7531;5537;1951;26;17
+"..Maguindanao";12716;5086;7505;98;27
+"..Sulu";3157;1210;1945;1;1
+"..Tawi-Tawi";1671;612;1057;2;0
