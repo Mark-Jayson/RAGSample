@@ -1,0 +1,122 @@
+"Deaths : Number of Registered Infant Deaths by Usual Residence and Attendance at Death, (Region,Province and City/Municipality) Philippines: 2016"
+
+"Geolocation";"Total";"Private Physician";"Public Health Officer";"Hospital Authority";"None";"Others";"Not Stated"
+"PHILIPPINES";21874;1409;280;13823;6260;22;80
+"..NATIONAL CAPITAL REGION";3687;180;49;2688;761;6;3
+"....City of Manila";580;18;8;430;124;..;..
+"....City of Mandaluyong";90;7;..;70;13;..;..
+"....City of San Juan";22;2;1;19;0;..;..
+"....Quezon City";871;36;4;648;181;1;1
+"....City of Marikina";154;18;..;112;24;..;..
+"....City of Pasig";195;13;1;157;24;..;..
+"....Pateros";18;3;1;11;3;..;..
+"....Taguig City";218;9;6;160;43;..;..
+"....Caloocan City";361;10;7;255;88;..;1
+"....City of Malabon";105;3;1;67;34;..;..
+"....City of Navotas";85;1;..;62;22;..;..
+"....City of Valenzuela";224;10;14;145;54;..;1
+"....City of Las Piñas";180;26;1;114;39;..;..
+"....City of Makati";140;3;2;124;11;..;..
+"....City of Muntinlupa";135;4;2;104;25;..;..
+"....City of Parañaque";210;14;1;142;48;5;..
+"....Pasay City";99;3;..;68;28;..;..
+"..CORDILLERA ADMINISTRATIVE REGION";250;10;1;190;49;..;..
+"....Abra";43;2;..;33;8;..;..
+"....Benguet";116;5;..;92;19;..;..
+"....Ifugao";26;..;..;20;6;..;..
+"....Kalinga";19;2;1;11;5;..;..
+"....Mountain Province";37;1;..;28;8;..;..
+"....Apayao";9;..;..;6;3;..;..
+"..REGION I- ILOCOS";1205;31;9;824;338;1;2
+"....Ilocos Norte";133;7;2;110;13;1;..
+"....Ilocos Sur";115;1;4;81;29;..;..
+"....La Union";204;4;2;158;40;..;..
+"....Pangasinan";753;19;1;475;256;..;2
+"..REGION II- CAGAYAN VALLEY";604;35;6;378;185;..;..
+"....Batanes";4;..;1;3;..;..;..
+"....Cagayan";216;11;..;148;57;..;..
+"....Isabela";246;20;3;130;93;..;..
+"....Nueva Vizcaya";93;4;2;67;20;..;..
+"....Quirino";45;..;..;30;15;..;..
+"..REGION III- CENTRAL LUZON";2480;186;23;1476;783;3;9
+"....Bataan";212;1;1;155;55;..;..
+"....Bulacan";900;74;8;537;281;..;..
+"....Nueva Ecija";390;31;7;194;155;3;..
+"....Pampanga";394;33;2;257;93;..;9
+"....Tarlac";311;38;4;153;116;..;..
+"....Zambales";238;6;1;164;67;..;..
+"....Aurora";35;3;..;16;16;..;..
+"..REGION IV-A- CALABARZON";3727;216;62;2318;1131;..;..
+"....Batangas";657;50;7;434;166;..;..
+"....Cavite";974;58;8;650;258;..;..
+"....Laguna";776;66;37;405;268;..;..
+"....Quezon";517;12;5;331;169;..;..
+"....Rizal";803;30;5;498;270;..;..
+"..MIMAROPA REGION";693;33;7;411;238;..;4
+"....Marinduque";64;1;..;41;22;..;..
+"....Occidental Mindoro";137;5;2;80;50;..;..
+"....Oriental Mindoro";211;12;1;82;113;..;3
+"....Palawan";221;15;4;166;35;..;1
+"....Romblon";60;..;..;42;18;..;..
+"..REGION V- BICOL";1517;122;12;819;555;..;9
+"....Albay";374;51;7;200;108;..;8
+"....Camarines Norte";192;25;1;113;53;..;..
+"....Camarines Sur";516;31;2;267;216;..;..
+"....Catanduanes";84;1;..;51;32;..;..
+"....Masbate";180;8;1;96;74;..;1
+"....Sorsogon";171;6;1;92;72;..;..
+"..REGION VI- WESTERN VISAYAS";1383;70;17;865;425;..;6
+"....Aklan";146;21;2;82;41;..;..
+"....Antique";121;1;..;81;39;..;..
+"....Capiz";133;5;..;89;39;..;..
+"....Iloilo";476;24;6;298;144;..;4
+"....Guimaras";36;3;..;29;4;..;..
+"....Negros Occidental";471;16;9;286;158;..;2
+"..REGION VII- CENTRAL VISAYAS";1828;106;26;1154;527;5;10
+"....Bohol";277;8;3;191;75;..;..
+"....Cebu";1213;80;12;765;347;3;6
+"....Siquijor";27;2;1;18;6;..;..
+"....Negros Oriental";311;16;10;180;99;2;4
+"..REGION VIII- EASTERN VISAYAS";682;57;13;364;248;..;..
+"....Eastern Samar";45;5;2;27;11;..;..
+"....Leyte";269;10;2;151;106;..;..
+"....Northern Samar";177;20;6;93;58;..;..
+"....Samar";72;6;1;27;38;..;..
+"....Southern Leyte";82;14;1;43;24;..;..
+"....Biliran";37;2;1;23;11;..;..
+"..REGION IX- ZAMBOANGA PENINSULA";594;38;7;373;173;..;3
+"....Zamboanga Del Norte";129;4;6;70;49;..;..
+"....Zamboanga Del Sur";375;27;..;252;94;..;2
+"....Zamboanga Sibugay";76;6;1;39;30;..;..
+"....Isabela City";14;1;..;12;..;..;1
+"..REGION X- NORTHERN MINDANAO";1000;111;10;625;251;3;..
+"....Bukidnon";296;19;4;207;66;..;..
+"....Camiguin";11;1;1;9;..;..;..
+"....Lanao Del Norte";176;19;1;110;46;..;..
+"....Misamis Occidental";140;17;1;95;27;..;..
+"....Misamis Oriental";377;55;3;204;112;3;..
+"..REGION XI - DAVAO";1000;43;5;642;277;3;30
+"....Davao Del Norte";271;9;1;185;75;..;1
+"....Davao Del Sur";482;21;4;319;107;3;28
+"....Davao Oriental";85;9;..;32;43;..;1
+"....Compostela Valley";138;2;..;93;43;..;..
+"....Davao Occidental";24;2;..;13;9;..;..
+"..REGION XII- SOCCSKSARGEN";666;146;17;309;191;1;2
+"....Cotabato";167;13;7;78;69;..;..
+"....South Cotabato";370;108;6;172;81;1;2
+"....Sultan Kudarat";76;15;2;33;26;..;..
+"....Sarangani";43;10;2;17;14;..;..
+"....Cotabato City";10;..;..;9;1;..;..
+"..REGION XIII - CARAGA";345;18;1;225;101;..;..
+"....Agusan Del Norte";106;2;1;77;26;..;..
+"....Agusan Del Sur";84;4;..;51;29;..;..
+"....Surigao Del Norte";90;4;..;65;21;..;..
+"....Surigao Del Sur";61;8;..;31;22;..;..
+"....Dinagat Islands";4;..;..;1;3;..;..
+"..AUTONOMOUS REGION IN MUSLIM MINDANAO";209;6;15;159;27;..;2
+"....Basilan";7;1;0;5;0;..;1
+"....Lanao Del Sur";86;5;13;56;12;..;..
+"....Maguindanao";58;..;2;44;11;..;1
+"....Sulu";51;..;..;50;1;..;..
+"....Tawi-Tawi";7;..;..;4;3;..;..
+"FOREIGN COUNTRIES";4;1;..;3;..;..;..
