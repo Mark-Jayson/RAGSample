@@ -2,6 +2,12 @@ import os
 from pathlib import Path
 from dotenv import load_dotenv
 from llama_index.core import VectorStoreIndex, Document
+from llama_index.core import (
+    VectorStoreIndex,
+    SimpleDirectoryReader,
+    StorageContext,
+    load_index_from_storage,
+)
 from llama_index.core import Settings
 from llama_index.llms.openai import OpenAI
 import pandas as pd
@@ -10,6 +16,9 @@ from typing import List, Optional, Tuple
 import chardet
 import logging
 import warnings
+import getpass
+import nest_asyncio
+from llama_parse import LlamaParse
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
@@ -36,16 +45,21 @@ class CSVHandler:
                     return delimiter
         return ','  # Default to comma if no other delimiter is found
 
-    def read_file_with_description(self, file_path: str, encoding: str, delimiter: str) -> Tuple[str, pd.DataFrame]:
-        """Read CSV file and extract the description from first row."""
-        # Read the first line separately as description
+    def read_file_with_description(self, file_path: str, encoding: str, delimiter: str) -> Tuple[str, str, pd.DataFrame]:
+        """Read CSV file, extract the description from the first row, and a link from the second row."""
+        # Open the file
         with open(file_path, 'r', encoding=encoding) as file:
+            # Read the first line as description
             description = file.readline().strip().replace('"', '')
+            
+            # Read the second line as the link
+            link = file.readline().strip()
         
-        # Read the rest of the file as DataFrame, skipping the description row
-        df = pd.read_csv(file_path, encoding=encoding, sep=delimiter, skiprows=1, on_bad_lines='warn')
+        # Read the rest of the file as DataFrame, skipping the first two rows
+        df = pd.read_csv(file_path, encoding=encoding, sep=delimiter, skiprows=2, on_bad_lines='warn')
         
-        return description, df
+        return description, link, df
+
 
     def clean_column_names(self, df: pd.DataFrame) -> pd.DataFrame:
         """Clean and standardize column names."""
@@ -162,8 +176,8 @@ def process_csv_files(file_paths: List[str]) -> List[Document]:
             
             logger.info(f"Processing {file_path} with encoding {encoding} and delimiter {delimiter}")
             
-            # Read the CSV file with description
-            description, df = csv_handler.read_file_with_description(file_path, encoding, delimiter)
+            # Read the CSV file with description and link
+            description, link, df = csv_handler.read_file_with_description(file_path, encoding, delimiter)
             
             # Clean and process the data
             df = csv_handler.clean_column_names(df)
@@ -189,7 +203,8 @@ def process_csv_files(file_paths: List[str]) -> List[Document]:
                     "delimiter": delimiter,
                     "num_rows": len(df),
                     "num_columns": len(df.columns),
-                    "column_names": list(df.columns)
+                    "column_names": list(df.columns),
+                    "link": link  # Include the link here
                 }
             )
             documents.append(document)
@@ -203,37 +218,52 @@ def process_csv_files(file_paths: List[str]) -> List[Document]:
 
     return documents
 
+
 # Main execution
 def main():
     load_dotenv()
     Settings.llm = OpenAI()
 
-    csv_files = ["data/Population.csv", "data/PopulationProjection.csv", "data/2020CensusAndPopulation.csv", "data/Household.csv"]
-    documents = process_csv_files(csv_files)
-
-    if documents:
-        # Print descriptions of processed files
-        print("\nProcessed Files:")
-        for doc in documents:
-            print(f"\nFile: {doc.metadata['source']}")
-            print(f"Description: {doc.metadata['description']}")
-            print(f"Rows: {doc.metadata['num_rows']}")
-            print(f"Columns: {doc.metadata['num_columns']}")
-            if doc.metadata['warnings']:
-                print("Warnings:", doc.metadata['warnings'])
-            print("-" * 50)
-
+    PERSIST_DIR = "./storage"
+    if not os.path.exists(PERSIST_DIR):
+    # load the documents and create the index
+        csv_files = ["data/Population.csv", "data/PopulationProjection.csv", "data/2020CensusAndPopulation.csv", "data/Household.csv"]
+        documents = process_csv_files(csv_files)
+        if documents:
+            # Print descriptions of processed files
+            print("\nProcessed Files:")
+            for doc in documents:
+                print(f"\nFile: {doc.metadata['source']}")
+                print(f"Description: {doc.metadata['description']}")
+                print(f"Rows: {doc.metadata['num_rows']}")
+                print(f"Columns: {doc.metadata['num_columns']}")
+                if doc.metadata['warnings']:
+                    print("Warnings:", doc.metadata['warnings'])
+                print("-" * 50)
+        else:
+            logger.error("No documents were successfully processed")
         index = VectorStoreIndex.from_documents(documents)
-        query_engine = index.as_query_engine()
+        # store it for later
+        index.storage_context.persist(persist_dir=PERSIST_DIR)
 
-        while True:
-            res = input("\nEnter your query (or 'quit' to exit): ")
-            if res.lower() == 'quit':
-                break
-            response = query_engine.query(res)
-            print("\nResponse:", response)
     else:
-        logger.error("No documents were successfully processed")
+    # load the existing index
+        storage_context = StorageContext.from_defaults(persist_dir=PERSIST_DIR)
+        index = load_index_from_storage(storage_context)
+   
+    
+    
+
+        
+    query_engine = index.as_query_engine()
+
+    while True:
+        res = input("\nEnter your query (or 'quit' to exit): ")
+        if res.lower() == 'quit':
+            break
+        response = query_engine.query(res)
+        print("\nResponse:", response)
+
 
 if __name__ == "__main__":
     main()
