@@ -1,5 +1,5 @@
 "Occupied Housing Units, Number of Households, Household Population, by Type of Building and Province/Highly Urbanized City: Philippines, 2020"
-
+"https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__1A__PO/0031A6DTOB0.px/table/tableViewLayout1/?rxid=b09a3d51-6bea-4625-92a0-14403d95f575"
 "Type of Building";"Geographic Location";"Occupied Housing Units";"Number of Households /a";"Household Population /a"
 "All Types of Building";"PHILIPPINES";25191610;26376522;108597147
 "All Types of Building";"..NATIONAL CAPITAL REGION (NCR)";3257020;3494685;13388141
@@ -13,10 +13,10 @@
 "All Types of Building";"....City of Malabon";88079;94232;379434
 "All Types of Building";"....City of Navotas";55476;63061;246351
 "All Types of Building";"....City of Valenzuela";177749;192983;713139
-"All Types of Building";"....City of Las Piñas";142990;156756;603685
+"All Types of Building";"....City of Las PiÃ±as";142990;156756;603685
 "All Types of Building";"....City of Makati";180256;186238;623662
 "All Types of Building";"....City of Muntinlupa";126655;138176;518584
-"All Types of Building";"....City of Parañaque";170674;182109;685951
+"All Types of Building";"....City of ParaÃ±aque";170674;182109;685951
 "All Types of Building";"....Pasay City";114778;127290;436178
 "All Types of Building";"....City of Taguig";228341;246790;882379
 "All Types of Building";"....Pateros";14103;15838;65064
@@ -148,10 +148,10 @@
 "Single house";"....City of Malabon";77315;82935;335554
 "Single house";"....City of Navotas";46919;53708;209511
 "Single house";"....City of Valenzuela";112612;123616;465998
-"Single house";"....City of Las Piñas";111899;123735;485181
+"Single house";"....City of Las PiÃ±as";111899;123735;485181
 "Single house";"....City of Makati";70814;73564;285535
 "Single house";"....City of Muntinlupa";89550;98562;382472
-"Single house";"....City of Parañaque";131629;140583;545000
+"Single house";"....City of ParaÃ±aque";131629;140583;545000
 "Single house";"....Pasay City";56954;65408;239843
 "Single house";"....City of Taguig";122616;135188;501736
 "Single house";"....Pateros";10151;11646;48659
@@ -283,10 +283,10 @@
 "Duplex";"....City of Malabon";1947;2055;8382
 "Duplex";"....City of Navotas";1449;1624;6265
 "Duplex";"....City of Valenzuela";8521;9090;33642
-"Duplex";"....City of Las Piñas";7140;7735;29995
+"Duplex";"....City of Las PiÃ±as";7140;7735;29995
 "Duplex";"....City of Makati";4892;5080;19597
 "Duplex";"....City of Muntinlupa";5444;6122;23046
-"Duplex";"....City of Parañaque";5234;5734;21657
+"Duplex";"....City of ParaÃ±aque";5234;5734;21657
 "Duplex";"....Pasay City";3372;3934;14350
 "Duplex";"....City of Taguig";14700;16169;58386
 "Duplex";"....Pateros";936;1031;4231
@@ -418,10 +418,10 @@
 "Apartment/accessoria/rowhouse";"....City of Malabon";6139;6442;24899
 "Apartment/accessoria/rowhouse";"....City of Navotas";3511;3849;15057
 "Apartment/accessoria/rowhouse";"....City of Valenzuela";46291;48998;173205
-"Apartment/accessoria/rowhouse";"....City of Las Piñas";17511;18448;64651
+"Apartment/accessoria/rowhouse";"....City of Las PiÃ±as";17511;18448;64651
 "Apartment/accessoria/rowhouse";"....City of Makati";29614;30757;99638
 "Apartment/accessoria/rowhouse";"....City of Muntinlupa";25944;27442;93832
-"Apartment/accessoria/rowhouse";"....City of Parañaque";19490;20751;71028
+"Apartment/accessoria/rowhouse";"....City of ParaÃ±aque";19490;20751;71028
 "Apartment/accessoria/rowhouse";"....Pasay City";31761;34291;111964
 "Apartment/accessoria/rowhouse";"....City of Taguig";50869;53230;179814
 "Apartment/accessoria/rowhouse";"....Pateros";2696;2835;10921
@@ -553,10 +553,10 @@
 "Condominium/condotel";"....City of Malabon";63;68;269
 "Condominium/condotel";"....City of Navotas";0;0;0
 "Condominium/condotel";"....City of Valenzuela";1002;1011;3472
-"Condominium/condotel";"....City of Las Piñas";1091;1131;3399
+"Condominium/condotel";"....City of Las PiÃ±as";1091;1131;3399
 "Condominium/condotel";"....City of Makati";46489;47532;126482
 "Condominium/condotel";"....City of Muntinlupa";1771;1835;4167
-"Condominium/condotel";"....City of Parañaque";5764;5924;16096
+"Condominium/condotel";"....City of ParaÃ±aque";5764;5924;16096
 "Condominium/condotel";"....Pasay City";15484;15957;45207
 "Condominium/condotel";"....City of Taguig";4652;4976;16195
 "Condominium/condotel";"....Pateros";0;0;0
@@ -688,10 +688,10 @@
 "Other multi-unit residential";"....City of Malabon";2099;2138;8426
 "Other multi-unit residential";"....City of Navotas";3393;3609;14842
 "Other multi-unit residential";"....City of Valenzuela";7273;7600;30781
-"Other multi-unit residential";"....City of Las Piñas";4813;5063;18613
+"Other multi-unit residential";"....City of Las PiÃ±as";4813;5063;18613
 "Other multi-unit residential";"....City of Makati";28077;28882;91497
 "Other multi-unit residential";"....City of Muntinlupa";3730;3969;14370
-"Other multi-unit residential";"....City of Parañaque";7828;8228;30151
+"Other multi-unit residential";"....City of ParaÃ±aque";7828;8228;30151
 "Other multi-unit residential";"....Pasay City";6537;6922;23055
 "Other multi-unit residential";"....City of Taguig";35232;36927;125456
 "Other multi-unit residential";"....Pateros";311;316;1241
@@ -823,10 +823,10 @@
 "Commercial/industrial/agricultural";"....City of Malabon";467;544;1740
 "Commercial/industrial/agricultural";"....City of Navotas";183;250;597
 "Commercial/industrial/agricultural";"....City of Valenzuela";1999;2605;5852
-"Commercial/industrial/agricultural";"....City of Las Piñas";494;602;1681
+"Commercial/industrial/agricultural";"....City of Las PiÃ±as";494;602;1681
 "Commercial/industrial/agricultural";"....City of Makati";335;381;826
 "Commercial/industrial/agricultural";"....City of Muntinlupa";203;229;640
-"Commercial/industrial/agricultural";"....City of Parañaque";682;834;1904
+"Commercial/industrial/agricultural";"....City of ParaÃ±aque";682;834;1904
 "Commercial/industrial/agricultural";"....Pasay City";648;753;1694
 "Commercial/industrial/agricultural";"....City of Taguig";243;266;668
 "Commercial/industrial/agricultural";"....Pateros";8;9;11
@@ -958,10 +958,10 @@
 "Institutional living quarter";"....City of Malabon";6;6;21
 "Institutional living quarter";"....City of Navotas";9;9;29
 "Institutional living quarter";"....City of Valenzuela";48;60;174
-"Institutional living quarter";"....City of Las Piñas";37;37;153
+"Institutional living quarter";"....City of Las PiÃ±as";37;37;153
 "Institutional living quarter";"....City of Makati";26;26;62
 "Institutional living quarter";"....City of Muntinlupa";5;5;27
-"Institutional living quarter";"....City of Parañaque";38;46;83
+"Institutional living quarter";"....City of ParaÃ±aque";38;46;83
 "Institutional living quarter";"....Pasay City";9;12;27
 "Institutional living quarter";"....City of Taguig";23;26;95
 "Institutional living quarter";"....Pateros";1;1;1
@@ -1093,10 +1093,10 @@
 "Other types of building";"....City of Malabon";43;44;143
 "Other types of building";"....City of Navotas";10;10;38
 "Other types of building";"....City of Valenzuela";1;1;1
-"Other types of building";"....City of Las Piñas";5;5;12
+"Other types of building";"....City of Las PiÃ±as";5;5;12
 "Other types of building";"....City of Makati";9;16;25
 "Other types of building";"....City of Muntinlupa";8;12;30
-"Other types of building";"....City of Parañaque";9;9;32
+"Other types of building";"....City of ParaÃ±aque";9;9;32
 "Other types of building";"....Pasay City";13;13;38
 "Other types of building";"....City of Taguig";6;8;29
 "Other types of building";"....Pateros";0;0;0
@@ -1228,10 +1228,10 @@
 "Not reported";"....City of Malabon";0;0;0
 "Not reported";"....City of Navotas";2;2;12
 "Not reported";"....City of Valenzuela";2;2;14
-"Not reported";"....City of Las Piñas";0;0;0
+"Not reported";"....City of Las PiÃ±as";0;0;0
 "Not reported";"....City of Makati";0;0;0
 "Not reported";"....City of Muntinlupa";0;0;0
-"Not reported";"....City of Parañaque";0;0;0
+"Not reported";"....City of ParaÃ±aque";0;0;0
 "Not reported";"....Pasay City";0;0;0
 "Not reported";"....City of Taguig";0;0;0
 "Not reported";"....Pateros";0;0;0
