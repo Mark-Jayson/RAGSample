@@ -1,0 +1,267 @@
+"Average Monthly Wage Rates of Benchmark Occupations by Industry: 2014 to 2022"
+
+"Industries";"Benchmark Occupations";"2014";"2016";"2018";"2020";"2022"
+"All Industries";"..Accounting and Bookkeeping Clerks";13994;14663;16482;18008;19676
+"All Industries";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9652;10164;11189;11587;.
+"All Industries";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12276
+"Agriculture, Forestry and Fishing";"..Accounting and Bookkeeping Clerks";11909;11162;13246;16943;16801
+"Agriculture, Forestry and Fishing";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9105;7836;9568;9591;.
+"Agriculture, Forestry and Fishing";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;10871
+"Crop and Animal Production, Hunting and Related Service Activities; Forestry and Logging";"..Accounting and Bookkeeping Clerks";12064;11044;13244;17203;16718
+"Crop and Animal Production, Hunting and Related Service Activities; Forestry and Logging";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9666;7739;9559;9628;.
+"Crop and Animal Production, Hunting and Related Service Activities; Forestry and Logging";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;10862
+"Fishing and Aquaculture";"..Accounting and Bookkeeping Clerks";11169;12070;13255;15390;17135
+"Fishing and Aquaculture";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";6599;10971;9732;8595;.
+"Fishing and Aquaculture";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;10991
+"Mining and Quarrying";"..Accounting and Bookkeeping Clerks";14669;16068;16994;20629;20879
+"Mining and Quarrying";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";7961;7541;9098;10554;.
+"Mining and Quarrying";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;14634
+"Mining of Coal and Lignite; Extraction of Crude Petroleum and Natural Gas; and Other Mining and Quarrying";"..Accounting and Bookkeeping Clerks";14165;13348;13357;15999;16035
+"Mining of Coal and Lignite; Extraction of Crude Petroleum and Natural Gas; and Other Mining and Quarrying";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";7841;6920;9194;9118;.
+"Mining of Coal and Lignite; Extraction of Crude Petroleum and Natural Gas; and Other Mining and Quarrying";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;10464
+"Mining of Metal Ores";"..Accounting and Bookkeeping Clerks";14540;17439;19764;21207;22772
+"Mining of Metal Ores";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";7967;7574;8779;11246;.
+"Mining of Metal Ores";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;15295
+"Mining Support Service";"..Accounting and Bookkeeping Clerks";30316;21650;24428;24247;29184
+"Mining Support Service";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";12835;10887;12722;9590;.
+"Mining Support Service";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;10577
+"Manufacturing";"..Accounting and Bookkeeping Clerks";14544;15513;16948;19930;19056
+"Manufacturing";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9173;10473;11541;11762;.
+"Manufacturing";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12521
+"Manufacture of Food Products";"..Accounting and Bookkeeping Clerks";13017;14313;16001;21924;17792
+"Manufacture of Food Products";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";8628;9562;10603;12200;.
+"Manufacture of Food Products";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11373
+"Manufacture of Beverages";"..Accounting and Bookkeeping Clerks";16638;16735;17849;18412;20151
+"Manufacture of Beverages";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";8565;10345;11901;11387;.
+"Manufacture of Beverages";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;16793
+"Manufacture of Tobacco Products";"..Accounting and Bookkeeping Clerks";17583;17952;20993;22481;31621
+"Manufacture of Tobacco Products";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";6643;11671;18020;13030;.
+"Manufacture of Tobacco Products";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12068
+"Manufacture of Textiles";"..Accounting and Bookkeeping Clerks";13892;10020;16618;17230;17705
+"Manufacture of Textiles";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";11645;11036;10661;12928;.
+"Manufacture of Textiles";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11538
+"Manufacture of Wearing Apparel";"..Accounting and Bookkeeping Clerks";21311;21286;16436;16922;17478
+"Manufacture of Wearing Apparel";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";8737;9470;10870;10818;.
+"Manufacture of Wearing Apparel";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12015
+"Manufacture of Leather and Related Products";"..Accounting and Bookkeeping Clerks";12304;14557;15404;16533;17602
+"Manufacture of Leather and Related Products";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";7924;9350;9883;10689;.
+"Manufacture of Leather and Related Products";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12174
+"Sawmilling and Planing of Wood";"..Accounting and Bookkeeping Clerks";11385;13611;13799;15768;15984
+"Sawmilling and Planing of Wood";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";8030;12415;9133;11910;.
+"Sawmilling and Planing of Wood";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11935
+"Manufacture of Products of Wood, Cork, Straw and Plaiting Materials";"..Accounting and Bookkeeping Clerks";9510;12301;12899;16598;15297
+"Manufacture of Products of Wood, Cork, Straw and Plaiting Materials";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";6118;9701;10198;10333;.
+"Manufacture of Products of Wood, Cork, Straw and Plaiting Materials";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11183
+"Manufacture of Paper and Paper Products";"..Accounting and Bookkeeping Clerks";13405;17128;16137;19736;20304
+"Manufacture of Paper and Paper Products";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10354;12305;12104;11310;.
+"Manufacture of Paper and Paper Products";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;13574
+"Printing and Reproduction of Recorded Media";"..Accounting and Bookkeeping Clerks";13547;14220;14829;18151;15107
+"Printing and Reproduction of Recorded Media";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";11141;12381;11139;13491;.
+"Printing and Reproduction of Recorded Media";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;13234
+"Manufacture of Coke and Refined Petroleum Products";"..Accounting and Bookkeeping Clerks";20938;17530;14374;19954;22765
+"Manufacture of Coke and Refined Petroleum Products";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";8764;9130;12903;12047;.
+"Manufacture of Coke and Refined Petroleum Products";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12512
+"Manufacture of Chemicals and Chemical Products";"..Accounting and Bookkeeping Clerks";15405;15489;17972;20189;19694
+"Manufacture of Chemicals and Chemical Products";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10569;12145;12066;12882;.
+"Manufacture of Chemicals and Chemical Products";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12670
+"Manufacture of Basic Pharmaceutical Products and Pharmaceutical Preparation";"..Accounting and Bookkeeping Clerks";19845;15215;14350;16199;19873
+"Manufacture of Basic Pharmaceutical Products and Pharmaceutical Preparation";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10589;11763;10238;11008;.
+"Manufacture of Basic Pharmaceutical Products and Pharmaceutical Preparation";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11991
+"Manufacture of Rubber Products";"..Accounting and Bookkeeping Clerks";14017;14371;17878;14819;17410
+"Manufacture of Rubber Products";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";8771;11071;11399;11709;.
+"Manufacture of Rubber Products";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11143
+"Manufacture of Plastic Products";"..Accounting and Bookkeeping Clerks";13711;15664;15954;17471;19049
+"Manufacture of Plastic Products";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10052;11001;12014;11319;.
+"Manufacture of Plastic Products";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12847
+"Manufacture of Other Non-Metallic Mineral Products";"..Accounting and Bookkeeping Clerks";15494;15245;17115;17955;21305
+"Manufacture of Other Non-Metallic Mineral Products";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9869;10847;10780;11108;.
+"Manufacture of Other Non-Metallic Mineral Products";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12668
+"Manufacture of Basic Metals";"..Accounting and Bookkeeping Clerks";14920;15236;18138;19008;19930
+"Manufacture of Basic Metals";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10415;10288;11600;11342;.
+"Manufacture of Basic Metals";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12463
+"Manufacture of Fabricated Metal Products except Machinery and Equipment";"..Accounting and Bookkeeping Clerks";14698;14695;18928;19177;19173
+"Manufacture of Fabricated Metal Products except Machinery and Equipment";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10837;10459;11398;11488;.
+"Manufacture of Fabricated Metal Products except Machinery and Equipment";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12487
+"Manufacture of Computer, Electronic and Optical Products";"..Accounting and Bookkeeping Clerks";8819;20090;20235;26270;21596
+"Manufacture of Computer, Electronic and Optical Products";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";14097;12706;12443;12639;.
+"Manufacture of Computer, Electronic and Optical Products";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;13352
+"Manufacture of Electrical Equipment";"..Accounting and Bookkeeping Clerks";15668;19365;19407;18049;19735
+"Manufacture of Electrical Equipment";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9619;10379;10932;11935;.
+"Manufacture of Electrical Equipment";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11426
+"Manufacture of Machinery and Equipment, n.e.c.";"..Accounting and Bookkeeping Clerks";14065;20092;18077;17894;19511
+"Manufacture of Machinery and Equipment, n.e.c.";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10946;10522;12112;12358;.
+"Manufacture of Machinery and Equipment, n.e.c.";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12078
+"Manufacture of Motor Vehicles, Trailers and Semi-Trailers";"..Accounting and Bookkeeping Clerks";14386;22124;23697;20658;23258
+"Manufacture of Motor Vehicles, Trailers and Semi-Trailers";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9561;10324;11728;10922;.
+"Manufacture of Motor Vehicles, Trailers and Semi-Trailers";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;14231
+"Manufacture of Other Transport Equipment except Building of Ships and Boats";"..Accounting and Bookkeeping Clerks";15801;20964;19904;29455;20885
+"Manufacture of Other Transport Equipment except Building of Ships and Boats";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";11222;12400;11796;13540;.
+"Manufacture of Other Transport Equipment except Building of Ships and Boats";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;16554
+"Building of Ships and Boats";"..Accounting and Bookkeeping Clerks";13385;14967;17474;18044;21586
+"Building of Ships and Boats";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";12072;9753;10568;10713;.
+"Building of Ships and Boats";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;14308
+"Manufacture of Furniture";"..Accounting and Bookkeeping Clerks";12141;13505;14713;16746;19075
+"Manufacture of Furniture";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9098;10287;10051;12266;.
+"Manufacture of Furniture";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12391
+"Other Manufacturing; Repair and Installation of Machinery and Equipment";"..Accounting and Bookkeeping Clerks";17170;12164;15184;17456;19457
+"Other Manufacturing; Repair and Installation of Machinery and Equipment";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9453;11108;11367;12034;.
+"Other Manufacturing; Repair and Installation of Machinery and Equipment";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12665
+"Electricity, Gas, Steam and Air Conditioning Supply";"..Accounting and Bookkeeping Clerks";22857;21395;27939;29713;30676
+"Electricity, Gas, Steam and Air Conditioning Supply";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";17053;11605;15387;18955;.
+"Electricity, Gas, Steam and Air Conditioning Supply";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;20771
+"Water Supply; Sewerage, Waste Management and Remediation Activities";"..Accounting and Bookkeeping Clerks";18831;20679;19809;19729;23885
+"Water Supply; Sewerage, Waste Management and Remediation Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10653;9299;11274;12456;.
+"Water Supply; Sewerage, Waste Management and Remediation Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;13022
+"Water Collection, Treatment and Supply";"..Accounting and Bookkeeping Clerks";19168;21282;20359;20279;24926
+"Water Collection, Treatment and Supply";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10752;9131;11217;11571;.
+"Water Collection, Treatment and Supply";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;13474
+"Sewerage; Waste Collection, Treatment and Disposal Activities; Materials Recovery; Remediation Activities and Other Waste Management Services";"..Accounting and Bookkeeping Clerks";13914;13970;16008;16554;16490
+"Sewerage; Waste Collection, Treatment and Disposal Activities; Materials Recovery; Remediation Activities and Other Waste Management Services";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10251;9874;11733;15751;.
+"Sewerage; Waste Collection, Treatment and Disposal Activities; Materials Recovery; Remediation Activities and Other Waste Management Services";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12714
+"Construction";"..Accounting and Bookkeeping Clerks";15143;14959;16456;16143;19999
+"Construction";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10285;10888;11732;11950;.
+"Construction";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12206
+"Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles";"..Accounting and Bookkeeping Clerks";11315;12360;14827;15487;17206
+"Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9006;9645;11116;11452;.
+"Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11895
+"Wholesale and Retail Trade and Repair of Motor Vehicles and Motorcycles";"..Accounting and Bookkeeping Clerks";11912;13819;14893;14544;16168
+"Wholesale and Retail Trade and Repair of Motor Vehicles and Motorcycles";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9881;9572;11405;11252;.
+"Wholesale and Retail Trade and Repair of Motor Vehicles and Motorcycles";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12496
+"Wholesale Trade except of Motor Vehicles and Motorcycles";"..Accounting and Bookkeeping Clerks";13203;14276;16034;15449;19638
+"Wholesale Trade except of Motor Vehicles and Motorcycles";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9169;9905;11845;11136;.
+"Wholesale Trade except of Motor Vehicles and Motorcycles";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12738
+"Retail Trade except of Motor Vehicles and Motorcycles";"..Accounting and Bookkeeping Clerks";10256;10841;13853;15855;15491
+"Retail Trade except of Motor Vehicles and Motorcycles";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";8770;9533;10350;11942;.
+"Retail Trade except of Motor Vehicles and Motorcycles";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11072
+"Transportation and Storage";"..Accounting and Bookkeeping Clerks";13537;16665;17127;17777;20001
+"Transportation and Storage";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9776;10333;11399;11998;.
+"Transportation and Storage";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;13366
+"Land Transport and Transport via Pipelines except  Transport via Buses";"..Accounting and Bookkeeping Clerks";11746;13364;15275;16138;15998
+"Land Transport and Transport via Pipelines except  Transport via Buses";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9607;8211;12013;10901;.
+"Land Transport and Transport via Pipelines except  Transport via Buses";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12667
+"Transport via Buses";"..Accounting and Bookkeeping Clerks";11811;17821;13563;15178;16605
+"Transport via Buses";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";8524;9005;10065;10227;.
+"Transport via Buses";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12152
+"Water Transport";"..Accounting and Bookkeeping Clerks";14222;14092;17536;17043;20090
+"Water Transport";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";8284;7437;13372;11507;.
+"Water Transport";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12710
+"Air Transport";"..Accounting and Bookkeeping Clerks";20312;14281;21101;21669;22208
+"Air Transport";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";33301;12807;14691;14921;.
+"Air Transport";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;13436
+"Warehousing and Support Activities for Transportation";"..Accounting and Bookkeeping Clerks";14080;18077;18133;18993;20725
+"Warehousing and Support Activities for Transportation";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9910;12163;11367;12489;.
+"Warehousing and Support Activities for Transportation";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;13415
+"Postal and Courier Activities";"..Accounting and Bookkeeping Clerks";14952;18565;17186;22138;25884
+"Postal and Courier Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";12287;12346;13772;13870;.
+"Postal and Courier Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;17520
+"Accommodation and Food Service Activities";"..Accounting and Bookkeeping Clerks";12713;13705;14857;17527;17501
+"Accommodation and Food Service Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";8093;9449;10624;12087;.
+"Accommodation and Food Service Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11921
+"Information and Communications";"..Accounting and Bookkeeping Clerks";17875;21492;23232;26055;30731
+"Information and Communications";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10871;12923;13288;15776;.
+"Information and Communications";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;13203
+"Publishing Activities";"..Accounting and Bookkeeping Clerks";15348;15869;19790;21873;27267
+"Publishing Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";11829;14977;13700;16948;.
+"Publishing Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;14095
+"Motion Picture, Video and Television Programme Production, Sound Recording and Music Publishing Activities except Animated Films and Cartoons Production; Programming and Broadcasting Activities";"..Accounting and Bookkeeping Clerks";18279;16196;17536;26833;21295
+"Motion Picture, Video and Television Programme Production, Sound Recording and Music Publishing Activities except Animated Films and Cartoons Production; Programming and Broadcasting Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10180;15070;11260;12816;.
+"Motion Picture, Video and Television Programme Production, Sound Recording and Music Publishing Activities except Animated Films and Cartoons Production; Programming and Broadcasting Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11207
+"Animated Films and Cartoons Production";"..Accounting and Bookkeeping Clerks";18064;15159;15743;16831;25527
+"Animated Films and Cartoons Production";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";..;..;13046;16797;.
+"Animated Films and Cartoons Production";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;18000
+"Telecommunications";"..Accounting and Bookkeeping Clerks";16771;19549;29732;18750;22235
+"Telecommunications";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9578;12329;11111;10818;.
+"Telecommunications";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11919
+"Computer Programming, Consultancy and Related Activities; Information Service Activities";"..Accounting and Bookkeeping Clerks";19513;25878;20949;28954;.
+"Computer Programming, Consultancy and Related Activities; Information Service Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";11582;11706;14501;16311;.
+"Computer Programming, Consultancy and Related Activities; Information Service Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;.
+"Computer Programming, Consultancy and Related Activities";"..Accounting and Bookkeeping Clerks";..;..;.;.;36887
+"Computer Programming, Consultancy and Related Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";..;..;.;.;.
+"Computer Programming, Consultancy and Related Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;15322
+"Information Service Activities";"..Accounting and Bookkeeping Clerks";..;..;.;.;32149
+"Information Service Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";..;..;.;.;.
+"Information Service Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11186
+"Financial and Insurance Activities";"..Accounting and Bookkeeping Clerks";13803;14555;17225;19347;20119
+"Financial and Insurance Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9029;8580;11119;10060;.
+"Financial and Insurance Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11054
+"Financial Service Activities except Insurance, Pension Funding and Central Banking";"..Accounting and Bookkeeping Clerks";13185;13781;16533;19095;19610
+"Financial Service Activities except Insurance, Pension Funding and Central Banking";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";8974;8351;10997;9945;.
+"Financial Service Activities except Insurance, Pension Funding and Central Banking";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11438
+"Insurance, Reinsurance and Pension Funding except Compulsory Social Security";"..Accounting and Bookkeeping Clerks";19410;20168;21859;21720;23015
+"Insurance, Reinsurance and Pension Funding except Compulsory Social Security";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";..;14370;14119;13303;.
+"Insurance, Reinsurance and Pension Funding except Compulsory Social Security";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;13451
+"Activities Auxiliary to Financial Service and Insurance Activities";"..Accounting and Bookkeeping Clerks";14993;18476;25069;18185;23457
+"Activities Auxiliary to Financial Service and Insurance Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10960;13078;13600;15808;.
+"Activities Auxiliary to Financial Service and Insurance Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;9571
+"Real Estate Activities";"..Accounting and Bookkeeping Clerks";14323;15312;17555;18518;21870
+"Real Estate Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10964;9497;11090;11922;.
+"Real Estate Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12382
+"Professional, Scientific and Technical Activities";"..Accounting and Bookkeeping Clerks";18035;18161;19252;19673;25443
+"Professional, Scientific and Technical Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10001;13010;11404;13391;.
+"Professional, Scientific and Technical Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12693
+"Professional, Scientific and Technical Activities except Accounting, Architectural and Engineering Activities";"..Accounting and Bookkeeping Clerks";17910;19209;19737;20566;29622
+"Professional, Scientific and Technical Activities except Accounting, Architectural and Engineering Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10304;12945;11068;13518;.
+"Professional, Scientific and Technical Activities except Accounting, Architectural and Engineering Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12504
+"Accounting, Bookkeeping and Auditing Activities; Tax Consultancy";"..Accounting and Bookkeeping Clerks";18724;13801;16885;19096;22433
+"Accounting, Bookkeeping and Auditing Activities; Tax Consultancy";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";18102;11999;13500;15779;.
+"Accounting, Bookkeeping and Auditing Activities; Tax Consultancy";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;16811
+"Architectural and Engineering Activities and Related Technical Consultancy";"..Accounting and Bookkeeping Clerks";17935;18922;19957;20230;23455
+"Architectural and Engineering Activities and Related Technical Consultancy";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9620;13480;12955;12498;.
+"Architectural and Engineering Activities and Related Technical Consultancy";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;13126
+"Administrative and Support Service Activities";"..Accounting and Bookkeeping Clerks";20288;17451;17381;17827;22363
+"Administrative and Support Service Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";11573;11748;10550;11449;.
+"Administrative and Support Service Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11866
+"Rental and Leasing Activities; Security and Investigation Activities; Services to Buildings and Landscape Activities";"..Accounting and Bookkeeping Clerks";11205;13568;15552;15492;17235
+"Rental and Leasing Activities; Security and Investigation Activities; Services to Buildings and Landscape Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10718;8662;12659;11502;.
+"Rental and Leasing Activities; Security and Investigation Activities; Services to Buildings and Landscape Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;13400
+"Employment Activities";"..Accounting and Bookkeeping Clerks";13867;14557;16925;14339;21478
+"Employment Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";11752;9141;10079;11096;.
+"Employment Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11542
+"Travel Agency, Tour Operator, Reservation Service and Related Activities";"..Accounting and Bookkeeping Clerks";15593;17100;19900;20889;20640
+"Travel Agency, Tour Operator, Reservation Service and Related Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";11090;15000;14641;13828;.
+"Travel Agency, Tour Operator, Reservation Service and Related Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;10581
+"Office Administrative, Office Support and Other Business Support Activities except Call Center Activities (Voice) and Medical Transcription Activities";"..Accounting and Bookkeeping Clerks";40878;18653;16768;22840;29218
+"Office Administrative, Office Support and Other Business Support Activities except Call Center Activities (Voice) and Medical Transcription Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";8789;36763;12646;9352;.
+"Office Administrative, Office Support and Other Business Support Activities except Call Center Activities (Voice) and Medical Transcription Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;13055
+"Call Center Activities (Voice)";"..Accounting and Bookkeeping Clerks";18030;22507;17989;25415;25099
+"Call Center Activities (Voice)";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";12085;14072;16554;17385;.
+"Call Center Activities (Voice)";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;16338
+"Back-Office Operations Activities (Non-Voice) except Medical Transcription Activities";"..Accounting and Bookkeeping Clerks";..;..;23483;22171;24073
+"Back-Office Operations Activities (Non-Voice) except Medical Transcription Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";..;..;13833;16432;.
+"Back-Office Operations Activities (Non-Voice) except Medical Transcription Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12000
+"Medical Transcription Activities";"..Accounting and Bookkeeping Clerks";14753;14936;19205;18069;25631
+"Medical Transcription Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";11234;11129;13532;..;.
+"Medical Transcription Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11711
+"Education Except Public Education";"..Accounting and Bookkeeping Clerks";13348;15222;15884;17352;18188
+"Education Except Public Education";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";8695;9096;10946;12982;.
+"Education Except Public Education";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12833
+"Human Health and Social Work Activities";"..Accounting and Bookkeeping Clerks";11998;12597;14374;17122;16472
+"Human Health and Social Work Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9533;9717;11564;12432;.
+"Human Health and Social Work Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12862
+"Human Health Activities except Public Health Activities";"..Accounting and Bookkeeping Clerks";11250;12441;14016;16819;16195
+"Human Health Activities except Public Health Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9166;9701;11581;12321;.
+"Human Health Activities except Public Health Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;12931
+"Residential Care Activities; Social Work Activities without Accommodation";"..Accounting and Bookkeeping Clerks";20886;16143;20739;20220;21715
+"Residential Care Activities; Social Work Activities without Accommodation";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";15941;9851;9457;14888;.
+"Residential Care Activities; Social Work Activities without Accommodation";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;11228
+"Arts, Entertainment and Recreation";"..Accounting and Bookkeeping Clerks";12596;19382;16045;17133;18763
+"Arts, Entertainment and Recreation";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10947;10538;11479;11545;.
+"Arts, Entertainment and Recreation";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;13303
+"Creative, Arts and Entertainment Activities";"..Accounting and Bookkeeping Clerks";16714;20471;18553;17000;.
+"Creative, Arts and Entertainment Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";..;..;14909;9785;.
+"Creative, Arts and Entertainment Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;.
+"Libraries, Archives, Museums and Other Cultural Activities; Gambling and Betting Activities; Sports Activities and Amusement and Recreational Activities";"..Accounting and Bookkeeping Clerks";12515;19301;16030;17133;.
+"Libraries, Archives, Museums and Other Cultural Activities; Gambling and Betting Activities; Sports Activities and Amusement and Recreational Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";10947;10550;11463;11716;.
+"Libraries, Archives, Museums and Other Cultural Activities; Gambling and Betting Activities; Sports Activities and Amusement and Recreational Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;.
+"Other Service Activities Except Activities of Membership Organizations";"..Accounting and Bookkeeping Clerks";..;..;17272;15038;21509
+"Other Service Activities Except Activities of Membership Organizations";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";..;..;11714;13039;.
+"Other Service Activities Except Activities of Membership Organizations";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;13579
+"Repair of Computers and Personal and Household Goods; Other Personal Service Activities";"..Accounting and Bookkeeping Clerks";13801;15509;.;.;.
+"Repair of Computers and Personal and Household Goods; Other Personal Service Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";9315;7825;.;.;.
+"Repair of Computers and Personal and Household Goods; Other Personal Service Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;.
+"Repair of Computers and Personal and Household Goods";"..Accounting and Bookkeeping Clerks";..;..;21296;15693;25436
+"Repair of Computers and Personal and Household Goods";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";..;..;13217;13123;.
+"Repair of Computers and Personal and Household Goods";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;14331
+"Other Personal Service Activities";"..Accounting and Bookkeeping Clerks";..;..;15296;14962;15487
+"Other Personal Service Activities";"..Unskilled Workers except Janitors, Messengers and Freight Handlers";..;..;10944;13001;.
+"Other Personal Service Activities";"..Elementary Occupations (Unskilled Workers)";.;.;.;.;13136

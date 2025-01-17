@@ -1,0 +1,21 @@
+"Number of Commission and Output-Rated Workers in Establishments with 20 or More Workers by Type and Region: August 2022"
+
+"REGION";"2022 Commission Workers (CW)";"2022 ..CW_With Basic Pay and Commission";"2022 ..CW_Purely on Commission With Employer Control and Supervision";"2022 ..CW_Purely on Commission Without Employer Control and Supervision";"2022 Output-rated Workers (ORW)";"2022 ..ORW_Piece-rated Workers";"2022 ..ORW_Quota Workers";"2022 ..ORW_Pakyao or Takay Workers";"2022 ..ORW_Task Workers"
+"PHILIPPINES";53001;34641;15813;2547;54949;28654;6091;15486;4718
+"..National Capital Region";20075;15392;3613;1070;5535;2957;976;925;677
+"..Cordillera Administrative Region";515;317;181;17;716;716;0;0;0
+"..Region I - Ilocos Region";1016;704;115;197;1004;1004;0;0;0
+"..Region II - Cagayan Valley";1098;520;577;0;2363;553;1133;588;89
+"..Region III - Central Luzon";8969;8147;654;168;3482;2061;406;829;185
+"..Region IV-A - CALABARZON";3683;1534;1600;549;2648;1969;589;73;18
+"..MIMAROPA Region";428;416;12;0;719;0;0;372;346
+"..Region V - Bicol Region";1691;1207;268;217;1581;633;39;650;260
+"..Region VI - Western Visayas";1696;492;1204;0;12544;2675;1109;6592;2168
+"..Region VII - Central Visayas";2788;1505;1093;190;2346;1477;0;812;57
+"..Region VIII - Eastern Visayas";1343;445;846;52;1966;425;41;1387;114
+"..Region IX - Zamboanga Peninsula";2633;984;1649;0;519;492;0;28;0
+"..Region X - Northern Mindanao";1441;852;580;9;2317;1810;129;327;52
+"..Region XI - Davao Region";3865;1799;1987;79;5901;3720;688;1341;152
+"..Region XII - SOCCSKSARGEN";979;111;868;0;7622;6706;100;815;1
+"..Region XIII - CARAGA";656;213;443;0;3685;1456;882;747;600
+"..Bangsamoro Autonomous Region in Muslim Mindanao";125;3;122;0;0;0;0;0;0
