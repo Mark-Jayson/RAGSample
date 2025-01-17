@@ -1,6 +1,6 @@
 "Occupied Housing Units, Number of Households, Household Population, by Type of Building and Province/Highly Urbanized City: Philippines, 2020"
-"""https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__1A__PO/0031A6DTOB0.px/table/tableViewLayout1/?rxid=6b0aa2fe-27c2-467c-acd8-bb085d6eee0d"""
-Type of Building;"Geographic Location";"Occupied Housing Units";"Number of Households /a";"Household Population /a"
+"https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__1A__PO/0031A6DTOB0.px/table/tableViewLayout1/?rxid=6b0aa2fe-27c2-467c-acd8-bb085d6eee0d"
+"Type of Building";"Geographic Location";"Occupied Housing Units";"Number of Households /a";"Household Population /a"
 All Types of Building;"PHILIPPINES";25191610;26376522;108597147
 All Types of Building;"..NATIONAL CAPITAL REGION (NCR)";3257020;3494685;13388141
 All Types of Building;"....City of Manila";447791;483508;1829294
