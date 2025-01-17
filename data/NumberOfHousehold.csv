@@ -1,5 +1,5 @@
 "Number of Households by Type of Building, Tenure Status of the Housing Unit/Lot, and Province/Highly Urbanized City: Philippines, 2020"
-
+"https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__1A__PO/0061A6DTSH0.px/table/tableViewLayout1/?rxid=1e078637-ce19-499c-bf41-a4d1a933957b"
 "Tenure Status of the Housing Unit/Lot";"Geographic Location";"All Types of Building";"Single House";"Duplex";"Apartment/ accessoria/rowhouse";"Condominium/ condotel";"Other multi-unit residential";"Commercial/ industrial/agricultural";"Institutional living quarter";"Other types of building";"Not Reported"
 "Total";"PHILIPPINES /a";26376522;23086355;785663;1713666;173806;565763;45670;3644;1869;86
 "Total";"..NATIONAL CAPITAL REGION (NCR)";3494685;2341016;140826;506241;162912;326385;16110;722;436;37
@@ -13,10 +13,10 @@
 "Total";"....City of Malabon";94232;82935;2055;6442;68;2138;544;6;44;0
 "Total";"....City of Navotas";63061;53708;1624;3849;0;3609;250;9;10;2
 "Total";"....City of Valenzuela";192983;123616;9090;48998;1011;7600;2605;60;1;2
-"Total";"....City of Las Piñas";156756;123735;7735;18448;1131;5063;602;37;5;0
+"Total";"....City of Las PiÃ±as";156756;123735;7735;18448;1131;5063;602;37;5;0
 "Total";"....City of Makati";186238;73564;5080;30757;47532;28882;381;26;16;0
 "Total";"....City of Muntinlupa";138176;98562;6122;27442;1835;3969;229;5;12;0
-"Total";"....City of Parañaque";182109;140583;5734;20751;5924;8228;834;46;9;0
+"Total";"....City of ParaÃ±aque";182109;140583;5734;20751;5924;8228;834;46;9;0
 "Total";"....Pasay City";127290;65408;3934;34291;15957;6922;753;12;13;0
 "Total";"....City of Taguig";246790;135188;16169;53230;4976;36927;266;26;8;0
 "Total";"....Pateros";15838;11646;1031;2835;0;316;9;1;0;0
@@ -148,10 +148,10 @@
 "Own or owner-like possession of the house and lot";"....City of Malabon";36359;33960;599;770;40;905;82;3;0;0
 "Own or owner-like possession of the house and lot";"....City of Navotas";30916;28265;684;686;0;1251;26;2;0;2
 "Own or owner-like possession of the house and lot";"....City of Valenzuela";74243;63876;2089;5987;706;1334;242;9;0;0
-"Own or owner-like possession of the house and lot";"....City of Las Piñas";80396;70312;3253;4051;618;2055;95;12;0;0
+"Own or owner-like possession of the house and lot";"....City of Las PiÃ±as";80396;70312;3253;4051;618;2055;95;12;0;0
 "Own or owner-like possession of the house and lot";"....City of Makati";51337;34851;1966;7650;1787;5021;57;5;0;0
 "Own or owner-like possession of the house and lot";"....City of Muntinlupa";53581;43825;2350;5330;862;1192;19;3;0;0
-"Own or owner-like possession of the house and lot";"....City of Parañaque";80975;69905;2019;4150;2274;2500;118;9;0;0
+"Own or owner-like possession of the house and lot";"....City of ParaÃ±aque";80975;69905;2019;4150;2274;2500;118;9;0;0
 "Own or owner-like possession of the house and lot";"....Pasay City";35128;25364;1182;5624;1509;1381;68;0;0;0
 "Own or owner-like possession of the house and lot";"....City of Taguig";112706;75853;7568;14363;2515;12362;35;10;0;0
 "Own or owner-like possession of the house and lot";"....Pateros";9095;7879;467;613;0;133;3;0;0;0
@@ -283,10 +283,10 @@
 "Own house rent lot";"....City of Malabon";4026;3855;36;101;0;30;4;0;0;0
 "Own house rent lot";"....City of Navotas";4069;3754;86;63;0;162;1;3;0;0
 "Own house rent lot";"....City of Valenzuela";5930;4601;238;893;0;185;11;2;0;0
-"Own house rent lot";"....City of Las Piñas";5404;4596;278;356;0;168;6;0;0;0
+"Own house rent lot";"....City of Las PiÃ±as";5404;4596;278;356;0;168;6;0;0;0
 "Own house rent lot";"....City of Makati";2973;1773;136;716;0;341;7;0;0;0
 "Own house rent lot";"....City of Muntinlupa";6595;5479;298;738;0;78;2;0;0;0
-"Own house rent lot";"....City of Parañaque";6327;5114;281;509;0;415;8;0;0;0
+"Own house rent lot";"....City of ParaÃ±aque";6327;5114;281;509;0;415;8;0;0;0
 "Own house rent lot";"....Pasay City";3661;2560;163;619;0;311;8;0;0;0
 "Own house rent lot";"....City of Taguig";8556;5119;604;1783;0;1035;15;0;0;0
 "Own house rent lot";"....Pateros";1191;949;90;123;0;27;1;1;0;0
@@ -418,10 +418,10 @@
 "Own house rent-free lot with consent of owner";"....City of Malabon";7590;7281;95;141;0;50;22;1;0;0
 "Own house rent-free lot with consent of owner";"....City of Navotas";4354;3854;77;122;0;255;46;0;0;0
 "Own house rent-free lot with consent of owner";"....City of Valenzuela";7010;6031;206;575;0;153;45;0;0;0
-"Own house rent-free lot with consent of owner";"....City of Las Piñas";7467;6467;280;451;0;253;16;0;0;0
+"Own house rent-free lot with consent of owner";"....City of Las PiÃ±as";7467;6467;280;451;0;253;16;0;0;0
 "Own house rent-free lot with consent of owner";"....City of Makati";3716;2039;162;853;0;642;17;3;0;0
 "Own house rent-free lot with consent of owner";"....City of Muntinlupa";10411;8560;356;1252;0;242;1;0;0;0
-"Own house rent-free lot with consent of owner";"....City of Parañaque";10820;9200;327;755;0;520;18;0;0;0
+"Own house rent-free lot with consent of owner";"....City of ParaÃ±aque";10820;9200;327;755;0;520;18;0;0;0
 "Own house rent-free lot with consent of owner";"....Pasay City";5534;3865;278;1013;0;374;4;0;0;0
 "Own house rent-free lot with consent of owner";"....City of Taguig";10991;6716;691;1923;0;1649;8;4;0;0
 "Own house rent-free lot with consent of owner";"....Pateros";255;201;13;34;0;7;0;0;0;0
@@ -553,10 +553,10 @@
 "Own house rent-free lot without consent of owner";"....City of Malabon";10102;9902;84;58;0;56;2;0;0;0
 "Own house rent-free lot without consent of owner";"....City of Navotas";2055;1940;50;27;0;38;0;0;0;0
 "Own house rent-free lot without consent of owner";"....City of Valenzuela";2481;2211;42;182;0;23;23;0;0;0
-"Own house rent-free lot without consent of owner";"....City of Las Piñas";3997;3476;193;257;0;69;0;2;0;0
+"Own house rent-free lot without consent of owner";"....City of Las PiÃ±as";3997;3476;193;257;0;69;0;2;0;0
 "Own house rent-free lot without consent of owner";"....City of Makati";1954;1489;72;251;0;136;6;0;0;0
 "Own house rent-free lot without consent of owner";"....City of Muntinlupa";4393;3736;174;412;0;69;2;0;0;0
-"Own house rent-free lot without consent of owner";"....City of Parañaque";7387;6506;202;284;0;387;8;0;0;0
+"Own house rent-free lot without consent of owner";"....City of ParaÃ±aque";7387;6506;202;284;0;387;8;0;0;0
 "Own house rent-free lot without consent of owner";"....Pasay City";2056;1463;129;412;0;52;0;0;0;0
 "Own house rent-free lot without consent of owner";"....City of Taguig";1215;821;76;190;0;128;0;0;0;0
 "Own house rent-free lot without consent of owner";"....Pateros";54;45;3;2;0;4;0;0;0;0
@@ -688,10 +688,10 @@
 "Rent house/room including lot";"....City of Malabon";25164;18376;1051;4875;23;670;168;1;0;0
 "Rent house/room including lot";"....City of Navotas";15713;10925;627;2395;0;1735;31;0;0;0
 "Rent house/room including lot";"....City of Valenzuela";83228;34814;5716;37810;220;4247;412;9;0;0
-"Rent house/room including lot";"....City of Las Piñas";43569;26687;2921;11497;364;1889;201;10;0;0
+"Rent house/room including lot";"....City of Las PiÃ±as";43569;26687;2921;11497;364;1889;201;10;0;0
 "Rent house/room including lot";"....City of Makati";56675;25152;2092;18040;2767;8527;93;4;0;0
 "Rent house/room including lot";"....City of Muntinlupa";48216;25535;2370;17681;698;1847;85;0;0;0
-"Rent house/room including lot";"....City of Parañaque";55820;35350;2301;13099;1370;3442;234;24;0;0
+"Rent house/room including lot";"....City of ParaÃ±aque";55820;35350;2301;13099;1370;3442;234;24;0;0
 "Rent house/room including lot";"....Pasay City";55588;23299;1749;23086;3495;3709;245;5;0;0
 "Rent house/room including lot";"....City of Taguig";88994;34974;5965;31122;1138;15726;66;3;0;0
 "Rent house/room including lot";"....Pateros";4428;2041;413;1851;0;121;2;0;0;0
@@ -823,10 +823,10 @@
 "Rent-free house and lot with consent of owner";"....City of Malabon";10600;9230;186;488;5;424;266;1;0;0
 "Rent-free house and lot with consent of owner";"....City of Navotas";5738;4772;98;553;0;166;145;4;0;0
 "Rent-free house and lot with consent of owner";"....City of Valenzuela";19314;11453;782;3504;42;1641;1850;40;0;2
-"Rent-free house and lot with consent of owner";"....City of Las Piñas";15455;11895;782;1809;66;608;282;13;0;0
+"Rent-free house and lot with consent of owner";"....City of Las PiÃ±as";15455;11895;782;1809;66;608;282;13;0;0
 "Rent-free house and lot with consent of owner";"....City of Makati";10499;5604;384;2270;623;1405;199;14;0;0
 "Rent-free house and lot with consent of owner";"....City of Muntinlupa";12696;9454;561;1971;64;532;112;2;0;0
-"Rent-free house and lot with consent of owner";"....City of Parañaque";17583;13528;536;1908;222;930;446;13;0;0
+"Rent-free house and lot with consent of owner";"....City of ParaÃ±aque";17583;13528;536;1908;222;930;446;13;0;0
 "Rent-free house and lot with consent of owner";"....Pasay City";12125;6909;344;3226;383;834;422;7;0;0
 "Rent-free house and lot with consent of owner";"....City of Taguig";19269;10986;1243;3771;76;3048;142;3;0;0
 "Rent-free house and lot with consent of owner";"....Pateros";758;483;44;204;0;24;3;0;0;0
@@ -958,10 +958,10 @@
 "Rent-free house and lot without consent of owner";"....City of Malabon";268;255;3;8;0;2;0;0;0;0
 "Rent-free house and lot without consent of owner";"....City of Navotas";189;183;2;2;0;1;1;0;0;0
 "Rent-free house and lot without consent of owner";"....City of Valenzuela";713;619;16;40;0;17;21;0;0;0
-"Rent-free house and lot without consent of owner";"....City of Las Piñas";330;263;27;17;0;21;2;0;0;0
+"Rent-free house and lot without consent of owner";"....City of Las PiÃ±as";330;263;27;17;0;21;2;0;0;0
 "Rent-free house and lot without consent of owner";"....City of Makati";313;210;18;36;0;49;0;0;0;0
 "Rent-free house and lot without consent of owner";"....City of Muntinlupa";904;830;8;57;0;9;0;0;0;0
-"Rent-free house and lot without consent of owner";"....City of Parañaque";978;836;64;46;0;31;1;0;0;0
+"Rent-free house and lot without consent of owner";"....City of ParaÃ±aque";978;836;64;46;0;31;1;0;0;0
 "Rent-free house and lot without consent of owner";"....Pasay City";994;517;78;154;0;239;6;0;0;0
 "Rent-free house and lot without consent of owner";"....City of Taguig";583;466;20;61;0;30;0;6;0;0
 "Rent-free house and lot without consent of owner";"....Pateros";25;23;1;1;0;0;0;0;0;0
@@ -1093,10 +1093,10 @@
 "Not reported";"....City of Malabon";79;76;1;1;0;1;0;0;0;0
 "Not reported";"....City of Navotas";17;15;0;1;0;1;0;0;0;0
 "Not reported";"....City of Valenzuela";63;11;1;7;43;0;1;0;0;0
-"Not reported";"....City of Las Piñas";133;39;1;10;83;0;0;0;0;0
+"Not reported";"....City of Las PiÃ±as";133;39;1;10;83;0;0;0;0;0
 "Not reported";"....City of Makati";58755;2446;250;941;42355;12761;2;0;0;0
 "Not reported";"....City of Muntinlupa";1368;1143;5;1;211;0;8;0;0;0
-"Not reported";"....City of Parañaque";2210;144;4;0;2058;3;1;0;0;0
+"Not reported";"....City of ParaÃ±aque";2210;144;4;0;2058;3;1;0;0;0
 "Not reported";"....Pasay City";12191;1431;11;157;10570;22;0;0;0;0
 "Not reported";"....City of Taguig";4468;253;2;17;1247;2949;0;0;0;0
 "Not reported";"....Pateros";32;25;0;7;0;0;0;0;0;0
@@ -1228,10 +1228,10 @@
 "Not applicable";"....City of Malabon";44;0;0;0;0;0;0;0;44;0
 "Not applicable";"....City of Navotas";10;0;0;0;0;0;0;0;10;0
 "Not applicable";"....City of Valenzuela";1;0;0;0;0;0;0;0;1;0
-"Not applicable";"....City of Las Piñas";5;0;0;0;0;0;0;0;5;0
+"Not applicable";"....City of Las PiÃ±as";5;0;0;0;0;0;0;0;5;0
 "Not applicable";"....City of Makati";16;0;0;0;0;0;0;0;16;0
 "Not applicable";"....City of Muntinlupa";12;0;0;0;0;0;0;0;12;0
-"Not applicable";"....City of Parañaque";9;0;0;0;0;0;0;0;9;0
+"Not applicable";"....City of ParaÃ±aque";9;0;0;0;0;0;0;0;9;0
 "Not applicable";"....Pasay City";13;0;0;0;0;0;0;0;13;0
 "Not applicable";"....City of Taguig";8;0;0;0;0;0;0;0;8;0
 "Not applicable";"....Pateros";0;0;0;0;0;0;0;0;0;0
