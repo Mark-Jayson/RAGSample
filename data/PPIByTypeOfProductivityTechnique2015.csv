@@ -1,0 +1,193 @@
+"Number of Productivity Programs Implemented in Establishments Employing 20 or More Workers by Type of Productivity Technique/Tool Used and Major Industry Group, Philippines: 2015"
+
+"Major Industry Group";"Type of Productivity Technique/Tool Used";"2015"
+"ALL INDUSTRIES";"Total Productivity Programs Implemented";3339
+"ALL INDUSTRIES";"5S";1081
+"ALL INDUSTRIES";"Lean Manufacturing";201
+"ALL INDUSTRIES";"Six Sigma";127
+"ALL INDUSTRIES";"Kaizen";536
+"ALL INDUSTRIES";"Total Quality Management";971
+"ALL INDUSTRIES";"Suggestion Scheme";569
+"ALL INDUSTRIES";"Just in Time";356
+"ALL INDUSTRIES";"Others";449
+"ALL INDUSTRIES";"None";193
+"..Agriculture, Forestry and Fishing";"Total Productivity Programs Implemented";49
+"..Agriculture, Forestry and Fishing";"5S";4
+"..Agriculture, Forestry and Fishing";"Lean Manufacturing";6
+"..Agriculture, Forestry and Fishing";"Six Sigma";0
+"..Agriculture, Forestry and Fishing";"Kaizen";1
+"..Agriculture, Forestry and Fishing";"Total Quality Management";22
+"..Agriculture, Forestry and Fishing";"Suggestion Scheme";0
+"..Agriculture, Forestry and Fishing";"Just in Time";6
+"..Agriculture, Forestry and Fishing";"Others";1
+"..Agriculture, Forestry and Fishing";"None";9
+"..Mining and Quarrying";"Total Productivity Programs Implemented";13
+"..Mining and Quarrying";"5S";3
+"..Mining and Quarrying";"Lean Manufacturing";3
+"..Mining and Quarrying";"Six Sigma";1
+"..Mining and Quarrying";"Kaizen";2
+"..Mining and Quarrying";"Total Quality Management";7
+"..Mining and Quarrying";"Suggestion Scheme";1
+"..Mining and Quarrying";"Just in Time";1
+"..Mining and Quarrying";"Others";2
+"..Mining and Quarrying";"None";0
+"..Manufacturing";"Total Productivity Programs Implemented";1039
+"..Manufacturing";"5S";486
+"..Manufacturing";"Lean Manufacturing";113
+"..Manufacturing";"Six Sigma";53
+"..Manufacturing";"Kaizen";267
+"..Manufacturing";"Total Quality Management";232
+"..Manufacturing";"Suggestion Scheme";150
+"..Manufacturing";"Just in Time";152
+"..Manufacturing";"Others";62
+"..Manufacturing";"None";20
+"..Electricity, Gas, Steam and Air Conditioning Supply";"Total Productivity Programs Implemented";67
+"..Electricity, Gas, Steam and Air Conditioning Supply";"5S";13
+"..Electricity, Gas, Steam and Air Conditioning Supply";"Lean Manufacturing";0
+"..Electricity, Gas, Steam and Air Conditioning Supply";"Six Sigma";0
+"..Electricity, Gas, Steam and Air Conditioning Supply";"Kaizen";6
+"..Electricity, Gas, Steam and Air Conditioning Supply";"Total Quality Management";38
+"..Electricity, Gas, Steam and Air Conditioning Supply";"Suggestion Scheme";1
+"..Electricity, Gas, Steam and Air Conditioning Supply";"Just in Time";21
+"..Electricity, Gas, Steam and Air Conditioning Supply";"Others";4
+"..Electricity, Gas, Steam and Air Conditioning Supply";"None";12
+"..Water Supply; Sewerage, Waste Management and Remediation Activities";"Total Productivity Programs Implemented";11
+"..Water Supply; Sewerage, Waste Management and Remediation Activities";"5S";2
+"..Water Supply; Sewerage, Waste Management and Remediation Activities";"Lean Manufacturing";0
+"..Water Supply; Sewerage, Waste Management and Remediation Activities";"Six Sigma";1
+"..Water Supply; Sewerage, Waste Management and Remediation Activities";"Kaizen";1
+"..Water Supply; Sewerage, Waste Management and Remediation Activities";"Total Quality Management";9
+"..Water Supply; Sewerage, Waste Management and Remediation Activities";"Suggestion Scheme";8
+"..Water Supply; Sewerage, Waste Management and Remediation Activities";"Just in Time";0
+"..Water Supply; Sewerage, Waste Management and Remediation Activities";"Others";1
+"..Water Supply; Sewerage, Waste Management and Remediation Activities";"None";0
+"..Construction";"Total Productivity Programs Implemented";53
+"..Construction";"5S";18
+"..Construction";"Lean Manufacturing";0
+"..Construction";"Six Sigma";0
+"..Construction";"Kaizen";2
+"..Construction";"Total Quality Management";20
+"..Construction";"Suggestion Scheme";8
+"..Construction";"Just in Time";12
+"..Construction";"Others";3
+"..Construction";"None";1
+"..Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles";"Total Productivity Programs Implemented";654
+"..Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles";"5S";162
+"..Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles";"Lean Manufacturing";18
+"..Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles";"Six Sigma";16
+"..Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles";"Kaizen";90
+"..Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles";"Total Quality Management";167
+"..Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles";"Suggestion Scheme";117
+"..Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles";"Just in Time";47
+"..Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles";"Others";58
+"..Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles";"None";110
+"..Transportation and Storage";"Total Productivity Programs Implemented";72
+"..Transportation and Storage";"5S";14
+"..Transportation and Storage";"Lean Manufacturing";0
+"..Transportation and Storage";"Six Sigma";0
+"..Transportation and Storage";"Kaizen";3
+"..Transportation and Storage";"Total Quality Management";33
+"..Transportation and Storage";"Suggestion Scheme";13
+"..Transportation and Storage";"Just in Time";8
+"..Transportation and Storage";"Others";3
+"..Transportation and Storage";"None";0
+"..Accommodation and Food Service Activities";"Total Productivity Programs Implemented";511
+"..Accommodation and Food Service Activities";"5S";142
+"..Accommodation and Food Service Activities";"Lean Manufacturing";47
+"..Accommodation and Food Service Activities";"Six Sigma";18
+"..Accommodation and Food Service Activities";"Kaizen";70
+"..Accommodation and Food Service Activities";"Total Quality Management";176
+"..Accommodation and Food Service Activities";"Suggestion Scheme";103
+"..Accommodation and Food Service Activities";"Just in Time";47
+"..Accommodation and Food Service Activities";"Others";155
+"..Accommodation and Food Service Activities";"None";7
+"..Information and Communication";"Total Productivity Programs Implemented";48
+"..Information and Communication";"5S";8
+"..Information and Communication";"Lean Manufacturing";0
+"..Information and Communication";"Six Sigma";0
+"..Information and Communication";"Kaizen";8
+"..Information and Communication";"Total Quality Management";17
+"..Information and Communication";"Suggestion Scheme";9
+"..Information and Communication";"Just in Time";0
+"..Information and Communication";"Others";15
+"..Information and Communication";"None";5
+"..Financial and Insurance Activities";"Total Productivity Programs Implemented";177
+"..Financial and Insurance Activities";"5S";73
+"..Financial and Insurance Activities";"Lean Manufacturing";0
+"..Financial and Insurance Activities";"Six Sigma";13
+"..Financial and Insurance Activities";"Kaizen";17
+"..Financial and Insurance Activities";"Total Quality Management";38
+"..Financial and Insurance Activities";"Suggestion Scheme";34
+"..Financial and Insurance Activities";"Just in Time";10
+"..Financial and Insurance Activities";"Others";30
+"..Financial and Insurance Activities";"None";7
+"..Real Estate Activities";"Total Productivity Programs Implemented";31
+"..Real Estate Activities";"5S";17
+"..Real Estate Activities";"Lean Manufacturing";0
+"..Real Estate Activities";"Six Sigma";0
+"..Real Estate Activities";"Kaizen";7
+"..Real Estate Activities";"Total Quality Management";0
+"..Real Estate Activities";"Suggestion Scheme";0
+"..Real Estate Activities";"Just in Time";0
+"..Real Estate Activities";"Others";9
+"..Real Estate Activities";"None";0
+"..Professional, Scientific and Technical Activities";"Total Productivity Programs Implemented";61
+"..Professional, Scientific and Technical Activities";"5S";15
+"..Professional, Scientific and Technical Activities";"Lean Manufacturing";0
+"..Professional, Scientific and Technical Activities";"Six Sigma";3
+"..Professional, Scientific and Technical Activities";"Kaizen";13
+"..Professional, Scientific and Technical Activities";"Total Quality Management";19
+"..Professional, Scientific and Technical Activities";"Suggestion Scheme";13
+"..Professional, Scientific and Technical Activities";"Just in Time";0
+"..Professional, Scientific and Technical Activities";"Others";8
+"..Professional, Scientific and Technical Activities";"None";0
+"..Administrative and Support Service Activities";"Total Productivity Programs Implemented";133
+"..Administrative and Support Service Activities";"5S";16
+"..Administrative and Support Service Activities";"Lean Manufacturing";4
+"..Administrative and Support Service Activities";"Six Sigma";10
+"..Administrative and Support Service Activities";"Kaizen";10
+"..Administrative and Support Service Activities";"Total Quality Management";34
+"..Administrative and Support Service Activities";"Suggestion Scheme";27
+"..Administrative and Support Service Activities";"Just in Time";18
+"..Administrative and Support Service Activities";"Others";40
+"..Administrative and Support Service Activities";"None";6
+"..Education Except Public Education";"Total Productivity Programs Implemented";255
+"..Education Except Public Education";"5S";47
+"..Education Except Public Education";"Lean Manufacturing";1
+"..Education Except Public Education";"Six Sigma";1
+"..Education Except Public Education";"Kaizen";22
+"..Education Except Public Education";"Total Quality Management";83
+"..Education Except Public Education";"Suggestion Scheme";60
+"..Education Except Public Education";"Just in Time";28
+"..Education Except Public Education";"Others";40
+"..Education Except Public Education";"None";14
+"..Human Health and Social Work Activities Except Public Health Activities";"Total Productivity Programs Implemented";127
+"..Human Health and Social Work Activities Except Public Health Activities";"5S";46
+"..Human Health and Social Work Activities Except Public Health Activities";"Lean Manufacturing";8
+"..Human Health and Social Work Activities Except Public Health Activities";"Six Sigma";12
+"..Human Health and Social Work Activities Except Public Health Activities";"Kaizen";15
+"..Human Health and Social Work Activities Except Public Health Activities";"Total Quality Management";68
+"..Human Health and Social Work Activities Except Public Health Activities";"Suggestion Scheme";17
+"..Human Health and Social Work Activities Except Public Health Activities";"Just in Time";3
+"..Human Health and Social Work Activities Except Public Health Activities";"Others";15
+"..Human Health and Social Work Activities Except Public Health Activities";"None";1
+"..Arts, Entertainment and Recreation";"Total Productivity Programs Implemented";18
+"..Arts, Entertainment and Recreation";"5S";14
+"..Arts, Entertainment and Recreation";"Lean Manufacturing";0
+"..Arts, Entertainment and Recreation";"Six Sigma";0
+"..Arts, Entertainment and Recreation";"Kaizen";1
+"..Arts, Entertainment and Recreation";"Total Quality Management";0
+"..Arts, Entertainment and Recreation";"Suggestion Scheme";0
+"..Arts, Entertainment and Recreation";"Just in Time";1
+"..Arts, Entertainment and Recreation";"Others";3
+"..Arts, Entertainment and Recreation";"None";0
+"..Repair of Computers and Personal and Household Goods; Other Personal Service Activities";"Total Productivity Programs Implemented";18
+"..Repair of Computers and Personal and Household Goods; Other Personal Service Activities";"5S";1
+"..Repair of Computers and Personal and Household Goods; Other Personal Service Activities";"Lean Manufacturing";0
+"..Repair of Computers and Personal and Household Goods; Other Personal Service Activities";"Six Sigma";0
+"..Repair of Computers and Personal and Household Goods; Other Personal Service Activities";"Kaizen";0
+"..Repair of Computers and Personal and Household Goods; Other Personal Service Activities";"Total Quality Management";8
+"..Repair of Computers and Personal and Household Goods; Other Personal Service Activities";"Suggestion Scheme";8
+"..Repair of Computers and Personal and Household Goods; Other Personal Service Activities";"Just in Time";0
+"..Repair of Computers and Personal and Household Goods; Other Personal Service Activities";"Others";0
+"..Repair of Computers and Personal and Household Goods; Other Personal Service Activities";"None";2
