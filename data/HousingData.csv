@@ -1,0 +1,1353 @@
+"Occupied Housing Units by Type of Building, Number of Floors, and Province/Highly Urbanized City: Philippines, 2020"
+https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__1A__PO/0041A6DBNF0.px/table/tableViewLayout1/?rxid=b09a3d51-6bea-4625-92a0-14403d95f575
+"Type of Building";"Geographic Location";"Total";"One Floor";"Two Floors";"Three Floors";"Four Floors";"Five to 10 Floors";"11 Floors or more";"Not Reported";"Not applicable"
+"All Types of Building";"PHILIPPINES";25191610;19990317;4261607;509971;142212;98848;142133;44848;1674
+"All Types of Building";"..NATIONAL CAPITAL REGION (NCR)";3257020;1262502;1272435;357109;112963;88067;138377;25168;399
+"All Types of Building";"....City of Manila";447791;57192;212630;83186;35801;24969;22700;11083;230
+"All Types of Building";"....City of Mandaluyong";108859;9099;45073;17948;9966;5909;18852;2004;8
+"All Types of Building";"....City of Marikina";97768;41374;46043;8860;1195;183;54;57;2
+"All Types of Building";"....City of Pasig";196744;63237;84750;25553;6387;10106;6088;621;2
+"All Types of Building";"....Quezon City";697332;321033;268331;61496;15519;12969;13839;4114;31
+"All Types of Building";"....City of San Juan";29503;2893;13937;4935;2157;1432;2887;1247;15
+"All Types of Building";"....City of Caloocan";379922;232594;112233;24340;5662;4071;37;978;7
+"All Types of Building";"....City of Malabon";88079;39665;40717;6010;678;713;43;210;43
+"All Types of Building";"....City of Navotas";55476;26766;23710;4226;524;128;0;112;10
+"All Types of Building";"....City of Valenzuela";177749;103012;53146;17314;1876;1839;210;351;1
+"All Types of Building";"....City of Las Piñas";142990;64174;65781;10169;1661;542;567;91;5
+"All Types of Building";"....City of Makati";180256;42489;49833;17172;8293;7858;53140;1462;9
+"All Types of Building";"....City of Muntinlupa";126655;65619;48159;8242;2241;1079;944;363;8
+"All Types of Building";"....City of Parañaque";170674;68316;78220;14114;3007;3283;3113;612;9
+"All Types of Building";"....Pasay City";114778;20382;50366;16991;8146;4639;12969;1272;13
+"All Types of Building";"....City of Taguig";228341;97247;73957;35597;9675;8347;2934;578;6
+"All Types of Building";"....Pateros";14103;7410;5549;956;175;0;0;13;0
+"All Types of Building";"..CORDILLERA ADMINISTRATIVE REGION (CAR)";432668;245535;132753;34681;13414;4759;126;1353;47
+"All Types of Building";"....Abra";56928;45054;11390;423;41;1;0;19;0
+"All Types of Building";"....Apayao";28385;23846;4438;76;16;0;0;3;6
+"All Types of Building";"....Benguet *";115716;55981;42240;11489;4679;700;0;595;32
+"All Types of Building";"....Ifugao";48379;36737;10754;682;142;14;1;49;0
+"All Types of Building";"....Kalinga";47778;39315;8082;362;19;0;0;0;0
+"All Types of Building";"....Mountain Province";37534;18212;17133;1671;388;84;0;45;1
+"All Types of Building";"....City of Baguio";97948;26390;38716;19978;8129;3960;125;642;8
+"All Types of Building";"..REGION I (ILOCOS REGION)";1231448;1065492;158913;5910;669;55;1;358;50
+"All Types of Building";"....Ilocos Norte";141731;118513;22173;883;129;20;0;7;6
+"All Types of Building";"....Ilocos Sur";164711;136485;27308;807;84;9;0;15;3
+"All Types of Building";"....La Union";192998;168098;23615;1105;159;5;0;11;5
+"All Types of Building";"....Pangasinan";732008;642396;85817;3115;297;21;1;325;36
+"All Types of Building";"..REGION II (CAGAYAN VALLEY)";875592;778376;92805;3865;448;10;1;80;7
+"All Types of Building";"....Batanes";5174;3909;1224;37;1;0;0;2;1
+"All Types of Building";"....Cagayan";291652;249007;40307;2027;278;10;1;22;0
+"All Types of Building";"....Isabela";405425;372559;31733;1012;87;0;0;34;0
+"All Types of Building";"....Nueva Vizcaya";124274;106963;16503;723;70;0;0;11;4
+"All Types of Building";"....Quirino";49067;45938;3038;66;12;0;0;11;2
+"All Types of Building";"..REGION III (CENTRAL LUZON)";2892184;2506179;367060;14404;1640;242;36;2332;291
+"All Types of Building";"....Aurora";56540;52675;3692;152;7;1;0;9;4
+"All Types of Building";"....Bataan";199002;170222;27864;810;53;3;0;44;6
+"All Types of Building";"....Bulacan";865286;685931;169509;7920;726;49;10;942;199
+"All Types of Building";"....Nueva Ecija";546068;501344;43205;1260;146;15;4;87;7
+"All Types of Building";"....Pampanga *";540236;478846;58790;1734;207;21;4;624;10
+"All Types of Building";"....Tarlac";350479;327830;21655;568;61;3;11;320;31
+"All Types of Building";"....Zambales *";161255;148284;12535;366;27;0;0;27;16
+"All Types of Building";"....City of Angeles";109497;94715;14023;403;70;6;7;257;16
+"All Types of Building";"....City of Olongapo";63821;46332;15787;1191;343;144;0;22;2
+"All Types of Building";"..REGION IV-A (CALABARZON)";3820739;2916659;841581;50134;5788;3538;1184;1477;378
+"All Types of Building";"....Batangas";674774;579994;91165;2845;403;204;0;100;63
+"All Types of Building";"....Cavite";1036970;695555;321413;15541;1998;560;825;801;277
+"All Types of Building";"....Laguna";834930;639694;183843;9847;1015;373;20;117;21
+"All Types of Building";"....Quezon *";463376;411662;48938;2420;309;11;0;33;3
+"All Types of Building";"....Rizal";746907;540201;182653;18953;1966;2357;339;424;14
+"All Types of Building";"....City of Lucena";63782;49553;13569;528;97;33;0;2;0
+"All Types of Building";"..MIMAROPA REGION";781435;721292;57642;2136;232;36;1;92;4
+"All Types of Building";"....Marinduque";59263;53345;5638;257;18;0;0;4;1
+"All Types of Building";"....Occidental Mindoro";125023;117584;7240;163;17;0;0;18;1
+"All Types of Building";"....Oriental Mindoro";212416;196483;15202;652;49;2;1;26;1
+"All Types of Building";"....Palawan *";228788;215079;13437;210;38;1;0;23;0
+"All Types of Building";"....Romblon";75895;69100;6281;436;71;0;0;6;1
+"All Types of Building";"....City of Puerto Princesa";80050;69701;9844;418;39;33;0;15;0
+"All Types of Building";"..REGION V (BICOL REGION)";1342578;1217957;117475;6479;406;36;13;159;53
+"All Types of Building";"....Albay";305362;271116;31315;2693;184;5;11;31;7
+"All Types of Building";"....Camarines Norte";142094;131324;10267;451;31;0;0;11;10
+"All Types of Building";"....Camarines Sur";445150;400769;42257;1960;86;22;2;33;21
+"All Types of Building";"....Catanduanes";59815;53695;5732;317;34;5;0;22;10
+"All Types of Building";"....Masbate";204668;190424;13680;477;38;3;0;43;3
+"All Types of Building";"....Sorsogon";185489;170629;14224;581;33;1;0;19;2
+"All Types of Building";"..REGION VI (WESTERN VISAYAS)";1896202;1703497;187114;4229;525;80;1;696;60
+"All Types of Building";"....Aklan";147890;128838;18161;793;85;5;1;6;1
+"All Types of Building";"....Antique";146370;139189;6981;144;13;0;0;41;2
+"All Types of Building";"....Capiz";199268;186269;12601;331;17;0;0;41;9
+"All Types of Building";"....Guimaras";47137;45132;1962;30;2;0;0;9;2
+"All Types of Building";"....Iloilo *";499274;459954;38287;635;60;0;0;311;27
+"All Types of Building";"....Negros Occidental *";619110;573278;45352;353;33;1;0;93;0
+"All Types of Building";"....City of Bacolod";138999;112947;25331;551;108;12;0;44;6
+"All Types of Building";"....City of Iloilo";98154;57890;38439;1392;207;62;0;151;13
+"All Types of Building";"..REGION VII (CENTRAL VISAYAS)";1909857;1542002;345393;14167;3791;1335;1970;1132;67
+"All Types of Building";"....Bohol";319246;282996;35420;498;56;5;0;255;16
+"All Types of Building";"....Cebu *";774454;677211;94842;1976;220;25;0;161;19
+"All Types of Building";"....Negros Oriental";343272;300238;42567;376;32;5;0;42;12
+"All Types of Building";"....Siquijor";25698;23270;2382;39;3;1;0;2;1
+"All Types of Building";"....City of Cebu";219984;113838;93516;7938;2480;778;1006;414;14
+"All Types of Building";"....City of Lapu-Lapu (Opon)";127300;88562;36363;1373;319;399;215;68;1
+"All Types of Building";"....City of Mandaue";99903;55887;40303;1967;681;122;749;190;4
+"All Types of Building";"..REGION VIII (EASTERN VISAYAS)";1068259;917517;146126;3947;431;35;1;163;39
+"All Types of Building";"....Biliran";42634;39185;3330;96;20;1;0;2;0
+"All Types of Building";"....Eastern Samar";114960;92232;22257;413;33;0;1;20;4
+"All Types of Building";"....Leyte *";438893;396903;40936;934;60;2;0;39;19
+"All Types of Building";"....Northern Samar";137759;114120;23043;529;43;2;0;21;1
+"All Types of Building";"....Samar (Western Samar)";178614;145301;31989;1110;126;17;0;67;4
+"All Types of Building";"....Southern Leyte";100046;91285;8371;331;48;0;0;6;5
+"All Types of Building";"....City of Tacloban";55353;38491;16200;534;101;13;0;8;6
+"All Types of Building";"..REGION IX (ZAMBOANGA PENINSULA)";858337;785928;70670;1305;209;17;0;178;30
+"All Types of Building";"....Zamboanga del Norte";240805;223114;17334;305;27;3;0;22;0
+"All Types of Building";"....Zamboanga del Sur *";232500;216958;15202;260;28;6;0;35;11
+"All Types of Building";"....Zamboanga Sibugay";151206;142776;8306;103;16;0;0;4;1
+"All Types of Building";"....City of Isabela **";24305;21527;2710;38;4;0;0;24;2
+"All Types of Building";"....City of Zamboanga";209521;181553;27118;599;134;8;0;93;16
+"All Types of Building";"..REGION X (NORTHERN MINDANAO)";1131542;974388;152717;3626;428;95;1;262;25
+"All Types of Building";"....Bukidnon";347980;323015;24342;413;72;0;0;129;9
+"All Types of Building";"....Camiguin";21821;18858;2917;46;0;0;0;0;0
+"All Types of Building";"....Lanao del Norte *";137943;124840;12973;104;8;0;0;18;0
+"All Types of Building";"....Misamis Occidental";145529;128326;16839;302;45;0;0;12;5
+"All Types of Building";"....Misamis Oriental *";218537;192340;25791;346;22;2;0;31;5
+"All Types of Building";"....City of Cagayan de Oro";177951;126775;49058;1734;226;93;1;59;5
+"All Types of Building";"....City of Iligan";81781;60234;20797;681;55;0;0;13;1
+"All Types of Building";"..REGION XI (DAVAO REGION)";1285860;1145618;132950;4856;842;516;421;581;76
+"All Types of Building";"....Davao de Oro (Compostela Valley)";184649;174230;10191;132;17;0;0;73;6
+"All Types of Building";"....Davao del Norte";264129;244923;18853;220;27;1;0;97;8
+"All Types of Building";"....Davao del Sur *";176400;164635;11569;104;16;1;0;60;15
+"All Types of Building";"....Davao Occidental";76739;72252;4443;10;3;0;0;31;0
+"All Types of Building";"....Davao Oriental";134328;126506;7735;64;6;0;0;16;1
+"All Types of Building";"....City of Davao";449615;363072;80159;4326;773;514;421;304;46
+"All Types of Building";"..REGION XII (SOCCSKSARGEN)";1037179;991822;44475;558;81;18;0;130;95
+"All Types of Building";"....Cotabato (North Cotabato)";300107;285405;14404;169;18;8;0;30;73
+"All Types of Building";"....Sarangani";130972;125525;5408;26;2;0;0;11;0
+"All Types of Building";"....South Cotabato *";238720;231731;6816;104;31;3;0;29;6
+"All Types of Building";"....Sultan Kudarat";195885;190108;5695;46;5;1;0;29;1
+"All Types of Building";"....City of General Santos (Dadiangas)";171495;159053;12152;213;25;6;0;31;15
+"All Types of Building";"..REGION XIII (CARAGA)";645835;567133;77213;1188;135;9;0;130;27
+"All Types of Building";"....Agusan del Norte *";88064;79269;8712;56;9;0;0;18;0
+"All Types of Building";"....Agusan del Sur";171961;157384;14460;67;3;2;0;33;12
+"All Types of Building";"....Dinagat Islands";28447;24909;3475;51;5;0;0;7;0
+"All Types of Building";"....Surigao del Norte";123575;106490;16412;552;95;2;0;22;2
+"All Types of Building";"....Surigao del Sur";147305;126058;20958;258;7;2;0;16;6
+"All Types of Building";"....City of Butuan";86483;73023;13196;204;16;3;0;34;7
+"All Types of Building";"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (";724875;648420;64285;1377;210;0;0;10557;26
+"All Types of Building";"....Basilan";69327;66813;2336;24;6;0;0;145;3
+"All Types of Building";"....Lanao del Sur";130552;102829;26520;718;100;0;0;367;18
+"All Types of Building";"....Maguindanao";266763;240762;25148;451;64;0;0;333;5
+"All Types of Building";"....Sulu";146622;132933;3888;102;27;0;0;9672;0
+"All Types of Building";"....Tawi-Tawi";65741;61917;3702;74;9;0;0;39;0
+"All Types of Building";"....Eight (8) Area Clusters ***";45870;43166;2691;8;4;0;0;1;0
+"Single House";"PHILIPPINES";22059348;18418492;3262298;293074;50849;0;0;34635;0
+"Single House";"..NATIONAL CAPITAL REGION (NCR)";2161188;1028586;885892;190374;37969;0;0;18367;0
+"Single House";"....City of Manila";252720;48608;140867;43224;11615;0;0;8406;0
+"Single House";"....City of Mandaluyong";55824;7753;31607;10815;4028;0;0;1621;0
+"Single House";"....City of Marikina";77125;34049;35547;6736;739;0;0;54;0
+"Single House";"....City of Pasig";113387;47351;51494;12193;1857;0;0;492;0
+"Single House";"....Quezon City";521248;275057;198049;39271;6415;0;0;2456;0
+"Single House";"....City of San Juan";15478;2467;8996;2392;563;0;0;1060;0
+"Single House";"....City of Caloocan";294947;196154;81291;14417;2510;0;0;575;0
+"Single House";"....City of Malabon";77315;35940;35942;4801;476;0;0;156;0
+"Single House";"....City of Navotas";46919;23938;19578;2972;338;0;0;93;0
+"Single House";"....City of Valenzuela";112612;73668;32660;5627;502;0;0;155;0
+"Single House";"....City of Las Piñas";111899;53445;51008;6627;750;0;0;69;0
+"Single House";"....City of Makati";70814;31807;29338;7206;1725;0;0;738;0
+"Single House";"....City of Muntinlupa";89550;52094;32622;4013;472;0;0;349;0
+"Single House";"....City of Parañaque";131629;59528;61507;8901;1156;0;0;537;0
+"Single House";"....Pasay City";56954;14435;29934;8655;2805;0;0;1125;0
+"Single House";"....City of Taguig";122616;66802;41371;12012;1963;0;0;468;0
+"Single House";"....Pateros";10151;5490;4081;512;55;0;0;13;0
+"Single House";"..CORDILLERA ADMINISTRATIVE REGION (CAR)";404056;243655;127247;25765;6375;0;0;1014;0
+"Single House";"....Abra";56294;44627;11233;387;29;0;0;18;0
+"Single House";"....Apayao";28270;23776;4413;72;6;0;0;3;0
+"Single House";"....Benguet *";107550;55429;40743;8514;2404;0;0;460;0
+"Single House";"....Ifugao";48063;36598;10669;636;114;0;0;46;0
+"Single House";"....Kalinga";47595;39221;8015;340;19;0;0;0;0
+"Single House";"....Mountain Province";37153;18203;17078;1604;240;0;0;28;0
+"Single House";"....City of Baguio";79131;25801;35096;14212;3563;0;0;459;0
+"Single House";"..REGION I (ILOCOS REGION)";1182346;1029412;147600;4613;407;0;0;314;0
+"Single House";"....Ilocos Norte";134694;113535;20466;619;69;0;0;5;0
+"Single House";"....Ilocos Sur";160188;133265;26161;681;68;0;0;13;0
+"Single House";"....La Union";184705;162586;21213;834;62;0;0;10;0
+"Single House";"....Pangasinan";702759;620026;79760;2479;208;0;0;286;0
+"Single House";"..REGION II (CAGAYAN VALLEY)";841530;752619;85602;2995;238;0;0;76;0
+"Single House";"....Batanes";5133;3901;1194;35;1;0;0;2;0
+"Single House";"....Cagayan";281216;242377;37122;1563;132;0;0;22;0
+"Single House";"....Isabela";388832;358590;29313;828;70;0;0;31;0
+"Single House";"....Nueva Vizcaya";118033;102471;15009;514;29;0;0;10;0
+"Single House";"....Quirino";48316;45280;2964;55;6;0;0;11;0
+"Single House";"..REGION III (CENTRAL LUZON)";2456831;2179626;266113;8721;660;0;0;1711;0
+"Single House";"....Aurora";55324;51662;3533;118;2;0;0;9;0
+"Single House";"....Bataan";171968;149291;22171;443;24;0;0;39;0
+"Single House";"....Bulacan";628197;511237;111457;4589;285;0;0;629;0
+"Single House";"....Nueva Ecija";513407;474557;37822;876;72;0;0;80;0
+"Single House";"....Pampanga *";479636;429923;47752;1290;152;0;0;519;0
+"Single House";"....Tarlac";326486;307789;17956;466;47;0;0;228;0
+"Single House";"....Zambales *";147677;137243;10106;287;17;0;0;24;0
+"Single House";"....City of Angeles";90348;82707;7265;182;21;0;0;173;0
+"Single House";"....City of Olongapo";43788;35217;8051;470;40;0;0;10;0
+"Single House";"..REGION IV-A (CALABARZON)";2840540;2292554;516378;28680;2019;0;0;909;0
+"Single House";"....Batangas";574697;509713;63399;1386;114;0;0;85;0
+"Single House";"....Cavite";621682;457802;155331;7617;443;0;0;489;0
+"Single House";"....Laguna";567636;451624;111015;4552;354;0;0;91;0
+"Single House";"....Quezon *";435565;391404;41979;1939;213;0;0;30;0
+"Single House";"....Rizal";584757;436940;133892;12851;862;0;0;212;0
+"Single House";"....City of Lucena";56203;45071;10762;335;33;0;0;2;0
+"Single House";"..MIMAROPA REGION";754072;701970;50332;1515;165;0;0;90;0
+"Single House";"....Marinduque";58344;52801;5297;225;17;0;0;4;0
+"Single House";"....Occidental Mindoro";121610;114766;6688;121;17;0;0;18;0
+"Single House";"....Oriental Mindoro";202737;190088;12184;416;25;0;0;24;0
+"Single House";"....Palawan *";224346;211423;12723;154;23;0;0;23;0
+"Single House";"....Romblon";74119;67988;5699;374;52;0;0;6;0
+"Single House";"....City of Puerto Princesa";72916;64904;7741;225;31;0;0;15;0
+"Single House";"..REGION V (BICOL REGION)";1299345;1189603;103949;5338;301;0;0;154;0
+"Single House";"....Albay";295035;264303;28273;2281;150;0;0;28;0
+"Single House";"....Camarines Norte";136834;127501;8977;329;16;0;0;11;0
+"Single House";"....Camarines Sur";425054;388576;34842;1547;57;0;0;32;0
+"Single House";"....Catanduanes";59114;53267;5529;276;21;0;0;21;0
+"Single House";"....Masbate";202151;188811;12874;397;26;0;0;43;0
+"Single House";"....Sorsogon";181157;167145;13454;508;31;0;0;19;0
+"Single House";"..REGION VI (WESTERN VISAYAS)";1828573;1653203;171313;3172;268;0;0;617;0
+"Single House";"....Aklan";143935;126365;16918;607;39;0;0;6;0
+"Single House";"....Antique";143788;136958;6650;132;8;0;0;40;0
+"Single House";"....Capiz";191908;180410;11202;247;14;0;0;35;0
+"Single House";"....Guimaras";46972;45037;1906;18;2;0;0;9;0
+"Single House";"....Iloilo *";482240;446532;34835;539;48;0;0;286;0
+"Single House";"....Negros Occidental *";597914;554160;43318;313;31;0;0;92;0
+"Single House";"....City of Bacolod";131717;108450;22883;310;41;0;0;33;0
+"Single House";"....City of Iloilo";90099;55291;33601;1006;85;0;0;116;0
+"Single House";"..REGION VII (CENTRAL VISAYAS)";1784336;1486951;286147;9370;1099;0;0;769;0
+"Single House";"....Bohol";313935;279707;33572;389;35;0;0;232;0
+"Single House";"....Cebu *";732313;653024;77521;1498;127;0;0;143;0
+"Single House";"....Negros Oriental";335129;295144;39659;274;19;0;0;33;0
+"Single House";"....Siquijor";25565;23189;2335;38;1;0;0;2;0
+"Single House";"....City of Cebu";193234;106766;80052;5489;662;0;0;265;0
+"Single House";"....City of Lapu-Lapu (Opon)";100557;78863;21053;506;104;0;0;31;0
+"Single House";"....City of Mandaue";83603;50258;31955;1176;151;0;0;63;0
+"Single House";"..REGION VIII (EASTERN VISAYAS)";1022992;885261;134089;3211;279;0;0;152;0
+"Single House";"....Biliran";41393;38111;3195;76;9;0;0;2;0
+"Single House";"....Eastern Samar";112273;90305;21556;365;29;0;0;18;0
+"Single House";"....Leyte *";421070;383216;37008;767;41;0;0;38;0
+"Single House";"....Northern Samar";135849;112902;22411;479;36;0;0;21;0
+"Single House";"....Samar (Western Samar)";172195;141007;30158;891;79;0;0;60;0
+"Single House";"....Southern Leyte";96269;88243;7767;229;24;0;0;6;0
+"Single House";"....City of Tacloban";43943;31477;11994;404;61;0;0;7;0
+"Single House";"..REGION IX (ZAMBOANGA PENINSULA)";830031;766289;62539;909;131;0;0;163;0
+"Single House";"....Zamboanga del Norte";235603;219658;15709;199;16;0;0;21;0
+"Single House";"....Zamboanga del Sur *";229928;215290;14425;168;12;0;0;33;0
+"Single House";"....Zamboanga Sibugay";147054;139403;7564;78;5;0;0;4;0
+"Single House";"....City of Isabela **";23504;21082;2367;28;4;0;0;23;0
+"Single House";"....City of Zamboanga";193942;170856;22474;436;94;0;0;82;0
+"Single House";"..REGION X (NORTHERN MINDANAO)";1081168;941873;136018;2826;223;0;0;228;0
+"Single House";"....Bukidnon";340595;317160;22904;352;59;0;0;120;0
+"Single House";"....Camiguin";21596;18709;2852;35;0;0;0;0;0
+"Single House";"....Lanao del Norte *";134206;122010;12085;85;8;0;0;18;0
+"Single House";"....Misamis Occidental";140552;125172;15143;213;14;0;0;10;0
+"Single House";"....Misamis Oriental *";211538;187062;24127;301;19;0;0;29;0
+"Single House";"....City of Cagayan de Oro";160348;116732;42120;1365;86;0;0;45;0
+"Single House";"....City of Iligan";72333;55028;16787;475;37;0;0;6;0
+"Single House";"..REGION XI (DAVAO REGION)";1223298;1102729;116512;3249;437;0;0;371;0
+"Single House";"....Davao de Oro (Compostela Valley)";171682;162194;9297;115;11;0;0;65;0
+"Single House";"....Davao del Norte";251286;235003;16022;162;17;0;0;82;0
+"Single House";"....Davao del Sur *";172571;161833;10586;79;15;0;0;58;0
+"Single House";"....Davao Occidental";76650;72202;4405;10;2;0;0;31;0
+"Single House";"....Davao Oriental";130778;123504;7203;51;6;0;0;14;0
+"Single House";"....City of Davao";420331;347993;68999;2832;386;0;0;121;0
+"Single House";"..REGION XII (SOCCSKSARGEN)";1004843;963742;40567;372;47;0;0;115;0
+"Single House";"....Cotabato (North Cotabato)";294899;281230;13512;113;14;0;0;30;0
+"Single House";"....Sarangani";129155;123889;5230;23;2;0;0;11;0
+"Single House";"....South Cotabato *";232535;226171;6240;80;15;0;0;29;0
+"Single House";"....Sultan Kudarat";192648;187137;5437;42;5;0;0;27;0
+"Single House";"....City of General Santos (Dadiangas)";155606;145315;10148;114;11;0;0;18;0
+"Single House";"..REGION XIII (CARAGA)";628982;556460;71421;894;81;0;0;126;0
+"Single House";"....Agusan del Norte *";85438;77248;8124;42;7;0;0;17;0
+"Single House";"....Agusan del Sur";169439;155549;13797;59;1;0;0;33;0
+"Single House";"....Dinagat Islands";28195;24774;3362;47;5;0;0;7;0
+"Single House";"....Surigao del Norte";120349;104707;15152;415;55;0;0;20;0
+"Single House";"....Surigao del Sur";143694;124241;19227;203;7;0;0;16;0
+"Single House";"....City of Butuan";81867;69941;11759;128;6;0;0;33;0
+"Single House";"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (";715217;643959;60579;1070;150;0;0;9459;0
+"Single House";"....Basilan";69013;66643;2202;23;6;0;0;139;0
+"Single House";"....Lanao del Sur";127356;101442;24910;586;70;0;0;348;0
+"Single House";"....Maguindanao";262899;238631;23614;294;41;0;0;319;0
+"Single House";"....Sulu";144885;132499;3654;96;20;0;0;8616;0
+"Single House";"....Tawi-Tawi";65547;61809;3630;63;9;0;0;36;0
+"Single House";"....Eight (8) Area Clusters ***";45517;42935;2569;8;4;0;0;1;0
+"Duplex";"PHILIPPINES";746765;528939;195327;16548;3353;0;0;2598;0
+"Duplex";"..NATIONAL CAPITAL REGION (NCR)";130099;54684;59422;11916;2771;0;0;1306;0
+"Duplex";"....City of Manila";12984;1160;8067;2478;868;0;0;411;0
+"Duplex";"....City of Mandaluyong";2689;193;1518;600;257;0;0;121;0
+"Duplex";"....City of Marikina";4818;1935;2450;376;54;0;0;3;0
+"Duplex";"....City of Pasig";11219;3783;5952;1225;221;0;0;38;0
+"Duplex";"....Quezon City";26169;11236;12198;2111;439;0;0;185;0
+"Duplex";"....City of San Juan";764;51;454;176;55;0;0;28;0
+"Duplex";"....City of Caloocan";17821;10979;5748;863;139;0;0;92;0
+"Duplex";"....City of Malabon";1947;818;985;111;26;0;0;7;0
+"Duplex";"....City of Navotas";1449;536;754;141;13;0;0;5;0
+"Duplex";"....City of Valenzuela";8521;5582;2484;315;25;0;0;115;0
+"Duplex";"....City of Las Piñas";7140;2924;3657;498;54;0;0;7;0
+"Duplex";"....City of Makati";4892;1696;2365;492;147;0;0;192;0
+"Duplex";"....City of Muntinlupa";5444;3258;2021;146;12;0;0;7;0
+"Duplex";"....City of Parañaque";5234;1770;2928;445;58;0;0;33;0
+"Duplex";"....Pasay City";3372;756;2036;402;150;0;0;28;0
+"Duplex";"....City of Taguig";14700;7519;5401;1497;249;0;0;34;0
+"Duplex";"....Pateros";936;488;404;40;4;0;0;0;0
+"Duplex";"..CORDILLERA ADMINISTRATIVE REGION (CAR)";1736;611;568;332;150;0;0;75;0
+"Duplex";"....Abra";460;341;109;10;0;0;0;0;0
+"Duplex";"....Apayao";55;42;11;0;2;0;0;0;0
+"Duplex";"....Benguet *";206;54;67;52;21;0;0;12;0
+"Duplex";"....Ifugao";122;57;47;12;4;0;0;2;0
+"Duplex";"....Kalinga";79;56;22;1;0;0;0;0;0
+"Duplex";"....Mountain Province";54;2;10;6;19;0;0;17;0
+"Duplex";"....City of Baguio";760;59;302;251;104;0;0;44;0
+"Duplex";"..REGION I (ILOCOS REGION)";29276;24211;4863;158;20;0;0;24;0
+"Duplex";"....Ilocos Norte";4153;3386;741;21;3;0;0;2;0
+"Duplex";"....Ilocos Sur";2972;2282;671;13;4;0;0;2;0
+"Duplex";"....La Union";4301;3564;702;29;6;0;0;0;0
+"Duplex";"....Pangasinan";17850;14979;2749;95;7;0;0;20;0
+"Duplex";"..REGION II (CAGAYAN VALLEY)";20428;17129;3137;144;16;0;0;2;0
+"Duplex";"....Batanes";22;4;18;0;0;0;0;0;0
+"Duplex";"....Cagayan";6666;5119;1453;80;14;0;0;0;0
+"Duplex";"....Isabela";10277;9183;1047;45;1;0;0;1;0
+"Duplex";"....Nueva Vizcaya";3001;2397;583;19;1;0;0;1;0
+"Duplex";"....Quirino";462;426;36;0;0;0;0;0;0
+"Duplex";"..REGION III (CENTRAL LUZON)";130280;108605;20996;503;32;0;0;144;0
+"Duplex";"....Aurora";636;597;37;2;0;0;0;0;0
+"Duplex";"....Bataan";10172;8482;1665;21;1;0;0;3;0
+"Duplex";"....Bulacan";48007;38503;9174;265;17;0;0;48;0
+"Duplex";"....Nueva Ecija";18645;16720;1878;43;1;0;0;3;0
+"Duplex";"....Pampanga *";21945;19032;2798;71;9;0;0;35;0
+"Duplex";"....Tarlac";13521;11857;1637;17;0;0;0;10;0
+"Duplex";"....Zambales *";7227;6343;870;14;0;0;0;0;0
+"Duplex";"....City of Angeles";5613;3921;1639;13;2;0;0;38;0
+"Duplex";"....City of Olongapo";4514;3150;1298;57;2;0;0;7;0
+"Duplex";"..REGION IV-A (CALABARZON)";240936;176758;61821;2111;174;0;0;72;0
+"Duplex";"....Batangas";32687;27482;5123;70;6;0;0;6;0
+"Duplex";"....Cavite";100247;70694;28674;770;66;0;0;43;0
+"Duplex";"....Laguna";57593;43215;13942;395;26;0;0;15;0
+"Duplex";"....Quezon *";14116;11254;2742;103;15;0;0;2;0
+"Duplex";"....Rizal";33622;22315;10485;758;58;0;0;6;0
+"Duplex";"....City of Lucena";2671;1798;855;15;3;0;0;0;0
+"Duplex";"..MIMAROPA REGION";10952;9076;1823;46;7;0;0;0;0
+"Duplex";"....Marinduque";525;386;134;5;0;0;0;0;0
+"Duplex";"....Occidental Mindoro";1856;1626;229;1;0;0;0;0;0
+"Duplex";"....Oriental Mindoro";3938;3297;627;13;1;0;0;0;0
+"Duplex";"....Palawan *";1522;1278;235;7;2;0;0;0;0
+"Duplex";"....Romblon";1032;724;291;13;4;0;0;0;0
+"Duplex";"....City of Puerto Princesa";2079;1765;307;7;0;0;0;0;0
+"Duplex";"..REGION V (BICOL REGION)";22519;17766;4532;205;14;0;0;2;0
+"Duplex";"....Albay";6334;4874;1351;101;7;0;0;1;0
+"Duplex";"....Camarines Norte";2392;2021;364;7;0;0;0;0;0
+"Duplex";"....Camarines Sur";9335;7276;1978;75;6;0;0;0;0
+"Duplex";"....Catanduanes";344;248;87;7;1;0;0;1;0
+"Duplex";"....Masbate";1441;1037;391;13;0;0;0;0;0
+"Duplex";"....Sorsogon";2673;2310;361;2;0;0;0;0;0
+"Duplex";"..REGION VI (WESTERN VISAYAS)";24970;19481;5307;137;24;0;0;21;0
+"Duplex";"....Aklan";1465;1005;437;20;3;0;0;0;0
+"Duplex";"....Antique";1549;1371;176;2;0;0;0;0;0
+"Duplex";"....Capiz";2841;2248;581;11;0;0;0;1;0
+"Duplex";"....Guimaras";51;39;11;1;0;0;0;0;0
+"Duplex";"....Iloilo *";5886;4676;1165;28;3;0;0;14;0
+"Duplex";"....Negros Occidental *";7603;6521;1074;7;0;0;0;1;0
+"Duplex";"....City of Bacolod";3144;2458;671;13;2;0;0;0;0
+"Duplex";"....City of Iloilo";2431;1163;1192;55;16;0;0;5;0
+"Duplex";"..REGION VII (CENTRAL VISAYAS)";33959;21568;11824;459;61;0;0;47;0
+"Duplex";"....Bohol";2588;1792;757;24;1;0;0;14;0
+"Duplex";"....Cebu *";14990;11028;3858;83;12;0;0;9;0
+"Duplex";"....Negros Oriental";3412;2424;964;24;0;0;0;0;0
+"Duplex";"....Siquijor";57;41;16;0;0;0;0;0;0
+"Duplex";"....City of Cebu";6214;2368;3559;230;39;0;0;18;0
+"Duplex";"....City of Lapu-Lapu (Opon)";4108;2703;1340;56;5;0;0;4;0
+"Duplex";"....City of Mandaue";2590;1212;1330;42;4;0;0;2;0
+"Duplex";"..REGION VIII (EASTERN VISAYAS)";17453;13506;3791;133;18;0;0;5;0
+"Duplex";"....Biliran";154;129;25;0;0;0;0;0;0
+"Duplex";"....Eastern Samar";1224;904;309;9;0;0;0;2;0
+"Duplex";"....Leyte *";7315;6002;1273;40;0;0;0;0;0
+"Duplex";"....Northern Samar";1329;877;432;18;2;0;0;0;0
+"Duplex";"....Samar (Western Samar)";3455;2393;1018;29;12;0;0;3;0
+"Duplex";"....Southern Leyte";2691;2399;278;14;0;0;0;0;0
+"Duplex";"....City of Tacloban";1285;802;456;23;4;0;0;0;0
+"Duplex";"..REGION IX (ZAMBOANGA PENINSULA)";13064;10064;2950;40;4;0;0;6;0
+"Duplex";"....Zamboanga del Norte";2299;1763;530;6;0;0;0;0;0
+"Duplex";"....Zamboanga del Sur *";1046;797;245;4;0;0;0;0;0
+"Duplex";"....Zamboanga Sibugay";2536;2173;359;4;0;0;0;0;0
+"Duplex";"....City of Isabela **";475;261;210;4;0;0;0;0;0
+"Duplex";"....City of Zamboanga";6708;5070;1606;22;4;0;0;6;0
+"Duplex";"..REGION X (NORTHERN MINDANAO)";20740;15507;5108;104;19;0;0;2;0
+"Duplex";"....Bukidnon";3777;3082;680;9;6;0;0;0;0
+"Duplex";"....Camiguin";140;105;35;0;0;0;0;0;0
+"Duplex";"....Lanao del Norte *";2513;1967;542;4;0;0;0;0;0
+"Duplex";"....Misamis Occidental";2385;1674;690;17;4;0;0;0;0
+"Duplex";"....Misamis Oriental *";3919;3171;738;8;2;0;0;0;0
+"Duplex";"....City of Cagayan de Oro";4642;3176;1427;33;5;0;0;1;0
+"Duplex";"....City of Iligan";3364;2332;996;33;2;0;0;1;0
+"Duplex";"..REGION XI (DAVAO REGION)";26721;22564;3973;153;17;0;0;14;0
+"Duplex";"....Davao de Oro (Compostela Valley)";9957;9596;355;5;0;0;0;1;0
+"Duplex";"....Davao del Norte";4401;3769;615;15;0;0;0;2;0
+"Duplex";"....Davao del Sur *";1383;1113;268;0;1;0;0;1;0
+"Duplex";"....Davao Occidental";22;12;10;0;0;0;0;0;0
+"Duplex";"....Davao Oriental";2561;2283;277;1;0;0;0;0;0
+"Duplex";"....City of Davao";8397;5791;2448;132;16;0;0;10;0
+"Duplex";"..REGION XII (SOCCSKSARGEN)";10261;9370;882;9;0;0;0;0;0
+"Duplex";"....Cotabato (North Cotabato)";2581;2245;330;6;0;0;0;0;0
+"Duplex";"....Sarangani";1118;1046;72;0;0;0;0;0;0
+"Duplex";"....South Cotabato *";1722;1596;125;1;0;0;0;0;0
+"Duplex";"....Sultan Kudarat";1466;1377;89;0;0;0;0;0;0
+"Duplex";"....City of General Santos (Dadiangas)";3374;3106;266;2;0;0;0;0;0
+"Duplex";"..REGION XIII (CARAGA)";8387;5758;2584;35;7;0;0;3;0
+"Duplex";"....Agusan del Norte *";1610;1276;328;5;0;0;0;1;0
+"Duplex";"....Agusan del Sur";1341;1054;285;2;0;0;0;0;0
+"Duplex";"....Dinagat Islands";164;94;70;0;0;0;0;0;0
+"Duplex";"....Surigao del Norte";1504;1047;439;11;6;0;0;1;0
+"Duplex";"....Surigao del Sur";2175;1195;970;10;0;0;0;0;0
+"Duplex";"....City of Butuan";1593;1092;492;7;1;0;0;1;0
+"Duplex";"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (";4984;2281;1746;63;19;0;0;875;0
+"Duplex";"....Basilan";180;100;79;1;0;0;0;0;0
+"Duplex";"....Lanao del Sur";1701;823;812;43;15;0;0;8;0
+"Duplex";"....Maguindanao";1531;906;607;13;1;0;0;4;0
+"Duplex";"....Sulu";1288;275;144;3;3;0;0;863;0
+"Duplex";"....Tawi-Tawi";76;44;29;3;0;0;0;0;0
+"Duplex";"....Eight (8) Area Clusters ***";208;133;75;0;0;0;0;0;0
+"Apartment/accessoria/row house";"PHILIPPINES";1628258;826845;602147;129695;48344;19307;1045;875;0
+"Apartment/accessoria/row house";"..NATIONAL CAPITAL REGION (NCR)";482051;128705;209654;91775;36065;14495;970;387;0
+"Apartment/accessoria/row house";"....City of Manila";40235;2874;17972;9346;5571;3969;304;199;0
+"Apartment/accessoria/row house";"....City of Mandaluyong";8311;267;3894;1370;1733;966;75;6;0
+"Apartment/accessoria/row house";"....City of Marikina";12850;4522;6455;1489;371;13;0;0;0
+"Apartment/accessoria/row house";"....City of Pasig";39568;8279;18832;9037;2571;818;27;4;0
+"Apartment/accessoria/row house";"....Quezon City";94328;26757;44605;14626;5762;2359;197;22;0
+"Apartment/accessoria/row house";"....City of San Juan";4000;143;2184;997;595;70;10;1;0
+"Apartment/accessoria/row house";"....City of Caloocan";48933;18522;19673;7390;2333;938;20;57;0
+"Apartment/accessoria/row house";"....City of Malabon";6139;2178;2987;819;116;35;0;4;0
+"Apartment/accessoria/row house";"....City of Navotas";3511;1342;1495;511;152;6;0;5;0
+"Apartment/accessoria/row house";"....City of Valenzuela";46291;20417;15807;7851;1196;965;2;53;0
+"Apartment/accessoria/row house";"....City of Las Piñas";17511;5775;8492;2522;616;92;14;0;0
+"Apartment/accessoria/row house";"....City of Makati";29614;5352;12568;6466;3922;1260;36;10;0
+"Apartment/accessoria/row house";"....City of Muntinlupa";25944;9042;12049;3806;1010;35;0;2;0
+"Apartment/accessoria/row house";"....City of Parañaque";19490;4653;9164;3637;1447;572;2;15;0
+"Apartment/accessoria/row house";"....Pasay City";31761;3896;15234;6590;4218;1555;265;3;0
+"Apartment/accessoria/row house";"....City of Taguig";50869;13410;17327;14927;4339;842;18;6;0
+"Apartment/accessoria/row house";"....Pateros";2696;1276;916;391;113;0;0;0;0
+"Apartment/accessoria/row house";"..CORDILLERA ADMINISTRATIVE REGION (CAR)";24358;841;4658;8381;6556;3704;17;201;0
+"Apartment/accessoria/row house";"....Abra";76;27;34;10;5;0;0;0;0
+"Apartment/accessoria/row house";"....Apayao";5;5;0;0;0;0;0;0;0
+"Apartment/accessoria/row house";"....Benguet *";7599;337;1373;2878;2229;659;0;123;0
+"Apartment/accessoria/row house";"....Ifugao";94;47;31;9;4;3;0;0;0
+"Apartment/accessoria/row house";"....Kalinga";35;8;16;11;0;0;0;0;0
+"Apartment/accessoria/row house";"....Mountain Province";192;4;28;29;81;50;0;0;0
+"Apartment/accessoria/row house";"....City of Baguio";16357;413;3176;5444;4237;2992;17;78;0
+"Apartment/accessoria/row house";"..REGION I (ILOCOS REGION)";10531;5139;4334;867;162;25;0;4;0
+"Apartment/accessoria/row house";"....Ilocos Norte";1504;608;671;182;38;5;0;0;0
+"Apartment/accessoria/row house";"....Ilocos Sur";666;387;186;88;4;1;0;0;0
+"Apartment/accessoria/row house";"....La Union";2736;1132;1355;169;78;2;0;0;0
+"Apartment/accessoria/row house";"....Pangasinan";5625;3012;2122;428;42;17;0;4;0
+"Apartment/accessoria/row house";"..REGION II (CAGAYAN VALLEY)";7235;3972;2600;528;133;2;0;0;0
+"Apartment/accessoria/row house";"....Batanes";0;0;0;0;0;0;0;0;0
+"Apartment/accessoria/row house";"....Cagayan";1968;461;1134;281;90;2;0;0;0
+"Apartment/accessoria/row house";"....Isabela";3203;2243;859;91;10;0;0;0;0
+"Apartment/accessoria/row house";"....Nueva Vizcaya";2026;1235;602;156;33;0;0;0;0
+"Apartment/accessoria/row house";"....Quirino";38;33;5;0;0;0;0;0;0
+"Apartment/accessoria/row house";"..REGION III (CENTRAL LUZON)";243426;172885;65517;4054;696;120;24;130;0
+"Apartment/accessoria/row house";"....Aurora";396;273;92;27;4;0;0;0;0
+"Apartment/accessoria/row house";"....Bataan";14060;10210;3513;310;27;0;0;0;0
+"Apartment/accessoria/row house";"....Bulacan";167898;120680;44381;2413;260;46;7;111;0
+"Apartment/accessoria/row house";"....Nueva Ecija";7295;4434;2520;269;53;14;4;1;0
+"Apartment/accessoria/row house";"....Pampanga *";24394;19622;4439;276;37;6;2;12;0
+"Apartment/accessoria/row house";"....Tarlac";5144;3730;1353;44;2;3;11;1;0
+"Apartment/accessoria/row house";"....Zambales *";3721;2687;976;56;2;0;0;0;0
+"Apartment/accessoria/row house";"....City of Angeles";8833;5436;3171;178;38;5;0;5;0
+"Apartment/accessoria/row house";"....City of Olongapo";11685;5813;5072;481;273;46;0;0;0
+"Apartment/accessoria/row house";"..REGION IV-A (CALABARZON)";664915;404308;240254;16934;2674;654;24;67;0
+"Apartment/accessoria/row house";"....Batangas";56670;34896;20067;1272;240;193;0;2;0
+"Apartment/accessoria/row house";"....Cavite";288916;152649;128856;6235;933;176;8;59;0
+"Apartment/accessoria/row house";"....Laguna";193312;134537;53726;4471;525;39;13;1;0
+"Apartment/accessoria/row house";"....Quezon *";9481;6186;2976;258;51;10;0;0;0
+"Apartment/accessoria/row house";"....Rizal";112508;73829;32979;4568;888;236;3;5;0
+"Apartment/accessoria/row house";"....City of Lucena";4028;2211;1650;130;37;0;0;0;0
+"Apartment/accessoria/row house";"..MIMAROPA REGION";11416;6855;4102;426;32;0;0;1;0
+"Apartment/accessoria/row house";"....Marinduque";212;62;129;21;0;0;0;0;0
+"Apartment/accessoria/row house";"....Occidental Mindoro";846;618;202;26;0;0;0;0;0
+"Apartment/accessoria/row house";"....Oriental Mindoro";4816;2492;2119;187;17;0;0;1;0
+"Apartment/accessoria/row house";"....Palawan *";1795;1556;228;8;3;0;0;0;0
+"Apartment/accessoria/row house";"....Romblon";471;255;174;33;9;0;0;0;0
+"Apartment/accessoria/row house";"....City of Puerto Princesa";3276;1872;1250;151;3;0;0;0;0
+"Apartment/accessoria/row house";"..REGION V (BICOL REGION)";12854;5678;6540;575;45;15;0;1;0
+"Apartment/accessoria/row house";"....Albay";1901;751;944;190;15;0;0;1;0
+"Apartment/accessoria/row house";"....Camarines Norte";2132;1307;744;74;7;0;0;0;0
+"Apartment/accessoria/row house";"....Camarines Sur";7233;2665;4341;206;10;11;0;0;0
+"Apartment/accessoria/row house";"....Catanduanes";155;85;53;14;3;0;0;0;0
+"Apartment/accessoria/row house";"....Masbate";486;213;213;47;10;3;0;0;0
+"Apartment/accessoria/row house";"....Sorsogon";947;657;245;44;0;1;0;0;0
+"Apartment/accessoria/row house";"..REGION VI (WESTERN VISAYAS)";32007;24169;7124;552;133;11;0;18;0
+"Apartment/accessoria/row house";"....Aklan";1878;1220;535;101;22;0;0;0;0
+"Apartment/accessoria/row house";"....Antique";584;516;64;4;0;0;0;0;0
+"Apartment/accessoria/row house";"....Capiz";3832;3168;614;47;2;0;0;1;0
+"Apartment/accessoria/row house";"....Guimaras";37;19;18;0;0;0;0;0;0
+"Apartment/accessoria/row house";"....Iloilo *";8635;7088;1516;27;2;0;0;2;0
+"Apartment/accessoria/row house";"....Negros Occidental *";10644;10259;370;15;0;0;0;0;0
+"Apartment/accessoria/row house";"....City of Bacolod";2462;1085;1181;139;50;1;0;6;0
+"Apartment/accessoria/row house";"....City of Iloilo";3935;814;2826;219;57;10;0;9;0
+"Apartment/accessoria/row house";"..REGION VII (CENTRAL VISAYAS)";56212;19628;31720;3250;1375;192;0;47;0
+"Apartment/accessoria/row house";"....Bohol";1186;549;595;30;12;0;0;0;0
+"Apartment/accessoria/row house";"....Cebu *";18985;8283;10304;313;70;15;0;0;0
+"Apartment/accessoria/row house";"....Negros Oriental";2265;966;1248;48;3;0;0;0;0
+"Apartment/accessoria/row house";"....Siquijor";28;13;15;0;0;0;0;0;0
+"Apartment/accessoria/row house";"....City of Cebu";11002;2551;5839;1616;888;89;0;19;0
+"Apartment/accessoria/row house";"....City of Lapu-Lapu (Opon)";14696;4491;9332;645;192;35;0;1;0
+"Apartment/accessoria/row house";"....City of Mandaue";8050;2775;4387;598;210;53;0;27;0
+"Apartment/accessoria/row house";"..REGION VIII (EASTERN VISAYAS)";22263;15437;6339;392;85;8;1;1;0
+"Apartment/accessoria/row house";"....Biliran";1007;891;90;17;9;0;0;0;0
+"Apartment/accessoria/row house";"....Eastern Samar";1047;721;290;32;3;0;1;0;0
+"Apartment/accessoria/row house";"....Leyte *";8021;6155;1782;75;9;0;0;0;0
+"Apartment/accessoria/row house";"....Northern Samar";177;113;55;9;0;0;0;0;0
+"Apartment/accessoria/row house";"....Samar (Western Samar)";1881;1312;404;132;25;8;0;0;0
+"Apartment/accessoria/row house";"....Southern Leyte";639;313;228;77;21;0;0;0;0
+"Apartment/accessoria/row house";"....City of Tacloban";9491;5932;3490;50;18;0;0;1;0
+"Apartment/accessoria/row house";"..REGION IX (ZAMBOANGA PENINSULA)";7386;4431;2716;195;39;5;0;0;0
+"Apartment/accessoria/row house";"....Zamboanga del Norte";2282;1329;866;80;7;0;0;0;0
+"Apartment/accessoria/row house";"....Zamboanga del Sur *";577;296;253;20;8;0;0;0;0
+"Apartment/accessoria/row house";"....Zamboanga Sibugay";212;141;60;11;0;0;0;0;0
+"Apartment/accessoria/row house";"....City of Isabela **";79;68;11;0;0;0;0;0;0
+"Apartment/accessoria/row house";"....City of Zamboanga";4236;2597;1526;84;24;5;0;0;0
+"Apartment/accessoria/row house";"..REGION X (NORTHERN MINDANAO)";14923;7948;6459;422;91;3;0;0;0
+"Apartment/accessoria/row house";"....Bukidnon";1225;917;263;40;5;0;0;0;0
+"Apartment/accessoria/row house";"....Camiguin";36;22;8;6;0;0;0;0;0
+"Apartment/accessoria/row house";"....Lanao del Norte *";300;188;104;8;0;0;0;0;0
+"Apartment/accessoria/row house";"....Misamis Occidental";1572;846;650;54;22;0;0;0;0
+"Apartment/accessoria/row house";"....Misamis Oriental *";915;624;259;32;0;0;0;0;0
+"Apartment/accessoria/row house";"....City of Cagayan de Oro";6951;3617;3099;169;63;3;0;0;0
+"Apartment/accessoria/row house";"....City of Iligan";3924;1734;2076;113;1;0;0;0;0
+"Apartment/accessoria/row house";"..REGION XI (DAVAO REGION)";15803;8858;5700;973;200;56;9;7;0
+"Apartment/accessoria/row house";"....Davao de Oro (Compostela Valley)";878;674;199;5;0;0;0;0;0
+"Apartment/accessoria/row house";"....Davao del Norte";4356;3207;1121;27;1;0;0;0;0
+"Apartment/accessoria/row house";"....Davao del Sur *";1393;999;381;13;0;0;0;0;0
+"Apartment/accessoria/row house";"....Davao Occidental";4;2;2;0;0;0;0;0;0
+"Apartment/accessoria/row house";"....Davao Oriental";175;122;47;6;0;0;0;0;0
+"Apartment/accessoria/row house";"....City of Davao";8997;3854;3950;922;199;56;9;7;0
+"Apartment/accessoria/row house";"..REGION XII (SOCCSKSARGEN)";17197;14747;2289;119;19;12;0;11;0
+"Apartment/accessoria/row house";"....Cotabato (North Cotabato)";1178;846;300;24;0;8;0;0;0
+"Apartment/accessoria/row house";"....Sarangani";222;164;58;0;0;0;0;0;0
+"Apartment/accessoria/row house";"....South Cotabato *";3483;3109;352;13;9;0;0;0;0
+"Apartment/accessoria/row house";"....Sultan Kudarat";874;805;69;0;0;0;0;0;0
+"Apartment/accessoria/row house";"....City of General Santos (Dadiangas)";11440;9823;1510;82;10;4;0;11;0
+"Apartment/accessoria/row house";"..REGION XIII (CARAGA)";4363;2475;1677;173;33;5;0;0;0
+"Apartment/accessoria/row house";"....Agusan del Norte *";437;301;128;8;0;0;0;0;0
+"Apartment/accessoria/row house";"....Agusan del Sur";431;274;152;3;0;2;0;0;0
+"Apartment/accessoria/row house";"....Dinagat Islands";8;6;2;0;0;0;0;0;0
+"Apartment/accessoria/row house";"....Surigao del Norte";1230;434;662;102;32;0;0;0;0
+"Apartment/accessoria/row house";"....Surigao del Sur";347;128;197;22;0;0;0;0;0
+"Apartment/accessoria/row house";"....City of Butuan";1910;1332;536;38;1;3;0;0;0
+"Apartment/accessoria/row house";"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (";1318;769;464;79;6;0;0;0;0
+"Apartment/accessoria/row house";"....Basilan";36;26;10;0;0;0;0;0;0
+"Apartment/accessoria/row house";"....Lanao del Sur";234;85;116;27;6;0;0;0;0
+"Apartment/accessoria/row house";"....Maguindanao";986;610;327;49;0;0;0;0;0
+"Apartment/accessoria/row house";"....Sulu";29;25;4;0;0;0;0;0;0
+"Apartment/accessoria/row house";"....Tawi-Tawi";33;23;7;3;0;0;0;0;0
+"Apartment/accessoria/row house";"....Eight (8) Area Clusters ***";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"PHILIPPINES";169327;0;0;0;2287;43613;121451;1976;0
+"Condominium/condotel";"..NATIONAL CAPITAL REGION (NCR)";158648;0;0;0;700;38827;118064;1057;0
+"Condominium/condotel";"....City of Manila";23798;0;0;0;68;3366;20190;174;0
+"Condominium/condotel";"....City of Mandaluyong";21781;0;0;0;36;3134;18576;35;0
+"Condominium/condotel";"....City of Marikina";218;0;0;0;0;164;54;0;0
+"Condominium/condotel";"....City of Pasig";11535;0;0;0;42;6562;4869;62;0
+"Condominium/condotel";"....Quezon City";20385;0;0;0;194;8822;11134;235;0
+"Condominium/condotel";"....City of San Juan";3538;0;0;0;28;542;2872;96;0
+"Condominium/condotel";"....City of Caloocan";1077;0;0;0;7;848;13;209;0
+"Condominium/condotel";"....City of Malabon";63;0;0;0;0;0;32;31;0
+"Condominium/condotel";"....City of Navotas";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....City of Valenzuela";1002;0;0;0;3;791;194;14;0
+"Condominium/condotel";"....City of Las Piñas";1091;0;0;0;119;412;553;7;0
+"Condominium/condotel";"....City of Makati";46489;0;0;0;139;5090;41154;106;0
+"Condominium/condotel";"....City of Muntinlupa";1771;0;0;0;0;825;944;2;0
+"Condominium/condotel";"....City of Parañaque";5764;0;0;0;19;2653;3085;7;0
+"Condominium/condotel";"....Pasay City";15484;0;0;0;14;2738;12667;65;0
+"Condominium/condotel";"....City of Taguig";4652;0;0;0;31;2880;1727;14;0
+"Condominium/condotel";"....Pateros";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"..CORDILLERA ADMINISTRATIVE REGION (CAR)";1099;0;0;0;81;862;108;48;0
+"Condominium/condotel";"....Abra";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Apayao";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Benguet *";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Ifugao";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Kalinga";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Mountain Province";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....City of Baguio";1099;0;0;0;81;862;108;48;0
+"Condominium/condotel";"..REGION I (ILOCOS REGION)";10;0;0;0;0;7;0;3;0
+"Condominium/condotel";"....Ilocos Norte";7;0;0;0;0;7;0;0;0
+"Condominium/condotel";"....Ilocos Sur";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....La Union";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Pangasinan";3;0;0;0;0;0;0;3;0
+"Condominium/condotel";"..REGION II (CAGAYAN VALLEY)";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Batanes";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Cagayan";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Isabela";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Nueva Vizcaya";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Quirino";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"..REGION III (CENTRAL LUZON)";357;0;0;0;119;75;8;155;0
+"Condominium/condotel";"....Aurora";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Bataan";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Bulacan";227;0;0;0;116;0;1;110;0
+"Condominium/condotel";"....Nueva Ecija";3;0;0;0;0;0;0;3;0
+"Condominium/condotel";"....Pampanga *";4;0;0;0;0;0;0;4;0
+"Condominium/condotel";"....Tarlac";38;0;0;0;3;0;0;35;0
+"Condominium/condotel";"....Zambales *";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....City of Angeles";7;0;0;0;0;0;7;0;0
+"Condominium/condotel";"....City of Olongapo";78;0;0;0;0;75;0;3;0
+"Condominium/condotel";"..REGION IV-A (CALABARZON)";4510;0;0;0;378;2656;1151;325;0
+"Condominium/condotel";"....Batangas";7;0;0;0;0;7;0;0;0
+"Condominium/condotel";"....Cavite";1590;0;0;0;359;288;810;133;0
+"Condominium/condotel";"....Laguna";342;0;0;0;14;319;6;3;0
+"Condominium/condotel";"....Quezon *";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Rizal";2571;0;0;0;5;2042;335;189;0
+"Condominium/condotel";"....City of Lucena";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"..MIMAROPA REGION";12;0;0;0;0;12;0;0;0
+"Condominium/condotel";"....Marinduque";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Occidental Mindoro";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Oriental Mindoro";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Palawan *";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Romblon";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....City of Puerto Princesa";12;0;0;0;0;12;0;0;0
+"Condominium/condotel";"..REGION V (BICOL REGION)";11;0;0;0;0;0;11;0;0
+"Condominium/condotel";"....Albay";11;0;0;0;0;0;11;0;0
+"Condominium/condotel";"....Camarines Norte";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Camarines Sur";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Catanduanes";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Masbate";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Sorsogon";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"..REGION VI (WESTERN VISAYAS)";74;0;0;0;7;40;0;27;0
+"Condominium/condotel";"....Aklan";3;0;0;0;0;3;0;0;0
+"Condominium/condotel";"....Antique";1;0;0;0;0;0;0;1;0
+"Condominium/condotel";"....Capiz";2;0;0;0;0;0;0;2;0
+"Condominium/condotel";"....Guimaras";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Iloilo *";4;0;0;0;0;0;0;4;0
+"Condominium/condotel";"....Negros Occidental *";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....City of Bacolod";10;0;0;0;0;5;0;5;0
+"Condominium/condotel";"....City of Iloilo";54;0;0;0;7;32;0;15;0
+"Condominium/condotel";"..REGION VII (CENTRAL VISAYAS)";3688;0;0;0;962;686;1863;177;0
+"Condominium/condotel";"....Bohol";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Cebu *";5;0;0;0;0;0;0;5;0
+"Condominium/condotel";"....Negros Oriental";12;0;0;0;0;5;0;7;0
+"Condominium/condotel";"....Siquijor";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....City of Cebu";2289;0;0;0;681;537;993;78;0
+"Condominium/condotel";"....City of Lapu-Lapu (Opon)";276;0;0;0;0;79;183;14;0
+"Condominium/condotel";"....City of Mandaue";1106;0;0;0;281;65;687;73;0
+"Condominium/condotel";"..REGION VIII (EASTERN VISAYAS)";1;0;0;0;0;0;0;1;0
+"Condominium/condotel";"....Biliran";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Eastern Samar";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Leyte *";1;0;0;0;0;0;0;1;0
+"Condominium/condotel";"....Northern Samar";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Samar (Western Samar)";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Southern Leyte";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....City of Tacloban";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"..REGION IX (ZAMBOANGA PENINSULA)";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Zamboanga del Norte";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Zamboanga del Sur *";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Zamboanga Sibugay";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....City of Isabela **";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....City of Zamboanga";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"..REGION X (NORTHERN MINDANAO)";99;0;0;0;22;65;1;11;0
+"Condominium/condotel";"....Bukidnon";1;0;0;0;0;0;0;1;0
+"Condominium/condotel";"....Camiguin";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Lanao del Norte *";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Misamis Occidental";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Misamis Oriental *";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....City of Cagayan de Oro";98;0;0;0;22;65;1;10;0
+"Condominium/condotel";"....City of Iligan";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"..REGION XI (DAVAO REGION)";806;0;0;0;18;383;245;160;0
+"Condominium/condotel";"....Davao de Oro (Compostela Valley)";4;0;0;0;0;0;0;4;0
+"Condominium/condotel";"....Davao del Norte";7;0;0;0;0;0;0;7;0
+"Condominium/condotel";"....Davao del Sur *";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Davao Occidental";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Davao Oriental";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....City of Davao";795;0;0;0;18;383;245;149;0
+"Condominium/condotel";"..REGION XII (SOCCSKSARGEN)";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Cotabato (North Cotabato)";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Sarangani";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....South Cotabato *";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Sultan Kudarat";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....City of General Santos (Dadiangas)";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"..REGION XIII (CARAGA)";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Agusan del Norte *";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Agusan del Sur";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Dinagat Islands";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Surigao del Norte";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Surigao del Sur";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....City of Butuan";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (";12;0;0;0;0;0;0;12;0
+"Condominium/condotel";"....Basilan";3;0;0;0;0;0;0;3;0
+"Condominium/condotel";"....Lanao del Sur";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Maguindanao";6;0;0;0;0;0;0;6;0
+"Condominium/condotel";"....Sulu";0;0;0;0;0;0;0;0;0
+"Condominium/condotel";"....Tawi-Tawi";3;0;0;0;0;0;0;3;0
+"Condominium/condotel";"....Eight (8) Area Clusters ***";0;0;0;0;0;0;0;0;0
+"Other multi-unit residential";"PHILIPPINES";541490;191839;188950;66465;35237;34888;19541;4570;0
+"Other multi-unit residential";"..NATIONAL CAPITAL REGION (NCR)";310346;44826;112768;61260;34135;34128;19258;3971;0
+"Other multi-unit residential";"....City of Manila";115917;4234;45126;27785;17393;17317;2186;1876;0
+"Other multi-unit residential";"....City of Mandaluyong";19864;805;7914;5065;3882;1777;201;220;0
+"Other multi-unit residential";"....City of Marikina";2403;717;1457;208;19;2;0;0;0
+"Other multi-unit residential";"....City of Pasig";20491;3584;8238;3050;1686;2716;1192;25;0
+"Other multi-unit residential";"....Quezon City";31110;6410;12358;4998;2055;1653;2459;1177;0
+"Other multi-unit residential";"....City of San Juan";5547;202;2236;1339;897;808;4;61;0
+"Other multi-unit residential";"....City of Caloocan";15721;6336;4962;1520;603;2257;4;39;0
+"Other multi-unit residential";"....City of Malabon";2099;540;616;209;35;676;11;12;0
+"Other multi-unit residential";"....City of Navotas";3393;839;1816;589;20;122;0;7;0
+"Other multi-unit residential";"....City of Valenzuela";7273;2036;1667;3379;108;65;13;5;0
+"Other multi-unit residential";"....City of Las Piñas";4813;1746;2466;442;117;34;0;8;0
+"Other multi-unit residential";"....City of Makati";28077;3510;5441;2951;2326;1483;11950;416;0
+"Other multi-unit residential";"....City of Muntinlupa";3730;1115;1403;265;728;219;0;0;0
+"Other multi-unit residential";"....City of Parañaque";7828;2060;4323;1063;289;51;22;20;0
+"Other multi-unit residential";"....Pasay City";6537;1142;2868;1234;890;325;29;49;0
+"Other multi-unit residential";"....City of Taguig";35232;9401;9731;7150;3084;4623;1187;56;0
+"Other multi-unit residential";"....Pateros";311;149;146;13;3;0;0;0;0
+"Other multi-unit residential";"..CORDILLERA ADMINISTRATIVE REGION (CAR)";474;119;114;81;84;71;0;5;0
+"Other multi-unit residential";"....Abra";69;43;9;12;5;0;0;0;0
+"Other multi-unit residential";"....Apayao";14;6;0;0;8;0;0;0;0
+"Other multi-unit residential";"....Benguet *";59;9;12;0;4;34;0;0;0
+"Other multi-unit residential";"....Ifugao";75;23;4;24;17;6;0;1;0
+"Other multi-unit residential";"....Kalinga";45;16;24;5;0;0;0;0;0
+"Other multi-unit residential";"....Mountain Province";107;0;12;26;38;31;0;0;0
+"Other multi-unit residential";"....City of Baguio";105;22;53;14;12;0;0;4;0
+"Other multi-unit residential";"..REGION I (ILOCOS REGION)";8033;6029;1789;158;43;9;0;5;0
+"Other multi-unit residential";"....Ilocos Norte";1171;879;245;38;5;4;0;0;0
+"Other multi-unit residential";"....Ilocos Sur";736;456;257;17;6;0;0;0;0
+"Other multi-unit residential";"....La Union";1059;736;278;40;2;3;0;0;0
+"Other multi-unit residential";"....Pangasinan";5067;3958;1009;63;30;2;0;5;0
+"Other multi-unit residential";"..REGION II (CAGAYAN VALLEY)";5176;3901;1162;94;19;0;0;0;0
+"Other multi-unit residential";"....Batanes";9;0;9;0;0;0;0;0;0
+"Other multi-unit residential";"....Cagayan";1423;887;479;45;12;0;0;0;0
+"Other multi-unit residential";"....Isabela";2709;2282;403;24;0;0;0;0;0
+"Other multi-unit residential";"....Nueva Vizcaya";903;608;263;25;7;0;0;0;0
+"Other multi-unit residential";"....Quirino";132;124;8;0;0;0;0;0;0
+"Other multi-unit residential";"..REGION III (CENTRAL LUZON)";55961;41615;13212;856;64;32;3;179;0
+"Other multi-unit residential";"....Aurora";92;84;7;1;0;0;0;0;0
+"Other multi-unit residential";"....Bataan";2509;2021;463;22;0;3;0;0;0
+"Other multi-unit residential";"....Bulacan";18770;14128;4028;545;25;3;2;39;0
+"Other multi-unit residential";"....Nueva Ecija";5933;5110;791;23;9;0;0;0;0
+"Other multi-unit residential";"....Pampanga *";13485;9653;3685;78;4;13;1;51;0
+"Other multi-unit residential";"....Tarlac";4836;4177;596;16;4;0;0;43;0
+"Other multi-unit residential";"....Zambales *";2457;1912;536;3;3;0;0;3;0
+"Other multi-unit residential";"....City of Angeles";4369;2453;1849;21;5;0;0;41;0
+"Other multi-unit residential";"....City of Olongapo";3510;2077;1257;147;14;13;0;2;0
+"Other multi-unit residential";"..REGION IV-A (CALABARZON)";63617;39171;21708;2043;426;181;7;81;0
+"Other multi-unit residential";"....Batangas";9654;7195;2371;65;23;0;0;0;0
+"Other multi-unit residential";"....Cavite";22166;12929;8111;806;161;84;7;68;0
+"Other multi-unit residential";"....Laguna";15139;9757;4923;370;79;6;0;4;0
+"Other multi-unit residential";"....Quezon *";3569;2457;1029;63;20;0;0;0;0
+"Other multi-unit residential";"....Rizal";12334;6404;5026;705;129;61;0;9;0
+"Other multi-unit residential";"....City of Lucena";755;429;248;34;14;30;0;0;0
+"Other multi-unit residential";"..MIMAROPA REGION";3822;2688;1078;52;4;0;0;0;0
+"Other multi-unit residential";"....Marinduque";138;79;56;3;0;0;0;0;0
+"Other multi-unit residential";"....Occidental Mindoro";628;518;105;5;0;0;0;0;0
+"Other multi-unit residential";"....Oriental Mindoro";571;400;159;10;2;0;0;0;0
+"Other multi-unit residential";"....Palawan *";706;540;158;8;0;0;0;0;0
+"Other multi-unit residential";"....Romblon";231;111;104;14;2;0;0;0;0
+"Other multi-unit residential";"....City of Puerto Princesa";1548;1040;496;12;0;0;0;0;0
+"Other multi-unit residential";"..REGION V (BICOL REGION)";6100;4031;1879;171;7;11;0;1;0
+"Other multi-unit residential";"....Albay";1748;1043;641;63;1;0;0;0;0
+"Other multi-unit residential";"....Camarines Norte";481;347;115;19;0;0;0;0;0
+"Other multi-unit residential";"....Camarines Sur";2852;1885;876;73;6;11;0;1;0
+"Other multi-unit residential";"....Catanduanes";59;46;12;1;0;0;0;0;0
+"Other multi-unit residential";"....Masbate";439;288;143;8;0;0;0;0;0
+"Other multi-unit residential";"....Sorsogon";521;422;92;7;0;0;0;0;0
+"Other multi-unit residential";"..REGION VI (WESTERN VISAYAS)";8348;5565;2661;99;13;0;0;10;0
+"Other multi-unit residential";"....Aklan";321;150;166;4;1;0;0;0;0
+"Other multi-unit residential";"....Antique";308;262;46;0;0;0;0;0;0
+"Other multi-unit residential";"....Capiz";560;392;156;11;0;0;0;1;0
+"Other multi-unit residential";"....Guimaras";17;10;7;0;0;0;0;0;0
+"Other multi-unit residential";"....Iloilo *";2144;1421;697;21;1;0;0;4;0
+"Other multi-unit residential";"....Negros Occidental *";2551;2095;454;1;1;0;0;0;0
+"Other multi-unit residential";"....City of Bacolod";1246;773;445;28;0;0;0;0;0
+"Other multi-unit residential";"....City of Iloilo";1201;462;690;34;10;0;0;5;0
+"Other multi-unit residential";"..REGION VII (CENTRAL VISAYAS)";29433;12659;15058;874;223;430;106;83;0
+"Other multi-unit residential";"....Bohol";1187;712;426;32;5;3;0;9;0
+"Other multi-unit residential";"....Cebu *";7543;4483;3004;46;7;0;0;3;0
+"Other multi-unit residential";"....Negros Oriental";2165;1548;607;7;3;0;0;0;0
+"Other multi-unit residential";"....Siquijor";10;3;7;0;0;0;0;0;0
+"Other multi-unit residential";"....City of Cebu";6728;1963;3888;534;162;140;12;29;0
+"Other multi-unit residential";"....City of Lapu-Lapu (Opon)";7516;2420;4593;153;16;285;32;17;0
+"Other multi-unit residential";"....City of Mandaue";4284;1530;2533;102;30;2;62;25;0
+"Other multi-unit residential";"..REGION VIII (EASTERN VISAYAS)";4563;2842;1580;114;14;9;0;4;0
+"Other multi-unit residential";"....Biliran";34;24;10;0;0;0;0;0;0
+"Other multi-unit residential";"....Eastern Samar";360;275;84;1;0;0;0;0;0
+"Other multi-unit residential";"....Leyte *";2130;1345;745;34;6;0;0;0;0
+"Other multi-unit residential";"....Northern Samar";303;179;103;17;4;0;0;0;0
+"Other multi-unit residential";"....Samar (Western Samar)";986;560;370;42;1;9;0;4;0
+"Other multi-unit residential";"....Southern Leyte";319;234;75;7;3;0;0;0;0
+"Other multi-unit residential";"....City of Tacloban";431;225;193;13;0;0;0;0;0
+"Other multi-unit residential";"..REGION IX (ZAMBOANGA PENINSULA)";6683;4417;2209;43;12;0;0;2;0
+"Other multi-unit residential";"....Zamboanga del Norte";438;247;190;1;0;0;0;0;0
+"Other multi-unit residential";"....Zamboanga del Sur *";645;428;211;6;0;0;0;0;0
+"Other multi-unit residential";"....Zamboanga Sibugay";1043;776;263;0;4;0;0;0;0
+"Other multi-unit residential";"....City of Isabela **";228;107;115;5;0;0;0;1;0
+"Other multi-unit residential";"....City of Zamboanga";4329;2859;1430;31;8;0;0;1;0
+"Other multi-unit residential";"..REGION X (NORTHERN MINDANAO)";12749;7892;4603;182;48;14;0;10;0
+"Other multi-unit residential";"....Bukidnon";1774;1377;391;2;0;0;0;4;0
+"Other multi-unit residential";"....Camiguin";19;8;11;0;0;0;0;0;0
+"Other multi-unit residential";"....Lanao del Norte *";730;548;179;3;0;0;0;0;0
+"Other multi-unit residential";"....Misamis Occidental";908;565;324;15;2;0;0;2;0
+"Other multi-unit residential";"....Misamis Oriental *";1913;1289;622;0;1;1;0;0;0
+"Other multi-unit residential";"....City of Cagayan de Oro";5432;3047;2208;128;35;13;0;1;0
+"Other multi-unit residential";"....City of Iligan";1973;1058;868;34;10;0;0;3;0
+"Other multi-unit residential";"..REGION XI (DAVAO REGION)";16707;9972;6087;333;131;1;167;16;0
+"Other multi-unit residential";"....Davao de Oro (Compostela Valley)";1816;1576;230;3;6;0;0;1;0
+"Other multi-unit residential";"....Davao del Norte";3624;2581;1023;7;7;0;0;6;0
+"Other multi-unit residential";"....Davao del Sur *";878;579;293;5;0;1;0;0;0
+"Other multi-unit residential";"....Davao Occidental";23;14;9;0;0;0;0;0;0
+"Other multi-unit residential";"....Davao Oriental";702;532;165;5;0;0;0;0;0
+"Other multi-unit residential";"....City of Davao";9664;4690;4367;313;118;0;167;9;0
+"Other multi-unit residential";"..REGION XII (SOCCSKSARGEN)";3531;3015;495;15;3;2;0;1;0
+"Other multi-unit residential";"....Cotabato (North Cotabato)";1013;817;184;9;3;0;0;0;0
+"Other multi-unit residential";"....Sarangani";418;373;42;3;0;0;0;0;0
+"Other multi-unit residential";"....South Cotabato *";696;637;57;0;0;2;0;0;0
+"Other multi-unit residential";"....Sultan Kudarat";597;563;34;0;0;0;0;0;0
+"Other multi-unit residential";"....City of General Santos (Dadiangas)";807;625;178;3;0;0;0;1;0
+"Other multi-unit residential";"..REGION XIII (CARAGA)";3243;1951;1266;23;2;0;0;1;0
+"Other multi-unit residential";"....Agusan del Norte *";514;398;114;0;2;0;0;0;0
+"Other multi-unit residential";"....Agusan del Sur";531;357;174;0;0;0;0;0;0
+"Other multi-unit residential";"....Dinagat Islands";54;16;38;0;0;0;0;0;0
+"Other multi-unit residential";"....Surigao del Norte";377;239;125;12;0;0;0;1;0
+"Other multi-unit residential";"....Surigao del Sur";945;413;524;8;0;0;0;0;0
+"Other multi-unit residential";"....City of Butuan";822;528;291;3;0;0;0;0;0
+"Other multi-unit residential";"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (";2704;1146;1281;67;9;0;0;201;0
+"Other multi-unit residential";"....Basilan";80;34;43;0;0;0;0;3;0
+"Other multi-unit residential";"....Lanao del Sur";1158;420;661;58;9;0;0;10;0
+"Other multi-unit residential";"....Maguindanao";930;485;438;4;0;0;0;3;0
+"Other multi-unit residential";"....Sulu";353;98;67;3;0;0;0;185;0
+"Other multi-unit residential";"....Tawi-Tawi";48;21;25;2;0;0;0;0;0
+"Other multi-unit residential";"....Eight (8) Area Clusters ***";135;88;47;0;0;0;0;0;0
+"Commercial/industrial/agricultural";"PHILIPPINES";41248;22473;11968;3849;1974;791;85;108;0
+"Commercial/industrial/agricultural";"..NATIONAL CAPITAL REGION (NCR)";13603;5501;4510;1685;1267;512;77;51;0
+"Commercial/industrial/agricultural";"....City of Manila";1715;285;566;321;256;259;15;13;0
+"Commercial/industrial/agricultural";"....City of Mandaluyong";359;75;135;97;19;32;0;1;0
+"Commercial/industrial/agricultural";"....City of Marikina";329;144;124;45;12;4;0;0;0
+"Commercial/industrial/agricultural";"....City of Pasig";521;228;232;42;10;9;0;0;0
+"Commercial/industrial/agricultural";"....Quezon City";3879;1516;1067;472;649;108;48;19;0
+"Commercial/industrial/agricultural";"....City of San Juan";156;28;67;29;19;12;1;0;0
+"Commercial/industrial/agricultural";"....City of Caloocan";1382;591;544;148;69;24;0;6;0
+"Commercial/industrial/agricultural";"....City of Malabon";467;187;184;69;25;2;0;0;0
+"Commercial/industrial/agricultural";"....City of Navotas";183;104;65;13;1;0;0;0;0
+"Commercial/industrial/agricultural";"....City of Valenzuela";1999;1294;519;133;40;5;1;7;0
+"Commercial/industrial/agricultural";"....City of Las Piñas";494;268;154;63;5;4;0;0;0
+"Commercial/industrial/agricultural";"....City of Makati";335;116;104;57;33;25;0;0;0
+"Commercial/industrial/agricultural";"....City of Muntinlupa";203;108;61;12;19;0;0;3;0
+"Commercial/industrial/agricultural";"....City of Parañaque";682;287;281;65;38;7;4;0;0
+"Commercial/industrial/agricultural";"....Pasay City";648;153;292;109;65;19;8;2;0
+"Commercial/industrial/agricultural";"....City of Taguig";243;111;113;10;7;2;0;0;0
+"Commercial/industrial/agricultural";"....Pateros";8;6;2;0;0;0;0;0;0
+"Commercial/industrial/agricultural";"..CORDILLERA ADMINISTRATIVE REGION (CAR)";832;298;157;107;149;111;1;9;0
+"Commercial/industrial/agricultural";"....Abra";21;15;3;2;0;1;0;0;0
+"Commercial/industrial/agricultural";"....Apayao";34;16;14;4;0;0;0;0;0
+"Commercial/industrial/agricultural";"....Benguet *";256;148;45;35;21;7;0;0;0
+"Commercial/industrial/agricultural";"....Ifugao";25;12;3;1;3;5;1;0;0
+"Commercial/industrial/agricultural";"....Kalinga";20;11;5;4;0;0;0;0;0
+"Commercial/industrial/agricultural";"....Mountain Province";16;2;4;6;1;3;0;0;0
+"Commercial/industrial/agricultural";"....City of Baguio";460;94;83;55;124;95;0;9;0
+"Commercial/industrial/agricultural";"..REGION I (ILOCOS REGION)";1087;648;297;93;29;14;1;5;0
+"Commercial/industrial/agricultural";"....Ilocos Norte";181;94;46;23;14;4;0;0;0
+"Commercial/industrial/agricultural";"....Ilocos Sur";132;86;28;8;2;8;0;0;0
+"Commercial/industrial/agricultural";"....La Union";147;65;60;16;5;0;0;1;0
+"Commercial/industrial/agricultural";"....Pangasinan";627;403;163;46;8;2;1;4;0
+"Commercial/industrial/agricultural";"..REGION II (CAGAYAN VALLEY)";1150;719;286;96;41;7;1;0;0
+"Commercial/industrial/agricultural";"....Batanes";4;1;1;2;0;0;0;0;0
+"Commercial/industrial/agricultural";"....Cagayan";351;150;111;53;29;7;1;0;0
+"Commercial/industrial/agricultural";"....Isabela";381;249;104;22;6;0;0;0;0
+"Commercial/industrial/agricultural";"....Nueva Vizcaya";297;244;45;8;0;0;0;0;0
+"Commercial/industrial/agricultural";"....Quirino";117;75;25;11;6;0;0;0;0
+"Commercial/industrial/agricultural";"..REGION III (CENTRAL LUZON)";4686;3209;1148;256;59;11;0;3;0
+"Commercial/industrial/agricultural";"....Aurora";72;54;14;3;0;1;0;0;0
+"Commercial/industrial/agricultural";"....Bataan";261;202;48;11;0;0;0;0;0
+"Commercial/industrial/agricultural";"....Bulacan";1838;1276;432;105;23;0;0;2;0
+"Commercial/industrial/agricultural";"....Nueva Ecija";732;493;187;45;6;1;0;0;0
+"Commercial/industrial/agricultural";"....Pampanga *";714;576;113;18;4;2;0;1;0
+"Commercial/industrial/agricultural";"....Tarlac";399;263;108;25;3;0;0;0;0
+"Commercial/industrial/agricultural";"....Zambales *";132;83;39;5;5;0;0;0;0
+"Commercial/industrial/agricultural";"....City of Angeles";302;190;99;8;4;1;0;0;0
+"Commercial/industrial/agricultural";"....City of Olongapo";236;72;108;36;14;6;0;0;0
+"Commercial/industrial/agricultural";"..REGION IV-A (CALABARZON)";5508;3697;1329;336;105;30;1;10;0
+"Commercial/industrial/agricultural";"....Batangas";927;659;192;48;19;4;0;5;0
+"Commercial/industrial/agricultural";"....Cavite";1992;1445;420;93;26;6;0;2;0
+"Commercial/industrial/agricultural";"....Laguna";838;536;220;56;17;8;0;1;0
+"Commercial/industrial/agricultural";"....Quezon *";603;338;196;57;10;1;0;1;0
+"Commercial/industrial/agricultural";"....Rizal";1026;677;248;68;23;8;1;1;0
+"Commercial/industrial/agricultural";"....City of Lucena";122;42;53;14;10;3;0;0;0
+"Commercial/industrial/agricultural";"..MIMAROPA REGION";1011;637;279;76;12;6;1;0;0
+"Commercial/industrial/agricultural";"....Marinduque";38;16;19;2;1;0;0;0;0
+"Commercial/industrial/agricultural";"....Occidental Mindoro";75;52;14;9;0;0;0;0;0
+"Commercial/industrial/agricultural";"....Oriental Mindoro";322;195;102;21;1;2;1;0;0
+"Commercial/industrial/agricultural";"....Palawan *";370;252;87;24;6;1;0;0;0
+"Commercial/industrial/agricultural";"....Romblon";30;19;9;1;1;0;0;0;0
+"Commercial/industrial/agricultural";"....City of Puerto Princesa";176;103;48;19;3;3;0;0;0
+"Commercial/industrial/agricultural";"..REGION V (BICOL REGION)";1498;793;503;158;31;10;2;1;0
+"Commercial/industrial/agricultural";"....Albay";269;121;83;50;9;5;0;1;0
+"Commercial/industrial/agricultural";"....Camarines Norte";236;145;66;17;8;0;0;0;0
+"Commercial/industrial/agricultural";"....Camarines Sur";609;344;202;56;5;0;2;0;0
+"Commercial/industrial/agricultural";"....Catanduanes";76;27;29;9;6;5;0;0;0
+"Commercial/industrial/agricultural";"....Masbate";137;70;56;9;2;0;0;0;0
+"Commercial/industrial/agricultural";"....Sorsogon";171;86;67;17;1;0;0;0;0
+"Commercial/industrial/agricultural";"..REGION VI (WESTERN VISAYAS)";1945;936;654;251;74;27;0;3;0
+"Commercial/industrial/agricultural";"....Aklan";249;87;94;50;17;1;0;0;0
+"Commercial/industrial/agricultural";"....Antique";123;75;39;6;3;0;0;0;0
+"Commercial/industrial/agricultural";"....Capiz";106;48;42;14;1;0;0;1;0
+"Commercial/industrial/agricultural";"....Guimaras";57;26;20;11;0;0;0;0;0
+"Commercial/industrial/agricultural";"....Iloilo *";283;194;63;19;6;0;0;1;0
+"Commercial/industrial/agricultural";"....Negros Occidental *";363;217;129;15;1;1;0;0;0
+"Commercial/industrial/agricultural";"....City of Bacolod";372;147;146;59;14;6;0;0;0
+"Commercial/industrial/agricultural";"....City of Iloilo";392;142;121;77;32;19;0;1;0
+"Commercial/industrial/agricultural";"..REGION VII (CENTRAL VISAYAS)";1910;1075;564;188;52;23;1;7;0
+"Commercial/industrial/agricultural";"....Bohol";269;200;44;20;3;2;0;0;0
+"Commercial/industrial/agricultural";"....Cebu *";541;363;136;27;4;10;0;1;0
+"Commercial/industrial/agricultural";"....Negros Oriental";236;131;77;22;6;0;0;0;0
+"Commercial/industrial/agricultural";"....Siquijor";35;23;8;1;2;1;0;0;0
+"Commercial/industrial/agricultural";"....City of Cebu";431;167;160;59;30;9;1;5;0
+"Commercial/industrial/agricultural";"....City of Lapu-Lapu (Opon)";136;82;41;10;2;0;0;1;0
+"Commercial/industrial/agricultural";"....City of Mandaue";262;109;98;49;5;1;0;0;0
+"Commercial/industrial/agricultural";"..REGION VIII (EASTERN VISAYAS)";860;434;288;92;29;17;0;0;0
+"Commercial/industrial/agricultural";"....Biliran";45;30;10;2;2;1;0;0;0
+"Commercial/industrial/agricultural";"....Eastern Samar";47;27;13;6;1;0;0;0;0
+"Commercial/industrial/agricultural";"....Leyte *";306;164;121;17;2;2;0;0;0
+"Commercial/industrial/agricultural";"....Northern Samar";80;43;30;5;1;1;0;0;0
+"Commercial/industrial/agricultural";"....Samar (Western Samar)";81;26;34;16;5;0;0;0;0
+"Commercial/industrial/agricultural";"....Southern Leyte";111;92;17;2;0;0;0;0;0
+"Commercial/industrial/agricultural";"....City of Tacloban";190;52;63;44;18;13;0;0;0
+"Commercial/industrial/agricultural";"..REGION IX (ZAMBOANGA PENINSULA)";994;611;239;109;21;11;0;3;0
+"Commercial/industrial/agricultural";"....Zamboanga del Norte";159;99;35;17;4;3;0;1;0
+"Commercial/industrial/agricultural";"....Zamboanga del Sur *";240;99;67;60;7;5;0;2;0
+"Commercial/industrial/agricultural";"....Zamboanga Sibugay";326;258;53;9;6;0;0;0;0
+"Commercial/industrial/agricultural";"....City of Isabela **";16;8;7;1;0;0;0;0;0
+"Commercial/industrial/agricultural";"....City of Zamboanga";253;147;77;22;4;3;0;0;0
+"Commercial/industrial/agricultural";"..REGION X (NORTHERN MINDANAO)";1680;1085;476;86;24;3;0;6;0
+"Commercial/industrial/agricultural";"....Bukidnon";546;444;87;10;2;0;0;3;0
+"Commercial/industrial/agricultural";"....Camiguin";26;12;9;5;0;0;0;0;0
+"Commercial/industrial/agricultural";"....Lanao del Norte *";182;119;61;2;0;0;0;0;0
+"Commercial/industrial/agricultural";"....Misamis Occidental";96;64;27;2;3;0;0;0;0
+"Commercial/industrial/agricultural";"....Misamis Oriental *";221;178;38;4;0;1;0;0;0
+"Commercial/industrial/agricultural";"....City of Cagayan de Oro";434;192;185;38;15;2;0;2;0
+"Commercial/industrial/agricultural";"....City of Iligan";175;76;69;25;4;0;0;1;0
+"Commercial/industrial/agricultural";"..REGION XI (DAVAO REGION)";2109;1338;605;121;36;3;0;6;0
+"Commercial/industrial/agricultural";"....Davao de Oro (Compostela Valley)";276;164;109;3;0;0;0;0;0
+"Commercial/industrial/agricultural";"....Davao del Norte";381;306;64;9;1;1;0;0;0
+"Commercial/industrial/agricultural";"....Davao del Sur *";146;100;38;7;0;0;0;1;0
+"Commercial/industrial/agricultural";"....Davao Occidental";25;22;3;0;0;0;0;0;0
+"Commercial/industrial/agricultural";"....Davao Oriental";76;45;30;1;0;0;0;0;0
+"Commercial/industrial/agricultural";"....City of Davao";1205;701;361;101;35;2;0;5;0
+"Commercial/industrial/agricultural";"..REGION XII (SOCCSKSARGEN)";1132;862;219;36;10;4;0;1;0
+"Commercial/industrial/agricultural";"....Cotabato (North Cotabato)";340;252;74;13;1;0;0;0;0
+"Commercial/industrial/agricultural";"....Sarangani";50;45;5;0;0;0;0;0;0
+"Commercial/industrial/agricultural";"....South Cotabato *";272;212;42;10;7;1;0;0;0
+"Commercial/industrial/agricultural";"....Sultan Kudarat";225;172;48;4;0;1;0;0;0
+"Commercial/industrial/agricultural";"....City of General Santos (Dadiangas)";245;181;50;9;2;2;0;1;0
+"Commercial/industrial/agricultural";"..REGION XIII (CARAGA)";714;431;208;61;12;2;0;0;0
+"Commercial/industrial/agricultural";"....Agusan del Norte *";63;45;17;1;0;0;0;0;0
+"Commercial/industrial/agricultural";"....Agusan del Sur";174;123;46;3;2;0;0;0;0
+"Commercial/industrial/agricultural";"....Dinagat Islands";24;18;2;4;0;0;0;0;0
+"Commercial/industrial/agricultural";"....Surigao del Norte";103;60;29;11;2;1;0;0;0
+"Commercial/industrial/agricultural";"....Surigao del Sur";125;75;34;15;0;1;0;0;0
+"Commercial/industrial/agricultural";"....City of Butuan";225;110;80;27;8;0;0;0;0
+"Commercial/industrial/agricultural";"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (";529;199;206;98;23;0;0;3;0
+"Commercial/industrial/agricultural";"....Basilan";10;8;2;0;0;0;0;0;0
+"Commercial/industrial/agricultural";"....Lanao del Sur";69;45;19;4;0;0;0;1;0
+"Commercial/industrial/agricultural";"....Maguindanao";369;94;161;91;22;0;0;1;0
+"Commercial/industrial/agricultural";"....Sulu";44;26;16;0;1;0;0;1;0
+"Commercial/industrial/agricultural";"....Tawi-Tawi";28;17;8;3;0;0;0;0;0
+"Commercial/industrial/agricultural";"....Eight (8) Area Clusters ***";9;9;0;0;0;0;0;0;0
+"Institutional living quarter";"PHILIPPINES";3424;1729;917;340;168;249;11;10;0
+"Institutional living quarter";"..NATIONAL CAPITAL REGION (NCR)";658;200;189;99;56;105;8;1;0
+"Institutional living quarter";"....City of Manila";188;31;32;32;30;58;5;0;0
+"Institutional living quarter";"....City of Mandaluyong";23;6;5;1;11;0;0;0;0
+"Institutional living quarter";"....City of Marikina";23;7;10;6;0;0;0;0;0
+"Institutional living quarter";"....City of Pasig";21;12;2;6;0;1;0;0;0
+"Institutional living quarter";"....Quezon City";162;57;54;18;5;27;1;0;0
+"Institutional living quarter";"....City of San Juan";5;2;0;2;0;0;0;1;0
+"Institutional living quarter";"....City of Caloocan";34;12;15;2;1;4;0;0;0
+"Institutional living quarter";"....City of Malabon";6;2;3;1;0;0;0;0;0
+"Institutional living quarter";"....City of Navotas";9;7;2;0;0;0;0;0;0
+"Institutional living quarter";"....City of Valenzuela";48;15;9;9;2;13;0;0;0
+"Institutional living quarter";"....City of Las Piñas";37;16;4;17;0;0;0;0;0
+"Institutional living quarter";"....City of Makati";26;8;17;0;1;0;0;0;0
+"Institutional living quarter";"....City of Muntinlupa";5;2;3;0;0;0;0;0;0
+"Institutional living quarter";"....City of Parañaque";38;18;17;3;0;0;0;0;0
+"Institutional living quarter";"....Pasay City";9;0;2;1;4;2;0;0;0
+"Institutional living quarter";"....City of Taguig";23;4;14;1;2;0;2;0;0
+"Institutional living quarter";"....Pateros";1;1;0;0;0;0;0;0;0
+"Institutional living quarter";"..CORDILLERA ADMINISTRATIVE REGION (CAR)";65;11;9;15;19;11;0;0;0
+"Institutional living quarter";"....Abra";7;1;2;2;2;0;0;0;0
+"Institutional living quarter";"....Apayao";1;1;0;0;0;0;0;0;0
+"Institutional living quarter";"....Benguet *";14;4;0;10;0;0;0;0;0
+"Institutional living quarter";"....Ifugao";0;0;0;0;0;0;0;0;0
+"Institutional living quarter";"....Kalinga";4;3;0;1;0;0;0;0;0
+"Institutional living quarter";"....Mountain Province";11;1;1;0;9;0;0;0;0
+"Institutional living quarter";"....City of Baguio";28;1;6;2;8;11;0;0;0
+"Institutional living quarter";"..REGION I (ILOCOS REGION)";112;53;30;21;8;0;0;0;0
+"Institutional living quarter";"....Ilocos Norte";15;11;4;0;0;0;0;0;0
+"Institutional living quarter";"....Ilocos Sur";14;9;5;0;0;0;0;0;0
+"Institutional living quarter";"....La Union";45;15;7;17;6;0;0;0;0
+"Institutional living quarter";"....Pangasinan";38;18;14;4;2;0;0;0;0
+"Institutional living quarter";"..REGION II (CAGAYAN VALLEY)";64;36;18;8;1;1;0;0;0
+"Institutional living quarter";"....Batanes";5;3;2;0;0;0;0;0;0
+"Institutional living quarter";"....Cagayan";28;13;8;5;1;1;0;0;0
+"Institutional living quarter";"....Isabela";21;12;7;2;0;0;0;0;0
+"Institutional living quarter";"....Nueva Vizcaya";10;8;1;1;0;0;0;0;0
+"Institutional living quarter";"....Quirino";0;0;0;0;0;0;0;0;0
+"Institutional living quarter";"..REGION III (CENTRAL LUZON)";344;239;74;14;10;4;1;2;0
+"Institutional living quarter";"....Aurora";16;5;9;1;1;0;0;0;0
+"Institutional living quarter";"....Bataan";24;16;4;3;1;0;0;0;0
+"Institutional living quarter";"....Bulacan";148;107;37;3;0;0;0;1;0
+"Institutional living quarter";"....Nueva Ecija";46;30;7;4;5;0;0;0;0
+"Institutional living quarter";"....Pampanga *";46;40;3;1;1;0;1;0;0
+"Institutional living quarter";"....Tarlac";22;14;5;0;2;0;0;1;0
+"Institutional living quarter";"....Zambales *";25;16;8;1;0;0;0;0;0
+"Institutional living quarter";"....City of Angeles";9;8;0;1;0;0;0;0;0
+"Institutional living quarter";"....City of Olongapo";8;3;1;0;0;4;0;0;0
+"Institutional living quarter";"..REGION IV-A (CALABARZON)";322;171;91;30;12;17;1;0;0
+"Institutional living quarter";"....Batangas";67;49;13;4;1;0;0;0;0
+"Institutional living quarter";"....Cavite";93;36;21;20;10;6;0;0;0
+"Institutional living quarter";"....Laguna";47;25;17;3;0;1;1;0;0
+"Institutional living quarter";"....Quezon *";39;23;16;0;0;0;0;0;0
+"Institutional living quarter";"....Rizal";73;36;23;3;1;10;0;0;0
+"Institutional living quarter";"....City of Lucena";3;2;1;0;0;0;0;0;0
+"Institutional living quarter";"..MIMAROPA REGION";146;66;28;21;12;18;0;1;0
+"Institutional living quarter";"....Marinduque";5;1;3;1;0;0;0;0;0
+"Institutional living quarter";"....Occidental Mindoro";7;4;2;1;0;0;0;0;0
+"Institutional living quarter";"....Oriental Mindoro";31;11;11;5;3;0;0;1;0
+"Institutional living quarter";"....Palawan *";49;30;6;9;4;0;0;0;0
+"Institutional living quarter";"....Romblon";11;3;4;1;3;0;0;0;0
+"Institutional living quarter";"....City of Puerto Princesa";43;17;2;4;2;18;0;0;0
+"Institutional living quarter";"..REGION V (BICOL REGION)";198;86;72;32;8;0;0;0;0
+"Institutional living quarter";"....Albay";57;24;23;8;2;0;0;0;0
+"Institutional living quarter";"....Camarines Norte";9;3;1;5;0;0;0;0;0
+"Institutional living quarter";"....Camarines Sur";46;23;18;3;2;0;0;0;0
+"Institutional living quarter";"....Catanduanes";57;22;22;10;3;0;0;0;0
+"Institutional living quarter";"....Masbate";11;5;3;3;0;0;0;0;0
+"Institutional living quarter";"....Sorsogon";18;9;5;3;1;0;0;0;0
+"Institutional living quarter";"..REGION VI (WESTERN VISAYAS)";225;143;55;18;6;2;1;0;0
+"Institutional living quarter";"....Aklan";38;11;11;11;3;1;1;0;0
+"Institutional living quarter";"....Antique";15;7;6;0;2;0;0;0;0
+"Institutional living quarter";"....Capiz";10;3;6;1;0;0;0;0;0
+"Institutional living quarter";"....Guimaras";1;1;0;0;0;0;0;0;0
+"Institutional living quarter";"....Iloilo *";55;43;11;1;0;0;0;0;0
+"Institutional living quarter";"....Negros Occidental *";35;26;7;2;0;0;0;0;0
+"Institutional living quarter";"....City of Bacolod";42;34;5;2;1;0;0;0;0
+"Institutional living quarter";"....City of Iloilo";29;18;9;1;0;1;0;0;0
+"Institutional living quarter";"..REGION VII (CENTRAL VISAYAS)";250;121;80;26;19;4;0;0;0
+"Institutional living quarter";"....Bohol";65;36;26;3;0;0;0;0;0
+"Institutional living quarter";"....Cebu *";58;30;19;9;0;0;0;0;0
+"Institutional living quarter";"....Negros Oriental";39;25;12;1;1;0;0;0;0
+"Institutional living quarter";"....Siquijor";2;1;1;0;0;0;0;0;0
+"Institutional living quarter";"....City of Cebu";72;23;18;10;18;3;0;0;0
+"Institutional living quarter";"....City of Lapu-Lapu (Opon)";10;3;4;3;0;0;0;0;0
+"Institutional living quarter";"....City of Mandaue";4;3;0;0;0;1;0;0;0
+"Institutional living quarter";"..REGION VIII (EASTERN VISAYAS)";88;37;39;5;6;1;0;0;0
+"Institutional living quarter";"....Biliran";1;0;0;1;0;0;0;0;0
+"Institutional living quarter";"....Eastern Samar";5;0;5;0;0;0;0;0;0
+"Institutional living quarter";"....Leyte *";31;21;7;1;2;0;0;0;0
+"Institutional living quarter";"....Northern Samar";20;6;12;1;0;1;0;0;0
+"Institutional living quarter";"....Samar (Western Samar)";12;3;5;0;4;0;0;0;0
+"Institutional living quarter";"....Southern Leyte";12;4;6;2;0;0;0;0;0
+"Institutional living quarter";"....City of Tacloban";7;3;4;0;0;0;0;0;0
+"Institutional living quarter";"..REGION IX (ZAMBOANGA PENINSULA)";145;116;17;9;2;1;0;0;0
+"Institutional living quarter";"....Zamboanga del Norte";24;18;4;2;0;0;0;0;0
+"Institutional living quarter";"....Zamboanga del Sur *";53;48;1;2;1;1;0;0;0
+"Institutional living quarter";"....Zamboanga Sibugay";34;25;7;1;1;0;0;0;0
+"Institutional living quarter";"....City of Isabela **";1;1;0;0;0;0;0;0;0
+"Institutional living quarter";"....City of Zamboanga";33;24;5;4;0;0;0;0;0
+"Institutional living quarter";"..REGION X (NORTHERN MINDANAO)";153;83;53;6;1;10;0;0;0
+"Institutional living quarter";"....Bukidnon";52;35;17;0;0;0;0;0;0
+"Institutional living quarter";"....Camiguin";4;2;2;0;0;0;0;0;0
+"Institutional living quarter";"....Lanao del Norte *";12;8;2;2;0;0;0;0;0
+"Institutional living quarter";"....Misamis Occidental";11;5;5;1;0;0;0;0;0
+"Institutional living quarter";"....Misamis Oriental *";24;16;7;1;0;0;0;0;0
+"Institutional living quarter";"....City of Cagayan de Oro";41;11;19;1;0;10;0;0;0
+"Institutional living quarter";"....City of Iligan";9;6;1;1;1;0;0;0;0
+"Institutional living quarter";"..REGION XI (DAVAO REGION)";334;157;73;27;3;73;0;1;0
+"Institutional living quarter";"....Davao de Oro (Compostela Valley)";28;26;1;1;0;0;0;0;0
+"Institutional living quarter";"....Davao del Norte";66;57;8;0;1;0;0;0;0
+"Institutional living quarter";"....Davao del Sur *";14;11;3;0;0;0;0;0;0
+"Institutional living quarter";"....Davao Occidental";15;0;14;0;1;0;0;0;0
+"Institutional living quarter";"....Davao Oriental";33;20;13;0;0;0;0;0;0
+"Institutional living quarter";"....City of Davao";178;43;34;26;1;73;0;1;0
+"Institutional living quarter";"..REGION XII (SOCCSKSARGEN)";118;86;23;7;2;0;0;0;0
+"Institutional living quarter";"....Cotabato (North Cotabato)";23;15;4;4;0;0;0;0;0
+"Institutional living quarter";"....Sarangani";9;8;1;0;0;0;0;0;0
+"Institutional living quarter";"....South Cotabato *";6;6;0;0;0;0;0;0;0
+"Institutional living quarter";"....Sultan Kudarat";72;54;18;0;0;0;0;0;0
+"Institutional living quarter";"....City of General Santos (Dadiangas)";8;3;0;3;2;0;0;0;0
+"Institutional living quarter";"..REGION XIII (CARAGA)";119;58;57;2;0;2;0;0;0
+"Institutional living quarter";"....Agusan del Norte *";2;1;1;0;0;0;0;0;0
+"Institutional living quarter";"....Agusan del Sur";33;27;6;0;0;0;0;0;0
+"Institutional living quarter";"....Dinagat Islands";2;1;1;0;0;0;0;0;0
+"Institutional living quarter";"....Surigao del Norte";10;3;5;1;0;1;0;0;0
+"Institutional living quarter";"....Surigao del Sur";13;6;6;0;0;1;0;0;0
+"Institutional living quarter";"....City of Butuan";59;20;38;1;0;0;0;0;0
+"Institutional living quarter";"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (";83;66;9;0;3;0;0;5;0
+"Institutional living quarter";"....Basilan";2;2;0;0;0;0;0;0;0
+"Institutional living quarter";"....Lanao del Sur";16;14;2;0;0;0;0;0;0
+"Institutional living quarter";"....Maguindanao";37;36;1;0;0;0;0;0;0
+"Institutional living quarter";"....Sulu";21;10;3;0;3;0;0;5;0
+"Institutional living quarter";"....Tawi-Tawi";6;3;3;0;0;0;0;0;0
+"Institutional living quarter";"....Eight (8) Area Clusters ***";1;1;0;0;0;0;0;0;0
+"Other types of building";"PHILIPPINES";1674;0;0;0;0;0;0;0;1674
+"Other types of building";"..NATIONAL CAPITAL REGION (NCR)";399;0;0;0;0;0;0;0;399
+"Other types of building";"....City of Manila";230;0;0;0;0;0;0;0;230
+"Other types of building";"....City of Mandaluyong";8;0;0;0;0;0;0;0;8
+"Other types of building";"....City of Marikina";2;0;0;0;0;0;0;0;2
+"Other types of building";"....City of Pasig";2;0;0;0;0;0;0;0;2
+"Other types of building";"....Quezon City";31;0;0;0;0;0;0;0;31
+"Other types of building";"....City of San Juan";15;0;0;0;0;0;0;0;15
+"Other types of building";"....City of Caloocan";7;0;0;0;0;0;0;0;7
+"Other types of building";"....City of Malabon";43;0;0;0;0;0;0;0;43
+"Other types of building";"....City of Navotas";10;0;0;0;0;0;0;0;10
+"Other types of building";"....City of Valenzuela";1;0;0;0;0;0;0;0;1
+"Other types of building";"....City of Las Piñas";5;0;0;0;0;0;0;0;5
+"Other types of building";"....City of Makati";9;0;0;0;0;0;0;0;9
+"Other types of building";"....City of Muntinlupa";8;0;0;0;0;0;0;0;8
+"Other types of building";"....City of Parañaque";9;0;0;0;0;0;0;0;9
+"Other types of building";"....Pasay City";13;0;0;0;0;0;0;0;13
+"Other types of building";"....City of Taguig";6;0;0;0;0;0;0;0;6
+"Other types of building";"....Pateros";0;0;0;0;0;0;0;0;0
+"Other types of building";"..CORDILLERA ADMINISTRATIVE REGION (CAR)";47;0;0;0;0;0;0;0;47
+"Other types of building";"....Abra";0;0;0;0;0;0;0;0;0
+"Other types of building";"....Apayao";6;0;0;0;0;0;0;0;6
+"Other types of building";"....Benguet *";32;0;0;0;0;0;0;0;32
+"Other types of building";"....Ifugao";0;0;0;0;0;0;0;0;0
+"Other types of building";"....Kalinga";0;0;0;0;0;0;0;0;0
+"Other types of building";"....Mountain Province";1;0;0;0;0;0;0;0;1
+"Other types of building";"....City of Baguio";8;0;0;0;0;0;0;0;8
+"Other types of building";"..REGION I (ILOCOS REGION)";50;0;0;0;0;0;0;0;50
+"Other types of building";"....Ilocos Norte";6;0;0;0;0;0;0;0;6
+"Other types of building";"....Ilocos Sur";3;0;0;0;0;0;0;0;3
+"Other types of building";"....La Union";5;0;0;0;0;0;0;0;5
+"Other types of building";"....Pangasinan";36;0;0;0;0;0;0;0;36
+"Other types of building";"..REGION II (CAGAYAN VALLEY)";7;0;0;0;0;0;0;0;7
+"Other types of building";"....Batanes";1;0;0;0;0;0;0;0;1
+"Other types of building";"....Cagayan";0;0;0;0;0;0;0;0;0
+"Other types of building";"....Isabela";0;0;0;0;0;0;0;0;0
+"Other types of building";"....Nueva Vizcaya";4;0;0;0;0;0;0;0;4
+"Other types of building";"....Quirino";2;0;0;0;0;0;0;0;2
+"Other types of building";"..REGION III (CENTRAL LUZON)";291;0;0;0;0;0;0;0;291
+"Other types of building";"....Aurora";4;0;0;0;0;0;0;0;4
+"Other types of building";"....Bataan";6;0;0;0;0;0;0;0;6
+"Other types of building";"....Bulacan";199;0;0;0;0;0;0;0;199
+"Other types of building";"....Nueva Ecija";7;0;0;0;0;0;0;0;7
+"Other types of building";"....Pampanga *";10;0;0;0;0;0;0;0;10
+"Other types of building";"....Tarlac";31;0;0;0;0;0;0;0;31
+"Other types of building";"....Zambales *";16;0;0;0;0;0;0;0;16
+"Other types of building";"....City of Angeles";16;0;0;0;0;0;0;0;16
+"Other types of building";"....City of Olongapo";2;0;0;0;0;0;0;0;2
+"Other types of building";"..REGION IV-A (CALABARZON)";378;0;0;0;0;0;0;0;378
+"Other types of building";"....Batangas";63;0;0;0;0;0;0;0;63
+"Other types of building";"....Cavite";277;0;0;0;0;0;0;0;277
+"Other types of building";"....Laguna";21;0;0;0;0;0;0;0;21
+"Other types of building";"....Quezon *";3;0;0;0;0;0;0;0;3
+"Other types of building";"....Rizal";14;0;0;0;0;0;0;0;14
+"Other types of building";"....City of Lucena";0;0;0;0;0;0;0;0;0
+"Other types of building";"..MIMAROPA REGION";4;0;0;0;0;0;0;0;4
+"Other types of building";"....Marinduque";1;0;0;0;0;0;0;0;1
+"Other types of building";"....Occidental Mindoro";1;0;0;0;0;0;0;0;1
+"Other types of building";"....Oriental Mindoro";1;0;0;0;0;0;0;0;1
+"Other types of building";"....Palawan *";0;0;0;0;0;0;0;0;0
+"Other types of building";"....Romblon";1;0;0;0;0;0;0;0;1
+"Other types of building";"....City of Puerto Princesa";0;0;0;0;0;0;0;0;0
+"Other types of building";"..REGION V (BICOL REGION)";53;0;0;0;0;0;0;0;53
+"Other types of building";"....Albay";7;0;0;0;0;0;0;0;7
+"Other types of building";"....Camarines Norte";10;0;0;0;0;0;0;0;10
+"Other types of building";"....Camarines Sur";21;0;0;0;0;0;0;0;21
+"Other types of building";"....Catanduanes";10;0;0;0;0;0;0;0;10
+"Other types of building";"....Masbate";3;0;0;0;0;0;0;0;3
+"Other types of building";"....Sorsogon";2;0;0;0;0;0;0;0;2
+"Other types of building";"..REGION VI (WESTERN VISAYAS)";60;0;0;0;0;0;0;0;60
+"Other types of building";"....Aklan";1;0;0;0;0;0;0;0;1
+"Other types of building";"....Antique";2;0;0;0;0;0;0;0;2
+"Other types of building";"....Capiz";9;0;0;0;0;0;0;0;9
+"Other types of building";"....Guimaras";2;0;0;0;0;0;0;0;2
+"Other types of building";"....Iloilo *";27;0;0;0;0;0;0;0;27
+"Other types of building";"....Negros Occidental *";0;0;0;0;0;0;0;0;0
+"Other types of building";"....City of Bacolod";6;0;0;0;0;0;0;0;6
+"Other types of building";"....City of Iloilo";13;0;0;0;0;0;0;0;13
+"Other types of building";"..REGION VII (CENTRAL VISAYAS)";67;0;0;0;0;0;0;0;67
+"Other types of building";"....Bohol";16;0;0;0;0;0;0;0;16
+"Other types of building";"....Cebu *";19;0;0;0;0;0;0;0;19
+"Other types of building";"....Negros Oriental";12;0;0;0;0;0;0;0;12
+"Other types of building";"....Siquijor";1;0;0;0;0;0;0;0;1
+"Other types of building";"....City of Cebu";14;0;0;0;0;0;0;0;14
+"Other types of building";"....City of Lapu-Lapu (Opon)";1;0;0;0;0;0;0;0;1
+"Other types of building";"....City of Mandaue";4;0;0;0;0;0;0;0;4
+"Other types of building";"..REGION VIII (EASTERN VISAYAS)";39;0;0;0;0;0;0;0;39
+"Other types of building";"....Biliran";0;0;0;0;0;0;0;0;0
+"Other types of building";"....Eastern Samar";4;0;0;0;0;0;0;0;4
+"Other types of building";"....Leyte *";19;0;0;0;0;0;0;0;19
+"Other types of building";"....Northern Samar";1;0;0;0;0;0;0;0;1
+"Other types of building";"....Samar (Western Samar)";4;0;0;0;0;0;0;0;4
+"Other types of building";"....Southern Leyte";5;0;0;0;0;0;0;0;5
+"Other types of building";"....City of Tacloban";6;0;0;0;0;0;0;0;6
+"Other types of building";"..REGION IX (ZAMBOANGA PENINSULA)";30;0;0;0;0;0;0;0;30
+"Other types of building";"....Zamboanga del Norte";0;0;0;0;0;0;0;0;0
+"Other types of building";"....Zamboanga del Sur *";11;0;0;0;0;0;0;0;11
+"Other types of building";"....Zamboanga Sibugay";1;0;0;0;0;0;0;0;1
+"Other types of building";"....City of Isabela **";2;0;0;0;0;0;0;0;2
+"Other types of building";"....City of Zamboanga";16;0;0;0;0;0;0;0;16
+"Other types of building";"..REGION X (NORTHERN MINDANAO)";25;0;0;0;0;0;0;0;25
+"Other types of building";"....Bukidnon";9;0;0;0;0;0;0;0;9
+"Other types of building";"....Camiguin";0;0;0;0;0;0;0;0;0
+"Other types of building";"....Lanao del Norte *";0;0;0;0;0;0;0;0;0
+"Other types of building";"....Misamis Occidental";5;0;0;0;0;0;0;0;5
+"Other types of building";"....Misamis Oriental *";5;0;0;0;0;0;0;0;5
+"Other types of building";"....City of Cagayan de Oro";5;0;0;0;0;0;0;0;5
+"Other types of building";"....City of Iligan";1;0;0;0;0;0;0;0;1
+"Other types of building";"..REGION XI (DAVAO REGION)";76;0;0;0;0;0;0;0;76
+"Other types of building";"....Davao de Oro (Compostela Valley)";6;0;0;0;0;0;0;0;6
+"Other types of building";"....Davao del Norte";8;0;0;0;0;0;0;0;8
+"Other types of building";"....Davao del Sur *";15;0;0;0;0;0;0;0;15
+"Other types of building";"....Davao Occidental";0;0;0;0;0;0;0;0;0
+"Other types of building";"....Davao Oriental";1;0;0;0;0;0;0;0;1
+"Other types of building";"....City of Davao";46;0;0;0;0;0;0;0;46
+"Other types of building";"..REGION XII (SOCCSKSARGEN)";95;0;0;0;0;0;0;0;95
+"Other types of building";"....Cotabato (North Cotabato)";73;0;0;0;0;0;0;0;73
+"Other types of building";"....Sarangani";0;0;0;0;0;0;0;0;0
+"Other types of building";"....South Cotabato *";6;0;0;0;0;0;0;0;6
+"Other types of building";"....Sultan Kudarat";1;0;0;0;0;0;0;0;1
+"Other types of building";"....City of General Santos (Dadiangas)";15;0;0;0;0;0;0;0;15
+"Other types of building";"..REGION XIII (CARAGA)";27;0;0;0;0;0;0;0;27
+"Other types of building";"....Agusan del Norte *";0;0;0;0;0;0;0;0;0
+"Other types of building";"....Agusan del Sur";12;0;0;0;0;0;0;0;12
+"Other types of building";"....Dinagat Islands";0;0;0;0;0;0;0;0;0
+"Other types of building";"....Surigao del Norte";2;0;0;0;0;0;0;0;2
+"Other types of building";"....Surigao del Sur";6;0;0;0;0;0;0;0;6
+"Other types of building";"....City of Butuan";7;0;0;0;0;0;0;0;7
+"Other types of building";"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (";26;0;0;0;0;0;0;0;26
+"Other types of building";"....Basilan";3;0;0;0;0;0;0;0;3
+"Other types of building";"....Lanao del Sur";18;0;0;0;0;0;0;0;18
+"Other types of building";"....Maguindanao";5;0;0;0;0;0;0;0;5
+"Other types of building";"....Sulu";0;0;0;0;0;0;0;0;0
+"Other types of building";"....Tawi-Tawi";0;0;0;0;0;0;0;0;0
+"Other types of building";"....Eight (8) Area Clusters ***";0;0;0;0;0;0;0;0;0
+"Not reported";"PHILIPPINES";76;0;0;0;0;0;0;76;0
+"Not reported";"..NATIONAL CAPITAL REGION (NCR)";28;0;0;0;0;0;0;28;0
+"Not reported";"....City of Manila";4;0;0;0;0;0;0;4;0
+"Not reported";"....City of Mandaluyong";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Marikina";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Pasig";0;0;0;0;0;0;0;0;0
+"Not reported";"....Quezon City";20;0;0;0;0;0;0;20;0
+"Not reported";"....City of San Juan";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Caloocan";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Malabon";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Navotas";2;0;0;0;0;0;0;2;0
+"Not reported";"....City of Valenzuela";2;0;0;0;0;0;0;2;0
+"Not reported";"....City of Las Piñas";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Makati";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Muntinlupa";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Parañaque";0;0;0;0;0;0;0;0;0
+"Not reported";"....Pasay City";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Taguig";0;0;0;0;0;0;0;0;0
+"Not reported";"....Pateros";0;0;0;0;0;0;0;0;0
+"Not reported";"..CORDILLERA ADMINISTRATIVE REGION (CAR)";1;0;0;0;0;0;0;1;0
+"Not reported";"....Abra";1;0;0;0;0;0;0;1;0
+"Not reported";"....Apayao";0;0;0;0;0;0;0;0;0
+"Not reported";"....Benguet *";0;0;0;0;0;0;0;0;0
+"Not reported";"....Ifugao";0;0;0;0;0;0;0;0;0
+"Not reported";"....Kalinga";0;0;0;0;0;0;0;0;0
+"Not reported";"....Mountain Province";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Baguio";0;0;0;0;0;0;0;0;0
+"Not reported";"..REGION I (ILOCOS REGION)";3;0;0;0;0;0;0;3;0
+"Not reported";"....Ilocos Norte";0;0;0;0;0;0;0;0;0
+"Not reported";"....Ilocos Sur";0;0;0;0;0;0;0;0;0
+"Not reported";"....La Union";0;0;0;0;0;0;0;0;0
+"Not reported";"....Pangasinan";3;0;0;0;0;0;0;3;0
+"Not reported";"..REGION II (CAGAYAN VALLEY)";2;0;0;0;0;0;0;2;0
+"Not reported";"....Batanes";0;0;0;0;0;0;0;0;0
+"Not reported";"....Cagayan";0;0;0;0;0;0;0;0;0
+"Not reported";"....Isabela";2;0;0;0;0;0;0;2;0
+"Not reported";"....Nueva Vizcaya";0;0;0;0;0;0;0;0;0
+"Not reported";"....Quirino";0;0;0;0;0;0;0;0;0
+"Not reported";"..REGION III (CENTRAL LUZON)";8;0;0;0;0;0;0;8;0
+"Not reported";"....Aurora";0;0;0;0;0;0;0;0;0
+"Not reported";"....Bataan";2;0;0;0;0;0;0;2;0
+"Not reported";"....Bulacan";2;0;0;0;0;0;0;2;0
+"Not reported";"....Nueva Ecija";0;0;0;0;0;0;0;0;0
+"Not reported";"....Pampanga *";2;0;0;0;0;0;0;2;0
+"Not reported";"....Tarlac";2;0;0;0;0;0;0;2;0
+"Not reported";"....Zambales *";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Angeles";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Olongapo";0;0;0;0;0;0;0;0;0
+"Not reported";"..REGION IV-A (CALABARZON)";13;0;0;0;0;0;0;13;0
+"Not reported";"....Batangas";2;0;0;0;0;0;0;2;0
+"Not reported";"....Cavite";7;0;0;0;0;0;0;7;0
+"Not reported";"....Laguna";2;0;0;0;0;0;0;2;0
+"Not reported";"....Quezon *";0;0;0;0;0;0;0;0;0
+"Not reported";"....Rizal";2;0;0;0;0;0;0;2;0
+"Not reported";"....City of Lucena";0;0;0;0;0;0;0;0;0
+"Not reported";"..MIMAROPA REGION";0;0;0;0;0;0;0;0;0
+"Not reported";"....Marinduque";0;0;0;0;0;0;0;0;0
+"Not reported";"....Occidental Mindoro";0;0;0;0;0;0;0;0;0
+"Not reported";"....Oriental Mindoro";0;0;0;0;0;0;0;0;0
+"Not reported";"....Palawan *";0;0;0;0;0;0;0;0;0
+"Not reported";"....Romblon";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Puerto Princesa";0;0;0;0;0;0;0;0;0
+"Not reported";"..REGION V (BICOL REGION)";0;0;0;0;0;0;0;0;0
+"Not reported";"....Albay";0;0;0;0;0;0;0;0;0
+"Not reported";"....Camarines Norte";0;0;0;0;0;0;0;0;0
+"Not reported";"....Camarines Sur";0;0;0;0;0;0;0;0;0
+"Not reported";"....Catanduanes";0;0;0;0;0;0;0;0;0
+"Not reported";"....Masbate";0;0;0;0;0;0;0;0;0
+"Not reported";"....Sorsogon";0;0;0;0;0;0;0;0;0
+"Not reported";"..REGION VI (WESTERN VISAYAS)";0;0;0;0;0;0;0;0;0
+"Not reported";"....Aklan";0;0;0;0;0;0;0;0;0
+"Not reported";"....Antique";0;0;0;0;0;0;0;0;0
+"Not reported";"....Capiz";0;0;0;0;0;0;0;0;0
+"Not reported";"....Guimaras";0;0;0;0;0;0;0;0;0
+"Not reported";"....Iloilo *";0;0;0;0;0;0;0;0;0
+"Not reported";"....Negros Occidental *";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Bacolod";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Iloilo";0;0;0;0;0;0;0;0;0
+"Not reported";"..REGION VII (CENTRAL VISAYAS)";2;0;0;0;0;0;0;2;0
+"Not reported";"....Bohol";0;0;0;0;0;0;0;0;0
+"Not reported";"....Cebu *";0;0;0;0;0;0;0;0;0
+"Not reported";"....Negros Oriental";2;0;0;0;0;0;0;2;0
+"Not reported";"....Siquijor";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Cebu";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Lapu-Lapu (Opon)";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Mandaue";0;0;0;0;0;0;0;0;0
+"Not reported";"..REGION VIII (EASTERN VISAYAS)";0;0;0;0;0;0;0;0;0
+"Not reported";"....Biliran";0;0;0;0;0;0;0;0;0
+"Not reported";"....Eastern Samar";0;0;0;0;0;0;0;0;0
+"Not reported";"....Leyte *";0;0;0;0;0;0;0;0;0
+"Not reported";"....Northern Samar";0;0;0;0;0;0;0;0;0
+"Not reported";"....Samar (Western Samar)";0;0;0;0;0;0;0;0;0
+"Not reported";"....Southern Leyte";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Tacloban";0;0;0;0;0;0;0;0;0
+"Not reported";"..REGION IX (ZAMBOANGA PENINSULA)";4;0;0;0;0;0;0;4;0
+"Not reported";"....Zamboanga del Norte";0;0;0;0;0;0;0;0;0
+"Not reported";"....Zamboanga del Sur *";0;0;0;0;0;0;0;0;0
+"Not reported";"....Zamboanga Sibugay";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Isabela **";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Zamboanga";4;0;0;0;0;0;0;4;0
+"Not reported";"..REGION X (NORTHERN MINDANAO)";5;0;0;0;0;0;0;5;0
+"Not reported";"....Bukidnon";1;0;0;0;0;0;0;1;0
+"Not reported";"....Camiguin";0;0;0;0;0;0;0;0;0
+"Not reported";"....Lanao del Norte *";0;0;0;0;0;0;0;0;0
+"Not reported";"....Misamis Occidental";0;0;0;0;0;0;0;0;0
+"Not reported";"....Misamis Oriental *";2;0;0;0;0;0;0;2;0
+"Not reported";"....City of Cagayan de Oro";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Iligan";2;0;0;0;0;0;0;2;0
+"Not reported";"..REGION XI (DAVAO REGION)";6;0;0;0;0;0;0;6;0
+"Not reported";"....Davao de Oro (Compostela Valley)";2;0;0;0;0;0;0;2;0
+"Not reported";"....Davao del Norte";0;0;0;0;0;0;0;0;0
+"Not reported";"....Davao del Sur *";0;0;0;0;0;0;0;0;0
+"Not reported";"....Davao Occidental";0;0;0;0;0;0;0;0;0
+"Not reported";"....Davao Oriental";2;0;0;0;0;0;0;2;0
+"Not reported";"....City of Davao";2;0;0;0;0;0;0;2;0
+"Not reported";"..REGION XII (SOCCSKSARGEN)";2;0;0;0;0;0;0;2;0
+"Not reported";"....Cotabato (North Cotabato)";0;0;0;0;0;0;0;0;0
+"Not reported";"....Sarangani";0;0;0;0;0;0;0;0;0
+"Not reported";"....South Cotabato *";0;0;0;0;0;0;0;0;0
+"Not reported";"....Sultan Kudarat";2;0;0;0;0;0;0;2;0
+"Not reported";"....City of General Santos (Dadiangas)";0;0;0;0;0;0;0;0;0
+"Not reported";"..REGION XIII (CARAGA)";0;0;0;0;0;0;0;0;0
+"Not reported";"....Agusan del Norte *";0;0;0;0;0;0;0;0;0
+"Not reported";"....Agusan del Sur";0;0;0;0;0;0;0;0;0
+"Not reported";"....Dinagat Islands";0;0;0;0;0;0;0;0;0
+"Not reported";"....Surigao del Norte";0;0;0;0;0;0;0;0;0
+"Not reported";"....Surigao del Sur";0;0;0;0;0;0;0;0;0
+"Not reported";"....City of Butuan";0;0;0;0;0;0;0;0;0
+"Not reported";"..BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO (";2;0;0;0;0;0;0;2;0
+"Not reported";"....Basilan";0;0;0;0;0;0;0;0;0
+"Not reported";"....Lanao del Sur";0;0;0;0;0;0;0;0;0
+"Not reported";"....Maguindanao";0;0;0;0;0;0;0;0;0
+"Not reported";"....Sulu";2;0;0;0;0;0;0;2;0
+"Not reported";"....Tawi-Tawi";0;0;0;0;0;0;0;0;0
+"Not reported";"....Eight (8) Area Clusters ***";0;0;0;0;0;0;0;0;0
