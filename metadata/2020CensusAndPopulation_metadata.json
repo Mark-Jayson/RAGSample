@@ -1,0 +1,12 @@
+{
+    "source": "data\\2020CensusAndPopulation.csv",
+    "description": "Total Population by Age Group, Sex, Region, and Province/Highly Urbanized City: Philippines , 2020",
+    "warnings": [],
+    "encoding": "utf-8",
+    "delimiter": ",",
+    "num_rows": 135,
+    "num_columns": 1,
+    "column_names": [
+        "geographic_location;both_sexes_all_ages;both_sexes_below_5;both_sexes_5_9;both_sexes_10_14;both_sexes_15_19;both_sexes_20_24;both_sexes_25_29;both_sexes_30_34;both_sexes_35_39;both_sexes_40_44;both_sexes_45_49;both_sexes_50_54;both_sexes_55_59;both_sexes_60_64;both_sexes_65_69;both_sexes_70_74;both_sexes_75_79;both_sexes_80_years_old_and_over;male_all_ages;male_below_5;male_5_9;male_10_14;male_15_19;male_20_24;male_25_29;male_30_34;male_35_39;male_40_44;male_45_49;male_50_54;male_55_59;male_60_64;male_65_69;male_70_74;male_75_79;male_80_years_old_and_over;female_all_ages;female_below_5;female_5_9;female_10_14;female_15_19;female_20_24;female_25_29;female_30_34;female_35_39;female_40_44;female_45_49;female_50_54;female_55_59;female_60_64;female_65_69;female_70_74;female_75_79;female_80_years_old_and_over"
+    ]
+}

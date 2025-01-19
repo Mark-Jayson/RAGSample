@@ -1,0 +1,12 @@
+{
+    "source": "data\\EstablishmentsProviderAndMajorIndustry2013.csv",
+    "description": "Number of Establishments with 20 or More Workers Providing Job-Related Trainings by Training Provider and Major Industry Group, Philippines: 2015 to 2021",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 20,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2015_total;2015_local_private_training_institution;2015_government_training_institution;2015_in_house;2015_foreign_training_institution;2015_others;2017_total;2017_local_private_training_institution;2017_government_training_institution;2017_in_house;2017_foreign_training_institution;2017_others;2019_total;2019_local_private_training_institution;2019_government_training_institution;2019_in_house;2019_foreign_training_institution;2019_others;2021_total;2021_local_private_training_institution;2021_government_training_institution;2021_in_house;2021_foreign_training_institution;2021_others"
+    ]
+}

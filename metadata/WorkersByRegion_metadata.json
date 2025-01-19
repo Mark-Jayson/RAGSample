@@ -1,0 +1,12 @@
+{
+    "source": "data\\WorkersByRegion.csv",
+    "description": "Number and Percent Share of Establishments with 20 or More Workers with Agency-Hired Workers by Region: August 2022",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 1,
+    "column_names": [
+        "region;2022_total_establishments;2022_..establishments_with_agency_hired_workers;2022_..percent_to_total"
+    ]
+}

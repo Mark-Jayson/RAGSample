@@ -1,0 +1,12 @@
+{
+    "source": "data\\BirthsByNationality.csv",
+    "description": "Live Births Which Occurred Abroad by Nationality of Father and Nationality of Mother: 2016",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 13,
+    "num_columns": 1,
+    "column_names": [
+        "nationality_of_father;total;filipino;american;chinese;japanese;indonesian;australian;spaniard;korean;thai;others;not_stated"
+    ]
+}

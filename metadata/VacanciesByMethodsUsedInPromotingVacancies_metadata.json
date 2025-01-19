@@ -1,0 +1,12 @@
+{
+    "source": "data\\VacanciesByMethodsUsedInPromotingVacancies.csv",
+    "description": "Total Number of Establishments Employing 20 or More Workers with Vacancies by Methods Used in Promoting Vacancies to Obtain Applicants by Major Industry Group, Philippines: September 2021 to August 2022",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 19,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2022_total_number_of_establishments_with_vacancies;2022_..on_the_job_trainees/_apprentices;2022_..walk_in;2022_..public_employment_service_office_referral;2022_..posting_in_job_portals;2022_..online_advertisements_in_social_networking_sites;2022_..head_hunters/private_recruitment_agencies;2022_..job_fairs;2022_..on_site_campus_recruitment;2022_..posting_in_school/_companys_bulletin_board;2022_..newspaper_ads;2022_..word_of_mouth_(through_friends_or_relatives);2022_..employee_referral;2022_..union_recommendation;2022_..others"
+    ]
+}

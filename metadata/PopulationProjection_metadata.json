@@ -1,0 +1,12 @@
+{
+    "source": "data\\PopulationProjection.csv",
+    "description": "Projected Population Based on 2020 CPH by Five-Year Age Group and by Sex and Single-Year Interval",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 57,
+    "num_columns": 1,
+    "column_names": [
+        "sex;age_group;2020;2021;2022;2023;2024;2025;2026;2027;2028;2029;2030"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "source": "data\\EmployeesMajorIndustryGroup.csv",
+    "description": "Number of Employees Provided with Job-Related Trainings in Establishments with 20 or More Workers by Type of Workers and Major Industry Group, Philippines: 2013 to 2021",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 20,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2013_total_employment;2013_total_employees_trained;2013_managers/executives;2013_supervisors/foremen;2013_rank_and_file;2015_total_employment;2015_total_employees_trained;2015_managers/executives;2015_supervisors/foremen;2015_rank_and_file;2017_total_employment;2017_total_employees_trained;2017_managers/executives;2017_supervisors/foremen;2017_rank_and_file;2019_total_employment;2019_total_employees_trained;2019_managers/executives;2019_supervisors/foremen;2019_rank_and_file;2021_total_employment;2021_total_employees_trained;2021_managers/executives;2021_supervisors/foremen;2021_rank_and_file"
+    ]
+}

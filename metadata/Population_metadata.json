@@ -1,0 +1,17 @@
+{
+    "source": "data\\Population.csv",
+    "description": "Total Population, Household Population, and Number of Households by Region and Province/Highly Urbanized City: Philippines, 2020",
+    "warnings": [
+        "Columns with >50% missing values: ['household_population', 'and_number_of_households:_philippines', '2020']"
+    ],
+    "encoding": "utf-8",
+    "delimiter": ",",
+    "num_rows": 405,
+    "num_columns": 4,
+    "column_names": [
+        "geographic_location;parameter;total_population",
+        "household_population",
+        "and_number_of_households:_philippines",
+        "2020"
+    ]
+}

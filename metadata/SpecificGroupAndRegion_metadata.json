@@ -1,0 +1,12 @@
+{
+    "source": "data\\SpecificGroupAndRegion.csv",
+    "description": "Total Employment of Establishments with 20 or More Workers by Specific Group and Region: August 2022",
+    "warnings": [],
+    "encoding": "Windows-1252",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 1,
+    "column_names": [
+        "region;2022_total_employment;2022_..young_workers_(yw);2022_\u2026.yw_15___24_years_old;2022_\u2026.yw_25___30_years_old;2022_..older_workers;2022_..persons_with_disabilities_(pwds);2022_..workers_paid_the_minimum_wage;2022_..shift_workers;2022_..workers_under_alternative_work_arrangements"
+    ]
+}

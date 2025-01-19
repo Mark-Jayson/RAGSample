@@ -1,0 +1,12 @@
+{
+    "source": "data\\LengthOfRecruitmentPeriod2016.csv",
+    "description": "Length of Recruitment Period in Filling-Up Vacancies in Establishments with 20 or More Workers by Major Occupation Group, Philippines: January 2013 - June 2014 to January 2015 - June 2016",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 10,
+    "num_columns": 1,
+    "column_names": [
+        "major_occupation_group;2014_total_mean;2014_total_median;2014_hard_to_fill_mean;2014_hard_to_fill_median;2014_easy_to_fill_mean;2014_easy_to_fill_median;2016_total_mean;2016_total_median;2016_hard_to_fill_mean;2016_hard_to_fill_median;2016_easy_to_fill_mean;2016_easy_to_fill_median"
+    ]
+}

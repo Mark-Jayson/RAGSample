@@ -1,0 +1,12 @@
+{
+    "source": "data\\DailyBasicPayData.csv",
+    "description": "Average Daily Basic Pay of Wage and Salary Workers by Major Industry Group, Philippines: 2016 to October 2024",
+    "warnings": [],
+    "encoding": "Windows-1252",
+    "delimiter": ",",
+    "num_rows": 25,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2016_january;2016_april;2016_july;2016_october;2016_annual;2017_january;2017_april;2017_july;2017_october;2017_annual;2018_january;2018_april;2018_july;2018_october;2018_annual;2019_january;2019_april;2019_july;2019_october;2019_annual;2020_january;2020_april;2020_july;2020_october;2020_annual;2021_january;2021_april;2021_july;2021_october;2021_annual;2022_january;2022_april;2022_july;2022_october;2022_annual;2023_january;2023_april;2023_july;2023_october;2023_annual;2024_january;2024_april;2024_july;2024_october;2024_annual"
+    ]
+}

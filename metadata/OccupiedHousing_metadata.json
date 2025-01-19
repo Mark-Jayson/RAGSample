@@ -1,0 +1,20 @@
+{
+    "source": "data\\OccupiedHousing.csv",
+    "description": "Occupied Housing Units by Floor Area, Number of Occupants in Each Housing Unit and Province/Highly Urbanized City: Philippines, 2020",
+    "warnings": [
+        "Columns with >50% missing values: ['286_sq.ft.;120___149_sq.m./_1', '287___1', '609_sq.ft.;150___199_sq.m./_1', '610___2', '147_sq.ft.;200_sq.m._and_over/_2', '148_sq.ft._and_over;not_reported;not_applicable']"
+    ],
+    "encoding": "ISO-8859-1",
+    "delimiter": ",",
+    "num_rows": 1485,
+    "num_columns": 7,
+    "column_names": [
+        "number_of_occupants;geographic_location;total;less_than_5_sq.m/_less_than_54_sq.ft.;5___9_sq.m./_54___107_sq.ft.;10___19_sq.m./_108___209_sq.ft.;20___29_sq.m./_210___317_sq.ft.;30___49_sq.m./_318___532_sq.ft.;50___69_sq.m./_533___748_sq.ft.;70___89_sq.m./_749___963_sq.ft.;90___119_sq.m./_964___1",
+        "286_sq.ft.;120___149_sq.m./_1",
+        "287___1",
+        "609_sq.ft.;150___199_sq.m./_1",
+        "610___2",
+        "147_sq.ft.;200_sq.m._and_over/_2",
+        "148_sq.ft._and_over;not_reported;not_applicable"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "source": "data\\LengthOfRecruitmentPeriod2022.csv",
+    "description": "Length of Recruitment Period in Filling-Up Vacancies in Establishments with 20 or More Workers by Major Occupation Group, Philippines: July 2017 - June 2018 to September 2021 - August 2022",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 10,
+    "num_columns": 1,
+    "column_names": [
+        "major_occupation_group;2018_total_mean;2018_total_median;2018_hard_to_fill_vacancies_mean;2018_hard_to_fill_vacancies_median;2018_easy_to_fill_vacancies_mean;2018_easy_to_fill_vacancies_median;2020_total_mean;2020_total_median;2020_hard_to_fill_vacancies_mean;2020_hard_to_fill_vacancies_median;2020_easy_to_fill_vacancies_mean;2020_easy_to_fill_vacancies_median;2022_total_mean;2022_total_median;2022_hard_to_fill_vacancies_mean;2022_hard_to_fill_vacancies_median;2022_easy_to_fill_vacancies_mean;2022_easy_to_fill_vacancies_median"
+    ]
+}

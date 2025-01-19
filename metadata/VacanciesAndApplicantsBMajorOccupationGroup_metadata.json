@@ -1,0 +1,12 @@
+{
+    "source": "data\\VacanciesAndApplicantsBMajorOccupationGroup.csv",
+    "description": "Total Number of Vacancies and Applicants by Major Occupation Group in Establishments with 20 or More Workers, Philippines: January 2013 - June 2014 to January 2015 - June 2016",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 10,
+    "num_columns": 1,
+    "column_names": [
+        "major_occupation_group;2014_number_of_vacancies;2014_number_of_applicants;2016_number_of_vacancies;2016_number_of_applicants"
+    ]
+}

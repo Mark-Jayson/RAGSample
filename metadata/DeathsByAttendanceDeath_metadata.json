@@ -1,0 +1,12 @@
+{
+    "source": "data\\DeathsByAttendanceDeath.csv",
+    "description": "Deaths : Number of Registered Deaths by Usual Residence and Place of Occurrence and Attendance at Death, (Region,Province and City/Municipality) Philippines: 2016",
+    "warnings": [],
+    "encoding": "ISO-8859-1",
+    "delimiter": ",",
+    "num_rows": 119,
+    "num_columns": 1,
+    "column_names": [
+        "geolocation;usual_residence_total;usual_residence_medically_attended;usual_residence_not_attended;usual_residence_not_stated;place_of_occurrence_total;place_of_occurrence_medically_attended;place_of_occurrence_not_attended;place_of_occurrence_not_stated"
+    ]
+}

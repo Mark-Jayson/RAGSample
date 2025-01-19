@@ -19,6 +19,7 @@ import warnings
 import getpass
 import nest_asyncio
 from llama_parse import LlamaParse
+import json
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
@@ -53,12 +54,12 @@ class CSVHandler:
             description = file.readline().strip().replace('"', '')
             
             # Read the second line as the link
-            link = file.readline().strip()
+            # link = file.readline().strip()
         
         # Read the rest of the file as DataFrame, skipping the first two rows
         df = pd.read_csv(file_path, encoding=encoding, sep=delimiter, skiprows=2, on_bad_lines='warn')
         
-        return description, link, df
+        return description, df
 
 
     def clean_column_names(self, df: pd.DataFrame) -> pd.DataFrame:
@@ -164,9 +165,13 @@ class CSVHandler:
         return warnings
 
 def process_csv_files(file_paths: List[str]) -> List[Document]:
-    """Process multiple CSV files and return list of Documents for LlamaIndex."""
+    """Process multiple CSV files and store metadata externally."""
     csv_handler = CSVHandler()
     documents = []
+    metadata_dir = "metadata"
+
+    # Ensure metadata directory exists
+    os.makedirs(metadata_dir, exist_ok=True)
 
     for file_path in file_paths:
         try:
@@ -176,8 +181,8 @@ def process_csv_files(file_paths: List[str]) -> List[Document]:
             
             logger.info(f"Processing {file_path} with encoding {encoding} and delimiter {delimiter}")
             
-            # Read the CSV file with description and link
-            description, link, df = csv_handler.read_file_with_description(file_path, encoding, delimiter)
+            # Read the CSV file with description
+            description, df = csv_handler.read_file_with_description(file_path, encoding, delimiter)
             
             # Clean and process the data
             df = csv_handler.clean_column_names(df)
@@ -189,22 +194,31 @@ def process_csv_files(file_paths: List[str]) -> List[Document]:
             for warning in warnings:
                 logger.warning(f"{file_path}: {warning}")
             
-            # Convert to string for LlamaIndex
-            text = f"File Description: {description}\n\nData:\n{df.to_string(index=False)}"
+            # Metadata for external storage
+            detailed_metadata = {
+                "source": file_path,
+                "description": description,
+                "warnings": warnings,
+                "encoding": encoding,
+                "delimiter": delimiter,
+                "num_rows": len(df),
+                "num_columns": len(df.columns),
+                "column_names": list(df.columns),
+            }
             
-            # Create document with metadata
+            # Save detailed metadata to a JSON file
+            metadata_filename = os.path.join(metadata_dir, f"{Path(file_path).stem}_metadata.json")
+            with open(metadata_filename, "w") as metadata_file:
+                json.dump(detailed_metadata, metadata_file, indent=4)
+            
+            # Create a reference to the metadata file in the Document object
+            text = f"File Description: {description}\n\nData:\n{df.to_string(index=False)}"
             document = Document(
                 text=text,
                 metadata={
                     "source": file_path,
-                    "description": description,
-                    "warnings": warnings,
-                    "encoding": encoding,
-                    "delimiter": delimiter,
-                    "num_rows": len(df),
-                    "num_columns": len(df.columns),
-                    "column_names": list(df.columns),
-                    "link": link  # Include the link here
+                    "description": description[:200],  # Truncated description
+                    "metadata_reference": metadata_filename  # External reference
                 }
             )
             documents.append(document)
@@ -219,6 +233,7 @@ def process_csv_files(file_paths: List[str]) -> List[Document]:
     return documents
 
 
+
 # Main execution
 def main():
     load_dotenv()
@@ -227,19 +242,40 @@ def main():
     PERSIST_DIR = "./storage"
     if not os.path.exists(PERSIST_DIR):
     # load the documents and create the index
-        csv_files = ["data/Population.csv", "data/PopulationProjection.csv", "data/2020CensusAndPopulation.csv", "data/Household.csv"]
+        data_folder = "data"
+        csv_files = [os.path.join(data_folder, file) for file in os.listdir(data_folder) if os.path.isfile(os.path.join(data_folder, file))]
         documents = process_csv_files(csv_files)
         if documents:
             # Print descriptions of processed files
             print("\nProcessed Files:")
             for doc in documents:
-                print(f"\nFile: {doc.metadata['source']}")
-                print(f"Description: {doc.metadata['description']}")
-                print(f"Rows: {doc.metadata['num_rows']}")
-                print(f"Columns: {doc.metadata['num_columns']}")
-                if doc.metadata['warnings']:
-                    print("Warnings:", doc.metadata['warnings'])
-                print("-" * 50)
+                try:
+                    # Load external metadata
+                    metadata_reference = doc.metadata.get("metadata_reference")
+                    if metadata_reference and os.path.exists(metadata_reference):
+                        with open(metadata_reference, "r") as metadata_file:
+                            detailed_metadata = json.load(metadata_file)
+                    else:
+                        detailed_metadata = {}  # Fallback if metadata file is missing
+
+                    # Extract data from the external metadata
+                    source = detailed_metadata.get("source", "Unknown")
+                    description = doc.metadata.get("description", "No description available")
+                    num_rows = detailed_metadata.get("num_rows", "N/A")
+                    num_columns = detailed_metadata.get("num_columns", "N/A")
+                    warnings = detailed_metadata.get("warnings", [])
+
+                    # Print the file details
+                    print(f"\nFile: {source}")
+                    print(f"Description: {description}")
+                    print(f"Rows: {num_rows}")
+                    print(f"Columns: {num_columns}")
+                    print("Warnings:", warnings)
+                    print("-" * 50)
+
+                except Exception as e:
+                    print(f"Error loading metadata for document: {str(e)}")
+                    continue
         else:
             logger.error("No documents were successfully processed")
         index = VectorStoreIndex.from_documents(documents)

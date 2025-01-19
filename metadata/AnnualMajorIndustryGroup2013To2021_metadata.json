@@ -1,0 +1,12 @@
+{
+    "source": "data\\AnnualMajorIndustryGroup2013To2021.csv",
+    "description": "Annual Training Cost Incurred by Establishments Providing Job-Related Trainings  by Type of Workers and Major Industry Group, Philippines: 2021  (In PhP Million except Percent Share)",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 20,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2013_percent_share;2013_total;2013_..managers/_executives;2013_..supervisors/_foremen;2013_..rank_and_file;2015_percent_share;2015_total;2015_..managers/_executives;2015_..supervisors/_foremen;2015_..rank_and_file;2017_percent_share;2017_total;2017_..managers/_executives;2017_..supervisors/_foremen;2017_..rank_and_file;2019_percent_share;2019_total;2019_..managers/_executives;2019_..supervisors/_foremen;2019_..rank_and_file;2021_percent_share;2021_total;2021_..managers/_executives;2021_..supervisors/_foremen;2021_..rank_and_file"
+    ]
+}

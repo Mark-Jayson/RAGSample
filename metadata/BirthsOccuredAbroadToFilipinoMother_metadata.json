@@ -1,0 +1,12 @@
+{
+    "source": "data\\BirthsOccuredAbroadToFilipinoMother.csv",
+    "description": "Live Births Which Occurred Abroad to Filipino Mother by Age Group of Mother and Live Birth Order: 2016",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 10,
+    "num_columns": 1,
+    "column_names": [
+        "age_group_of_mother;total;1st;2nd;3rd;4th;5th;6th;7th;8th;9th;10th_&_over"
+    ]
+}

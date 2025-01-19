@@ -1,0 +1,12 @@
+{
+    "source": "data\\NumberOfDeathsAgeGroupAndSex.csv",
+    "description": "Deaths : Number of Deaths by Usual Residence (Region, Province and City/Municipality), Age Group and Sex: Philippines, 2016",
+    "warnings": [],
+    "encoding": "ISO-8859-1",
+    "delimiter": ",",
+    "num_rows": 119,
+    "num_columns": 1,
+    "column_names": [
+        "geolocation;all_ages_male;all_ages_female;under_1_male;under_1_female;1_4_male;1_4_female;5_9_male;5_9_female;10_14_male;10_14_female;15_19_male;15_19_female;20_24_male;20_24_female;25_29_male;25_29_female;30_34_male;30_34_female;35_39_male;35_39_female;40_44_male;40_44_female;45_49_male;45_49_female;50_54_male;50_54_female;55_59_male;55_59_female;60_64_male;60_64_female;65_69_male;65_69_female;70_74_male;70_74_female;75_79_male;75_79_female;80_84_male;80_84_female;85_and_over_male;85_and_over_female;not_stated_male;not_stated_female"
+    ]
+}

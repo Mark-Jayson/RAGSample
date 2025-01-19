@@ -1,0 +1,12 @@
+{
+    "source": "data\\BasisOfPaymentAndRegion.csv",
+    "description": "Total Employment of Establishments with 20 or More Workers by Basis of Payment and Region: August 2022",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 1,
+    "column_names": [
+        "region;2022_time_rated_workers;2022_..full_time_workers;2022_....full_time_hourly;2022_....full_time_daily;2022_....full_time_monthly;2022_..part_time_workers;2022_commission_workers;2022_output_rated_workers"
+    ]
+}

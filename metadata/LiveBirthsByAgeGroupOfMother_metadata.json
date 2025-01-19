@@ -1,0 +1,12 @@
+{
+    "source": "data\\LiveBirthsByAgeGroupOfMother.csv",
+    "description": "Number of Live Births by Age Group of Mother and Number of Living Children: 2016",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 11,
+    "num_columns": 1,
+    "column_names": [
+        "age_group_of_mother;total;1;2;3;4;5;6;7;8;9;10_&_over;not_stated"
+    ]
+}

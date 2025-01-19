@@ -1,0 +1,12 @@
+{
+    "source": "data\\TypeOfJobsServicesContractedOutAndRegion.csv",
+    "description": "Number of Agency-Hired Workers in Establishments with 20 or More Workers by Type of Jobs/Services Contracted Out and Region: August 2022",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 1,
+    "column_names": [
+        "region;2022_total_workers_hired_through_contractors;2022_..security_services;2022_..janitorial;2022_..general_administrative;2022_..marketing/_sales;2022_..packaging;2022_..production/_assembly;2022_..research_and_development;2022_..it_services;2022_..food_service/_catering;2022_..logistics/_transport;2022_..repair/_maintenance/_construction;2022_..warehousing;2022_..medical_and_health_services;2022_..cashier;2022_..messengerial;2022_..billing/_payment;2022_..human_resource;2022_..data_processing/encoding;2022_..finance/_accounting;2022_..learning/training;2022_..others"
+    ]
+}

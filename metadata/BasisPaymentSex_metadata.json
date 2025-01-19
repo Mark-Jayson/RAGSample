@@ -1,0 +1,12 @@
+{
+    "source": "data\\BasisPaymentSex.csv",
+    "description": "Total Employment of Establishments with 20 or More Workers by Basis of Payment, Sex and Major Industry Group, Philippines: June 2014 to August 2022",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 28,
+    "num_columns": 1,
+    "column_names": [
+        "sex;major_industry_group;2014_time_rated_workers;2014_..full_time_workers;2014_....full_time_hourly;2014_....full_time_daily;2014_....full_time_monthly;2014_..part_time_workers;2014_commission_workers;2014_output_rated_workers;2016_time_rated_workers;2016_..full_time_workers;2016_....full_time_hourly;2016_....full_time_daily;2016_....full_time_monthly;2016_..part_time_workers;2016_commission_workers;2016_output_rated_workers;2018_time_rated_workers;2018_..full_time_workers;2018_....full_time_hourly;2018_....full_time_daily;2018_....full_time_monthly;2018_..part_time_workers;2018_commission_workers;2018_output_rated_workers;2020_time_rated_workers;2020_..full_time_workers;2020_....full_time_hourly;2020_....full_time_daily;2020_....full_time_monthly;2020_..part_time_workers;2020_commission_workers;2020_output_rated_workers;2022_time_rated_workers;2022_..full_time_workers;2022_....full_time_hourly;2022_....full_time_daily;2022_....full_time_monthly;2022_..part_time_workers;2022_commission_workers;2022_output_rated_workers"
+    ]
+}

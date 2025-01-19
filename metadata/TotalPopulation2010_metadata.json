@@ -1,0 +1,12 @@
+{
+    "source": "data\\TotalPopulation2010.csv",
+    "description": "Total population by age group, sex, region, province, and highly urbanized city: 2010",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 134,
+    "num_columns": 1,
+    "column_names": [
+        "geolocation;2010_male_below_5;2010_male_5_9;2010_male_10_14;2010_male_15_19;2010_male_20_24;2010_male_25_29;2010_male_30_34;2010_male_35_39;2010_male_40_44;2010_male_45_49;2010_male_50_54;2010_male_55_59;2010_male_60_64;2010_male_65_69;2010_male_70_74;2010_male_75_79;2010_male_80_and_over;2010_female_below_5;2010_female_5_9;2010_female_10_14;2010_female_15_19;2010_female_20_24;2010_female_25_29;2010_female_30_34;2010_female_35_39;2010_female_40_44;2010_female_45_49;2010_female_50_54;2010_female_55_59;2010_female_60_64;2010_female_65_69;2010_female_70_74;2010_female_75_79;2010_female_80_and_over"
+    ]
+}

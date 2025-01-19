@@ -1,0 +1,12 @@
+{
+    "source": "data\\AverageMonthlyData.csv",
+    "description": "Average Monthly Wage Rates of Benchmark Occupations by Industry: 2014 to 2022",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 176,
+    "num_columns": 1,
+    "column_names": [
+        "industries;benchmark_occupations;2014;2016;2018;2020;2022"
+    ]
+}

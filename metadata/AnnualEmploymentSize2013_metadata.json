@@ -1,0 +1,14 @@
+{
+    "source": "data\\AnnualEmploymentSize2013.csv",
+    "description": "Annual Training Cost by Employment Size and Training Provider, Philippines: June 2013",
+    "warnings": [
+        "Column employment_size;2013_total;2013_local_private_training_institution;2013_government_training_institution;2013_in_house;2013_foreign_training_institution;2013_others might be better as categorical"
+    ],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 4,
+    "num_columns": 1,
+    "column_names": [
+        "employment_size;2013_total;2013_local_private_training_institution;2013_government_training_institution;2013_in_house;2013_foreign_training_institution;2013_others"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "source": "data\\MarriagesByAgeGroupOfBride.csv",
+    "description": "Number of Marriages by Age Group of Bride and Place of Occurrence (Region/Province/Municipality), Philippines: 2017",
+    "warnings": [],
+    "encoding": "ISO-8859-1",
+    "delimiter": ",",
+    "num_rows": 118,
+    "num_columns": 1,
+    "column_names": [
+        "geolocation;total;under_15;15_19;20_24;25_29;30_34;35_39;40_44;45_49;50_54;55_59;60_64;65_69;70_74;75_and_over;not_stated"
+    ]
+}

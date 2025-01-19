@@ -1,0 +1,12 @@
+{
+    "source": "data\\WorkersByOccupationAndndStatusOfEmployment.csv",
+    "description": "Number of Vacancies in Establishments with 20 or More Workers by Occupation and Status of Employment, Philippines: January 2013 - June 2014 to January 2015 - June 2016",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 10,
+    "num_columns": 1,
+    "column_names": [
+        "major_occupation_group;2014_total;2014_..regular;2014_..non_regular;2014_total_number_of_vacancies;2014_..regular_position;2014_..non_regular_position;2016_total;2016_..regular;2016_..non_regular;2016_total_number_of_vacancies;2016_..regular_position;2016_..non_regular_position"
+    ]
+}

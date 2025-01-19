@@ -1,0 +1,12 @@
+{
+    "source": "data\\InfantDeathsByCausesOfDeath.csv",
+    "description": "Deaths : Number of Registered Infant Deaths by Causes of Death and Sex, Philippines: 2016",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 57,
+    "num_columns": 1,
+    "column_names": [
+        "cause_of_death;total;male;female"
+    ]
+}

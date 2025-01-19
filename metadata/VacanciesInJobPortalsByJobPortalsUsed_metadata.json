@@ -1,0 +1,12 @@
+{
+    "source": "data\\VacanciesInJobPortalsByJobPortalsUsed.csv",
+    "description": "Number of Establishments Employing 20 or More Workers Posted Vacancies in Job Portals by Job Portals Used and Major Industry Group, Philippines: September 2021 to August 2022",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 19,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2022_total_number_of_establishments_posted_vacancies_in_job_portals;2022_..phil_jobnet;2022_..jobstreet;2022_..kalibrr;2022_..jobsdb;2022_..ph.indeed.com;2022_..mynimo.com;2022_..linkedin;2022_..others"
+    ]
+}

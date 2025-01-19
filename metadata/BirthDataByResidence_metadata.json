@@ -1,0 +1,12 @@
+{
+    "source": "data\\BirthDataByResidence.csv",
+    "description": "Number of Live Births by Usual Residence of Mother, Year, Sex and Month of Occurrence",
+    "warnings": [],
+    "encoding": "ISO-8859-1",
+    "delimiter": ",",
+    "num_rows": 119,
+    "num_columns": 1,
+    "column_names": [
+        "usual_residence_of_mother;2015_both_sexes_total;2015_both_sexes_jan;2015_both_sexes_feb;2015_both_sexes_mar;2015_both_sexes_apr;2015_both_sexes_may;2015_both_sexes_jun;2015_both_sexes_jul;2015_both_sexes_aug;2015_both_sexes_sep;2015_both_sexes_oct;2015_both_sexes_nov;2015_both_sexes_dec;2015_male_total;2015_male_jan;2015_male_feb;2015_male_mar;2015_male_apr;2015_male_may;2015_male_jun;2015_male_jul;2015_male_aug;2015_male_sep;2015_male_oct;2015_male_nov;2015_male_dec;2015_female_total;2015_female_jan;2015_female_feb;2015_female_mar;2015_female_apr;2015_female_may;2015_female_jun;2015_female_jul;2015_female_aug;2015_female_sep;2015_female_oct;2015_female_nov;2015_female_dec;2016_both_sexes_total;2016_both_sexes_jan;2016_both_sexes_feb;2016_both_sexes_mar;2016_both_sexes_apr;2016_both_sexes_may;2016_both_sexes_jun;2016_both_sexes_jul;2016_both_sexes_aug;2016_both_sexes_sep;2016_both_sexes_oct;2016_both_sexes_nov;2016_both_sexes_dec;2016_male_total;2016_male_jan;2016_male_feb;2016_male_mar;2016_male_apr;2016_male_may;2016_male_jun;2016_male_jul;2016_male_aug;2016_male_sep;2016_male_oct;2016_male_nov;2016_male_dec;2016_female_total;2016_female_jan;2016_female_feb;2016_female_mar;2016_female_apr;2016_female_may;2016_female_jun;2016_female_jul;2016_female_aug;2016_female_sep;2016_female_oct;2016_female_nov;2016_female_dec"
+    ]
+}

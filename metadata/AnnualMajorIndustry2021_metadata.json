@@ -1,0 +1,12 @@
+{
+    "source": "data\\AnnualMajorIndustry2021.csv",
+    "description": "Annual Training Cost by Type of Workers and Major Industry Group, Philippines: 2021",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 20,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2021_total_number_of_employees_trained;2021_annual_training_cost;2021_..total_number_of_managers_trained;2021_..training_cost_of_managers;2021_..total_number_of_supervisors_trained;2021_..training_cost_of_supervisors;2021_..total_number_of_rank_and_file_trained;2021_..training_cost_of_rank_and_file"
+    ]
+}

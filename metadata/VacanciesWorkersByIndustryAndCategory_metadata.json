@@ -1,0 +1,12 @@
+{
+    "source": "data\\VacanciesWorkersByIndustryAndCategory.csv",
+    "description": "Total Number of Vacancies in Establishments with 20 or more Workers by Industry and Category, Philippines: January 2013 - June 2014 to September 2021 - August 2022",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 19,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2014_total_number_of_vacancies;2014_..hard_to_fill_vacancies;2014_..easy_to_fill_vacancies;2016_total_number_of_vacancies;2016_..hard_to_fill_vacancies;2016_..easy_to_fill_vacancies;2018_total_number_of_vacancies;2018_..hard_to_fill_vacancies;2018_..easy_to_fill_vacancies;2020_total_number_of_vacancies;2020_..hard_to_fill_vacancies;2020_..easy_to_fill_vacancies;2022_total_number_of_vacancies;2022_..hard_to_fill_vacancies;2022_..easy_to_fill_vacancies"
+    ]
+}

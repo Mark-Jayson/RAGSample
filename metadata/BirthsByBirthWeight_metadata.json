@@ -1,0 +1,14 @@
+{
+    "source": "data\\BirthsByBirthWeight.csv",
+    "description": "Number of Live Births by Birth Weight (In Grams) and Birth Order: 2016",
+    "warnings": [
+        "Column birth_weight_(in_grams);total;first;second;third;fourth;fifth;sixth;seventh;eighth;ninth;tenth_&_over;not_stated might be better as categorical"
+    ],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 9,
+    "num_columns": 1,
+    "column_names": [
+        "birth_weight_(in_grams);total;first;second;third;fourth;fifth;sixth;seventh;eighth;ninth;tenth_&_over;not_stated"
+    ]
+}

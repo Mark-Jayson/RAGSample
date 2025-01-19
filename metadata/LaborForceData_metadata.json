@@ -1,0 +1,12 @@
+{
+    "source": "data\\LaborForceData.csv",
+    "description": "Labor Force Participation Rate, Employment Rate, Unemployment Rate and Underemployment Rate, Philippines: January 2005 to November 2024",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 260,
+    "num_columns": 1,
+    "column_names": [
+        "year;monthly/quarterly;labor_force_participation_rate;employment_rate;unemployment_rate;underemployment_rate;visible_underemployment_rate"
+    ]
+}

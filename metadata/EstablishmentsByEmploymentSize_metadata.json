@@ -1,0 +1,14 @@
+{
+    "source": "data\\EstablishmentsByEmploymentSize.csv",
+    "description": "Number of Establishments with 20 or More Workers that Provided Job-Related Trainings by Employment Size, Philippines: 2013 to 2021",
+    "warnings": [
+        "Column major_industry_group;2013_total_establishments;2013_establishments_providing_job_related_trainings;2015_total_establishments;2015_establishments_providing_job_related_trainings;2017_total_establishments;2017_establishments_providing_job_related_trainings;2019_total_establishments;2019_establishments_providing_job_related_trainings;2021_total_establishments;2021_establishments_providing_job_related_trainings might be better as categorical"
+    ],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 4,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2013_total_establishments;2013_establishments_providing_job_related_trainings;2015_total_establishments;2015_establishments_providing_job_related_trainings;2017_total_establishments;2017_establishments_providing_job_related_trainings;2019_total_establishments;2019_establishments_providing_job_related_trainings;2021_total_establishments;2021_establishments_providing_job_related_trainings"
+    ]
+}

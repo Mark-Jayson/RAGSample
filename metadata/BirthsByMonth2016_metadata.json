@@ -1,0 +1,12 @@
+{
+    "source": "data\\BirthsByMonth2016.csv",
+    "description": "Number of Live Births by Place of Occurrence, Month of Occurrence and Sex: 2016",
+    "warnings": [],
+    "encoding": "ISO-8859-1",
+    "delimiter": ",",
+    "num_rows": 118,
+    "num_columns": 1,
+    "column_names": [
+        "place_of_occurrence;total_male;total_female;jan_male;jan_female;feb_male;feb_female;mar_male;mar_female;apr_male;apr_female;may_male;may_female;jun_male;jun_female;jul_male;jul_female;aug_male;aug_female;sep_male;sep_female;oct_male;oct_female;nov_male;nov_female;dec_male;dec_female"
+    ]
+}

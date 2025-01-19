@@ -1,0 +1,12 @@
+{
+    "source": "data\\EstablishmentsByRegion.csv",
+    "description": "Number of Establishments with 20 or More Workers that Provided Job-Related Trainings by Region: 2021",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 1,
+    "column_names": [
+        "region;2021_total_establishments;2021_establishments_providing_job_related_trainings"
+    ]
+}

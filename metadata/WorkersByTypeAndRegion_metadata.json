@@ -1,0 +1,12 @@
+{
+    "source": "data\\WorkersByTypeAndRegion.csv",
+    "description": "Number of Commission and Output-Rated Workers in Establishments with 20 or More Workers by Type and Region: August 2022",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 1,
+    "column_names": [
+        "region;2022_commission_workers_(cw);2022_..cw_with_basic_pay_and_commission;2022_..cw_purely_on_commission_with_employer_control_and_supervision;2022_..cw_purely_on_commission_without_employer_control_and_supervision;2022_output_rated_workers_(orw);2022_..orw_piece_rated_workers;2022_..orw_quota_workers;2022_..orw_pakyao_or_takay_workers;2022_..orw_task_workers"
+    ]
+}

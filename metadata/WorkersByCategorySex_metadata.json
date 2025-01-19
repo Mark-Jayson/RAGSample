@@ -1,0 +1,12 @@
+{
+    "source": "data\\WorkersByCategorySex.csv",
+    "description": "Total Employment and Number of Non-Regular Workers in Establishments with 20 or More Workers by Category, Sex and Major Industry Group, Philippines: June 2014 to August 2022",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 28,
+    "num_columns": 1,
+    "column_names": [
+        "sex;major_industry_group;2014_total_non_regular_workers;2014_..probationary_workers;2014_..casual_workers;2014_..contractual/_project_based_workers;2014_..seasonal_workers;2014_..apprentices/_learners;2016_total_non_regular_workers;2016_..probationary_workers;2016_..casual_workers;2016_..contractual/_project_based_workers;2016_..seasonal_workers;2016_..apprentices/_learners;2018_total_non_regular_workers;2018_..probationary_workers;2018_..casual_workers;2018_..contractual/_project_based_workers;2018_..seasonal_workers;2018_..apprentices/_learners;2020_total_non_regular_workers;2020_..probationary_workers;2020_..casual_workers;2020_..contractual/_project_based_workers;2020_..seasonal_workers;2020_..apprentices/_learners;2022_total_non_regular_workers;2022_..probationary_workers;2022_..casual_workers;2022_..contractual/_project_based_workers;2022_..seasonal_workers;2022_..apprentices/_learners"
+    ]
+}

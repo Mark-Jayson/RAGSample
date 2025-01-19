@@ -1,0 +1,12 @@
+{
+    "source": "data\\WorkersByMajorIIndustryGroup.csv",
+    "description": "Number and Percent Share of Establishments with 20 or More Workers with Agency-Hired Workers by Major Industry Group, Philippines: June 2014 to August 2022",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 19,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2014_total_establishments;2014_establishments_with_agency_hired_workers;2014_percent_to_total;2016_total_establishments;2016_establishments_with_agency_hired_workers;2016_percent_to_total;2018_total_establishments;2018_establishments_with_agency_hired_workers;2018_percent_to_total;2020_total_establishments;2020_establishments_with_agency_hired_workers;2020_percent_to_total;2022_total_establishments;2022_establishments_with_agency_hired_workers;2022_percent_to_total"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "source": "data\\AnnualEmploymentSize2021.csv",
+    "description": "Annual Training Cost Incurred by Establishments Providing Job-Related Trainings by Type of Workers and Employment Size, Philippines: 2013 to 2021",
+    "warnings": [
+        "Column employment_size;2013_percent_share;2013_total;2013_managers/executives;2013_supervisors/foremen;2013_rank_and_file;2015_percent_share;2015_total;2015_managers/executives;2015_supervisors/foremen;2015_rank_and_file;2017_percent_share;2017_total;2017_managers/executives;2017_supervisors/foremen;2017_rank_and_file;2019_percent_share;2019_total;2019_managers/executives;2019_supervisors/foremen;2019_rank_and_file;2021_percent_share;2021_total;2021_managers/executives;2021_supervisors/foremen;2021_rank_and_file might be better as categorical"
+    ],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 4,
+    "num_columns": 1,
+    "column_names": [
+        "employment_size;2013_percent_share;2013_total;2013_managers/executives;2013_supervisors/foremen;2013_rank_and_file;2015_percent_share;2015_total;2015_managers/executives;2015_supervisors/foremen;2015_rank_and_file;2017_percent_share;2017_total;2017_managers/executives;2017_supervisors/foremen;2017_rank_and_file;2019_percent_share;2019_total;2019_managers/executives;2019_supervisors/foremen;2019_rank_and_file;2021_percent_share;2021_total;2021_managers/executives;2021_supervisors/foremen;2021_rank_and_file"
+    ]
+}

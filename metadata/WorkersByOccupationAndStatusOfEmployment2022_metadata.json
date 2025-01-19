@@ -1,0 +1,12 @@
+{
+    "source": "data\\WorkersByOccupationAndStatusOfEmployment2022.csv",
+    "description": "Number of Vacancies in Establishments with 20 or More Workers by Occupation and Status of Employment with 20 or more Workers, Philippines: July 2017 - June 2018 to September 2021 - August 2022",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 10,
+    "num_columns": 1,
+    "column_names": [
+        "major_occupation_group;2018_total_number_of_vacancies;2018_..regular_position;2018_..non_regular_position;2020_total_number_of_vacancies;2020_..regular_position;2020_..non_regular_position;2022_total_number_of_vacancies;2022_..regular_position;2022_..non_regular_position"
+    ]
+}

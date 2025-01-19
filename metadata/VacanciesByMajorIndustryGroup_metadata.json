@@ -1,0 +1,12 @@
+{
+    "source": "data\\VacanciesByMajorIndustryGroup.csv",
+    "description": "Total Number of Establishments with and without Vacancies by Major Industry Group, Philippines: January 2013 - June 2014 to September 2021 - August 2022",
+    "warnings": [],
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 19,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2014_total;2014_..with_vacancies;2014_..without_vacancies;2016_total;2016_..with_vacancies;2016_..without_vacancies;2018_total;2018_..with_vacancies;2018_..without_vacancies;2020_total;2020_..with_vacancies;2020_..without_vacancies;2022_total;2022_..with_vacancies;2022_..without_vacancies"
+    ]
+}

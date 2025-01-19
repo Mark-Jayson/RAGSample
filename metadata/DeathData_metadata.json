@@ -1,0 +1,12 @@
+{
+    "source": "data\\DeathData.csv",
+    "description": "Number of Registered Death by Usual Residence and Sex",
+    "warnings": [],
+    "encoding": "Windows-1252",
+    "delimiter": ",",
+    "num_rows": 135,
+    "num_columns": 1,
+    "column_names": [
+        "region,_province,_city/municipality;2013_both_sexes;2013_male;2013_female;2014_both_sexes;2014_male;2014_female;2015_both_sexes;2015_male;2015_female;2016_both_sexes;2016_male;2016_female;2017_both_sexes;2017_male;2017_female;2018_both_sexes;2018_male;2018_female;2019_both_sexes;2019_male;2019_female;2020_both_sexes;2020_male;2020_female;2021_both_sexes;2021_male;2021_female;2022_both_sexes;2022_male;2022_female"
+    ]
+}

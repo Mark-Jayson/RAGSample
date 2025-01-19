@@ -1,0 +1,12 @@
+{
+    "source": "data\\LiveBirthsByPlace.csv",
+    "description": "Number of Live Births by Place of Occurrence and Attendant at Birth: 2016",
+    "warnings": [],
+    "encoding": "ISO-8859-1",
+    "delimiter": ",",
+    "num_rows": 118,
+    "num_columns": 1,
+    "column_names": [
+        "place_of_occurrence;total;health_professional;traditional_birth_attendants;others;not_stated"
+    ]
+}
