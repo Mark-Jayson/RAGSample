@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JuanGPT Chat</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=K2D:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+    <style>
+        .chat-container {
+            height: calc(100vh - 180px);
+            overflow-y: auto;
+            padding: 20px;
+            background-color: #ffffff;
+            ;
+            margin-left: 10vw;
+        }
+
+        .message {
+            margin-bottom: 20px;
+            display: flex;
+            gap: 15px;
+        }
+
+        .main-content {
+            background-color: #e3f2fd;
+            ;
+        }
+
+        .avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background-color: #0066d3;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+        }
+
+        .message-content {
+            flex: 1;
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            max-width: 80%;
+        }
+
+        .user-message .message-content {
+            background-color: #e3f2fd;
+        }
+
+        .bot-message .message-content {
+            background-color: white;
+        }
+
+        .message-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+
+        .message-header h5 {
+            margin: 0;
+            font-size: 1rem;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .message-text {
+            color: #555;
+            line-height: 1.5;
+        }
+
+        .explore-dataset {
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid #eee;
+        }
+
+        .explore-dataset h6 {
+            color: #ffa500;
+            margin-bottom: 5px;
+        }
+
+        .explore-dataset a {
+            color: #0066d3;
+            text-decoration: none;
+        }
+
+        .input-container {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 70%;
+            background: white;
+            border-radius: 25px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            z-index: 900;
+        }
+
+
+
+
+        @media (max-width: 768px) {
+            .input-container {
+                width: 90%;
+            }
+
+            .message-content {
+                max-width: 90%;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .chat-container {
+                height: calc(100vh - 160px);
+            }
+
+            .input-container {
+                width: 95%;
+                bottom: 10px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <button id="toggle-button" class="toggle-button btn btn-link text-white">
+        <i class="fas fa-bars"></i>
+    </button>
+
+
+
+    <div id="side-panel" class="position-fixed top-0 start-0 h-100 bg-dark text-white transition-all duration-300 z-50">
+
+
+        <div id="expanded-content" class=" p-3 d-none">
+            <button class="btn btn-link text-white p-2">
+                <i class="fas fa-plus"></i> New Chat
+            </button>
+
+            <h2 class="text-lg font-semibold mb-2">Recent</h2>
+            <div class="text-gray-200">Recent chats will appear here</div>
+            <div class="text-gray-200">Recent chats will appear here</div>
+            <div class="text-gray-200">Recent chats will appear here</div>
+        </div>
+
+        <div class="position-absolute bottom-0 start-0 w-100 p-3">
+            <button class="btn btn-link text-white">
+                <row><i class="fas fa-info-circle"></i><label class="label d-none">JuanGPT</label></row>
+            </button><br>
+            <button class="btn btn-link text-white">
+                <i class="fas fa-cog"></i> <label class="label d-none">Settings</label>
+            </button>
+        </div>
+    </div>
+
+    <div id="main-content"
+        class="main-content position-fixed top-0 end-0 h-100 bg-white text-white transition-all duration-300 z-50">
+        <div class="user-input">
+            <input type="text" class="form-control border-0" id="chat" placeholder="Message JuanGPT">
+            <button class="btn btn-link">
+                <img src="/static/assets/Paper Plane.png" width="30" height="30" alt="Send">
+            </button>
+        </div>
+        <nav class="navbar navbar-light">
+
+            <a class="navbar-brand" href="#">
+                <img src="/static/assets/Logo White.png" alt="LOGO" class="logo d-flex justify-content-start">
+            </a>
+            <div class="d-flex justify-content-end align-items-center gap-2">
+                <a href="login.html" class="btn btn-warning rounded-5">Log In</a> <br>
+                <a href="signup.html" class="btn log btn-outline-warning rounded-5">Sign Up</a>
+            </div>
+        </nav>
+
+        <!-- Existing navbar and side panel code remains the same -->
+
+        <div class="chat-container">
+            <div class="message bot-message">
+                <div class="avatar">J</div>
+                <div class="message-content">
+                    <div class="message-header">
+                        <h5>JuanGPT</h5>
+                    </div>
+                    <div class="message-text">
+                        <p>60,336 families</p>
+                        <p>Based on the record of PSA on number of households of some highly urbanized cities in the
+                            Philippines, Catanduanes, a city in the Bicol Region has 60,336 household or families.</p>
+                        <div class="explore-dataset">
+                            <h6>Explore dataset:</h6>
+                            <a href="#">Number of Households by Type of Building, Tenure Status of the Housing Unit/Lot,
+                                and Province/Highly Urbanized City: Philippines, 2020</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Add more message elements as needed -->
+        </div>
+    </div>
+
+
+
+    <script>
+        // Add message to chat
+        function addMessage(message, isUser = false) {
+        const chatContainer = document.querySelector('.chat-container');
+        const messageDiv = document.createElement('div');
+        messageDiv.className = `message ${isUser ? 'user-message' : 'bot-message'}`;
+        
+        const avatar = document.createElement('div');
+        avatar.className = 'avatar';
+        avatar.textContent = isUser ? 'U' : 'J';
+
+        const content = document.createElement('div');
+        content.className = 'message-content';
+        content.innerHTML = `
+            <div class="message-header">
+                <h5>${isUser ? 'User' : 'JuanGPT'}</h5>
+            </div>
+            <div class="message-text">
+                <p>${message}</p>
+            </div>
+        `;
+
+        messageDiv.appendChild(avatar);
+        messageDiv.appendChild(content);
+        chatContainer.appendChild(messageDiv);
+        chatContainer.scrollTop = chatContainer.scrollHeight;
+        
+        return messageDiv; // Return the message element for potential removal
+    }
+
+        // Handle message input
+        const input = document.querySelector('.user-input input');
+        const sendButton = document.querySelector('.user-input button');
+
+        async function sendMessage() {
+            const input = document.querySelector('.user-input input');
+            const message = input.value.trim();
+
+            if (message) {
+                // Add user message to chat
+                addMessage(message, true);
+                input.value = '';
+
+                try {
+                    // Show loading state
+                    const loadingMessage = addMessage('Thinking...', false);
+
+                    // Send request to backend
+                    const response = await fetch('/api/chat', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({ text: message })
+                    });
+
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+
+                    const data = await response.json();
+
+                    // Remove loading message
+                    loadingMessage.remove();
+
+                    // Add bot response to chat
+                    addMessage(data.response, false);
+
+                } catch (error) {
+                    console.error('Error:', error);
+                    addMessage('Sorry, I encountered an error while processing your request.', false);
+                }
+            }
+        }
+
+        sendButton.addEventListener('click', sendMessage);
+        input.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                sendMessage();
+            }
+        });
+
+        document.addEventListener('DOMContentLoaded', function () {
+            const sidePanel = document.getElementById('side-panel');
+            const mainContent = document.getElementById('main-content');
+            const toggleButton = document.getElementById('toggle-button');
+            const expandedContent = document.getElementById('expanded-content');
+            const label1 = document.getElementsByClassName('label')[0];
+            const label2 = document.getElementsByClassName('label')[1];
+            const smallbutton = document.getElementById('smallbutton');
+            let isExpanded = false;
+
+            toggleButton.addEventListener('click', function () {
+                isExpanded = !isExpanded;
+                if (window.innerWidth <= 576) {
+                    if (isExpanded) {
+
+                        sidePanel.style.width = '100vw';
+                        sidePanel.style.display = 'block';
+                        mainContent.style.display = 'none';
+                        expandedContent.classList.remove('d-none');
+                        label1.classList.remove('d-none');
+                        label1.classList.add('d-block');
+                        label2.classList.remove('d-none');
+                        label2.classList.add('d-block');
+
+                    } else {
+                        sidePanel.style.display = 'none';
+                        mainContent.style.display = 'block';
+                        mainContent.style.width = '100vw';
+                        sidePanel.style.width = 'none';
+                    }
+
+
+                } else {
+                    if (isExpanded) {
+                        sidePanel.style.width = '25vw';
+                        // sidePanel.classList.add('col-3');
+                        mainContent.style.width = '75vw';
+
+                        expandedContent.classList.remove('d-none');
+                        label1.classList.remove('d-none');
+                        label1.classList.add('d-block');
+                        label2.classList.remove('d-none');
+                        label2.classList.add('d-block');
+
+
+                    } else {
+                        sidePanel.style.width = '5vw';
+                        mainContent.style.width = '95vw';
+                        expandedContent.classList.add('d-none');
+                        label1.classList.add('d-none');
+                        label1.classList.remove('d-block');
+                        label2.classList.add('d-none');
+                        label2.classList.remove('d-block');
+                    }
+                }
+            });
+
+            window.addEventListener('resize', function () {
+                const sidePanel = document.getElementById('side-panel');
+                const mainContent = document.getElementById('main-content');
+
+                if (window.innerWidth <= 576) {
+                    sidePanel.style.display = 'none';
+                    mainContent.style.display = 'block';
+                    mainContent.style.width = '100vw';
+                    sidePanel.style.width = 'none';
+                }
+                else {
+                    sidePanel.style.width = '5vw';
+                    mainContent.style.width = '95vw';
+                    mainContent.style.display = 'block';
+                    expandedContent.classList.add('d-none');
+                    sidePanel.style.display = 'block';
+                    label1.classList.add('d-none');
+                    label1.classList.remove('d-block');
+                    label2.classList.add('d-none');
+                    label2.classList.remove('d-block');
+
+
+                }
+            });
+
+        });
+    </script>
+</body>
+
+</html>

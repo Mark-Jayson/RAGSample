@@ -4,13 +4,12 @@ from dotenv import load_dotenv
 from llama_index.core import VectorStoreIndex, Document
 from llama_index.core import (
     VectorStoreIndex,
+    SimpleDirectoryReader,
     StorageContext,
-    ServiceContext,
     load_index_from_storage,
 )
 from llama_index.core import Settings
-from llama_index.llms.groq import Groq
-from sentence_transformers import SentenceTransformer
+from llama_index.llms.openai import OpenAI
 import pandas as pd
 import numpy as np
 from typing import List, Optional, Tuple
@@ -238,11 +237,8 @@ def process_csv_files(file_paths: List[str]) -> List[Document]:
 # Main execution
 def main():
     load_dotenv()
-    embed_model = SentenceTransformer('BAAI/bge-small-en')
-    api_key = os.getenv("GROQ_API_KEY") 
-    llm = Groq(model="llama3-70b-8192", api_key=api_key)
-    Settings.llm = llm
-    service_context = ServiceContext.from_defaults(embed_model=embed_model, llm=llm)
+    Settings.llm = OpenAI()
+
     PERSIST_DIR = "./storage"
     if not os.path.exists(PERSIST_DIR):
     # load the documents and create the index
@@ -266,7 +262,7 @@ def main():
                     source = detailed_metadata.get("source", "Unknown")
                     description = doc.metadata.get("description", "No description available")
                     num_rows = detailed_metadata.get("num_rows", "N/A")
-                    num_columns = detailed_metadata.get( "num_columns", "N/A")
+                    num_columns = detailed_metadata.get("num_columns", "N/A")
                     warnings = detailed_metadata.get("warnings", [])
 
                     # Print the file details
@@ -282,7 +278,7 @@ def main():
                     continue
         else:
             logger.error("No documents were successfully processed")
-        index = VectorStoreIndex.from_documents(documents, show_progress=True, service_context=service_context)
+        index = VectorStoreIndex.from_documents(documents)
         # store it for later
         index.storage_context.persist(persist_dir=PERSIST_DIR)
 
@@ -295,7 +291,7 @@ def main():
     
 
         
-    query_engine = index.as_query_engine(service_context=service_context)
+    query_engine = index.as_query_engine()
 
     while True:
         res = input("\nEnter your query (or 'quit' to exit): ")
@@ -303,5 +299,7 @@ def main():
             break
         response = query_engine.query(res)
         print("\nResponse:", response)
-if __name__ == "__main__":        
+
+
+if __name__ == "__main__":
     main()
