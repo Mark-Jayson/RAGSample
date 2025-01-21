@@ -1,3 +1,36 @@
+<?php
+session_start();
+include("connection.php");
+include("functions.php");
+
+if ($_SERVER['REQUEST_METHOD'] == "POST") {
+    $email = $_POST['email'];
+    $password = $_POST['password'];
+    
+
+    if (!empty($email) && !empty($password)) {
+        $query = "SELECT * FROM users WHERE email = '$email'";
+        $result = mysqli_query($con, $query);
+
+        if ($result && mysqli_num_rows($result) > 0) {
+            $user_data = mysqli_fetch_assoc($result);
+
+            if ($user_data['password'] === $password) {
+                $_SESSION['email'] = $user_data['email'];
+                header("Location: index.php");
+                die;
+            } else {
+                echo "Wrong password.";
+            }
+        } else {
+            echo "User not found.";
+        }
+    } else {
+        echo "Please enter both username and password.";
+    }
+} 
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -5,7 +38,7 @@
     <meta charset="UTF-8">
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JuanGPT</title>
+    <title>JuanGPT Log In</title>
     <link rel="icon" href="assets/Logo Blue.png" type="image/x-icon" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -39,15 +72,15 @@
                     <h1 class="text-center fw-bold fs-2">Login</h1>
                     <hr class="hr w-100 my-3 border-top border-warning">
 
-                    <form>
+                    <form action="" method="post">
                         <div class="form mb-2 text-dark">
-                            <input type="email" class="form-control form-control-sm shadow-sm" id="email"
+                            <input type="email" required class="form-control form-control-sm shadow-sm" autocomplete="email" id="email" name="email"
                                 placeholder="e.g., name@email.com">
                             <label for="email">Email</label>
                         </div>
 
                         <div class="form mb-2 text-dark">
-                            <input type="password" class="form-control form-control-sm shadow-sm" id="password"
+                            <input type="password" required class="form-control form-control-sm shadow-sm" autocomplete="current-password" id="password" name="password"
                                 placeholder="e.g., P@ssw0rd!">
                             <label for="password">Password</label>
                         </div>
@@ -58,7 +91,7 @@
 
                         <div class="account-page d-flex align-items-center justify-content-center pb-4 my-0">
                             <p class="mb-0 me-2 text-center">Don't have an account?</p>
-                            <a href="register.html" class="btn btn-outline-primary fw-bold">Register</a>
+                            <a href="register.php" class="btn btn-outline-primary fw-bold">Register</a>
                         </div>
                     </form>
                 </div>

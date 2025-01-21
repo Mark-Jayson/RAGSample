@@ -1,3 +1,22 @@
+<?php
+    include("connection.php");
+    session_start();
+    
+    if ($_SERVER['REQUEST_METHOD'] == "POST") {
+        $email = $_POST['email'];
+        $password = $_POST['password'];
+    
+        if (!empty($email) && !empty($password)) {
+            $query = "INSERT INTO users (id, email, password, timestamp) VALUES ('', '$email', '$password', '')";
+            mysqli_query($conn, $query);
+            header("Location: login.php");
+            die;
+        } else {
+            echo "Please enter some valid information!";
+        }
+    }
+    ?>
+    
 <!DOCTYPE html>
 <html lang="en">
 
@@ -5,7 +24,7 @@
     <meta charset="UTF-8">
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JuanGPT</title>
+    <title>JuanGPT Register</title>
     <link rel="icon" href="assets/Logo Blue.png" type="image/x-icon" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -39,15 +58,15 @@
                     <h1 class="text-center fw-bold fs-2">Register</h1>
                     <hr class="hr w-100 my-3 border-top border-warning">
 
-                    <form>
+                    <form action="" method="post">
                         <div class="form mb-2">
-                            <input type="email" class="form-control form-control-sm shadow-sm" id="email"
+                            <input type="email" required class="form-control form-control-sm shadow-sm" id="email" name="email"
                                 placeholder="e.g., name@email.com">
                             <label for="email">Email</label>
                         </div>
 
                         <div class="form mb-2">
-                            <input type="password" class="form-control form-control-sm shadow-sm" id="password"
+                            <input type="password" required class="form-control form-control-sm shadow-sm" id="password" name="email"
                                 placeholder="e.g., P@ssw0rd!">
                             <label for="password">Password</label>
                         </div>
@@ -58,7 +77,7 @@
 
                         <div class="account-page d-flex align-items-center justify-content-center pb-4 my-0">
                             <p class="mb-0 me-2 text-center">Already have an account?</p>
-                            <a href="login.html" class="btn btn-outline-primary fw-bold">Login</a>
+                            <a href="login.php" class="btn btn-outline-primary fw-bold">Login</a>
                         </div>
                     </form>
                 </div>

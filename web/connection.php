@@ -2,7 +2,7 @@
 $dbhost = "localhost";
 $dbuser = "root";
 $dbpass = "";
-$db = "corememories";
+$db = "juangpt_db";
 
 
 $conn = new mysqli($dbhost, $dbuser, $dbpass, $db);
