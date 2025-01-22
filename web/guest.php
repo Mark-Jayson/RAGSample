@@ -49,12 +49,12 @@
         </div>
 
         <div class="position-absolute bottom-0 start-0 w-100 p-3">
-            <a href="info.html"
+            <a href="info.php"
                 class="btn hover-effect btn-link text-white text-decoration-none d-flex justify-content-center align-items-center mb-2 w-100">
                 <i class="fas fa-info-circle"></i>
                 <label class="label ms-2 d-none">JuanGPT</label>
             </a>
-            <a href="login.html"
+            <a href="login.php"
                 class="btn hover-effect btn-link text-white text-decoration-none d-flex justify-content-center align-items-center w-100">
                 <i class="fas fa-sign-out-alt"></i>
                 <label class="label ms-2 d-none">Exit</label>
@@ -72,8 +72,8 @@
                 <img src="assets/Logo White.png" alt="JuanGPTLogo" class="logo d-flex justify-content-start">
             </a>
             <div class="d-flex justify-content-end align-items-center gap-2">
-                <a href="login.html" class="btn btn-warning rounded-3 text-decoration-none fs-6 fw-bold">Log In</a> <br>
-                <a href="register.html" class="btn btn-warning rounded-3 text-decoration-none fs-6 fw-bold">Register</a>
+                <a href="login.php" class="btn btn-warning rounded-3 text-decoration-none fs-6 fw-bold">Log In</a> <br>
+                <a href="register.php" class="btn btn-warning rounded-3 text-decoration-none fs-6 fw-bold">Register</a>
             </div>
         </nav>
 

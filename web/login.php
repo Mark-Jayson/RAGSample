@@ -104,9 +104,9 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
                                         </button>
 
                                         <div class="text-center mt-3 text-dark">
-                                            <p class="mb-2">Don't have an account? <a href="register.html"
+                                            <p class="mb-2">Don't have an account? <a href="register.php"
                                                     class="fw-bold">Register</a></p>
-                                            <p>Enter as <a href="guest.html" class="fw-bold">Guest</a></p>
+                                            <p>Enter as <a href="guest.php" class="fw-bold">Guest</a></p>
                                         </div>
                                     </form>
 

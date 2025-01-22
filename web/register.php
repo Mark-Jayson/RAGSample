@@ -90,9 +90,9 @@
                                         </button>
 
                                         <div class="text-center mt-3 text-dark">
-                                            <p class="mb-2">Already have an account? <a href="login.html"
+                                            <p class="mb-2">Already have an account? <a href="login.php"
                                                     class="fw-bold">Login</a></p>
-                                            <p>Enter as <a href="index.html" class="fw-bold">Guest</a></p>
+                                            <p>Enter as <a href="guest.php" class="fw-bold">Guest</a></p>
                                         </div>
                                     </form>
 

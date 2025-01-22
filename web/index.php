@@ -49,12 +49,12 @@
         </div>
 
         <div class="position-absolute bottom-0 start-0 w-100 p-3">
-            <a href="info.html"
+            <a href="info.php"
                 class="btn hover-effect btn-link text-white text-decoration-none d-flex justify-content-center align-items-center mb-2 w-100">
                 <i class="fas fa-info-circle"></i>
                 <label class="label ms-2 d-none">JuanGPT</label>
             </a>
-            <a href="login.html"
+            <a href="login.php"
                 class="btn hover-effect btn-link text-white text-decoration-none d-flex justify-content-center align-items-center w-100">
                 <i class="fas fa-sign-out-alt"></i>
                 <label class="label ms-2 d-none">Exit</label>
