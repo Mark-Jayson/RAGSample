@@ -1,207 +1,134 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JuanGPT Chat</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>JuanGPT</title>
+    <link rel="icon" href="assets/Logo Blue.png" type="image/x-icon" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=K2D:wght@400;700&display=swap" rel="stylesheet">
-     <link rel="stylesheet" href="style.css"> 
-    <style>
-        .chat-container {
-            height: calc(100vh - 180px);
-            overflow-y: auto;
-            padding: 20px;
-            background-color: #ffffff;;
-            margin-left: 10vw;
-        }
-
-        .message {
-            margin-bottom: 20px;
-            display: flex;
-            gap: 15px;
-        }
-        .main-content {
-            background-color: #e3f2fd;;
-        }
-
-        .avatar {
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            background-color: #0066d3;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: white;
-            font-weight: bold;
-        }
-
-        .message-content {
-            flex: 1;
-            background: white;
-            padding: 15px;
-            border-radius: 10px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-            max-width: 80%;
-        }
-
-        .user-message .message-content {
-            background-color: #e3f2fd;
-        }
-
-        .bot-message .message-content {
-            background-color: white;
-        }
-
-        .message-header {
-            display: flex;
-            align-items: center;
-            margin-bottom: 8px;
-        }
-
-        .message-header h5 {
-            margin: 0;
-            font-size: 1rem;
-            font-weight: bold;
-            color: #333;
-        }
-
-        .message-text {
-            color: #555;
-            line-height: 1.5;
-        }
-
-        .explore-dataset {
-            margin-top: 10px;
-            padding-top: 10px;
-            border-top: 1px solid #eee;
-        }
-
-        .explore-dataset h6 {
-            color: #ffa500;
-            margin-bottom: 5px;
-        }
-
-        .explore-dataset a {
-            color: #0066d3;
-            text-decoration: none;
-        }
-        .input-container {
-            position: fixed;
-            bottom: 20px;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 70%;
-            background: white;
-            border-radius: 25px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            z-index: 900;
-        }
-        
-
-        
-
-        @media (max-width: 768px) {
-            .input-container {
-                width: 90%;
-            }
-
-            .message-content {
-                max-width: 90%;
-            }
-        }
-
-        @media (max-width: 576px) {
-            .chat-container {
-                height: calc(100vh - 160px);
-            }
-
-            .input-container {
-                width: 95%;
-                bottom: 10px;
-            }
-        }
-    </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    <button id="toggle-button" class="toggle-button btn btn-link text-white">
-        <i class="fas fa-bars"></i>
-    </button>
-    
-        
-    
-    <div id="side-panel"
-            class="position-fixed top-0 start-0 h-100 bg-dark text-white transition-all duration-300 z-50">
-            
+    <!-- Side Panel---Start -->
+    <div id="side-panel" class="position-fixed top-0 start-0 h-100 text-white transition-all duration-300 z-50">
+        <button id="toggle-button" class="btn btn-link text-white px-4 py-3">
+            <i class="fas fa-bars"></i>
+        </button>
 
-            <div id="expanded-content" class=" p-3 d-none">
-                <button class="btn btn-link text-white p-2">
-                    <i class="fas fa-plus"></i> New Chat
-                </button>
- 
-                <h2 class="text-lg font-semibold mb-2">Recent</h2>
-                <div class="text-gray-200">Recent chats will appear here</div>
-                <div class="text-gray-200">Recent chats will appear here</div>
-                <div class="text-gray-200">Recent chats will appear here</div>
-            </div>
-
-            <div class="position-absolute bottom-0 start-0 w-100 p-3">
-                <button class="btn btn-link text-white">
-                    <row><i class="fas fa-info-circle"></i><label class="label d-none">JuanGPT</label></row>
-                </button><br>
-                <button class="btn btn-link text-white">
-                    <i class="fas fa-cog"></i> <label class="label d-none">Settings</label>
-                </button>
-            </div>
-        </div>
-        
-    <div id="main-content"
-            class="main-content position-fixed top-0 end-0 h-100 bg-white text-white transition-all duration-300 z-50">
-        <div class="user-input">
-            <input type="text" class="form-control border-0" id="chat"placeholder="Message JuanGPT">
-            <button class="btn btn-link">
-                <img src="assets/Paper Plane.png" width="30" height="30" alt="Send">
+        <div id="expanded-content" class="p-3 d-none">
+            <button class="chat-btn text-light p-2">
+                <i class="fas fa-plus me-2"></i> New Chat
             </button>
-        </div>
-        <nav class="navbar navbar-light">
-            <!-- <button id="smallbutton" class="btn btn-link text-white">
-                <i class="fas fa-bars"></i>
-            </button> -->
-            <a class="navbar-brand" href="#">
-                <img src="assets/Logo White.png" alt="LOGO" class="logo d-flex justify-content-start">
-            </a>
-            <div class="d-flex justify-content-end align-items-center gap-2">
-                <a href="login.html" class="btn btn-warning rounded-5">Log In</a> <br>
-                <a href="signup.html" class="btn log btn-outline-warning rounded-5">Sign Up</a>
+
+            <div class="recent px-3 py-2 mt-4">
+                <h5 class="text-lg text-light">Recent</h5>
             </div>
+            <div class="recent-chat px-3 py-2">
+                <div class="chat-item d-flex justify-content-between align-items-center">
+                    <div class="chat-title text-light">Recent chats will appear here</div>
+                    <button class="delete-btn">
+                        <i class="fas fa-trash-alt"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="position-absolute bottom-0 start-0 w-100 p-3">
+            <a href="info.html"
+                class="btn hover-effect btn-link text-white text-decoration-none d-flex justify-content-center align-items-center mb-2 w-100">
+                <i class="fas fa-info-circle"></i>
+                <label class="label ms-2 d-none">JuanGPT</label>
+            </a>
+            <a href="login.html"
+                class="btn hover-effect btn-link text-white text-decoration-none d-flex justify-content-center align-items-center w-100">
+                <i class="fas fa-sign-out-alt"></i>
+                <label class="label ms-2 d-none">Exit</label>
+            </a>
+        </div>
+
+    </div>
+
+    <div id="main-content"
+        class="main-content position-fixed top-0 end-0 h-100 bg-secondary-subtle text-white transition-all duration-300 z-50">
+
+        <!-- Nav-Bar---Start -->
+        <nav class="navbar navbar-light">
+            <a class="navbar-brand" href="#">
+                <img src="assets/Logo White.png" alt="JuanGPTLogo" class="logo d-flex justify-content-start">
+            </a>
         </nav>
 
-    <!-- Existing navbar and side panel code remains the same -->
+        <main>
+            <!-- Conversation Section---Start -->
+            <div class="conversation-container">
 
-    <div class="chat-container">
-        <div class="message bot-message">
-            <div class="avatar">J</div>
-            <div class="message-content">
-                <div class="message-header">
-                    <h5>JuanGPT</h5>
+                <!-- User Inquiry -->
+                <div class="message user-message">
+                    <div class="avatar">
+                        <img src="assets/user-avatar.png" alt="User Avatar" />
+                    </div>
+                    <div class="message-content">
+                        <p>How many families are there in Catanduanes in 2020?</p>
+                    </div>
                 </div>
-                <div class="message-text">
-                    <p>60,336 families</p>
-                    <p>Based on the record of PSA on number of households of some highly urbanized cities in the Philippines, Catanduanes, a city in the Bicol Region has 60,336 household or families.</p>
-                    <div class="explore-dataset">
-                        <h6>Explore dataset:</h6>
-                        <a href="#">Number of Households by Type of Building, Tenure Status of the Housing Unit/Lot, and Province/Highly Urbanized City: Philippines, 2020</a>
+
+                <!-- JuanGPT Reply -->
+                <div class="message juanGPT-message">
+                    <div class="avatar">
+                        <img src="assets/juanGPT-avatar.png" alt="JuanGPT Avatar" />
+                    </div>
+                    <div class="message-content">
+                        <p>Based on the record of PSA on number of households of some highly urbanized cities in the
+                            Philippines, Catanduanes, a city in the Bicol Region has 60,336 household or families.
+                        </p>
+
+                        <div class="explore-dataset">
+                            <h6>Explore dataset:</h6>
+                            <a href="#">Number of Households by Type of Building, Tenure Status of the Housing
+                                Unit/Lot,
+                                and Province/Highly Urbanized City: Philippines, 2020</a>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <!-- Add more message elements as needed -->
-    </div>
+
+            <!-- User Input---Start -->
+            <div class="input-container">
+                <div class="input-group">
+                    <div class="textarea-wrapper">
+                        <textarea class="text-area" placeholder="Message JuanGPT"
+                            aria-label="Message JUANGPT"></textarea>
+                        <button class="send-btn" type="button">
+                            <i class="bi bi-send-fill"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </main>
     </div>
 
-    
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Text-Area Height -->
+    <script>
+        document.querySelector('.text-area').addEventListener('input', function () {
+            this.style.height = 'auto';
+            this.style.height = Math.min(this.scrollHeight, 150) + 'px';
+        });
+    </script>
+
 
     <script>
         // Add message to chat
@@ -209,7 +136,7 @@
             const chatContainer = document.querySelector('.chat-container');
             const messageDiv = document.createElement('div');
             messageDiv.className = `message ${isUser ? 'user-message' : 'bot-message'}`;
-            
+
             const avatar = document.createElement('div');
             avatar.className = 'avatar';
             avatar.textContent = isUser ? 'U' : 'J';
@@ -260,66 +187,66 @@
             const label2 = document.getElementsByClassName('label')[1];
             const smallbutton = document.getElementById('smallbutton');
             let isExpanded = false;
-             
-toggleButton.addEventListener('click', function () {
-    isExpanded = !isExpanded;
-    if (window.innerWidth <= 576) {
-        if (isExpanded) {
-       
-                    sidePanel.style.width = '100vw';
-                    sidePanel.style.display = 'block';
-                    mainContent.style.display = 'none';
-                    expandedContent.classList.remove('d-none');
-                    label1.classList.remove('d-none');
-                    label1.classList.add('d-block');
-                    label2.classList.remove('d-none');
-                    label2.classList.add('d-block');
 
-        } else {
-            sidePanel.style.display = 'none';
+            toggleButton.addEventListener('click', function () {
+                isExpanded = !isExpanded;
+                if (window.innerWidth <= 576) {
+                    if (isExpanded) {
+
+                        sidePanel.style.width = '100vw';
+                        sidePanel.style.display = 'block';
+                        mainContent.style.display = 'none';
+                        expandedContent.classList.remove('d-none');
+                        label1.classList.remove('d-none');
+                        label1.classList.add('d-block');
+                        label2.classList.remove('d-none');
+                        label2.classList.add('d-block');
+
+                    } else {
+                        sidePanel.style.display = 'none';
+                        mainContent.style.display = 'block';
+                        mainContent.style.width = '100vw';
+                        sidePanel.style.width = 'none';
+                    }
+
+
+                } else {
+                    if (isExpanded) {
+                        sidePanel.style.width = '25vw';
+                        // sidePanel.classList.add('col-3');
+                        mainContent.style.width = '75vw';
+
+                        expandedContent.classList.remove('d-none');
+                        label1.classList.remove('d-none');
+                        label1.classList.add('d-block');
+                        label2.classList.remove('d-none');
+                        label2.classList.add('d-block');
+
+
+                    } else {
+                        sidePanel.style.width = '5vw';
+                        mainContent.style.width = '95vw';
+                        expandedContent.classList.add('d-none');
+                        label1.classList.add('d-none');
+                        label1.classList.remove('d-block');
+                        label2.classList.add('d-none');
+                        label2.classList.remove('d-block');
+                    }
+                }
+            });
+
+            window.addEventListener('resize', function () {
+                const sidePanel = document.getElementById('side-panel');
+                const mainContent = document.getElementById('main-content');
+
+                if (window.innerWidth <= 576) {
+                    sidePanel.style.display = 'none';
                     mainContent.style.display = 'block';
                     mainContent.style.width = '100vw';
                     sidePanel.style.width = 'none';
-        }
-        
-       
-    } else {
-        if (isExpanded) {
-            sidePanel.style.width = '25vw';
-                    // sidePanel.classList.add('col-3');
-                    mainContent.style.width = '75vw';
-                    
-                    expandedContent.classList.remove('d-none');
-                    label1.classList.remove('d-none');
-                    label1.classList.add('d-block');
-                    label2.classList.remove('d-none');
-                    label2.classList.add('d-block');
-       
-       
-   } else {
+                }
+                else {
                     sidePanel.style.width = '5vw';
-                    mainContent.style.width = '95vw';
-                    expandedContent.classList.add('d-none');
-                    label1.classList.add('d-none');
-                    label1.classList.remove('d-block');
-                    label2.classList.add('d-none');
-                    label2.classList.remove('d-block'); 
-   }
-    }
-});
-
-window.addEventListener('resize', function() {
-    const sidePanel = document.getElementById('side-panel');
-    const mainContent = document.getElementById('main-content');
-    
-    if (window.innerWidth <= 576) { 
-        sidePanel.style.display = 'none';
-        mainContent.style.display = 'block';
-        mainContent.style.width = '100vw';
-        sidePanel.style.width = 'none';
-    } 
-    else {
-        sidePanel.style.width = '5vw';
                     mainContent.style.width = '95vw';
                     mainContent.style.display = 'block';
                     expandedContent.classList.add('d-none');
@@ -327,13 +254,11 @@ window.addEventListener('resize', function() {
                     label1.classList.add('d-none');
                     label1.classList.remove('d-block');
                     label2.classList.add('d-none');
-                    label2.classList.remove('d-block'); 
-        
-        
-    }
-});
-            
+                    label2.classList.remove('d-block');
+                }
+            });
         });
     </script>
 </body>
+
 </html>
