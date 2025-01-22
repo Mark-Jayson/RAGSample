@@ -31,17 +31,6 @@ const SidePanel = () => {
           </button>
         )}
       </div>
-
-      <div className="absolute bottom-0 left-0 w-full p-4">
-        <button className="flex items-center gap-2 w-full hover:bg-blue-700 p-2 rounded mb-2">
-          <Info size={20} />
-          {isExpanded && <span>About JuanGPT</span>}
-        </button>
-        <button className="flex items-center gap-2 w-full hover:bg-blue-700 p-2 rounded">
-          <Settings size={20} />
-          {isExpanded && <span>Settings</span>}
-        </button>
-      </div>
     </div>
   );
 };

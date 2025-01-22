@@ -1,143 +1,46 @@
-body {
-  font-family: "Poppins", serif;
-  background-color: #ffffff;
+* {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
-.navbar {
-  background-color: #0066d3;
-  color: #fff;
-  height: 60px;
-  padding: 0 20px;
-  font-family: "K2D", serif;
-  font-weight: 700;
-  top: 0;
+body {
+  background-color: #ffffff;
 }
 
-.logo {
-  width: auto;
-  height: 55px;
-}
-
-.banner-text {
-  font-family: "K2D", serif;
-  font-weight: 600;
-  margin: 50px;
-  font-size: 60px;
-  line-height: 1;
-}
-
-.image-container {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  height: 360px;
-  width: 100%;
-}
-
-.image-section {
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.user-input {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.input-group {
-  width: 70vw;
-  border-radius: 20px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  margin-top: -5px;
-  position: absolute;
-  top: 70%;
-  left: 30%;
-}
-
-.control {
-  height: 60px;
-  border-radius: 20px 0 0 20px;
-  padding: 20px;
-  width: 30vw;
-  background-color: white;
-}
-
-.btn {
-  border-radius: 0 20px 20px 0;
-}
-
-.main-content {
-  margin-left: 4rem;
-  transition: margin-left 0.3s ease;
-  width: 95vw;
-}
-
-.main-content.expanded {
-  margin-left: 16rem;
-}
-
-#side-panel {
-  color: #c2c2c2;
-  height: 100vh;
-  position: fixed;
-  top: 0%;
-  left: -5%;
-  width: 5vw;
-  transition: left 0.3s ease;
-}
-
-/* ACCOUNT REGISRATION PAGE---START */
+/* Account Registration--Start */
 .account-bg {
-  background-image: url('assets/2.jpg');
+  background-image: url('assets/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .overlay {
   background-color: rgba(0, 0, 0, 0.3);
-  z-index: 10;
 }
 
-.container {
-  top: 13%;
-  left: 15%;
-  z-index: 100;
-  height: auto;
-  width: 70vw;
+.account-section {
+  background-color: #eee;
+  font-family: Poppins, serif;
 }
 
-.content {
+.brand-container {
   background-color: #0066CC;
-  font-size: 15px;
+  border-radius: 15px 0 0 15px;
 }
 
-.content img {
-  width: 80%;
-  height: auto;
+.brand-container img {
+  width: 310px;
 }
 
-.account-form h1 {
-  color: #FBB31C;
-}
-
-.toggle-button {
-  position: fixed;
-  top: 0%;
-  left: 0%;
-  z-index: 500;
-  padding: 1rem;
-}
-
-.hr {
-  border: 1.5px solid rgb(255, 213, 26);
-  margin-top: 15px;
-  margin-bottom: 20px;
+.card {
+  border-radius: 15px 15px;
 }
 
 .form {
@@ -163,27 +66,377 @@ body {
 .account-btn {
   border: none;
   width: 200px;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-/* ACCOUNT REGISRATION PAGE---END */
-
-#smallbutton {
-  display: none;
+.account-btn:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
 }
 
-#bluelogo {
-  display: none;
+.account-btn:active {
+  transform: scale(0.95);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  background-color: #004085;
 }
 
-.chat-container {
-  background-color: #f8f9fa00;
-  margin-top: 60px;
-  padding-bottom: 10px;
+.account-btn:focus {
+  outline: 2px solid #80bdff;
+  outline-offset: 2px;
+}
+
+a {
+  text-decoration: none;
+  color: #007bff;
+
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Account Registration---End */
+
+/* Nav-Bar---Start */
+.navbar {
+  background-color: #0066d3;
+  color: #fff;
+  height: 60px;
+  padding: 0 20px;
+  top: 0;
+}
+
+.logo {
+  width: auto;
+  height: 55px;
+}
+
+/* Nav-Bar---End */
+
+/* Side Panel---Start */
+#side-panel {
+  height: 100vh;
+  position: fixed;
+  top: 0%;
+  left: -5%;
+  width: 5vw;
+  transition: left 0.3s ease;
+  background: #004c99;
+  font-family: "K2D", serif;
+}
+
+.chat-btn {
+  border-radius: 20px;
+  border: 2px solid #0066d3;
+  background-color: #044c99;
+  box-shadow:
+    5px 5px 10px rgba(0, 0, 0, 0.3),
+    -5px -5px 10px rgba(255, 255, 255, 0.1);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.chat-btn:hover {
+  box-shadow:
+    7px 7px 15px rgba(0, 0, 0, 0.4),
+    -7px -7px 15px rgba(255, 255, 255, 0.2);
+  transform: translateY(-3px);
+}
+
+.chat-btn:active {
+  box-shadow:
+    inset 2px 2px 5px rgba(0, 0, 0, 0.3),
+    inset -2px -2px 5px rgba(255, 255, 255, 0.1);
+  transform: translateY(2px);
+}
+
+.recent {
+  border-radius: 20px 20px 0 0;
+  width: 6rem;
+}
+
+.recent-chat {
+  border-radius: 0 20px 20px 20px;
+  padding: 15px;
+  max-height: 300px;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #353535 transparent;
+}
+
+.recent-chat::-webkit-scrollbar {
+  width: 8px;
+}
+
+.recent-chat::-webkit-scrollbar-thumb {
+  background: #044c99;
+  border-radius: 10px;
+}
+
+.recent-chat::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.chat-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.chat-item:last-child {
+  border-bottom: none;
+}
+
+.delete-btn {
+  background: transparent;
+  border: none;
+  color: #ff6b6b;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.delete-btn:hover {
+  color: #ff4c4c;
+}
+
+.chat-title {
+  margin-bottom: 5px;
+}
+
+.label {
+  cursor: pointer;
+}
+
+.hover-effect:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  cursor: pointer;
+}
+
+/* Side Panel---End */
+
+/* Index---Start */
+.main-content {
+  margin-left: 4rem;
+  transition: margin-left 0.3s ease;
+  width: 95vw;
+}
+
+.banner-container {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+.banner-text {
+  font-family: "K2D", serif;
+  font-weight: 600;
+  margin: 0;
+  line-height: 1.4;
+  z-index: 1;
+  width: 80vw;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.banner-text h1 {
+  font-size: 3.5rem;
+}
+
+.banner-text a {
+  font-size: 1.3rem;
+  position: relative;
+  padding: 5px 10px;
+  color: #ffc107;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 5px;
+}
+
+.banner-text a:hover {
+  border-color: #ffc107;
+  transition: all 0.3s ease;
+}
+
+.highlighted-text {
+  color: #0066cc;
+}
+
+.image-section {
+  background-image: url('assets/banner.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.overlay {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));
+}
+
+.input-container {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80%;
+  max-width: 800px;
+}
+
+/* .input-group {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+} */
+
+.textarea-wrapper {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: white;
+}
+
+.text-area {
+  font-family: Poppins, serif;
+  font-size: 14px;
+  flex: 1;
+  padding: 10px;
+  border: none;
+  outline: none;
+  resize: none;
+  height: 50px;
+  max-height: 150px;
+  overflow-y: auto;
+  background-color: white;
+}
+
+.text-area::placeholder {
+  color: #004c99;
+}
+
+.text-area::-webkit-scrollbar {
+  width: 7px;
+  height: 10px;
+}
+
+.text-area::-webkit-scrollbar-thumb {
+  background-color: #aaa;
+  border-radius: 10px;
+  cursor: pointer;
+  min-height: 25px;
+}
+
+.send-btn {
+  background: transparent;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  color: #007bff;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.send-btn:hover {
+  color: #0056b3;
+  transform: scale(1.1);
+}
+
+.send-btn:active {
+  transform: scale(0.95);
+  color: #003366;
+  transition: transform 0.1s ease, color 0.1s ease;
+}
+
+/* Index---End */
+
+/* Conversation Page---Start */
+.conversation-container {
+  height: calc(100vh - 180px);
+  overflow-y: auto;
+  margin: 40px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
 }
 
 .message {
-  opacity: 0;
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
   animation: fadeIn 0.3s ease-in forwards;
+}
+
+.avatar {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 10px;
+}
+
+.avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.message-content {
+  line-height: 1.5;
+  font-family: Poppins, serif;
+  background-color: white;
+  padding: 10px 15px;
+  border-radius: 10px;
+  max-width: 75%;
+  color: #000;
+}
+
+.user-message {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  justify-content: flex-end;
+}
+
+/* Avatar styling for user */
+.user-message .avatar {
+  margin-left: 10px;
+}
+
+.explore-dataset {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #eee;
+}
+
+.explore-dataset h6 {
+  color: #e79805;
+  margin-bottom: 5px;
+}
+
+.explore-dataset a {
+  color: #0066d3;
+  text-decoration: none;
 }
 
 @keyframes fadeIn {
@@ -198,82 +451,31 @@ body {
   }
 }
 
-.user-input {
-  border-radius: 25px;
-  height: 65px;
-  width: 50vw;
-  display: flex;
-  top: 90%;
-  left: 50%;
-  z-index: 999;
-  justify-content: center;
-  align-items: center;
-  background-color: #f8f9fa;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
-}
-
-#chat {
-  height: 60px;
-  margin-top: -2px;
-  width: 70vw;
-  padding: 20px;
-  border-radius: 25px;
-  border: rgba(0, 0, 0, 0.8)
-}
+/* Conversation Page---End */
 
 /* RESPONSIVE ADJUSTMENTS */
 
+/* LARGE */
+@media (min-width: 894px) and (max-width: 991px) {
+  .brand-container {
+    border-radius: 15px 15px 0 0;
+  }
+
+}
+
 /* MEDIUM */
-@media (max-width: 767px) {
-
-  /* ACCOUNT REGISRATION PAGE---START */
-  .account-form {
-    padding-top: 1rem !important;
-    padding-bottom: 1rem !important;
+@media (max-width: 893px) {
+  .brand-container {
+    border-radius: 15px 15px 0 0;
   }
 
-  #bluelogo {
-    display: block;
-    width: 200px;
-    height: auto;
-    margin: 10px;
+  /* Index Page */
+  .banner-text h1 {
+    font-size: 3rem;
   }
 
-  .container {
-    top: 8%;
-  }
-
-  .content {
-    display: none;
-  }
-
-  .account-form {
-    height: auto;
-    width: 80vw;
-    border-radius: 30px 0 0 30px;
-    background-color: rgb(250, 247, 242);
-  }
-
-  .form-control {
-    margin-top: 40px;
-    border-radius: 15px;
-    height: 50px;
-  }
-
-  /* ACCOUNT REGISRATION PAGE---END */
-
-  .image-container {
-    grid-template-columns: repeat(1, 1fr);
-    height: 240px;
-    overflow: hidden;
-  }
-
-  .image-section {
-    height: 300px;
-  }
-
-  .banner-text {
-    font-size: 30px;
+  .banner-text h5 {
+    font-size: 1.2rem;
   }
 
   .user-input {
@@ -282,10 +484,12 @@ body {
     left: 20%;
   }
 
-  .control {
-    width: 50vw;
+  .text-area {
+    height: 50px;
+    max-height: 120px;
   }
 
+  /* Conversation Page */
   .chat-container {
     margin-top: 50px;
   }
@@ -296,79 +500,22 @@ body {
 }
 
 /* SMALL */
-@media (max-width: 576px) {
-  .image-container {
-    grid-template-columns: repeat(1, 1fr);
-    height: 240px;
-  }
+@media (max-width: 596px) {
 
-  /* ACCOUNT REGISRATION PAGE---START */
-  .container {
-    top: 9%;
-  }
-
-  .account-form {
-    padding-top: 1rem !important;
-    padding-bottom: 1rem !important;
-  }
-
-  #bluelogo {
-    display: block;
-    width: 180px;
-    height: auto;
-    margin: 10px;
-  }
-
-  .account-page {
-    font-size: 12px;
-  }
-
-  /* ACCOUNT REGISRATION PAGE---END */
-
-  .banner-text {
-    font-size: 30px;
-  }
-
-  .input-group {
-    width: 90vw;
-  }
-
-  #side-panel {
-    display: none;
-    width: 100vw;
-  }
-
-  #smallbutton {
-    display: block;
-  }
-
+  /* Index Page */
   .main-content {
     width: 100vw;
   }
 
-  .main-content.expanded {
-    margin-left: 0;
+  .banner-text h1 {
+    font-size: 2.2rem;
   }
 
-  .log {
-    display: none;
+  .banner-text h5 {
+    font-size: 1.1rem;
   }
 
-  .control {
-    width: 50vw;
-  }
-
-  .chat-container {
-    padding: 10px;
-  }
-
-  .user-input {
-    margin: 0 10px;
-  }
-
-  .avatar {
-    width: 32px;
-    height: 32px;
-    font-size: 0.9rem;
+  .banner-text a {
+    font-size: 1.2rem;
   }
 }
