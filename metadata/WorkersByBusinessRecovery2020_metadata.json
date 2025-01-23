@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkersByBusinessRecovery2020.csv",
+    "description": "Number of Establishments Employing 20 or More Workers by Business Recovery Measures/Actions for the Next Six Months and Major Industry Group, Philippines:  June 30, 2020",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 171,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;business_recovery_measures/actions_for_the_next_six_months;2020"
+    ]
+}

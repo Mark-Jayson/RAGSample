@@ -1,0 +1,11 @@
+{
+    "source": "./data\\AvrageByBranchOfEconomic.csv",
+    "description": "Average Real Daily Basic Pay by Branch of Economic Activity",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 8,
+    "num_columns": 1,
+    "column_names": [
+        "indicator;branch_of_economic_activity;1995;1996;1997;1998;1999;2000;2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016;2017;2018"
+    ]
+}

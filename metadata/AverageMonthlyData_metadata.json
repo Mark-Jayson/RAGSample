@@ -1,7 +1,6 @@
 {
-    "source": "data\\AverageMonthlyData.csv",
+    "source": "./data\\AverageMonthlyData.csv",
     "description": "Average Monthly Wage Rates of Benchmark Occupations by Industry: 2014 to 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 176,

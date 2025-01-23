@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PIPThatAvailedOfTaxIncentives.csv",
+    "description": "Number of Establishments Employing 20 or More Workers with Productivity Improvement Program (PIP) That Availed of Tax Incentives by Major Industry Group, Philippines:  2013 - 2019",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 95,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;number_of_establishments_that_availed_tax_incentives;2013;2015;2017;2019"
+    ]
+}

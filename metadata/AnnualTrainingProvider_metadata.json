@@ -1,7 +1,6 @@
 {
-    "source": "data\\AnnualTrainingProvider.csv",
+    "source": "./data\\AnnualTrainingProvider.csv",
     "description": "Annual Training Cost by Major Industry Group and Training Provider, Philippines: June 2013",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 19,

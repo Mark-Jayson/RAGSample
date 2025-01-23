@@ -1,0 +1,11 @@
+{
+    "source": "./data\\FrequencyRatesIncapacityForWork2013To2021.csv",
+    "description": "Frequency Rates of Cases of Occupational Injuries With Workdays Lost in Establishments Employing 20 or More Workers by Industry Group and Incapacity for Work, Philippines: 2013-2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 19,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2013_total;2013_..fatal;2013_..non_fatal;2013_....permanent_incapacity;2013_....temporary_incapacity;2015_total;2015_..fatal;2015_..non_fatal;2015_....permanent_incapacity;2015_....temporary_incapacity;2017_total;2017_..fatal;2017_..non_fatal;2017_....permanent_incapacity;2017_....temporary_incapacity;2019_total;2019_..fatal;2019_..non_fatal;2019_....permanent_incapacity;2019_....temporary_incapacity;2021_total;2021_..fatal;2021_..non_fatal;2021_....permanent_incapacity;2021_....temporary_incapacity"
+    ]
+}

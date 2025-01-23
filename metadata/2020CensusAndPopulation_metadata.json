@@ -1,7 +1,6 @@
 {
-    "source": "data\\2020CensusAndPopulation.csv",
+    "source": "./data\\2020CensusAndPopulation.csv",
     "description": "Total Population by Age Group, Sex, Region, and Province/Highly Urbanized City: Philippines , 2020",
-    "warnings": [],
     "encoding": "utf-8",
     "delimiter": ",",
     "num_rows": 135,

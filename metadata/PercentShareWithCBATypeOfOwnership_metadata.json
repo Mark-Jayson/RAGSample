@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PercentShareWithCBATypeOfOwnership.csv",
+    "description": "Number and Percent Share of Establishments Employing 20 or More Workers With Union and With Collective Bargaining Agreement (CBA) to Total Establishments by Type of Ownership, Philippines: June 2014 to June 2016",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 20,
+    "num_columns": 1,
+    "column_names": [
+        "type_of_onwership;indicator;2014;2016"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PIPByTypeOfRTWPB.csv",
+    "description": "Number of Establishments Employing 20 or More Workers with Productivity Improvement Program (PIP) by Type of RTWPB Training Programs Attended and Major Industry Group, Philippines:  2013 - 2019",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 323,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;rtwpb_training_programs_conducted;2013;2015;2017;2019"
+    ]
+}

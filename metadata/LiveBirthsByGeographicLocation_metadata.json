@@ -1,8 +1,7 @@
 {
-    "source": "data\\LiveBirthsByGeographicLocation.csv",
+    "source": "./data\\LiveBirthsByGeographicLocation.csv",
     "description": "Number of Live Births by Geographic Location, Type of Location and Sex: 2016",
-    "warnings": [],
-    "encoding": "ISO-8859-1",
+    "encoding": "utf-8",
     "delimiter": ",",
     "num_rows": 119,
     "num_columns": 1,

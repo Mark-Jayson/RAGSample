@@ -1,7 +1,6 @@
 {
-    "source": "data\\HardToFillOccupationsByNumberOfVacancies2022.csv",
+    "source": "./data\\HardToFillOccupationsByNumberOfVacancies2022.csv",
     "description": "Hard-to-fill Occupations by Number of Vacancies and Applicants in Establishments with 20 or More Workers, Philippines: July 2017 - June 2018 to September 2021 - August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 10,

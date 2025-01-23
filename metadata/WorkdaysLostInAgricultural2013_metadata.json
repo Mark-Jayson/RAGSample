@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkdaysLostInAgricultural2013.csv",
+    "description": "Cases of Occupational Injuries With Workdays Lost in Agricultural and Non-Agricultural Establishments Employing 20 or More Workers by Industry Group and Major Occupation Group, Philippines: 2013",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 152,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;major_occupation;2013"
+    ]
+}

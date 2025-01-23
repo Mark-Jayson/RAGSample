@@ -1,7 +1,6 @@
 {
-    "source": "data\\VacanciesPositionAndOccupation2022.csv",
+    "source": "./data\\VacanciesPositionAndOccupation2022.csv",
     "description": "Number of Vacancies in Establishments Employing 20 or More Workers by Type of Position and Occupation Title,  Philippines: September 2021 to August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 10,

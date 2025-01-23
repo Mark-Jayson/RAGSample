@@ -1,8 +1,7 @@
 {
-    "source": "data\\LiveBirths2016.csv",
+    "source": "./data\\LiveBirths2016.csv",
     "description": "Number of Live Births by Usual Residence of Mother and Attendant At Birth: 2016",
-    "warnings": [],
-    "encoding": "ISO-8859-1",
+    "encoding": "utf-8",
     "delimiter": ",",
     "num_rows": 119,
     "num_columns": 1,

@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PPIByPrimaryObjectiveOfProductivity2015.csv",
+    "description": "Number of Productivity Programs Implemented in Establishments Employing 20 or More Workers by Primary Objective of Productivity Program and Major Industry Group, Philippines: 2015",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 171,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;primary_objective_of_productivity_program;2015"
+    ]
+}

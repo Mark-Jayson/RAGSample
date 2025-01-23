@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PPIByProductivityProgram2015.csv",
+    "description": "Number of Productivity Programs Implemented in Establishments Employing 20 or More Workers by Type of Workers Covered by Productivity Program and Major Industry Group Philippines: 2015",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 95,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;type_of_workers_covered_by_productivity_program;2015"
+    ]
+}

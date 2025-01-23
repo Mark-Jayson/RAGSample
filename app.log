@@ -1,0 +1,1599 @@
+2025-01-24 00:41:07,377 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2025-01-24 00:41:12,333 - sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2025-01-24 00:41:12,888 - main - INFO - Successfully processed ./data\2020CensusAndPopulation.csv
+2025-01-24 00:41:12,901 - main - INFO - Successfully processed ./data\AdultFunctionalLiteracy.csv
+2025-01-24 00:41:12,915 - main - INFO - Successfully processed ./data\AdultSecondarySchool.csv
+2025-01-24 00:41:12,955 - main - INFO - Successfully processed ./data\AnnualBonusesAndGratitudeBySubCost.csv
+2025-01-24 00:41:13,006 - main - INFO - Successfully processed ./data\AnnualDirectWagesSubCost.csv
+2025-01-24 00:41:13,055 - main - INFO - Successfully processed ./data\AnnualEmploymentSize2013.csv
+2025-01-24 00:41:13,071 - main - INFO - Successfully processed ./data\AnnualEmploymentSize2021.csv
+2025-01-24 00:41:13,142 - main - INFO - Successfully processed ./data\AnnualHousingShoulderedSubCost.csv
+2025-01-24 00:41:13,199 - main - INFO - Successfully processed ./data\AnnualLaborCostMajorComponent.csv
+2025-01-24 00:41:13,237 - main - INFO - Successfully processed ./data\AnnualLaborCostsSubCost.csv
+2025-01-24 00:41:13,255 - main - INFO - Successfully processed ./data\AnnualMajorIndustry2021.csv
+2025-01-24 00:41:13,279 - main - INFO - Successfully processed ./data\AnnualMajorIndustryGroup2013To2021.csv
+2025-01-24 00:41:13,294 - main - INFO - Successfully processed ./data\AnnualPerCapitaThreshold.csv
+2025-01-24 00:41:13,495 - main - INFO - Successfully processed ./data\AnnualSocialSecurityExpenditureSubCost.csv
+2025-01-24 00:41:13,543 - main - INFO - Successfully processed ./data\AnnualTrainingProvider.csv
+2025-01-24 00:41:13,564 - main - INFO - Successfully processed ./data\AverageByCategoryOfEmployees.csv
+2025-01-24 00:41:13,632 - main - INFO - Successfully processed ./data\AverageBySexAndMajorOccupation2002.csv
+2025-01-24 00:41:13,671 - main - INFO - Successfully processed ./data\AverageBySexAndMajorOccupation2012.csv
+2025-01-24 00:41:13,791 - main - INFO - Successfully processed ./data\AverageMonthlyData.csv
+2025-01-24 00:41:13,817 - main - INFO - Successfully processed ./data\AverageMonthlyPension.csv
+2025-01-24 00:41:13,839 - main - INFO - Successfully processed ./data\AverageMontlyPensions.csv
+2025-01-24 00:41:13,865 - main - INFO - Successfully processed ./data\AverageRealDailySeasonal.csv
+2025-01-24 00:41:13,928 - main - INFO - Successfully processed ./data\AverageShareOfLaborCostEmploymentSize.csv
+2025-01-24 00:41:13,943 - main - INFO - Successfully processed ./data\AverageTyOfPension.csv
+2025-01-24 00:41:13,983 - main - INFO - Successfully processed ./data\AverageWeeklyHours.csv
+2025-01-24 00:41:14,002 - main - INFO - Successfully processed ./data\AvrageByBranchOfEconomic.csv
+2025-01-24 00:41:14,018 - main - INFO - Successfully processed ./data\BasisOfPaymentAndRegion.csv
+2025-01-24 00:41:14,041 - main - INFO - Successfully processed ./data\BasisOfPaymentSexAndEmploymentSize.csv
+2025-01-24 00:41:14,075 - main - INFO - Successfully processed ./data\BasisPaymentSex.csv
+2025-01-24 00:41:14,457 - main - INFO - Successfully processed ./data\BirthData.csv
+2025-01-24 00:41:15,147 - main - INFO - Successfully processed ./data\BirthDataByResidence.csv
+2025-01-24 00:41:15,160 - main - INFO - Successfully processed ./data\BirthsByBirthWeight.csv
+2025-01-24 00:41:15,420 - main - INFO - Successfully processed ./data\BirthsByMonth2016.csv
+2025-01-24 00:41:15,468 - main - INFO - Successfully processed ./data\BirthsByNationality.csv
+2025-01-24 00:41:15,483 - main - INFO - Successfully processed ./data\BirthsFatherOrMother.csv
+2025-01-24 00:41:15,498 - main - INFO - Successfully processed ./data\BirthsOccuredAbroadToFilipinoMother.csv
+2025-01-24 00:41:15,511 - main - INFO - Successfully processed ./data\CapitalFormation2000.csv
+2025-01-24 00:41:15,563 - main - INFO - Successfully processed ./data\CasesOccupationAgentOfInjury2021.csv
+2025-01-24 00:41:15,712 - main - INFO - Successfully processed ./data\CasesOccupationalDiseasesTypeOfDisease2013To2021.csv
+2025-01-24 00:41:15,795 - main - INFO - Successfully processed ./data\CasesOccupationalPartOfBodyInjured2021.csv
+2025-01-24 00:41:15,824 - main - INFO - Successfully processed ./data\CasesOccupationalTypeOfInjury2021.csv
+2025-01-24 00:41:15,848 - main - INFO - Successfully processed ./data\CasesOccupationCauseOfInjury2021.csv
+2025-01-24 00:41:15,875 - main - INFO - Successfully processed ./data\CasesOccupationTypeOfDisease2021.csv
+2025-01-24 00:41:15,894 - main - INFO - Successfully processed ./data\CasesOfOccupationalByRegion2021.csv
+2025-01-24 00:41:15,913 - main - INFO - Successfully processed ./data\CasesOfOccupationalInjuries2021.csv
+2025-01-24 00:41:15,924 - main - INFO - Successfully processed ./data\ConsumerPriceIndex.csv
+2025-01-24 00:41:15,938 - main - INFO - Successfully processed ./data\ConsumerPrizeIndex.csv
+2025-01-24 00:41:15,964 - main - INFO - Successfully processed ./data\ContractedOutAndEmploymentSize.csv
+2025-01-24 00:41:16,010 - main - INFO - Successfully processed ./data\DailyBasicPayData.csv
+2025-01-24 00:41:16,109 - main - INFO - Successfully processed ./data\DeathData.csv
+2025-01-24 00:41:16,126 - main - INFO - Successfully processed ./data\DeathsByAgeAndSex.csv
+2025-01-24 00:41:16,291 - main - INFO - Successfully processed ./data\DeathsByAttendanceDeath.csv
+2025-01-24 00:41:16,379 - main - INFO - Successfully processed ./data\DeathsByCauseOfDeathAndSex.csv
+2025-01-24 00:41:16,394 - main - INFO - Successfully processed ./data\DistributionByEmploymentSizeAndSex.csv
+2025-01-24 00:41:16,420 - main - INFO - Successfully processed ./data\DistributionByIndustryGroupAndSex.csv
+2025-01-24 00:41:16,444 - main - INFO - Successfully processed ./data\DistributionByTypeOfOwnershipAndSex.csv
+2025-01-24 00:41:16,457 - main - INFO - Successfully processed ./data\DuncanIndex.csv
+2025-01-24 00:41:16,474 - main - INFO - Successfully processed ./data\EasyToFillOccupations2016.csv
+2025-01-24 00:41:16,491 - main - INFO - Successfully processed ./data\EasyToFillOccupations2022.csv
+2025-01-24 00:41:16,523 - main - INFO - Successfully processed ./data\EconomicActivityRate.csv
+2025-01-24 00:41:16,559 - main - INFO - Successfully processed ./data\EconomicallyInactivePersons.csv
+2025-01-24 00:41:16,608 - main - INFO - Successfully processed ./data\EmployedByHoursBySex1.csv
+2025-01-24 00:41:16,657 - main - INFO - Successfully processed ./data\EmployedByHoursBySex2.csv
+2025-01-24 00:41:17,027 - main - INFO - Successfully processed ./data\EmployedPersonData.csv
+2025-01-24 00:41:17,048 - main - INFO - Successfully processed ./data\EmployedPersonsWhoAreHouseholdHeads.csv
+2025-01-24 00:41:17,080 - main - INFO - Successfully processed ./data\EmployedPersonsWhoAreMarried.csv
+2025-01-24 00:41:17,114 - main - INFO - Successfully processed ./data\EmployedPrimaryJob1.csv
+2025-01-24 00:41:17,144 - main - INFO - Successfully processed ./data\EmployedPrimaryJob2.csv
+2025-01-24 00:41:17,174 - main - INFO - Successfully processed ./data\EmployedWithExcessiveHours1.csv
+2025-01-24 00:41:17,197 - main - INFO - Successfully processed ./data\EmployedWithExcessiveHours2.csv
+2025-01-24 00:41:17,210 - main - INFO - Successfully processed ./data\EmployeesByEmploymentSize.csv
+2025-01-24 00:41:17,222 - main - INFO - Successfully processed ./data\EmployeesByEmploymentSizeAndTraining.csv
+2025-01-24 00:41:17,237 - main - INFO - Successfully processed ./data\EmployeesByMajorIndustryGroupAndTraining.csv
+2025-01-24 00:41:17,258 - main - INFO - Successfully processed ./data\EmployeesInPrecariousWork.csv
+2025-01-24 00:41:17,284 - main - INFO - Successfully processed ./data\EmployeesMajorIndustryGroup.csv
+2025-01-24 00:41:17,302 - main - INFO - Successfully processed ./data\EmployeesWithRecentJob.csv
+2025-01-24 00:41:17,317 - main - INFO - Successfully processed ./data\EmploymentActivityGrowthRate.csv
+2025-01-24 00:41:17,346 - main - INFO - Successfully processed ./data\EmploymentByClass.csv
+2025-01-24 00:41:17,376 - main - INFO - Successfully processed ./data\EmploymentctivityAndSexDistribution.csv
+2025-01-24 00:41:17,423 - main - INFO - Successfully processed ./data\EstablishmentsByEmploymentSize.csv
+2025-01-24 00:41:17,508 - main - INFO - Successfully processed ./data\EstablishmentsByPIP2013To2019.csv
+2025-01-24 00:41:17,523 - main - INFO - Successfully processed ./data\EstablishmentsByRegion.csv
+2025-01-24 00:41:17,781 - main - INFO - Successfully processed ./data\EstablishmentsBySizeOfEmployment2017To2019.csv
+2025-01-24 00:41:17,836 - main - INFO - Successfully processed ./data\EstablishmentsByTypeOfNonCashProductivity.csv
+2025-01-24 00:41:17,853 - main - INFO - Successfully processed ./data\EstablishmentsCBAAndWithUnion2014To2022.csv
+2025-01-24 00:41:17,866 - main - INFO - Successfully processed ./data\EstablishmentsCBAAndWithUnionByEmploymentSize.csv
+2025-01-24 00:41:17,882 - main - INFO - Successfully processed ./data\EstablishmentsMajorIndustryGroup.csv
+2025-01-24 00:41:17,903 - main - INFO - Successfully processed ./data\EstablishmentsNumberOfWorkersInjured2013To2024.csv
+2025-01-24 00:41:17,950 - main - INFO - Successfully processed ./data\EstablishmentsPIPByEconomicOrganization.csv
+2025-01-24 00:41:17,982 - main - INFO - Successfully processed ./data\EstablishmentsPIPByEmploymentSize2017To2019.csv
+2025-01-24 00:41:18,034 - main - INFO - Successfully processed ./data\EstablishmentsPIPByLegalOrganization2017To2019.csv
+2025-01-24 00:41:18,083 - main - INFO - Successfully processed ./data\EstablishmentsPIPProgramDeveloper2017To2019.csv
+2025-01-24 00:41:18,098 - main - INFO - Successfully processed ./data\EstablishmentsProviderAndEmploymentSize2021.csv
+2025-01-24 00:41:18,122 - main - INFO - Successfully processed ./data\EstablishmentsProviderAndMajorIndustry2013.csv
+2025-01-24 00:41:18,139 - main - INFO - Successfully processed ./data\EstablishmentsWithCBAByEmploymentSize.csv
+2025-01-24 00:41:18,165 - main - INFO - Successfully processed ./data\EstablishmentsWithCBAByIndustry2014To2022.csv
+2025-01-24 00:41:18,183 - main - INFO - Successfully processed ./data\EstablishmentsWithCBAByRegion.csv
+2025-01-24 00:41:18,199 - main - INFO - Successfully processed ./data\EstablishmentsWithCBAUnionAndRegion2022.csv
+2025-01-24 00:41:18,217 - main - INFO - Successfully processed ./data\EstablishmentsWithOrWithoutCommutingAccidents2013To2021.csv
+2025-01-24 00:41:18,272 - main - INFO - Successfully processed ./data\EstablishmentsWithUnionByScopeOfBargainingIndustry.csv
+2025-01-24 00:41:18,302 - main - INFO - Successfully processed ./data\EstablishmentsWithUniondTypeOfOwnership.csv
+2025-01-24 00:41:18,319 - main - INFO - Successfully processed ./data\EstablishmentsWithUnionEmploymentSize.csv
+2025-01-24 00:41:18,335 - main - INFO - Successfully processed ./data\EstablishmentsWithUnionScopeAndRegion2022.csv
+2025-01-24 00:41:18,365 - main - INFO - Successfully processed ./data\EstablismentsThatAttendedRTWPB.csv
+2025-01-24 00:41:18,428 - main - INFO - Successfully processed ./data\EstimatedBeneficiaries1995To2013.csv
+2025-01-24 00:41:18,498 - main - INFO - Successfully processed ./data\EstimatedBeneficiariesRevised.csv
+2025-01-24 00:41:18,507 - main - INFO - Successfully processed ./data\EstimatedByNationalHealth.csv
+2025-01-24 00:41:18,536 - main - INFO - Successfully processed ./data\FemaleShare1977.csv
+2025-01-24 00:41:18,571 - main - INFO - Successfully processed ./data\FemaleShare1992.csv
+2025-01-24 00:41:18,594 - main - INFO - Successfully processed ./data\FemaleShare2012.csv
+2025-01-24 00:41:18,613 - main - INFO - Successfully processed ./data\FemaleShareOfEmployment.csv
+2025-01-24 00:41:18,624 - main - INFO - Successfully processed ./data\FemaleShareSenior1977.csv
+2025-01-24 00:41:18,640 - main - INFO - Successfully processed ./data\FemaleShareSenior1992.csv
+2025-01-24 00:41:18,654 - main - INFO - Successfully processed ./data\FemaleShareSenior2012.csv
+2025-01-24 00:41:18,719 - main - INFO - Successfully processed ./data\FrequencyRatesIncapacityForWork2013To2021.csv
+2025-01-24 00:41:18,734 - main - INFO - Successfully processed ./data\FrequencyRatesOfCases2021.csv
+2025-01-24 00:41:18,762 - main - INFO - Successfully processed ./data\GenderWageGap.csv
+2025-01-24 00:41:18,784 - main - INFO - Successfully processed ./data\GenderWageGap2.csv
+2025-01-24 00:41:18,803 - main - INFO - Successfully processed ./data\GrossDomesticProduct2000.csv
+2025-01-24 00:41:18,819 - main - INFO - Successfully processed ./data\HardToFillOccupationsByNumberOfVacancies2016.csv
+2025-01-24 00:41:18,834 - main - INFO - Successfully processed ./data\HardToFillOccupationsByNumberOfVacancies2022.csv
+2025-01-24 00:41:18,845 - main - INFO - Successfully processed ./data\HealthcareByPrivateHousehold.csv
+2025-01-24 00:41:19,300 - main - INFO - Successfully processed ./data\Household.csv
+2025-01-24 00:41:19,567 - main - INFO - Successfully processed ./data\HouseholdData.csv
+2025-01-24 00:41:19,861 - main - INFO - Successfully processed ./data\HousingData.csv
+2025-01-24 00:41:19,911 - main - INFO - Successfully processed ./data\IncidenceRatesIncapacityForWork2013To2021.csv
+2025-01-24 00:41:19,927 - main - INFO - Successfully processed ./data\IncidenceRatesOfCases2021.csv
+2025-01-24 00:41:19,937 - main - INFO - Successfully processed ./data\IncomeGap.csv
+2025-01-24 00:41:19,949 - main - INFO - Successfully processed ./data\IncomeInequality.csv
+2025-01-24 00:41:19,970 - main - INFO - Successfully processed ./data\InfantDeathsByCausesOfDeath.csv
+2025-01-24 00:41:20,103 - main - INFO - Successfully processed ./data\InfantDeathsByUsualResidence.csv
+2025-01-24 00:41:20,197 - main - INFO - Successfully processed ./data\InfantDeathsPlaceOfOccurrence.csv
+2025-01-24 00:41:20,206 - main - INFO - Successfully processed ./data\InflationRate.csv
+2025-01-24 00:41:20,222 - main - INFO - Successfully processed ./data\LaborCostPerHourByIndustryGroup.csv
+2025-01-24 00:41:20,239 - main - INFO - Successfully processed ./data\LaborForceBySexAndAge.csv
+2025-01-24 00:41:20,306 - main - INFO - Successfully processed ./data\LaborForceData.csv
+2025-01-24 00:41:20,318 - main - INFO - Successfully processed ./data\LaborForceGapBySex.csv
+2025-01-24 00:41:20,340 - main - INFO - Successfully processed ./data\LaborProductivity2000.csv
+2025-01-24 00:41:20,354 - main - INFO - Successfully processed ./data\LengthOfRecruitmentPeriod2016.csv
+2025-01-24 00:41:20,372 - main - INFO - Successfully processed ./data\LengthOfRecruitmentPeriod2022.csv
+2025-01-24 00:41:20,502 - main - INFO - Successfully processed ./data\LiveBirths2016.csv
+2025-01-24 00:41:20,516 - main - INFO - Successfully processed ./data\LiveBirthsByAgeGroupOfMother.csv
+2025-01-24 00:41:20,628 - main - INFO - Successfully processed ./data\LiveBirthsByGeographicLocation.csv
+2025-01-24 00:41:20,747 - main - INFO - Successfully processed ./data\LiveBirthsByPlace.csv
+2025-01-24 00:41:20,801 - main - INFO - Successfully processed ./data\LiveBirthsInYear.csv
+2025-01-24 00:41:20,815 - main - INFO - Successfully processed ./data\ManufacturingWageIndex.csv
+2025-01-24 00:41:21,015 - main - INFO - Successfully processed ./data\MarriagesByAgeGroupOfBride.csv
+2025-01-24 00:41:21,197 - main - INFO - Successfully processed ./data\MarriagesByAgeGroupOfGroom.csv
+2025-01-24 00:41:21,341 - main - INFO - Successfully processed ./data\MaternalDeathsByUsualResidence.csv
+2025-01-24 00:41:21,533 - main - INFO - Successfully processed ./data\MedianMonthlyData.csv
+2025-01-24 00:41:21,545 - main - INFO - Successfully processed ./data\MinimumHourly.csv
+2025-01-24 00:41:36,972 - main - INFO - Successfully processed ./data\NewData.csv
+2025-01-24 00:41:37,397 - main - INFO - Successfully processed ./data\NumberOfDeathsAgeGroupAndSex.csv
+2025-01-24 00:41:37,423 - main - INFO - Successfully processed ./data\NumberOfDistributionBySex.csv
+2025-01-24 00:41:37,445 - main - INFO - Successfully processed ./data\NumberOfDistributionESD.csv
+2025-01-24 00:41:37,942 - main - INFO - Successfully processed ./data\NumberOfHousehold.csv
+2025-01-24 00:41:38,775 - main - INFO - Successfully processed ./data\OccupiedHousing.csv
+2025-01-24 00:41:38,880 - main - INFO - Successfully processed ./data\PercentAnnualLaborByMajorCostComponent.csv
+2025-01-24 00:41:38,923 - main - INFO - Successfully processed ./data\PercentBonusesAndGratitudeBySubCost.csv
+2025-01-24 00:41:38,980 - main - INFO - Successfully processed ./data\PercentDirectWagesSubCostComponent.csv
+2025-01-24 00:41:39,005 - main - INFO - Successfully processed ./data\PercentDistributionOfUnionByEmploymentSizeAndSex.csv
+2025-01-24 00:41:39,033 - main - INFO - Successfully processed ./data\PercentDistributionOfUnionByIndustryGroupAndSex.csv
+2025-01-24 00:41:39,052 - main - INFO - Successfully processed ./data\PercentDistributionOfWage.csv
+2025-01-24 00:41:39,069 - main - INFO - Successfully processed ./data\PercentDistributionPresidentsByEmploymentSizeAndSex.csv
+2025-01-24 00:41:39,097 - main - INFO - Successfully processed ./data\PercentDistributionPresidentsByIndustryGroupAndSex.csv
+2025-01-24 00:41:39,114 - main - INFO - Successfully processed ./data\PercentDistributionPresidentsByTypesOfOwnershipAndSex.csv
+2025-01-24 00:41:39,186 - main - INFO - Successfully processed ./data\PercentHousingShoulderedSubCost.csv
+2025-01-24 00:41:39,234 - main - INFO - Successfully processed ./data\PercentLaborCostsSubCost.csv
+2025-01-24 00:41:39,267 - main - INFO - Successfully processed ./data\PercentShareBranchOfCategoryOfEmployees.csv
+2025-01-24 00:41:39,285 - main - INFO - Successfully processed ./data\PercentShareBranchOfEconomicActivity.csv
+2025-01-24 00:41:39,301 - main - INFO - Successfully processed ./data\PercentShareCBAWithUnionByTypeOfOwnership.csv
+2025-01-24 00:41:39,316 - main - INFO - Successfully processed ./data\PercentShareOfCBAUnionizedTypeOfOwnership.csv
+2025-01-24 00:41:39,351 - main - INFO - Successfully processed ./data\PercentShareOfChildren.csv
+2025-01-24 00:41:39,368 - main - INFO - Successfully processed ./data\PercentShareOfUnionBySexAndRegion2022.csv
+2025-01-24 00:41:39,395 - main - INFO - Successfully processed ./data\PercentShareTotalEmployedBySex.csv
+2025-01-24 00:41:39,428 - main - INFO - Successfully processed ./data\PercentShareTotalWage.csv
+2025-01-24 00:41:39,444 - main - INFO - Successfully processed ./data\PercentShareTypeOfPension.csv
+2025-01-24 00:41:39,460 - main - INFO - Successfully processed ./data\PercentShareTypeOfPension1.csv
+2025-01-24 00:41:39,478 - main - INFO - Successfully processed ./data\PercentShareUnionizedCBATypesOfOwnership.csv
+2025-01-24 00:41:39,496 - main - INFO - Successfully processed ./data\PercentShareWithCBATypeOfOwnership.csv
+2025-01-24 00:41:39,760 - main - INFO - Successfully processed ./data\PercentSocialSecurityExpenditureSubCost.csv
+2025-01-24 00:41:39,852 - main - INFO - Successfully processed ./data\PIPBenifittedBySexCategory.csv
+2025-01-24 00:41:39,952 - main - INFO - Successfully processed ./data\PIPByAssistingGovernmentAgency.csv
+2025-01-24 00:41:40,054 - main - INFO - Successfully processed ./data\PIPByCategoryOfWorkers2017To2019.csv
+2025-01-24 00:41:40,074 - main - INFO - Successfully processed ./data\PIPByExtentPIPObjectiveWaMet2013.csv
+2025-01-24 00:41:40,114 - main - INFO - Successfully processed ./data\PIPByFrequencyOfVisitation2019.csv
+2025-01-24 00:41:40,140 - main - INFO - Successfully processed ./data\PIPByProgramDeveloper2013.csv
+2025-01-24 00:41:40,241 - main - INFO - Successfully processed ./data\PIPByProgramObjective2017To2019.csv
+2025-01-24 00:41:40,447 - main - INFO - Successfully processed ./data\PIPByProgramObjectivesExtentOfFulfillmentt2017To2019.csv
+2025-01-24 00:41:40,721 - main - INFO - Successfully processed ./data\PIPByProgramObjectiveWasMet2013.csv
+2025-01-24 00:41:40,810 - main - INFO - Successfully processed ./data\PIPByReasonsForNonAttainmentOfPIP.csv
+2025-01-24 00:41:40,859 - main - INFO - Successfully processed ./data\PIPByTypeOfGainsharingSchemes2017To2019.csv
+2025-01-24 00:41:40,951 - main - INFO - Successfully processed ./data\PIPByTypeOfRTWPB.csv
+2025-01-24 00:41:41,008 - main - INFO - Successfully processed ./data\PIPByTypeOfScheme2013.csv
+2025-01-24 00:41:41,061 - main - INFO - Successfully processed ./data\PIPByTypeOfTechnicalAssistance.csv
+2025-01-24 00:41:41,273 - main - INFO - Successfully processed ./data\PIPByUsualFormOfNonCashIncentive.csv
+2025-01-24 00:41:41,360 - main - INFO - Successfully processed ./data\PIPPrimaryObjectiveOfProductivityProgram.csv
+2025-01-24 00:41:41,398 - main - INFO - Successfully processed ./data\PIPThatAvailedOfTaxIncentives.csv
+2025-01-24 00:41:41,547 - main - INFO - Successfully processed ./data\Population.csv
+2025-01-24 00:41:41,611 - main - INFO - Successfully processed ./data\PopulationProjection.csv
+2025-01-24 00:41:41,628 - main - INFO - Successfully processed ./data\PovertyIncidence.csv
+2025-01-24 00:41:41,691 - main - INFO - Successfully processed ./data\PPIByPrimaryObjectiveOfProductivity2015.csv
+2025-01-24 00:41:41,730 - main - INFO - Successfully processed ./data\PPIByProductivityProgram2015.csv
+2025-01-24 00:41:41,786 - main - INFO - Successfully processed ./data\PPIByProgramDeveloper2015.csv
+2025-01-24 00:41:41,848 - main - INFO - Successfully processed ./data\PPIByTypeOfProductivityTechnique2015.csv
+2025-01-24 00:41:41,911 - main - INFO - Successfully processed ./data\PPIWorkersByAssistingAgency2015.csv
+2025-01-24 00:41:41,958 - main - INFO - Successfully processed ./data\PPIWorkersByTypeOfAssistanceProvided2015.csv
+2025-01-24 00:41:41,971 - main - INFO - Successfully processed ./data\ProportionOfCBAByEmploymentSize.csv
+2025-01-24 00:41:41,990 - main - INFO - Successfully processed ./data\ProportionOfCBAByMajorIndustryGroup.csv
+2025-01-24 00:41:42,002 - main - INFO - Successfully processed ./data\ProportionOfCBAByTypeOfOwnershipAndSex.csv
+2025-01-24 00:41:42,025 - main - INFO - Successfully processed ./data\ProportionOfSelfEmployed.csv
+2025-01-24 00:41:42,039 - main - INFO - Successfully processed ./data\RealGrossDomestic.csv
+2025-01-24 00:41:42,053 - main - INFO - Successfully processed ./data\ReasonsWhyVacancies2022.csv
+2025-01-24 00:41:42,249 - main - INFO - Successfully processed ./data\ReceivedCashAndNonCashProductivity2015.csv
+2025-01-24 00:41:42,444 - main - INFO - Successfully processed ./data\RegisteredMarriagesFemale.csv
+2025-01-24 00:41:42,638 - main - INFO - Successfully processed ./data\RegisteredMarriagesMale.csv
+2025-01-24 00:41:42,726 - main - INFO - Successfully processed ./data\RegisteredTotalDeaths.csv
+2025-01-24 00:41:42,743 - main - INFO - Successfully processed ./data\SeverityRates2013To2021.csv
+2025-01-24 00:41:42,759 - main - INFO - Successfully processed ./data\SeverityRatesAndAverage2021.csv
+2025-01-24 00:41:42,773 - main - INFO - Successfully processed ./data\ShareOfWageAndSalary.csv
+2025-01-24 00:41:42,786 - main - INFO - Successfully processed ./data\ShareOfWomen.csv
+2025-01-24 00:41:42,805 - main - INFO - Successfully processed ./data\ShareOfWorkersBySex.csv
+2025-01-24 00:41:42,816 - main - INFO - Successfully processed ./data\SocialSecurityBenifits.csv
+2025-01-24 00:41:42,847 - main - INFO - Successfully processed ./data\SpecificGroupAndRegion.csv
+2025-01-24 00:41:42,866 - main - INFO - Successfully processed ./data\SpecificGroupSexAndEmploymentSize.csv
+2025-01-24 00:41:42,946 - main - INFO - Successfully processed ./data\SpecificGroupSexAndMajorIndustry.csv
+2025-01-24 00:41:42,960 - main - INFO - Successfully processed ./data\SSSAndGSIS.csv
+2025-01-24 00:41:42,974 - main - INFO - Successfully processed ./data\SubcontractingByEmploymentSize.csv
+2025-01-24 00:41:42,992 - main - INFO - Successfully processed ./data\SubcontractingByMajorIndustryGroup.csv
+2025-01-24 00:41:43,015 - main - INFO - Successfully processed ./data\SubcontractingByMajorndustryGroup.csv
+2025-01-24 00:41:43,031 - main - INFO - Successfully processed ./data\SubcontractingByTypeOfJobsEmploymentSize.csv
+2025-01-24 00:41:43,054 - main - INFO - Successfully processed ./data\TimeRelatedUnderemployment.csv
+2025-01-24 00:41:43,065 - main - INFO - Successfully processed ./data\TotalLaborForce.csv
+2025-01-24 00:41:43,080 - main - INFO - Successfully processed ./data\TotalPaidUnionizedCBABySexAndRegion2022.csv
+2025-01-24 00:41:43,196 - main - INFO - Successfully processed ./data\TotalPopulation.csv
+2025-01-24 00:41:43,283 - main - INFO - Successfully processed ./data\TotalPopulation2010.csv
+2025-01-24 00:41:43,315 - main - INFO - Successfully processed ./data\TypeOfJobsServicesContractedOutAndMajorIndustry.csv
+2025-01-24 00:41:43,331 - main - INFO - Successfully processed ./data\TypeOfJobsServicesContractedOutAndRegion.csv
+2025-01-24 00:41:43,346 - main - INFO - Successfully processed ./data\TypeOfWorkersAndRegion.csv
+2025-01-24 00:41:43,367 - main - INFO - Successfully processed ./data\TypeOfWorkersSexAndEmploymentSize.csv
+2025-01-24 00:41:43,403 - main - INFO - Successfully processed ./data\TypeOfWorkersSexAndMajorIndustry .csv
+2025-01-24 00:41:43,431 - main - INFO - Successfully processed ./data\UnderemploymentBySex.csv
+2025-01-24 00:41:43,459 - main - INFO - Successfully processed ./data\UnemploymentLevelOfEducation.csv
+2025-01-24 00:41:43,506 - main - INFO - Successfully processed ./data\UnemploymentRate.csv
+2025-01-24 00:41:43,561 - main - INFO - Successfully processed ./data\UnionizedWorkersByEmploymentSize.csv
+2025-01-24 00:41:43,573 - main - INFO - Successfully processed ./data\UnionizedWorkersByEmploymentSizeAndSex.csv
+2025-01-24 00:41:43,591 - main - INFO - Successfully processed ./data\UnionizedWorkersByMajorIndustryGroupAndSex.csv
+2025-01-24 00:41:43,611 - main - INFO - Successfully processed ./data\UnionizedWorkersBySexAndRegion2022.csv
+2025-01-24 00:41:43,626 - main - INFO - Successfully processed ./data\UnionizedWorkersByTypeOfOwnership.csv
+2025-01-24 00:41:43,641 - main - INFO - Successfully processed ./data\UnionizedWorkersByTypeOfOwnershipAndSex.csv
+2025-01-24 00:41:43,657 - main - INFO - Successfully processed ./data\VacanciesAndApplicantsBMajorOccupationGroup.csv
+2025-01-24 00:41:43,674 - main - INFO - Successfully processed ./data\VacanciesByMajorIndustryGroup.csv
+2025-01-24 00:41:43,691 - main - INFO - Successfully processed ./data\VacanciesByMajorIndustryGroup2022.csv
+2025-01-24 00:41:43,708 - main - INFO - Successfully processed ./data\VacanciesByMajorIndustryGroupAndCategory.csv
+2025-01-24 00:41:43,726 - main - INFO - Successfully processed ./data\VacanciesByMethodsUsedInPromotingVacancies.csv
+2025-01-24 00:41:43,742 - main - INFO - Successfully processed ./data\VacanciesInJobPortalsByJobPortalsUsed.csv
+2025-01-24 00:41:43,757 - main - INFO - Successfully processed ./data\VacanciesMajorOccupatioGroupInEstablishments .csv
+2025-01-24 00:41:43,769 - main - INFO - Successfully processed ./data\VacanciesPositionAndOccupation2022.csv
+2025-01-24 00:41:43,785 - main - INFO - Successfully processed ./data\VacanciesWorkersByIndustryAndCategory.csv
+2025-01-24 00:41:43,816 - main - INFO - Successfully processed ./data\VisibleUnderemployment.csv
+2025-01-24 00:41:43,828 - main - INFO - Successfully processed ./data\WageShareInGross.csv
+2025-01-24 00:41:43,979 - main - INFO - Successfully processed ./data\WorkdaysAgentOfInjury2013To2021.csv
+2025-01-24 00:41:44,059 - main - INFO - Successfully processed ./data\WorkdaysCauseOfTheInjury2013To2021.csv
+2025-01-24 00:41:44,120 - main - INFO - Successfully processed ./data\WorkdaysLostInAgricultural2013.csv
+2025-01-24 00:41:44,158 - main - INFO - Successfully processed ./data\WorkdaysLostInEstablishments2015To2021.csv
+2025-01-24 00:41:44,324 - main - INFO - Successfully processed ./data\WorkdaysLostInEstablishmentsTypeOfInjury2013To2021.csv
+2025-01-24 00:41:44,432 - main - INFO - Successfully processed ./data\WorkdaysPartOfTheBody2013To2021.csv
+2025-01-24 00:41:44,496 - main - INFO - Successfully processed ./data\WorkersByAwarenessOnEmployees.csv
+2025-01-24 00:41:44,587 - main - INFO - Successfully processed ./data\WorkersByBusinessRecovery2020.csv
+2025-01-24 00:41:44,607 - main - INFO - Successfully processed ./data\WorkersByCategoryAndRegion.csv
+2025-01-24 00:41:44,644 - main - INFO - Successfully processed ./data\WorkersByCategorySex.csv
+2025-01-24 00:41:44,662 - main - INFO - Successfully processed ./data\WorkersByCategorySexAndEmploymentSize.csv
+2025-01-24 00:41:44,772 - main - INFO - Successfully processed ./data\WorkersByDisseminated2017.csv
+2025-01-24 00:41:44,794 - main - INFO - Successfully processed ./data\WorkersByEmploymentSize.csv
+2025-01-24 00:41:44,957 - main - INFO - Successfully processed ./data\WorkersByImpactOfQuarantines.csv
+2025-01-24 00:41:44,993 - main - INFO - Successfully processed ./data\WorkersByIndustryGroup2013To2021.csv
+2025-01-24 00:41:45,023 - main - INFO - Successfully processed ./data\WorkersByMajorIIndustryGroup.csv
+2025-01-24 00:41:45,193 - main - INFO - Successfully processed ./data\WorkersByModeOfLearningECP2017.csv
+2025-01-24 00:41:45,246 - main - INFO - Successfully processed ./data\WorkersByOccupationAndndStatusOfEmployment.csv
+2025-01-24 00:41:45,265 - main - INFO - Successfully processed ./data\WorkersByOccupationAndStatusOfEmployment2022.csv
+2025-01-24 00:41:45,513 - main - INFO - Successfully processed ./data\WorkersByOSHPolicies2013To2017.csv
+2025-01-24 00:41:45,930 - main - INFO - Successfully processed ./data\WorkersByOSHPolicies2019To2021.csv
+2025-01-24 00:41:45,998 - main - INFO - Successfully processed ./data\WorkersByOSHPoliciesByRegion2021.csv
+2025-01-24 00:41:46,012 - main - INFO - Successfully processed ./data\WorkersByRegion.csv
+2025-01-24 00:41:46,094 - main - INFO - Successfully processed ./data\WorkersBySourcesOfFunds.csv
+2025-01-24 00:41:46,110 - main - INFO - Successfully processed ./data\WorkersByTypeAndRegion.csv
+2025-01-24 00:41:46,170 - main - INFO - Successfully processed ./data\WorkersByTypeOfECP2017.csv
+2025-01-24 00:41:46,286 - main - INFO - Successfully processed ./data\WorkersByTypeOfInformationOnBenefits.csv
+2025-01-24 00:41:46,306 - main - INFO - Successfully processed ./data\WorkersByTypeSexAndEmploymentSize.csv
+2025-01-24 00:41:46,333 - main - INFO - Successfully processed ./data\WorkersByTypeSexAndMajorIndustry.csv
+2025-01-24 00:41:46,348 - main - INFO - Successfully processed ./data\WorkersCoveredByCBAByIndustryGroupAndSex.csv
+2025-01-24 00:41:46,361 - main - INFO - Successfully processed ./data\WorkersCoveredByCBAEmploymentSizeAndSex.csv
+2025-01-24 00:41:46,493 - main - INFO - Successfully processed ./data\WorkersNotAwareOfECP2017.csv
+2025-01-24 00:41:46,604 - main - INFO - Successfully processed ./data\WorkersNotAwareOnECPByTopic.csv
+2025-01-24 00:41:46,862 - main - INFO - Successfully processed ./data\WorkersProvideAssistanceECP2017.csv
+2025-01-24 00:41:46,936 - main - INFO - Successfully processed ./data\WorkersServicesByTypeOfECPServices .csv
+2025-01-24 00:41:46,979 - main - INFO - Successfully processed ./data\WorkersThatProvidedECP2017.csv
+2025-01-24 00:41:47,047 - main - INFO - Successfully processed ./data\WorkersWhoAvailedECPByFilingAgency.csv
+2025-01-24 00:41:47,376 - main - INFO - Successfully processed ./data\WorkersWhoAvailedOfECPByTypeAndDuration.csv
+2025-01-24 00:41:47,574 - main - INFO - Successfully processed ./data\WorkersWhoAvailedOfECPeServiceByTypeAndDuration.csv
+2025-01-24 00:41:47,643 - main - INFO - Successfully processed ./data\WorkersWithDesignatedHealth2013To2021.csv
+2025-01-24 00:41:47,663 - main - INFO - Successfully processed ./data\WorkersWithDesignatedHealthAndSafety2021.csv
+2025-01-24 00:41:47,843 - main - INFO - Successfully processed ./data\WorkersWithOSHRelatedTrainings2013To2021.csv
+2025-01-24 00:41:47,928 - main - INFO - Successfully processed ./data\WorkersWithOSHRelatedTrainings2021.csv
+2025-01-24 00:41:48,108 - main - INFO - Successfully processed ./data\WorkersWithPreventiveAndControl2013To2017.csv
+2025-01-24 00:41:48,263 - main - INFO - Successfully processed ./data\WorkersWithPreventiveAndControl2019To2021.csv
+2025-01-24 00:41:48,285 - main - INFO - Successfully processed ./data\WorkersWithPreventiveAndControlMeasures2021.csv
+2025-01-24 00:41:48,306 - main - INFO - Successfully processed ./data\WorkingBySexAndAge.csv
+2025-01-24 00:41:48,335 - main - INFO - Successfully processed ./data\WorkingChildrenBySexAndAge.csv
+2025-01-24 00:41:48,374 - main - INFO - Successfully processed ./data\WorkingChildrenBySexAndMajorIndustry.csv
+2025-01-24 00:41:48,414 - main - INFO - Successfully processed ./data\WorkingChildrenBySexAndOccupation1.csv
+2025-01-24 00:41:48,446 - main - INFO - Successfully processed ./data\WorkingChildrenBySexAndOccupation2.csv
+2025-01-24 00:41:48,464 - main - INFO - Successfully processed ./data\WorkingPovertyRate.csv
+2025-01-24 00:41:48,482 - main - INFO - Successfully processed ./data\YouthPopulationBySex.csv
+2025-01-24 00:41:48,499 - main - INFO - Successfully processed ./data\YouthUnemployment.csv
+2025-01-24 00:42:11,809 - llama_index.core.indices.loading - INFO - Loading all indices.
+2025-01-24 00:53:42,244 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2025-01-24 00:53:48,647 - sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2025-01-24 00:53:49,049 - main - INFO - Successfully processed ./data\2020CensusAndPopulation.csv
+2025-01-24 00:53:49,065 - main - INFO - Successfully processed ./data\AdultFunctionalLiteracy.csv
+2025-01-24 00:53:49,086 - main - INFO - Successfully processed ./data\AdultSecondarySchool.csv
+2025-01-24 00:53:49,117 - main - INFO - Successfully processed ./data\AnnualBonusesAndGratitudeBySubCost.csv
+2025-01-24 00:53:49,158 - main - INFO - Successfully processed ./data\AnnualDirectWagesSubCost.csv
+2025-01-24 00:53:49,170 - main - INFO - Successfully processed ./data\AnnualEmploymentSize2013.csv
+2025-01-24 00:53:49,183 - main - INFO - Successfully processed ./data\AnnualEmploymentSize2021.csv
+2025-01-24 00:53:49,251 - main - INFO - Successfully processed ./data\AnnualHousingShoulderedSubCost.csv
+2025-01-24 00:53:49,300 - main - INFO - Successfully processed ./data\AnnualLaborCostMajorComponent.csv
+2025-01-24 00:53:49,329 - main - INFO - Successfully processed ./data\AnnualLaborCostsSubCost.csv
+2025-01-24 00:53:49,355 - main - INFO - Successfully processed ./data\AnnualMajorIndustry2021.csv
+2025-01-24 00:53:49,376 - main - INFO - Successfully processed ./data\AnnualMajorIndustryGroup2013To2021.csv
+2025-01-24 00:53:49,388 - main - INFO - Successfully processed ./data\AnnualPerCapitaThreshold.csv
+2025-01-24 00:53:49,549 - main - INFO - Successfully processed ./data\AnnualSocialSecurityExpenditureSubCost.csv
+2025-01-24 00:53:49,568 - main - INFO - Successfully processed ./data\AnnualTrainingProvider.csv
+2025-01-24 00:53:49,586 - main - INFO - Successfully processed ./data\AverageByCategoryOfEmployees.csv
+2025-01-24 00:53:49,630 - main - INFO - Successfully processed ./data\AverageBySexAndMajorOccupation2002.csv
+2025-01-24 00:53:49,665 - main - INFO - Successfully processed ./data\AverageBySexAndMajorOccupation2012.csv
+2025-01-24 00:53:49,756 - main - INFO - Successfully processed ./data\AverageMonthlyData.csv
+2025-01-24 00:53:49,780 - main - INFO - Successfully processed ./data\AverageMonthlyPension.csv
+2025-01-24 00:53:49,802 - main - INFO - Successfully processed ./data\AverageMontlyPensions.csv
+2025-01-24 00:53:49,829 - main - INFO - Successfully processed ./data\AverageRealDailySeasonal.csv
+2025-01-24 00:53:49,858 - main - INFO - Successfully processed ./data\AverageShareOfLaborCostEmploymentSize.csv
+2025-01-24 00:53:49,874 - main - INFO - Successfully processed ./data\AverageTyOfPension.csv
+2025-01-24 00:53:49,912 - main - INFO - Successfully processed ./data\AverageWeeklyHours.csv
+2025-01-24 00:53:49,928 - main - INFO - Successfully processed ./data\AvrageByBranchOfEconomic.csv
+2025-01-24 00:53:49,944 - main - INFO - Successfully processed ./data\BasisOfPaymentAndRegion.csv
+2025-01-24 00:53:49,963 - main - INFO - Successfully processed ./data\BasisOfPaymentSexAndEmploymentSize.csv
+2025-01-24 00:53:49,999 - main - INFO - Successfully processed ./data\BasisPaymentSex.csv
+2025-01-24 00:53:50,320 - main - INFO - Successfully processed ./data\BirthData.csv
+2025-01-24 00:53:50,841 - main - INFO - Successfully processed ./data\BirthDataByResidence.csv
+2025-01-24 00:53:50,852 - main - INFO - Successfully processed ./data\BirthsByBirthWeight.csv
+2025-01-24 00:53:51,076 - main - INFO - Successfully processed ./data\BirthsByMonth2016.csv
+2025-01-24 00:53:51,087 - main - INFO - Successfully processed ./data\BirthsByNationality.csv
+2025-01-24 00:53:51,101 - main - INFO - Successfully processed ./data\BirthsFatherOrMother.csv
+2025-01-24 00:53:51,116 - main - INFO - Successfully processed ./data\BirthsOccuredAbroadToFilipinoMother.csv
+2025-01-24 00:53:51,129 - main - INFO - Successfully processed ./data\CapitalFormation2000.csv
+2025-01-24 00:53:51,219 - main - INFO - Successfully processed ./data\CasesOccupationAgentOfInjury2021.csv
+2025-01-24 00:53:51,321 - main - INFO - Successfully processed ./data\CasesOccupationalDiseasesTypeOfDisease2013To2021.csv
+2025-01-24 00:53:51,346 - main - INFO - Successfully processed ./data\CasesOccupationalPartOfBodyInjured2021.csv
+2025-01-24 00:53:51,375 - main - INFO - Successfully processed ./data\CasesOccupationalTypeOfInjury2021.csv
+2025-01-24 00:53:51,398 - main - INFO - Successfully processed ./data\CasesOccupationCauseOfInjury2021.csv
+2025-01-24 00:53:51,432 - main - INFO - Successfully processed ./data\CasesOccupationTypeOfDisease2021.csv
+2025-01-24 00:53:51,453 - main - INFO - Successfully processed ./data\CasesOfOccupationalByRegion2021.csv
+2025-01-24 00:53:51,470 - main - INFO - Successfully processed ./data\CasesOfOccupationalInjuries2021.csv
+2025-01-24 00:53:51,482 - main - INFO - Successfully processed ./data\ConsumerPriceIndex.csv
+2025-01-24 00:53:51,490 - main - INFO - Successfully processed ./data\ConsumerPrizeIndex.csv
+2025-01-24 00:53:51,506 - main - INFO - Successfully processed ./data\ContractedOutAndEmploymentSize.csv
+2025-01-24 00:53:51,545 - main - INFO - Successfully processed ./data\DailyBasicPayData.csv
+2025-01-24 00:53:51,630 - main - INFO - Successfully processed ./data\DeathData.csv
+2025-01-24 00:53:51,648 - main - INFO - Successfully processed ./data\DeathsByAgeAndSex.csv
+2025-01-24 00:53:51,769 - main - INFO - Successfully processed ./data\DeathsByAttendanceDeath.csv
+2025-01-24 00:53:51,791 - main - INFO - Successfully processed ./data\DeathsByCauseOfDeathAndSex.csv
+2025-01-24 00:53:51,805 - main - INFO - Successfully processed ./data\DistributionByEmploymentSizeAndSex.csv
+2025-01-24 00:53:51,821 - main - INFO - Successfully processed ./data\DistributionByIndustryGroupAndSex.csv
+2025-01-24 00:53:51,836 - main - INFO - Successfully processed ./data\DistributionByTypeOfOwnershipAndSex.csv
+2025-01-24 00:53:51,847 - main - INFO - Successfully processed ./data\DuncanIndex.csv
+2025-01-24 00:53:51,860 - main - INFO - Successfully processed ./data\EasyToFillOccupations2016.csv
+2025-01-24 00:53:51,873 - main - INFO - Successfully processed ./data\EasyToFillOccupations2022.csv
+2025-01-24 00:53:51,902 - main - INFO - Successfully processed ./data\EconomicActivityRate.csv
+2025-01-24 00:53:51,929 - main - INFO - Successfully processed ./data\EconomicallyInactivePersons.csv
+2025-01-24 00:53:51,968 - main - INFO - Successfully processed ./data\EmployedByHoursBySex1.csv
+2025-01-24 00:53:52,008 - main - INFO - Successfully processed ./data\EmployedByHoursBySex2.csv
+2025-01-24 00:53:52,290 - main - INFO - Successfully processed ./data\EmployedPersonData.csv
+2025-01-24 00:53:52,310 - main - INFO - Successfully processed ./data\EmployedPersonsWhoAreHouseholdHeads.csv
+2025-01-24 00:53:52,331 - main - INFO - Successfully processed ./data\EmployedPersonsWhoAreMarried.csv
+2025-01-24 00:53:52,356 - main - INFO - Successfully processed ./data\EmployedPrimaryJob1.csv
+2025-01-24 00:53:52,379 - main - INFO - Successfully processed ./data\EmployedPrimaryJob2.csv
+2025-01-24 00:53:52,406 - main - INFO - Successfully processed ./data\EmployedWithExcessiveHours1.csv
+2025-01-24 00:53:52,429 - main - INFO - Successfully processed ./data\EmployedWithExcessiveHours2.csv
+2025-01-24 00:53:52,446 - main - INFO - Successfully processed ./data\EmployeesByEmploymentSize.csv
+2025-01-24 00:53:52,457 - main - INFO - Successfully processed ./data\EmployeesByEmploymentSizeAndTraining.csv
+2025-01-24 00:53:52,474 - main - INFO - Successfully processed ./data\EmployeesByMajorIndustryGroupAndTraining.csv
+2025-01-24 00:53:52,491 - main - INFO - Successfully processed ./data\EmployeesInPrecariousWork.csv
+2025-01-24 00:53:52,512 - main - INFO - Successfully processed ./data\EmployeesMajorIndustryGroup.csv
+2025-01-24 00:53:52,532 - main - INFO - Successfully processed ./data\EmployeesWithRecentJob.csv
+2025-01-24 00:53:52,569 - main - INFO - Successfully processed ./data\EmploymentActivityGrowthRate.csv
+2025-01-24 00:53:52,597 - main - INFO - Successfully processed ./data\EmploymentByClass.csv
+2025-01-24 00:53:52,621 - main - INFO - Successfully processed ./data\EmploymentctivityAndSexDistribution.csv
+2025-01-24 00:53:52,634 - main - INFO - Successfully processed ./data\EstablishmentsByEmploymentSize.csv
+2025-01-24 00:53:52,723 - main - INFO - Successfully processed ./data\EstablishmentsByPIP2013To2019.csv
+2025-01-24 00:53:52,734 - main - INFO - Successfully processed ./data\EstablishmentsByRegion.csv
+2025-01-24 00:53:52,926 - main - INFO - Successfully processed ./data\EstablishmentsBySizeOfEmployment2017To2019.csv
+2025-01-24 00:53:52,963 - main - INFO - Successfully processed ./data\EstablishmentsByTypeOfNonCashProductivity.csv
+2025-01-24 00:53:52,983 - main - INFO - Successfully processed ./data\EstablishmentsCBAAndWithUnion2014To2022.csv
+2025-01-24 00:53:52,996 - main - INFO - Successfully processed ./data\EstablishmentsCBAAndWithUnionByEmploymentSize.csv
+2025-01-24 00:53:53,013 - main - INFO - Successfully processed ./data\EstablishmentsMajorIndustryGroup.csv
+2025-01-24 00:53:53,035 - main - INFO - Successfully processed ./data\EstablishmentsNumberOfWorkersInjured2013To2024.csv
+2025-01-24 00:53:53,070 - main - INFO - Successfully processed ./data\EstablishmentsPIPByEconomicOrganization.csv
+2025-01-24 00:53:53,098 - main - INFO - Successfully processed ./data\EstablishmentsPIPByEmploymentSize2017To2019.csv
+2025-01-24 00:53:53,146 - main - INFO - Successfully processed ./data\EstablishmentsPIPByLegalOrganization2017To2019.csv
+2025-01-24 00:53:53,194 - main - INFO - Successfully processed ./data\EstablishmentsPIPProgramDeveloper2017To2019.csv
+2025-01-24 00:53:53,206 - main - INFO - Successfully processed ./data\EstablishmentsProviderAndEmploymentSize2021.csv
+2025-01-24 00:53:53,227 - main - INFO - Successfully processed ./data\EstablishmentsProviderAndMajorIndustry2013.csv
+2025-01-24 00:53:53,241 - main - INFO - Successfully processed ./data\EstablishmentsWithCBAByEmploymentSize.csv
+2025-01-24 00:53:53,291 - main - INFO - Successfully processed ./data\EstablishmentsWithCBAByIndustry2014To2022.csv
+2025-01-24 00:53:53,304 - main - INFO - Successfully processed ./data\EstablishmentsWithCBAByRegion.csv
+2025-01-24 00:53:53,320 - main - INFO - Successfully processed ./data\EstablishmentsWithCBAUnionAndRegion2022.csv
+2025-01-24 00:53:53,334 - main - INFO - Successfully processed ./data\EstablishmentsWithOrWithoutCommutingAccidents2013To2021.csv
+2025-01-24 00:53:53,356 - main - INFO - Successfully processed ./data\EstablishmentsWithUnionByScopeOfBargainingIndustry.csv
+2025-01-24 00:53:53,370 - main - INFO - Successfully processed ./data\EstablishmentsWithUniondTypeOfOwnership.csv
+2025-01-24 00:53:53,383 - main - INFO - Successfully processed ./data\EstablishmentsWithUnionEmploymentSize.csv
+2025-01-24 00:53:53,397 - main - INFO - Successfully processed ./data\EstablishmentsWithUnionScopeAndRegion2022.csv
+2025-01-24 00:53:53,431 - main - INFO - Successfully processed ./data\EstablismentsThatAttendedRTWPB.csv
+2025-01-24 00:53:53,489 - main - INFO - Successfully processed ./data\EstimatedBeneficiaries1995To2013.csv
+2025-01-24 00:53:53,541 - main - INFO - Successfully processed ./data\EstimatedBeneficiariesRevised.csv
+2025-01-24 00:53:53,550 - main - INFO - Successfully processed ./data\EstimatedByNationalHealth.csv
+2025-01-24 00:53:53,633 - main - INFO - Successfully processed ./data\FemaleShare1977.csv
+2025-01-24 00:53:53,671 - main - INFO - Successfully processed ./data\FemaleShare1992.csv
+2025-01-24 00:53:53,698 - main - INFO - Successfully processed ./data\FemaleShare2012.csv
+2025-01-24 00:53:53,717 - main - INFO - Successfully processed ./data\FemaleShareOfEmployment.csv
+2025-01-24 00:53:53,732 - main - INFO - Successfully processed ./data\FemaleShareSenior1977.csv
+2025-01-24 00:53:53,744 - main - INFO - Successfully processed ./data\FemaleShareSenior1992.csv
+2025-01-24 00:53:53,754 - main - INFO - Successfully processed ./data\FemaleShareSenior2012.csv
+2025-01-24 00:53:53,772 - main - INFO - Successfully processed ./data\FrequencyRatesIncapacityForWork2013To2021.csv
+2025-01-24 00:53:53,789 - main - INFO - Successfully processed ./data\FrequencyRatesOfCases2021.csv
+2025-01-24 00:53:53,820 - main - INFO - Successfully processed ./data\GenderWageGap.csv
+2025-01-24 00:53:53,847 - main - INFO - Successfully processed ./data\GenderWageGap2.csv
+2025-01-24 00:53:53,863 - main - INFO - Successfully processed ./data\GrossDomesticProduct2000.csv
+2025-01-24 00:53:53,878 - main - INFO - Successfully processed ./data\HardToFillOccupationsByNumberOfVacancies2016.csv
+2025-01-24 00:53:53,890 - main - INFO - Successfully processed ./data\HardToFillOccupationsByNumberOfVacancies2022.csv
+2025-01-24 00:53:53,903 - main - INFO - Successfully processed ./data\HealthcareByPrivateHousehold.csv
+2025-01-24 00:53:54,358 - main - INFO - Successfully processed ./data\Household.csv
+2025-01-24 00:53:54,603 - main - INFO - Successfully processed ./data\HouseholdData.csv
+2025-01-24 00:53:54,868 - main - INFO - Successfully processed ./data\HousingData.csv
+2025-01-24 00:53:54,884 - main - INFO - Successfully processed ./data\IncidenceRatesIncapacityForWork2013To2021.csv
+2025-01-24 00:53:54,898 - main - INFO - Successfully processed ./data\IncidenceRatesOfCases2021.csv
+2025-01-24 00:53:54,908 - main - INFO - Successfully processed ./data\IncomeGap.csv
+2025-01-24 00:53:54,922 - main - INFO - Successfully processed ./data\IncomeInequality.csv
+2025-01-24 00:53:54,943 - main - INFO - Successfully processed ./data\InfantDeathsByCausesOfDeath.csv
+2025-01-24 00:53:55,085 - main - INFO - Successfully processed ./data\InfantDeathsByUsualResidence.csv
+2025-01-24 00:53:55,164 - main - INFO - Successfully processed ./data\InfantDeathsPlaceOfOccurrence.csv
+2025-01-24 00:53:55,178 - main - INFO - Successfully processed ./data\InflationRate.csv
+2025-01-24 00:53:55,190 - main - INFO - Successfully processed ./data\LaborCostPerHourByIndustryGroup.csv
+2025-01-24 00:53:55,210 - main - INFO - Successfully processed ./data\LaborForceBySexAndAge.csv
+2025-01-24 00:53:55,302 - main - INFO - Successfully processed ./data\LaborForceData.csv
+2025-01-24 00:53:55,314 - main - INFO - Successfully processed ./data\LaborForceGapBySex.csv
+2025-01-24 00:53:55,333 - main - INFO - Successfully processed ./data\LaborProductivity2000.csv
+2025-01-24 00:53:55,347 - main - INFO - Successfully processed ./data\LengthOfRecruitmentPeriod2016.csv
+2025-01-24 00:53:55,363 - main - INFO - Successfully processed ./data\LengthOfRecruitmentPeriod2022.csv
+2025-01-24 00:53:55,458 - main - INFO - Successfully processed ./data\LiveBirths2016.csv
+2025-01-24 00:53:55,475 - main - INFO - Successfully processed ./data\LiveBirthsByAgeGroupOfMother.csv
+2025-01-24 00:53:55,623 - main - INFO - Successfully processed ./data\LiveBirthsByGeographicLocation.csv
+2025-01-24 00:53:55,711 - main - INFO - Successfully processed ./data\LiveBirthsByPlace.csv
+2025-01-24 00:53:55,726 - main - INFO - Successfully processed ./data\LiveBirthsInYear.csv
+2025-01-24 00:53:55,739 - main - INFO - Successfully processed ./data\ManufacturingWageIndex.csv
+2025-01-24 00:53:55,884 - main - INFO - Successfully processed ./data\MarriagesByAgeGroupOfBride.csv
+2025-01-24 00:53:56,028 - main - INFO - Successfully processed ./data\MarriagesByAgeGroupOfGroom.csv
+2025-01-24 00:53:56,130 - main - INFO - Successfully processed ./data\MaternalDeathsByUsualResidence.csv
+2025-01-24 00:53:56,275 - main - INFO - Successfully processed ./data\MedianMonthlyData.csv
+2025-01-24 00:53:56,289 - main - INFO - Successfully processed ./data\MinimumHourly.csv
+2025-01-24 00:54:06,659 - main - INFO - Successfully processed ./data\NewData.csv
+2025-01-24 00:54:06,923 - main - INFO - Successfully processed ./data\NumberOfDeathsAgeGroupAndSex.csv
+2025-01-24 00:54:06,939 - main - INFO - Successfully processed ./data\NumberOfDistributionBySex.csv
+2025-01-24 00:54:06,951 - main - INFO - Successfully processed ./data\NumberOfDistributionESD.csv
+2025-01-24 00:54:07,263 - main - INFO - Successfully processed ./data\NumberOfHousehold.csv
+2025-01-24 00:54:07,699 - main - INFO - Successfully processed ./data\OccupiedHousing.csv
+2025-01-24 00:54:07,748 - main - INFO - Successfully processed ./data\PercentAnnualLaborByMajorCostComponent.csv
+2025-01-24 00:54:07,783 - main - INFO - Successfully processed ./data\PercentBonusesAndGratitudeBySubCost.csv
+2025-01-24 00:54:07,829 - main - INFO - Successfully processed ./data\PercentDirectWagesSubCostComponent.csv
+2025-01-24 00:54:07,843 - main - INFO - Successfully processed ./data\PercentDistributionOfUnionByEmploymentSizeAndSex.csv
+2025-01-24 00:54:07,892 - main - INFO - Successfully processed ./data\PercentDistributionOfUnionByIndustryGroupAndSex.csv
+2025-01-24 00:54:07,906 - main - INFO - Successfully processed ./data\PercentDistributionOfWage.csv
+2025-01-24 00:54:07,920 - main - INFO - Successfully processed ./data\PercentDistributionPresidentsByEmploymentSizeAndSex.csv
+2025-01-24 00:54:07,939 - main - INFO - Successfully processed ./data\PercentDistributionPresidentsByIndustryGroupAndSex.csv
+2025-01-24 00:54:07,951 - main - INFO - Successfully processed ./data\PercentDistributionPresidentsByTypesOfOwnershipAndSex.csv
+2025-01-24 00:54:08,013 - main - INFO - Successfully processed ./data\PercentHousingShoulderedSubCost.csv
+2025-01-24 00:54:08,052 - main - INFO - Successfully processed ./data\PercentLaborCostsSubCost.csv
+2025-01-24 00:54:08,078 - main - INFO - Successfully processed ./data\PercentShareBranchOfCategoryOfEmployees.csv
+2025-01-24 00:54:08,095 - main - INFO - Successfully processed ./data\PercentShareBranchOfEconomicActivity.csv
+2025-01-24 00:54:08,119 - main - INFO - Successfully processed ./data\PercentShareCBAWithUnionByTypeOfOwnership.csv
+2025-01-24 00:54:08,164 - main - INFO - Successfully processed ./data\PercentShareOfCBAUnionizedTypeOfOwnership.csv
+2025-01-24 00:54:08,204 - main - INFO - Successfully processed ./data\PercentShareOfChildren.csv
+2025-01-24 00:54:08,216 - main - INFO - Successfully processed ./data\PercentShareOfUnionBySexAndRegion2022.csv
+2025-01-24 00:54:08,238 - main - INFO - Successfully processed ./data\PercentShareTotalEmployedBySex.csv
+2025-01-24 00:54:08,265 - main - INFO - Successfully processed ./data\PercentShareTotalWage.csv
+2025-01-24 00:54:08,277 - main - INFO - Successfully processed ./data\PercentShareTypeOfPension.csv
+2025-01-24 00:54:08,293 - main - INFO - Successfully processed ./data\PercentShareTypeOfPension1.csv
+2025-01-24 00:54:08,307 - main - INFO - Successfully processed ./data\PercentShareUnionizedCBATypesOfOwnership.csv
+2025-01-24 00:54:08,322 - main - INFO - Successfully processed ./data\PercentShareWithCBATypeOfOwnership.csv
+2025-01-24 00:54:08,506 - main - INFO - Successfully processed ./data\PercentSocialSecurityExpenditureSubCost.csv
+2025-01-24 00:54:08,592 - main - INFO - Successfully processed ./data\PIPBenifittedBySexCategory.csv
+2025-01-24 00:54:08,656 - main - INFO - Successfully processed ./data\PIPByAssistingGovernmentAgency.csv
+2025-01-24 00:54:08,741 - main - INFO - Successfully processed ./data\PIPByCategoryOfWorkers2017To2019.csv
+2025-01-24 00:54:08,757 - main - INFO - Successfully processed ./data\PIPByExtentPIPObjectiveWaMet2013.csv
+2025-01-24 00:54:08,789 - main - INFO - Successfully processed ./data\PIPByFrequencyOfVisitation2019.csv
+2025-01-24 00:54:08,812 - main - INFO - Successfully processed ./data\PIPByProgramDeveloper2013.csv
+2025-01-24 00:54:08,884 - main - INFO - Successfully processed ./data\PIPByProgramObjective2017To2019.csv
+2025-01-24 00:54:09,049 - main - INFO - Successfully processed ./data\PIPByProgramObjectivesExtentOfFulfillmentt2017To2019.csv
+2025-01-24 00:54:09,216 - main - INFO - Successfully processed ./data\PIPByProgramObjectiveWasMet2013.csv
+2025-01-24 00:54:09,285 - main - INFO - Successfully processed ./data\PIPByReasonsForNonAttainmentOfPIP.csv
+2025-01-24 00:54:09,331 - main - INFO - Successfully processed ./data\PIPByTypeOfGainsharingSchemes2017To2019.csv
+2025-01-24 00:54:09,417 - main - INFO - Successfully processed ./data\PIPByTypeOfRTWPB.csv
+2025-01-24 00:54:09,458 - main - INFO - Successfully processed ./data\PIPByTypeOfScheme2013.csv
+2025-01-24 00:54:09,497 - main - INFO - Successfully processed ./data\PIPByTypeOfTechnicalAssistance.csv
+2025-01-24 00:54:09,594 - main - INFO - Successfully processed ./data\PIPByUsualFormOfNonCashIncentive.csv
+2025-01-24 00:54:09,649 - main - INFO - Successfully processed ./data\PIPPrimaryObjectiveOfProductivityProgram.csv
+2025-01-24 00:54:09,681 - main - INFO - Successfully processed ./data\PIPThatAvailedOfTaxIncentives.csv
+2025-01-24 00:54:09,797 - main - INFO - Successfully processed ./data\Population.csv
+2025-01-24 00:54:09,820 - main - INFO - Successfully processed ./data\PopulationProjection.csv
+2025-01-24 00:54:09,835 - main - INFO - Successfully processed ./data\PovertyIncidence.csv
+2025-01-24 00:54:09,884 - main - INFO - Successfully processed ./data\PPIByPrimaryObjectiveOfProductivity2015.csv
+2025-01-24 00:54:09,920 - main - INFO - Successfully processed ./data\PPIByProductivityProgram2015.csv
+2025-01-24 00:54:09,960 - main - INFO - Successfully processed ./data\PPIByProgramDeveloper2015.csv
+2025-01-24 00:54:10,004 - main - INFO - Successfully processed ./data\PPIByTypeOfProductivityTechnique2015.csv
+2025-01-24 00:54:10,047 - main - INFO - Successfully processed ./data\PPIWorkersByAssistingAgency2015.csv
+2025-01-24 00:54:10,097 - main - INFO - Successfully processed ./data\PPIWorkersByTypeOfAssistanceProvided2015.csv
+2025-01-24 00:54:10,109 - main - INFO - Successfully processed ./data\ProportionOfCBAByEmploymentSize.csv
+2025-01-24 00:54:10,131 - main - INFO - Successfully processed ./data\ProportionOfCBAByMajorIndustryGroup.csv
+2025-01-24 00:54:10,148 - main - INFO - Successfully processed ./data\ProportionOfCBAByTypeOfOwnershipAndSex.csv
+2025-01-24 00:54:10,168 - main - INFO - Successfully processed ./data\ProportionOfSelfEmployed.csv
+2025-01-24 00:54:10,180 - main - INFO - Successfully processed ./data\RealGrossDomestic.csv
+2025-01-24 00:54:10,193 - main - INFO - Successfully processed ./data\ReasonsWhyVacancies2022.csv
+2025-01-24 00:54:10,380 - main - INFO - Successfully processed ./data\ReceivedCashAndNonCashProductivity2015.csv
+2025-01-24 00:54:10,539 - main - INFO - Successfully processed ./data\RegisteredMarriagesFemale.csv
+2025-01-24 00:54:10,709 - main - INFO - Successfully processed ./data\RegisteredMarriagesMale.csv
+2025-01-24 00:54:10,762 - main - INFO - Successfully processed ./data\RegisteredTotalDeaths.csv
+2025-01-24 00:54:10,777 - main - INFO - Successfully processed ./data\SeverityRates2013To2021.csv
+2025-01-24 00:54:10,791 - main - INFO - Successfully processed ./data\SeverityRatesAndAverage2021.csv
+2025-01-24 00:54:10,807 - main - INFO - Successfully processed ./data\ShareOfWageAndSalary.csv
+2025-01-24 00:54:10,823 - main - INFO - Successfully processed ./data\ShareOfWomen.csv
+2025-01-24 00:54:10,842 - main - INFO - Successfully processed ./data\ShareOfWorkersBySex.csv
+2025-01-24 00:54:10,854 - main - INFO - Successfully processed ./data\SocialSecurityBenifits.csv
+2025-01-24 00:54:10,898 - main - INFO - Successfully processed ./data\SpecificGroupAndRegion.csv
+2025-01-24 00:54:10,915 - main - INFO - Successfully processed ./data\SpecificGroupSexAndEmploymentSize.csv
+2025-01-24 00:54:10,960 - main - INFO - Successfully processed ./data\SpecificGroupSexAndMajorIndustry.csv
+2025-01-24 00:54:10,974 - main - INFO - Successfully processed ./data\SSSAndGSIS.csv
+2025-01-24 00:54:10,986 - main - INFO - Successfully processed ./data\SubcontractingByEmploymentSize.csv
+2025-01-24 00:54:11,004 - main - INFO - Successfully processed ./data\SubcontractingByMajorIndustryGroup.csv
+2025-01-24 00:54:11,030 - main - INFO - Successfully processed ./data\SubcontractingByMajorndustryGroup.csv
+2025-01-24 00:54:11,050 - main - INFO - Successfully processed ./data\SubcontractingByTypeOfJobsEmploymentSize.csv
+2025-01-24 00:54:11,078 - main - INFO - Successfully processed ./data\TimeRelatedUnderemployment.csv
+2025-01-24 00:54:11,093 - main - INFO - Successfully processed ./data\TotalLaborForce.csv
+2025-01-24 00:54:11,109 - main - INFO - Successfully processed ./data\TotalPaidUnionizedCBABySexAndRegion2022.csv
+2025-01-24 00:54:11,228 - main - INFO - Successfully processed ./data\TotalPopulation.csv
+2025-01-24 00:54:11,300 - main - INFO - Successfully processed ./data\TotalPopulation2010.csv
+2025-01-24 00:54:11,330 - main - INFO - Successfully processed ./data\TypeOfJobsServicesContractedOutAndMajorIndustry.csv
+2025-01-24 00:54:11,350 - main - INFO - Successfully processed ./data\TypeOfJobsServicesContractedOutAndRegion.csv
+2025-01-24 00:54:11,423 - main - INFO - Successfully processed ./data\TypeOfWorkersAndRegion.csv
+2025-01-24 00:54:11,450 - main - INFO - Successfully processed ./data\TypeOfWorkersSexAndEmploymentSize.csv
+2025-01-24 00:54:11,481 - main - INFO - Successfully processed ./data\TypeOfWorkersSexAndMajorIndustry .csv
+2025-01-24 00:54:11,512 - main - INFO - Successfully processed ./data\UnderemploymentBySex.csv
+2025-01-24 00:54:11,540 - main - INFO - Successfully processed ./data\UnemploymentLevelOfEducation.csv
+2025-01-24 00:54:11,584 - main - INFO - Successfully processed ./data\UnemploymentRate.csv
+2025-01-24 00:54:11,607 - main - INFO - Successfully processed ./data\UnionizedWorkersByEmploymentSize.csv
+2025-01-24 00:54:11,619 - main - INFO - Successfully processed ./data\UnionizedWorkersByEmploymentSizeAndSex.csv
+2025-01-24 00:54:11,641 - main - INFO - Successfully processed ./data\UnionizedWorkersByMajorIndustryGroupAndSex.csv
+2025-01-24 00:54:11,663 - main - INFO - Successfully processed ./data\UnionizedWorkersBySexAndRegion2022.csv
+2025-01-24 00:54:11,679 - main - INFO - Successfully processed ./data\UnionizedWorkersByTypeOfOwnership.csv
+2025-01-24 00:54:11,693 - main - INFO - Successfully processed ./data\UnionizedWorkersByTypeOfOwnershipAndSex.csv
+2025-01-24 00:54:11,709 - main - INFO - Successfully processed ./data\VacanciesAndApplicantsBMajorOccupationGroup.csv
+2025-01-24 00:54:11,727 - main - INFO - Successfully processed ./data\VacanciesByMajorIndustryGroup.csv
+2025-01-24 00:54:11,744 - main - INFO - Successfully processed ./data\VacanciesByMajorIndustryGroup2022.csv
+2025-01-24 00:54:11,766 - main - INFO - Successfully processed ./data\VacanciesByMajorIndustryGroupAndCategory.csv
+2025-01-24 00:54:11,785 - main - INFO - Successfully processed ./data\VacanciesByMethodsUsedInPromotingVacancies.csv
+2025-01-24 00:54:11,802 - main - INFO - Successfully processed ./data\VacanciesInJobPortalsByJobPortalsUsed.csv
+2025-01-24 00:54:11,814 - main - INFO - Successfully processed ./data\VacanciesMajorOccupatioGroupInEstablishments .csv
+2025-01-24 00:54:11,829 - main - INFO - Successfully processed ./data\VacanciesPositionAndOccupation2022.csv
+2025-01-24 00:54:11,848 - main - INFO - Successfully processed ./data\VacanciesWorkersByIndustryAndCategory.csv
+2025-01-24 00:54:11,879 - main - INFO - Successfully processed ./data\VisibleUnderemployment.csv
+2025-01-24 00:54:11,897 - main - INFO - Successfully processed ./data\WageShareInGross.csv
+2025-01-24 00:54:11,986 - main - INFO - Successfully processed ./data\WorkdaysAgentOfInjury2013To2021.csv
+2025-01-24 00:54:12,047 - main - INFO - Successfully processed ./data\WorkdaysCauseOfTheInjury2013To2021.csv
+2025-01-24 00:54:12,106 - main - INFO - Successfully processed ./data\WorkdaysLostInAgricultural2013.csv
+2025-01-24 00:54:12,138 - main - INFO - Successfully processed ./data\WorkdaysLostInEstablishments2015To2021.csv
+2025-01-24 00:54:12,254 - main - INFO - Successfully processed ./data\WorkdaysLostInEstablishmentsTypeOfInjury2013To2021.csv
+2025-01-24 00:54:12,331 - main - INFO - Successfully processed ./data\WorkdaysPartOfTheBody2013To2021.csv
+2025-01-24 00:54:12,384 - main - INFO - Successfully processed ./data\WorkersByAwarenessOnEmployees.csv
+2025-01-24 00:54:12,449 - main - INFO - Successfully processed ./data\WorkersByBusinessRecovery2020.csv
+2025-01-24 00:54:12,463 - main - INFO - Successfully processed ./data\WorkersByCategoryAndRegion.csv
+2025-01-24 00:54:12,494 - main - INFO - Successfully processed ./data\WorkersByCategorySex.csv
+2025-01-24 00:54:12,508 - main - INFO - Successfully processed ./data\WorkersByCategorySexAndEmploymentSize.csv
+2025-01-24 00:54:12,570 - main - INFO - Successfully processed ./data\WorkersByDisseminated2017.csv
+2025-01-24 00:54:12,585 - main - INFO - Successfully processed ./data\WorkersByEmploymentSize.csv
+2025-01-24 00:54:12,688 - main - INFO - Successfully processed ./data\WorkersByImpactOfQuarantines.csv
+2025-01-24 00:54:12,706 - main - INFO - Successfully processed ./data\WorkersByIndustryGroup2013To2021.csv
+2025-01-24 00:54:12,722 - main - INFO - Successfully processed ./data\WorkersByMajorIIndustryGroup.csv
+2025-01-24 00:54:12,826 - main - INFO - Successfully processed ./data\WorkersByModeOfLearningECP2017.csv
+2025-01-24 00:54:12,840 - main - INFO - Successfully processed ./data\WorkersByOccupationAndndStatusOfEmployment.csv
+2025-01-24 00:54:12,850 - main - INFO - Successfully processed ./data\WorkersByOccupationAndStatusOfEmployment2022.csv
+2025-01-24 00:54:12,995 - main - INFO - Successfully processed ./data\WorkersByOSHPolicies2013To2017.csv
+2025-01-24 00:54:13,241 - main - INFO - Successfully processed ./data\WorkersByOSHPolicies2019To2021.csv
+2025-01-24 00:54:13,288 - main - INFO - Successfully processed ./data\WorkersByOSHPoliciesByRegion2021.csv
+2025-01-24 00:54:13,303 - main - INFO - Successfully processed ./data\WorkersByRegion.csv
+2025-01-24 00:54:13,364 - main - INFO - Successfully processed ./data\WorkersBySourcesOfFunds.csv
+2025-01-24 00:54:13,381 - main - INFO - Successfully processed ./data\WorkersByTypeAndRegion.csv
+2025-01-24 00:54:13,422 - main - INFO - Successfully processed ./data\WorkersByTypeOfECP2017.csv
+2025-01-24 00:54:13,494 - main - INFO - Successfully processed ./data\WorkersByTypeOfInformationOnBenefits.csv
+2025-01-24 00:54:13,511 - main - INFO - Successfully processed ./data\WorkersByTypeSexAndEmploymentSize.csv
+2025-01-24 00:54:13,608 - main - INFO - Successfully processed ./data\WorkersByTypeSexAndMajorIndustry.csv
+2025-01-24 00:54:13,624 - main - INFO - Successfully processed ./data\WorkersCoveredByCBAByIndustryGroupAndSex.csv
+2025-01-24 00:54:13,636 - main - INFO - Successfully processed ./data\WorkersCoveredByCBAEmploymentSizeAndSex.csv
+2025-01-24 00:54:13,731 - main - INFO - Successfully processed ./data\WorkersNotAwareOfECP2017.csv
+2025-01-24 00:54:13,797 - main - INFO - Successfully processed ./data\WorkersNotAwareOnECPByTopic.csv
+2025-01-24 00:54:13,946 - main - INFO - Successfully processed ./data\WorkersProvideAssistanceECP2017.csv
+2025-01-24 00:54:13,982 - main - INFO - Successfully processed ./data\WorkersServicesByTypeOfECPServices .csv
+2025-01-24 00:54:14,026 - main - INFO - Successfully processed ./data\WorkersThatProvidedECP2017.csv
+2025-01-24 00:54:14,082 - main - INFO - Successfully processed ./data\WorkersWhoAvailedECPByFilingAgency.csv
+2025-01-24 00:54:14,268 - main - INFO - Successfully processed ./data\WorkersWhoAvailedOfECPByTypeAndDuration.csv
+2025-01-24 00:54:14,397 - main - INFO - Successfully processed ./data\WorkersWhoAvailedOfECPeServiceByTypeAndDuration.csv
+2025-01-24 00:54:14,432 - main - INFO - Successfully processed ./data\WorkersWithDesignatedHealth2013To2021.csv
+2025-01-24 00:54:14,452 - main - INFO - Successfully processed ./data\WorkersWithDesignatedHealthAndSafety2021.csv
+2025-01-24 00:54:14,553 - main - INFO - Successfully processed ./data\WorkersWithOSHRelatedTrainings2013To2021.csv
+2025-01-24 00:54:14,633 - main - INFO - Successfully processed ./data\WorkersWithOSHRelatedTrainings2021.csv
+2025-01-24 00:54:14,820 - main - INFO - Successfully processed ./data\WorkersWithPreventiveAndControl2013To2017.csv
+2025-01-24 00:54:14,965 - main - INFO - Successfully processed ./data\WorkersWithPreventiveAndControl2019To2021.csv
+2025-01-24 00:54:14,987 - main - INFO - Successfully processed ./data\WorkersWithPreventiveAndControlMeasures2021.csv
+2025-01-24 00:54:15,007 - main - INFO - Successfully processed ./data\WorkingBySexAndAge.csv
+2025-01-24 00:54:15,030 - main - INFO - Successfully processed ./data\WorkingChildrenBySexAndAge.csv
+2025-01-24 00:54:15,069 - main - INFO - Successfully processed ./data\WorkingChildrenBySexAndMajorIndustry.csv
+2025-01-24 00:54:15,097 - main - INFO - Successfully processed ./data\WorkingChildrenBySexAndOccupation1.csv
+2025-01-24 00:54:15,121 - main - INFO - Successfully processed ./data\WorkingChildrenBySexAndOccupation2.csv
+2025-01-24 00:54:15,137 - main - INFO - Successfully processed ./data\WorkingPovertyRate.csv
+2025-01-24 00:54:15,157 - main - INFO - Successfully processed ./data\YouthPopulationBySex.csv
+2025-01-24 00:54:15,174 - main - INFO - Successfully processed ./data\YouthUnemployment.csv
+2025-01-24 00:54:37,079 - llama_index.core.indices.loading - INFO - Loading all indices.
+2025-01-24 01:04:26,039 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2025-01-24 01:04:31,935 - sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2025-01-24 01:04:32,877 - main - INFO - Successfully processed ./data\2020CensusAndPopulation.csv
+2025-01-24 01:04:32,899 - main - INFO - Successfully processed ./data\AdultFunctionalLiteracy.csv
+2025-01-24 01:04:32,917 - main - INFO - Successfully processed ./data\AdultSecondarySchool.csv
+2025-01-24 01:04:32,958 - main - INFO - Successfully processed ./data\AnnualBonusesAndGratitudeBySubCost.csv
+2025-01-24 01:04:33,026 - main - INFO - Successfully processed ./data\AnnualDirectWagesSubCost.csv
+2025-01-24 01:04:33,038 - main - INFO - Successfully processed ./data\AnnualEmploymentSize2013.csv
+2025-01-24 01:04:33,058 - main - INFO - Successfully processed ./data\AnnualEmploymentSize2021.csv
+2025-01-24 01:04:33,124 - main - INFO - Successfully processed ./data\AnnualHousingShoulderedSubCost.csv
+2025-01-24 01:04:33,224 - main - INFO - Successfully processed ./data\AnnualLaborCostMajorComponent.csv
+2025-01-24 01:04:33,275 - main - INFO - Successfully processed ./data\AnnualLaborCostsSubCost.csv
+2025-01-24 01:04:33,304 - main - INFO - Successfully processed ./data\AnnualMajorIndustry2021.csv
+2025-01-24 01:04:33,330 - main - INFO - Successfully processed ./data\AnnualMajorIndustryGroup2013To2021.csv
+2025-01-24 01:04:33,348 - main - INFO - Successfully processed ./data\AnnualPerCapitaThreshold.csv
+2025-01-24 01:04:33,683 - main - INFO - Successfully processed ./data\AnnualSocialSecurityExpenditureSubCost.csv
+2025-01-24 01:04:33,701 - main - INFO - Successfully processed ./data\AnnualTrainingProvider.csv
+2025-01-24 01:04:33,727 - main - INFO - Successfully processed ./data\AverageByCategoryOfEmployees.csv
+2025-01-24 01:04:33,802 - main - INFO - Successfully processed ./data\AverageBySexAndMajorOccupation2002.csv
+2025-01-24 01:04:33,851 - main - INFO - Successfully processed ./data\AverageBySexAndMajorOccupation2012.csv
+2025-01-24 01:04:34,011 - main - INFO - Successfully processed ./data\AverageMonthlyData.csv
+2025-01-24 01:04:34,037 - main - INFO - Successfully processed ./data\AverageMonthlyPension.csv
+2025-01-24 01:04:34,062 - main - INFO - Successfully processed ./data\AverageMontlyPensions.csv
+2025-01-24 01:04:34,098 - main - INFO - Successfully processed ./data\AverageRealDailySeasonal.csv
+2025-01-24 01:04:34,144 - main - INFO - Successfully processed ./data\AverageShareOfLaborCostEmploymentSize.csv
+2025-01-24 01:04:34,164 - main - INFO - Successfully processed ./data\AverageTyOfPension.csv
+2025-01-24 01:04:34,207 - main - INFO - Successfully processed ./data\AverageWeeklyHours.csv
+2025-01-24 01:04:34,230 - main - INFO - Successfully processed ./data\AvrageByBranchOfEconomic.csv
+2025-01-24 01:04:34,251 - main - INFO - Successfully processed ./data\BasisOfPaymentAndRegion.csv
+2025-01-24 01:04:34,276 - main - INFO - Successfully processed ./data\BasisOfPaymentSexAndEmploymentSize.csv
+2025-01-24 01:04:34,321 - main - INFO - Successfully processed ./data\BasisPaymentSex.csv
+2025-01-24 01:04:35,099 - main - INFO - Successfully processed ./data\BirthData.csv
+2025-01-24 01:04:36,171 - main - INFO - Successfully processed ./data\BirthDataByResidence.csv
+2025-01-24 01:04:36,188 - main - INFO - Successfully processed ./data\BirthsByBirthWeight.csv
+2025-01-24 01:04:36,728 - main - INFO - Successfully processed ./data\BirthsByMonth2016.csv
+2025-01-24 01:04:36,743 - main - INFO - Successfully processed ./data\BirthsByNationality.csv
+2025-01-24 01:04:36,761 - main - INFO - Successfully processed ./data\BirthsFatherOrMother.csv
+2025-01-24 01:04:36,777 - main - INFO - Successfully processed ./data\BirthsOccuredAbroadToFilipinoMother.csv
+2025-01-24 01:04:36,792 - main - INFO - Successfully processed ./data\CapitalFormation2000.csv
+2025-01-24 01:04:36,836 - main - INFO - Successfully processed ./data\CasesOccupationAgentOfInjury2021.csv
+2025-01-24 01:04:36,980 - main - INFO - Successfully processed ./data\CasesOccupationalDiseasesTypeOfDisease2013To2021.csv
+2025-01-24 01:04:37,006 - main - INFO - Successfully processed ./data\CasesOccupationalPartOfBodyInjured2021.csv
+2025-01-24 01:04:37,043 - main - INFO - Successfully processed ./data\CasesOccupationalTypeOfInjury2021.csv
+2025-01-24 01:04:37,067 - main - INFO - Successfully processed ./data\CasesOccupationCauseOfInjury2021.csv
+2025-01-24 01:04:37,108 - main - INFO - Successfully processed ./data\CasesOccupationTypeOfDisease2021.csv
+2025-01-24 01:04:37,138 - main - INFO - Successfully processed ./data\CasesOfOccupationalByRegion2021.csv
+2025-01-24 01:04:37,161 - main - INFO - Successfully processed ./data\CasesOfOccupationalInjuries2021.csv
+2025-01-24 01:04:37,172 - main - INFO - Successfully processed ./data\ConsumerPriceIndex.csv
+2025-01-24 01:04:37,184 - main - INFO - Successfully processed ./data\ConsumerPrizeIndex.csv
+2025-01-24 01:04:37,216 - main - INFO - Successfully processed ./data\ContractedOutAndEmploymentSize.csv
+2025-01-24 01:04:37,270 - main - INFO - Successfully processed ./data\DailyBasicPayData.csv
+2025-01-24 01:04:37,386 - main - INFO - Successfully processed ./data\DeathData.csv
+2025-01-24 01:04:37,406 - main - INFO - Successfully processed ./data\DeathsByAgeAndSex.csv
+2025-01-24 01:04:37,580 - main - INFO - Successfully processed ./data\DeathsByAttendanceDeath.csv
+2025-01-24 01:04:37,611 - main - INFO - Successfully processed ./data\DeathsByCauseOfDeathAndSex.csv
+2025-01-24 01:04:37,627 - main - INFO - Successfully processed ./data\DistributionByEmploymentSizeAndSex.csv
+2025-01-24 01:04:37,656 - main - INFO - Successfully processed ./data\DistributionByIndustryGroupAndSex.csv
+2025-01-24 01:04:37,672 - main - INFO - Successfully processed ./data\DistributionByTypeOfOwnershipAndSex.csv
+2025-01-24 01:04:37,686 - main - INFO - Successfully processed ./data\DuncanIndex.csv
+2025-01-24 01:04:37,702 - main - INFO - Successfully processed ./data\EasyToFillOccupations2016.csv
+2025-01-24 01:04:37,719 - main - INFO - Successfully processed ./data\EasyToFillOccupations2022.csv
+2025-01-24 01:04:37,756 - main - INFO - Successfully processed ./data\EconomicActivityRate.csv
+2025-01-24 01:04:37,788 - main - INFO - Successfully processed ./data\EconomicallyInactivePersons.csv
+2025-01-24 01:04:37,837 - main - INFO - Successfully processed ./data\EmployedByHoursBySex1.csv
+2025-01-24 01:04:37,961 - main - INFO - Successfully processed ./data\EmployedByHoursBySex2.csv
+2025-01-24 01:04:38,622 - main - INFO - Successfully processed ./data\EmployedPersonData.csv
+2025-01-24 01:04:38,651 - main - INFO - Successfully processed ./data\EmployedPersonsWhoAreHouseholdHeads.csv
+2025-01-24 01:04:38,679 - main - INFO - Successfully processed ./data\EmployedPersonsWhoAreMarried.csv
+2025-01-24 01:04:38,718 - main - INFO - Successfully processed ./data\EmployedPrimaryJob1.csv
+2025-01-24 01:04:38,750 - main - INFO - Successfully processed ./data\EmployedPrimaryJob2.csv
+2025-01-24 01:04:38,785 - main - INFO - Successfully processed ./data\EmployedWithExcessiveHours1.csv
+2025-01-24 01:04:38,812 - main - INFO - Successfully processed ./data\EmployedWithExcessiveHours2.csv
+2025-01-24 01:04:38,827 - main - INFO - Successfully processed ./data\EmployeesByEmploymentSize.csv
+2025-01-24 01:04:38,843 - main - INFO - Successfully processed ./data\EmployeesByEmploymentSizeAndTraining.csv
+2025-01-24 01:04:38,863 - main - INFO - Successfully processed ./data\EmployeesByMajorIndustryGroupAndTraining.csv
+2025-01-24 01:04:38,885 - main - INFO - Successfully processed ./data\EmployeesInPrecariousWork.csv
+2025-01-24 01:04:38,910 - main - INFO - Successfully processed ./data\EmployeesMajorIndustryGroup.csv
+2025-01-24 01:04:38,929 - main - INFO - Successfully processed ./data\EmployeesWithRecentJob.csv
+2025-01-24 01:04:38,945 - main - INFO - Successfully processed ./data\EmploymentActivityGrowthRate.csv
+2025-01-24 01:04:38,978 - main - INFO - Successfully processed ./data\EmploymentByClass.csv
+2025-01-24 01:04:39,008 - main - INFO - Successfully processed ./data\EmploymentctivityAndSexDistribution.csv
+2025-01-24 01:04:39,021 - main - INFO - Successfully processed ./data\EstablishmentsByEmploymentSize.csv
+2025-01-24 01:04:39,158 - main - INFO - Successfully processed ./data\EstablishmentsByPIP2013To2019.csv
+2025-01-24 01:04:39,173 - main - INFO - Successfully processed ./data\EstablishmentsByRegion.csv
+2025-01-24 01:04:39,442 - main - INFO - Successfully processed ./data\EstablishmentsBySizeOfEmployment2017To2019.csv
+2025-01-24 01:04:39,489 - main - INFO - Successfully processed ./data\EstablishmentsByTypeOfNonCashProductivity.csv
+2025-01-24 01:04:39,509 - main - INFO - Successfully processed ./data\EstablishmentsCBAAndWithUnion2014To2022.csv
+2025-01-24 01:04:39,524 - main - INFO - Successfully processed ./data\EstablishmentsCBAAndWithUnionByEmploymentSize.csv
+2025-01-24 01:04:39,543 - main - INFO - Successfully processed ./data\EstablishmentsMajorIndustryGroup.csv
+2025-01-24 01:04:39,570 - main - INFO - Successfully processed ./data\EstablishmentsNumberOfWorkersInjured2013To2024.csv
+2025-01-24 01:04:39,623 - main - INFO - Successfully processed ./data\EstablishmentsPIPByEconomicOrganization.csv
+2025-01-24 01:04:39,661 - main - INFO - Successfully processed ./data\EstablishmentsPIPByEmploymentSize2017To2019.csv
+2025-01-24 01:04:39,727 - main - INFO - Successfully processed ./data\EstablishmentsPIPByLegalOrganization2017To2019.csv
+2025-01-24 01:04:39,788 - main - INFO - Successfully processed ./data\EstablishmentsPIPProgramDeveloper2017To2019.csv
+2025-01-24 01:04:39,805 - main - INFO - Successfully processed ./data\EstablishmentsProviderAndEmploymentSize2021.csv
+2025-01-24 01:04:39,828 - main - INFO - Successfully processed ./data\EstablishmentsProviderAndMajorIndustry2013.csv
+2025-01-24 01:04:39,846 - main - INFO - Successfully processed ./data\EstablishmentsWithCBAByEmploymentSize.csv
+2025-01-24 01:04:39,879 - main - INFO - Successfully processed ./data\EstablishmentsWithCBAByIndustry2014To2022.csv
+2025-01-24 01:04:39,899 - main - INFO - Successfully processed ./data\EstablishmentsWithCBAByRegion.csv
+2025-01-24 01:04:39,916 - main - INFO - Successfully processed ./data\EstablishmentsWithCBAUnionAndRegion2022.csv
+2025-01-24 01:04:39,933 - main - INFO - Successfully processed ./data\EstablishmentsWithOrWithoutCommutingAccidents2013To2021.csv
+2025-01-24 01:04:39,953 - main - INFO - Successfully processed ./data\EstablishmentsWithUnionByScopeOfBargainingIndustry.csv
+2025-01-24 01:04:39,969 - main - INFO - Successfully processed ./data\EstablishmentsWithUniondTypeOfOwnership.csv
+2025-01-24 01:04:39,986 - main - INFO - Successfully processed ./data\EstablishmentsWithUnionEmploymentSize.csv
+2025-01-24 01:04:40,003 - main - INFO - Successfully processed ./data\EstablishmentsWithUnionScopeAndRegion2022.csv
+2025-01-24 01:04:40,049 - main - INFO - Successfully processed ./data\EstablismentsThatAttendedRTWPB.csv
+2025-01-24 01:04:40,126 - main - INFO - Successfully processed ./data\EstimatedBeneficiaries1995To2013.csv
+2025-01-24 01:04:40,200 - main - INFO - Successfully processed ./data\EstimatedBeneficiariesRevised.csv
+2025-01-24 01:04:40,213 - main - INFO - Successfully processed ./data\EstimatedByNationalHealth.csv
+2025-01-24 01:04:40,242 - main - INFO - Successfully processed ./data\FemaleShare1977.csv
+2025-01-24 01:04:40,279 - main - INFO - Successfully processed ./data\FemaleShare1992.csv
+2025-01-24 01:04:40,303 - main - INFO - Successfully processed ./data\FemaleShare2012.csv
+2025-01-24 01:04:40,326 - main - INFO - Successfully processed ./data\FemaleShareOfEmployment.csv
+2025-01-24 01:04:40,340 - main - INFO - Successfully processed ./data\FemaleShareSenior1977.csv
+2025-01-24 01:04:40,359 - main - INFO - Successfully processed ./data\FemaleShareSenior1992.csv
+2025-01-24 01:04:40,375 - main - INFO - Successfully processed ./data\FemaleShareSenior2012.csv
+2025-01-24 01:04:40,404 - main - INFO - Successfully processed ./data\FrequencyRatesIncapacityForWork2013To2021.csv
+2025-01-24 01:04:40,443 - main - INFO - Successfully processed ./data\FrequencyRatesOfCases2021.csv
+2025-01-24 01:04:40,473 - main - INFO - Successfully processed ./data\GenderWageGap.csv
+2025-01-24 01:04:40,503 - main - INFO - Successfully processed ./data\GenderWageGap2.csv
+2025-01-24 01:04:40,530 - main - INFO - Successfully processed ./data\GrossDomesticProduct2000.csv
+2025-01-24 01:04:40,548 - main - INFO - Successfully processed ./data\HardToFillOccupationsByNumberOfVacancies2016.csv
+2025-01-24 01:04:40,565 - main - INFO - Successfully processed ./data\HardToFillOccupationsByNumberOfVacancies2022.csv
+2025-01-24 01:04:40,583 - main - INFO - Successfully processed ./data\HealthcareByPrivateHousehold.csv
+2025-01-24 01:04:41,536 - main - INFO - Successfully processed ./data\Household.csv
+2025-01-24 01:04:42,199 - main - INFO - Successfully processed ./data\HouseholdData.csv
+2025-01-24 01:04:42,894 - main - INFO - Successfully processed ./data\HousingData.csv
+2025-01-24 01:04:42,924 - main - INFO - Successfully processed ./data\IncidenceRatesIncapacityForWork2013To2021.csv
+2025-01-24 01:04:42,942 - main - INFO - Successfully processed ./data\IncidenceRatesOfCases2021.csv
+2025-01-24 01:04:42,955 - main - INFO - Successfully processed ./data\IncomeGap.csv
+2025-01-24 01:04:42,973 - main - INFO - Successfully processed ./data\IncomeInequality.csv
+2025-01-24 01:04:43,005 - main - INFO - Successfully processed ./data\InfantDeathsByCausesOfDeath.csv
+2025-01-24 01:04:43,249 - main - INFO - Successfully processed ./data\InfantDeathsByUsualResidence.csv
+2025-01-24 01:04:43,379 - main - INFO - Successfully processed ./data\InfantDeathsPlaceOfOccurrence.csv
+2025-01-24 01:04:43,392 - main - INFO - Successfully processed ./data\InflationRate.csv
+2025-01-24 01:04:43,410 - main - INFO - Successfully processed ./data\LaborCostPerHourByIndustryGroup.csv
+2025-01-24 01:04:43,432 - main - INFO - Successfully processed ./data\LaborForceBySexAndAge.csv
+2025-01-24 01:04:43,570 - main - INFO - Successfully processed ./data\LaborForceData.csv
+2025-01-24 01:04:43,586 - main - INFO - Successfully processed ./data\LaborForceGapBySex.csv
+2025-01-24 01:04:43,612 - main - INFO - Successfully processed ./data\LaborProductivity2000.csv
+2025-01-24 01:04:43,635 - main - INFO - Successfully processed ./data\LengthOfRecruitmentPeriod2016.csv
+2025-01-24 01:04:43,653 - main - INFO - Successfully processed ./data\LengthOfRecruitmentPeriod2022.csv
+2025-01-24 01:04:43,802 - main - INFO - Successfully processed ./data\LiveBirths2016.csv
+2025-01-24 01:04:43,821 - main - INFO - Successfully processed ./data\LiveBirthsByAgeGroupOfMother.csv
+2025-01-24 01:04:43,988 - main - INFO - Successfully processed ./data\LiveBirthsByGeographicLocation.csv
+2025-01-24 01:04:44,119 - main - INFO - Successfully processed ./data\LiveBirthsByPlace.csv
+2025-01-24 01:04:44,135 - main - INFO - Successfully processed ./data\LiveBirthsInYear.csv
+2025-01-24 01:04:44,150 - main - INFO - Successfully processed ./data\ManufacturingWageIndex.csv
+2025-01-24 01:04:44,379 - main - INFO - Successfully processed ./data\MarriagesByAgeGroupOfBride.csv
+2025-01-24 01:04:44,694 - main - INFO - Successfully processed ./data\MarriagesByAgeGroupOfGroom.csv
+2025-01-24 01:04:44,920 - main - INFO - Successfully processed ./data\MaternalDeathsByUsualResidence.csv
+2025-01-24 01:04:45,162 - main - INFO - Successfully processed ./data\MedianMonthlyData.csv
+2025-01-24 01:04:45,179 - main - INFO - Successfully processed ./data\MinimumHourly.csv
+2025-01-24 01:04:58,686 - main - INFO - Successfully processed ./data\NewData.csv
+2025-01-24 01:04:59,028 - main - INFO - Successfully processed ./data\NumberOfDeathsAgeGroupAndSex.csv
+2025-01-24 01:04:59,050 - main - INFO - Successfully processed ./data\NumberOfDistributionBySex.csv
+2025-01-24 01:04:59,063 - main - INFO - Successfully processed ./data\NumberOfDistributionESD.csv
+2025-01-24 01:04:59,492 - main - INFO - Successfully processed ./data\NumberOfHousehold.csv
+2025-01-24 01:05:00,087 - main - INFO - Successfully processed ./data\OccupiedHousing.csv
+2025-01-24 01:05:00,138 - main - INFO - Successfully processed ./data\PercentAnnualLaborByMajorCostComponent.csv
+2025-01-24 01:05:00,166 - main - INFO - Successfully processed ./data\PercentBonusesAndGratitudeBySubCost.csv
+2025-01-24 01:05:00,203 - main - INFO - Successfully processed ./data\PercentDirectWagesSubCostComponent.csv
+2025-01-24 01:05:00,212 - main - INFO - Successfully processed ./data\PercentDistributionOfUnionByEmploymentSizeAndSex.csv
+2025-01-24 01:05:00,228 - main - INFO - Successfully processed ./data\PercentDistributionOfUnionByIndustryGroupAndSex.csv
+2025-01-24 01:05:00,240 - main - INFO - Successfully processed ./data\PercentDistributionOfWage.csv
+2025-01-24 01:05:00,250 - main - INFO - Successfully processed ./data\PercentDistributionPresidentsByEmploymentSizeAndSex.csv
+2025-01-24 01:05:00,263 - main - INFO - Successfully processed ./data\PercentDistributionPresidentsByIndustryGroupAndSex.csv
+2025-01-24 01:05:00,278 - main - INFO - Successfully processed ./data\PercentDistributionPresidentsByTypesOfOwnershipAndSex.csv
+2025-01-24 01:05:00,327 - main - INFO - Successfully processed ./data\PercentHousingShoulderedSubCost.csv
+2025-01-24 01:05:00,357 - main - INFO - Successfully processed ./data\PercentLaborCostsSubCost.csv
+2025-01-24 01:05:00,379 - main - INFO - Successfully processed ./data\PercentShareBranchOfCategoryOfEmployees.csv
+2025-01-24 01:05:00,397 - main - INFO - Successfully processed ./data\PercentShareBranchOfEconomicActivity.csv
+2025-01-24 01:05:00,411 - main - INFO - Successfully processed ./data\PercentShareCBAWithUnionByTypeOfOwnership.csv
+2025-01-24 01:05:00,423 - main - INFO - Successfully processed ./data\PercentShareOfCBAUnionizedTypeOfOwnership.csv
+2025-01-24 01:05:00,454 - main - INFO - Successfully processed ./data\PercentShareOfChildren.csv
+2025-01-24 01:05:00,471 - main - INFO - Successfully processed ./data\PercentShareOfUnionBySexAndRegion2022.csv
+2025-01-24 01:05:00,493 - main - INFO - Successfully processed ./data\PercentShareTotalEmployedBySex.csv
+2025-01-24 01:05:00,522 - main - INFO - Successfully processed ./data\PercentShareTotalWage.csv
+2025-01-24 01:05:00,536 - main - INFO - Successfully processed ./data\PercentShareTypeOfPension.csv
+2025-01-24 01:05:00,551 - main - INFO - Successfully processed ./data\PercentShareTypeOfPension1.csv
+2025-01-24 01:05:00,570 - main - INFO - Successfully processed ./data\PercentShareUnionizedCBATypesOfOwnership.csv
+2025-01-24 01:05:00,586 - main - INFO - Successfully processed ./data\PercentShareWithCBATypeOfOwnership.csv
+2025-01-24 01:05:00,780 - main - INFO - Successfully processed ./data\PercentSocialSecurityExpenditureSubCost.csv
+2025-01-24 01:05:00,847 - main - INFO - Successfully processed ./data\PIPBenifittedBySexCategory.csv
+2025-01-24 01:05:00,904 - main - INFO - Successfully processed ./data\PIPByAssistingGovernmentAgency.csv
+2025-01-24 01:05:00,967 - main - INFO - Successfully processed ./data\PIPByCategoryOfWorkers2017To2019.csv
+2025-01-24 01:05:00,985 - main - INFO - Successfully processed ./data\PIPByExtentPIPObjectiveWaMet2013.csv
+2025-01-24 01:05:01,013 - main - INFO - Successfully processed ./data\PIPByFrequencyOfVisitation2019.csv
+2025-01-24 01:05:01,033 - main - INFO - Successfully processed ./data\PIPByProgramDeveloper2013.csv
+2025-01-24 01:05:01,101 - main - INFO - Successfully processed ./data\PIPByProgramObjective2017To2019.csv
+2025-01-24 01:05:01,269 - main - INFO - Successfully processed ./data\PIPByProgramObjectivesExtentOfFulfillmentt2017To2019.csv
+2025-01-24 01:05:01,469 - main - INFO - Successfully processed ./data\PIPByProgramObjectiveWasMet2013.csv
+2025-01-24 01:05:01,541 - main - INFO - Successfully processed ./data\PIPByReasonsForNonAttainmentOfPIP.csv
+2025-01-24 01:05:01,589 - main - INFO - Successfully processed ./data\PIPByTypeOfGainsharingSchemes2017To2019.csv
+2025-01-24 01:05:01,668 - main - INFO - Successfully processed ./data\PIPByTypeOfRTWPB.csv
+2025-01-24 01:05:01,709 - main - INFO - Successfully processed ./data\PIPByTypeOfScheme2013.csv
+2025-01-24 01:05:01,743 - main - INFO - Successfully processed ./data\PIPByTypeOfTechnicalAssistance.csv
+2025-01-24 01:05:01,841 - main - INFO - Successfully processed ./data\PIPByUsualFormOfNonCashIncentive.csv
+2025-01-24 01:05:01,889 - main - INFO - Successfully processed ./data\PIPPrimaryObjectiveOfProductivityProgram.csv
+2025-01-24 01:05:01,917 - main - INFO - Successfully processed ./data\PIPThatAvailedOfTaxIncentives.csv
+2025-01-24 01:05:02,030 - main - INFO - Successfully processed ./data\Population.csv
+2025-01-24 01:05:02,050 - main - INFO - Successfully processed ./data\PopulationProjection.csv
+2025-01-24 01:05:02,062 - main - INFO - Successfully processed ./data\PovertyIncidence.csv
+2025-01-24 01:05:02,109 - main - INFO - Successfully processed ./data\PPIByPrimaryObjectiveOfProductivity2015.csv
+2025-01-24 01:05:02,141 - main - INFO - Successfully processed ./data\PPIByProductivityProgram2015.csv
+2025-01-24 01:05:02,171 - main - INFO - Successfully processed ./data\PPIByProgramDeveloper2015.csv
+2025-01-24 01:05:02,211 - main - INFO - Successfully processed ./data\PPIByTypeOfProductivityTechnique2015.csv
+2025-01-24 01:05:02,259 - main - INFO - Successfully processed ./data\PPIWorkersByAssistingAgency2015.csv
+2025-01-24 01:05:02,290 - main - INFO - Successfully processed ./data\PPIWorkersByTypeOfAssistanceProvided2015.csv
+2025-01-24 01:05:02,299 - main - INFO - Successfully processed ./data\ProportionOfCBAByEmploymentSize.csv
+2025-01-24 01:05:02,315 - main - INFO - Successfully processed ./data\ProportionOfCBAByMajorIndustryGroup.csv
+2025-01-24 01:05:02,325 - main - INFO - Successfully processed ./data\ProportionOfCBAByTypeOfOwnershipAndSex.csv
+2025-01-24 01:05:02,341 - main - INFO - Successfully processed ./data\ProportionOfSelfEmployed.csv
+2025-01-24 01:05:02,351 - main - INFO - Successfully processed ./data\RealGrossDomestic.csv
+2025-01-24 01:05:02,361 - main - INFO - Successfully processed ./data\ReasonsWhyVacancies2022.csv
+2025-01-24 01:05:02,633 - main - INFO - Successfully processed ./data\ReceivedCashAndNonCashProductivity2015.csv
+2025-01-24 01:05:02,895 - main - INFO - Successfully processed ./data\RegisteredMarriagesFemale.csv
+2025-01-24 01:05:03,055 - main - INFO - Successfully processed ./data\RegisteredMarriagesMale.csv
+2025-01-24 01:05:03,110 - main - INFO - Successfully processed ./data\RegisteredTotalDeaths.csv
+2025-01-24 01:05:03,126 - main - INFO - Successfully processed ./data\SeverityRates2013To2021.csv
+2025-01-24 01:05:03,140 - main - INFO - Successfully processed ./data\SeverityRatesAndAverage2021.csv
+2025-01-24 01:05:03,155 - main - INFO - Successfully processed ./data\ShareOfWageAndSalary.csv
+2025-01-24 01:05:03,169 - main - INFO - Successfully processed ./data\ShareOfWomen.csv
+2025-01-24 01:05:03,186 - main - INFO - Successfully processed ./data\ShareOfWorkersBySex.csv
+2025-01-24 01:05:03,197 - main - INFO - Successfully processed ./data\SocialSecurityBenifits.csv
+2025-01-24 01:05:03,231 - main - INFO - Successfully processed ./data\SpecificGroupAndRegion.csv
+2025-01-24 01:05:03,257 - main - INFO - Successfully processed ./data\SpecificGroupSexAndEmploymentSize.csv
+2025-01-24 01:05:03,302 - main - INFO - Successfully processed ./data\SpecificGroupSexAndMajorIndustry.csv
+2025-01-24 01:05:03,319 - main - INFO - Successfully processed ./data\SSSAndGSIS.csv
+2025-01-24 01:05:03,331 - main - INFO - Successfully processed ./data\SubcontractingByEmploymentSize.csv
+2025-01-24 01:05:03,351 - main - INFO - Successfully processed ./data\SubcontractingByMajorIndustryGroup.csv
+2025-01-24 01:05:03,389 - main - INFO - Successfully processed ./data\SubcontractingByMajorndustryGroup.csv
+2025-01-24 01:05:03,408 - main - INFO - Successfully processed ./data\SubcontractingByTypeOfJobsEmploymentSize.csv
+2025-01-24 01:05:03,437 - main - INFO - Successfully processed ./data\TimeRelatedUnderemployment.csv
+2025-01-24 01:05:03,446 - main - INFO - Successfully processed ./data\TotalLaborForce.csv
+2025-01-24 01:05:03,463 - main - INFO - Successfully processed ./data\TotalPaidUnionizedCBABySexAndRegion2022.csv
+2025-01-24 01:05:03,577 - main - INFO - Successfully processed ./data\TotalPopulation.csv
+2025-01-24 01:05:03,655 - main - INFO - Successfully processed ./data\TotalPopulation2010.csv
+2025-01-24 01:05:03,684 - main - INFO - Successfully processed ./data\TypeOfJobsServicesContractedOutAndMajorIndustry.csv
+2025-01-24 01:05:03,706 - main - INFO - Successfully processed ./data\TypeOfJobsServicesContractedOutAndRegion.csv
+2025-01-24 01:05:03,725 - main - INFO - Successfully processed ./data\TypeOfWorkersAndRegion.csv
+2025-01-24 01:05:03,750 - main - INFO - Successfully processed ./data\TypeOfWorkersSexAndEmploymentSize.csv
+2025-01-24 01:05:03,784 - main - INFO - Successfully processed ./data\TypeOfWorkersSexAndMajorIndustry .csv
+2025-01-24 01:05:03,812 - main - INFO - Successfully processed ./data\UnderemploymentBySex.csv
+2025-01-24 01:05:03,841 - main - INFO - Successfully processed ./data\UnemploymentLevelOfEducation.csv
+2025-01-24 01:05:03,890 - main - INFO - Successfully processed ./data\UnemploymentRate.csv
+2025-01-24 01:05:03,908 - main - INFO - Successfully processed ./data\UnionizedWorkersByEmploymentSize.csv
+2025-01-24 01:05:03,920 - main - INFO - Successfully processed ./data\UnionizedWorkersByEmploymentSizeAndSex.csv
+2025-01-24 01:05:03,940 - main - INFO - Successfully processed ./data\UnionizedWorkersByMajorIndustryGroupAndSex.csv
+2025-01-24 01:05:03,959 - main - INFO - Successfully processed ./data\UnionizedWorkersBySexAndRegion2022.csv
+2025-01-24 01:05:03,974 - main - INFO - Successfully processed ./data\UnionizedWorkersByTypeOfOwnership.csv
+2025-01-24 01:05:03,989 - main - INFO - Successfully processed ./data\UnionizedWorkersByTypeOfOwnershipAndSex.csv
+2025-01-24 01:05:04,002 - main - INFO - Successfully processed ./data\VacanciesAndApplicantsBMajorOccupationGroup.csv
+2025-01-24 01:05:04,018 - main - INFO - Successfully processed ./data\VacanciesByMajorIndustryGroup.csv
+2025-01-24 01:05:04,035 - main - INFO - Successfully processed ./data\VacanciesByMajorIndustryGroup2022.csv
+2025-01-24 01:05:04,051 - main - INFO - Successfully processed ./data\VacanciesByMajorIndustryGroupAndCategory.csv
+2025-01-24 01:05:04,069 - main - INFO - Successfully processed ./data\VacanciesByMethodsUsedInPromotingVacancies.csv
+2025-01-24 01:05:04,086 - main - INFO - Successfully processed ./data\VacanciesInJobPortalsByJobPortalsUsed.csv
+2025-01-24 01:05:04,104 - main - INFO - Successfully processed ./data\VacanciesMajorOccupatioGroupInEstablishments .csv
+2025-01-24 01:05:04,119 - main - INFO - Successfully processed ./data\VacanciesPositionAndOccupation2022.csv
+2025-01-24 01:05:04,135 - main - INFO - Successfully processed ./data\VacanciesWorkersByIndustryAndCategory.csv
+2025-01-24 01:05:04,158 - main - INFO - Successfully processed ./data\VisibleUnderemployment.csv
+2025-01-24 01:05:04,171 - main - INFO - Successfully processed ./data\WageShareInGross.csv
+2025-01-24 01:05:04,268 - main - INFO - Successfully processed ./data\WorkdaysAgentOfInjury2013To2021.csv
+2025-01-24 01:05:04,330 - main - INFO - Successfully processed ./data\WorkdaysCauseOfTheInjury2013To2021.csv
+2025-01-24 01:05:04,405 - main - INFO - Successfully processed ./data\WorkdaysLostInAgricultural2013.csv
+2025-01-24 01:05:04,442 - main - INFO - Successfully processed ./data\WorkdaysLostInEstablishments2015To2021.csv
+2025-01-24 01:05:04,593 - main - INFO - Successfully processed ./data\WorkdaysLostInEstablishmentsTypeOfInjury2013To2021.csv
+2025-01-24 01:05:04,674 - main - INFO - Successfully processed ./data\WorkdaysPartOfTheBody2013To2021.csv
+2025-01-24 01:05:04,734 - main - INFO - Successfully processed ./data\WorkersByAwarenessOnEmployees.csv
+2025-01-24 01:05:04,799 - main - INFO - Successfully processed ./data\WorkersByBusinessRecovery2020.csv
+2025-01-24 01:05:04,813 - main - INFO - Successfully processed ./data\WorkersByCategoryAndRegion.csv
+2025-01-24 01:05:04,880 - main - INFO - Successfully processed ./data\WorkersByCategorySex.csv
+2025-01-24 01:05:04,922 - main - INFO - Successfully processed ./data\WorkersByCategorySexAndEmploymentSize.csv
+2025-01-24 01:05:04,993 - main - INFO - Successfully processed ./data\WorkersByDisseminated2017.csv
+2025-01-24 01:05:05,008 - main - INFO - Successfully processed ./data\WorkersByEmploymentSize.csv
+2025-01-24 01:05:05,099 - main - INFO - Successfully processed ./data\WorkersByImpactOfQuarantines.csv
+2025-01-24 01:05:05,117 - main - INFO - Successfully processed ./data\WorkersByIndustryGroup2013To2021.csv
+2025-01-24 01:05:05,135 - main - INFO - Successfully processed ./data\WorkersByMajorIIndustryGroup.csv
+2025-01-24 01:05:05,258 - main - INFO - Successfully processed ./data\WorkersByModeOfLearningECP2017.csv
+2025-01-24 01:05:05,276 - main - INFO - Successfully processed ./data\WorkersByOccupationAndndStatusOfEmployment.csv
+2025-01-24 01:05:05,290 - main - INFO - Successfully processed ./data\WorkersByOccupationAndStatusOfEmployment2022.csv
+2025-01-24 01:05:05,439 - main - INFO - Successfully processed ./data\WorkersByOSHPolicies2013To2017.csv
+2025-01-24 01:05:05,813 - main - INFO - Successfully processed ./data\WorkersByOSHPolicies2019To2021.csv
+2025-01-24 01:05:05,856 - main - INFO - Successfully processed ./data\WorkersByOSHPoliciesByRegion2021.csv
+2025-01-24 01:05:05,874 - main - INFO - Successfully processed ./data\WorkersByRegion.csv
+2025-01-24 01:05:05,952 - main - INFO - Successfully processed ./data\WorkersBySourcesOfFunds.csv
+2025-01-24 01:05:05,968 - main - INFO - Successfully processed ./data\WorkersByTypeAndRegion.csv
+2025-01-24 01:05:06,003 - main - INFO - Successfully processed ./data\WorkersByTypeOfECP2017.csv
+2025-01-24 01:05:06,087 - main - INFO - Successfully processed ./data\WorkersByTypeOfInformationOnBenefits.csv
+2025-01-24 01:05:06,106 - main - INFO - Successfully processed ./data\WorkersByTypeSexAndEmploymentSize.csv
+2025-01-24 01:05:06,147 - main - INFO - Successfully processed ./data\WorkersByTypeSexAndMajorIndustry.csv
+2025-01-24 01:05:06,169 - main - INFO - Successfully processed ./data\WorkersCoveredByCBAByIndustryGroupAndSex.csv
+2025-01-24 01:05:06,183 - main - INFO - Successfully processed ./data\WorkersCoveredByCBAEmploymentSizeAndSex.csv
+2025-01-24 01:05:06,309 - main - INFO - Successfully processed ./data\WorkersNotAwareOfECP2017.csv
+2025-01-24 01:05:06,390 - main - INFO - Successfully processed ./data\WorkersNotAwareOnECPByTopic.csv
+2025-01-24 01:05:06,552 - main - INFO - Successfully processed ./data\WorkersProvideAssistanceECP2017.csv
+2025-01-24 01:05:06,589 - main - INFO - Successfully processed ./data\WorkersServicesByTypeOfECPServices .csv
+2025-01-24 01:05:06,639 - main - INFO - Successfully processed ./data\WorkersThatProvidedECP2017.csv
+2025-01-24 01:05:06,726 - main - INFO - Successfully processed ./data\WorkersWhoAvailedECPByFilingAgency.csv
+2025-01-24 01:05:06,947 - main - INFO - Successfully processed ./data\WorkersWhoAvailedOfECPByTypeAndDuration.csv
+2025-01-24 01:05:07,089 - main - INFO - Successfully processed ./data\WorkersWhoAvailedOfECPeServiceByTypeAndDuration.csv
+2025-01-24 01:05:07,120 - main - INFO - Successfully processed ./data\WorkersWithDesignatedHealth2013To2021.csv
+2025-01-24 01:05:07,137 - main - INFO - Successfully processed ./data\WorkersWithDesignatedHealthAndSafety2021.csv
+2025-01-24 01:05:07,269 - main - INFO - Successfully processed ./data\WorkersWithOSHRelatedTrainings2013To2021.csv
+2025-01-24 01:05:07,355 - main - INFO - Successfully processed ./data\WorkersWithOSHRelatedTrainings2021.csv
+2025-01-24 01:05:07,544 - main - INFO - Successfully processed ./data\WorkersWithPreventiveAndControl2013To2017.csv
+2025-01-24 01:05:07,703 - main - INFO - Successfully processed ./data\WorkersWithPreventiveAndControl2019To2021.csv
+2025-01-24 01:05:07,728 - main - INFO - Successfully processed ./data\WorkersWithPreventiveAndControlMeasures2021.csv
+2025-01-24 01:05:07,758 - main - INFO - Successfully processed ./data\WorkingBySexAndAge.csv
+2025-01-24 01:05:07,847 - main - INFO - Successfully processed ./data\WorkingChildrenBySexAndAge.csv
+2025-01-24 01:05:07,889 - main - INFO - Successfully processed ./data\WorkingChildrenBySexAndMajorIndustry.csv
+2025-01-24 01:05:07,920 - main - INFO - Successfully processed ./data\WorkingChildrenBySexAndOccupation1.csv
+2025-01-24 01:05:07,945 - main - INFO - Successfully processed ./data\WorkingChildrenBySexAndOccupation2.csv
+2025-01-24 01:05:07,960 - main - INFO - Successfully processed ./data\WorkingPovertyRate.csv
+2025-01-24 01:05:07,977 - main - INFO - Successfully processed ./data\YouthPopulationBySex.csv
+2025-01-24 01:05:07,993 - main - INFO - Successfully processed ./data\YouthUnemployment.csv
+2025-01-24 01:05:36,497 - llama_index.core.indices.loading - INFO - Loading all indices.
+2025-01-24 01:06:00,957 - main - INFO - Received query: what is the capital of Philippines
+2025-01-24 01:06:00,958 - main - INFO - Query engine status: True
+2025-01-24 01:06:01,452 - main - ERROR - Chat endpoint error: shapes (384,) and (1536,) not aligned: 384 (dim 0) != 1536 (dim 0)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Documents\JuanGPT\Trial2\main.py", line 273, in chat
+    response = query_engine.query(query.text)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\base_query_engine.py", line 52, in query
+    query_result = self._query(str_or_query_bundle)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\query_engine\retriever_query_engine.py", line 178, in _query
+    nodes = self.retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\query_engine\retriever_query_engine.py", line 133, in retrieve
+    nodes = self._retriever.retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\base_retriever.py", line 245, in retrieve
+    nodes = self._retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\vector_store\retrievers\retriever.py", line 103, in _retrieve
+    return self._get_nodes_with_embeddings(query_bundle)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\vector_store\retrievers\retriever.py", line 180, in _get_nodes_with_embeddings
+    query_result = self._vector_store.query(query, **self._kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\vector_stores\simple.py", line 376, in query
+    top_similarities, top_ids = get_top_k_embeddings(
+                                ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\query\embedding_utils.py", line 30, in get_top_k_embeddings
+    similarity = similarity_fn(query_embedding_np, emb)  # type: ignore[arg-type]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\embeddings\base.py", line 62, in similarity
+    product = np.dot(embedding1, embedding2)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: shapes (384,) and (1536,) not aligned: 384 (dim 0) != 1536 (dim 0)
+2025-01-24 01:06:12,250 - main - INFO - Received query: what is the population of manila
+2025-01-24 01:06:12,251 - main - INFO - Query engine status: True
+2025-01-24 01:06:12,690 - main - ERROR - Chat endpoint error: shapes (384,) and (1536,) not aligned: 384 (dim 0) != 1536 (dim 0)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Documents\JuanGPT\Trial2\main.py", line 273, in chat
+    response = query_engine.query(query.text)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\base_query_engine.py", line 52, in query
+    query_result = self._query(str_or_query_bundle)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\query_engine\retriever_query_engine.py", line 178, in _query
+    nodes = self.retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\query_engine\retriever_query_engine.py", line 133, in retrieve
+    nodes = self._retriever.retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\base_retriever.py", line 245, in retrieve
+    nodes = self._retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\vector_store\retrievers\retriever.py", line 103, in _retrieve
+    return self._get_nodes_with_embeddings(query_bundle)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\vector_store\retrievers\retriever.py", line 180, in _get_nodes_with_embeddings
+    query_result = self._vector_store.query(query, **self._kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\vector_stores\simple.py", line 376, in query
+    top_similarities, top_ids = get_top_k_embeddings(
+                                ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\query\embedding_utils.py", line 30, in get_top_k_embeddings
+    similarity = similarity_fn(query_embedding_np, emb)  # type: ignore[arg-type]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\embeddings\base.py", line 62, in similarity
+    product = np.dot(embedding1, embedding2)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: shapes (384,) and (1536,) not aligned: 384 (dim 0) != 1536 (dim 0)
+2025-01-24 01:06:17,028 - main - INFO - Received query: wlkjwere
+2025-01-24 01:06:17,029 - main - INFO - Query engine status: True
+2025-01-24 01:06:17,430 - main - ERROR - Chat endpoint error: shapes (384,) and (1536,) not aligned: 384 (dim 0) != 1536 (dim 0)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Documents\JuanGPT\Trial2\main.py", line 273, in chat
+    response = query_engine.query(query.text)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\base_query_engine.py", line 52, in query
+    query_result = self._query(str_or_query_bundle)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\query_engine\retriever_query_engine.py", line 178, in _query
+    nodes = self.retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\query_engine\retriever_query_engine.py", line 133, in retrieve
+    nodes = self._retriever.retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\base_retriever.py", line 245, in retrieve
+    nodes = self._retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\vector_store\retrievers\retriever.py", line 103, in _retrieve
+    return self._get_nodes_with_embeddings(query_bundle)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\vector_store\retrievers\retriever.py", line 180, in _get_nodes_with_embeddings
+    query_result = self._vector_store.query(query, **self._kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\vector_stores\simple.py", line 376, in query
+    top_similarities, top_ids = get_top_k_embeddings(
+                                ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\query\embedding_utils.py", line 30, in get_top_k_embeddings
+    similarity = similarity_fn(query_embedding_np, emb)  # type: ignore[arg-type]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\embeddings\base.py", line 62, in similarity
+    product = np.dot(embedding1, embedding2)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: shapes (384,) and (1536,) not aligned: 384 (dim 0) != 1536 (dim 0)
+2025-01-24 01:06:18,923 - main - INFO - Received query: lejkrlekre
+2025-01-24 01:06:18,924 - main - INFO - Query engine status: True
+2025-01-24 01:06:19,294 - main - ERROR - Chat endpoint error: shapes (384,) and (1536,) not aligned: 384 (dim 0) != 1536 (dim 0)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Documents\JuanGPT\Trial2\main.py", line 273, in chat
+    response = query_engine.query(query.text)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\base_query_engine.py", line 52, in query
+    query_result = self._query(str_or_query_bundle)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\query_engine\retriever_query_engine.py", line 178, in _query
+    nodes = self.retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\query_engine\retriever_query_engine.py", line 133, in retrieve
+    nodes = self._retriever.retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\base_retriever.py", line 245, in retrieve
+    nodes = self._retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\vector_store\retrievers\retriever.py", line 103, in _retrieve
+    return self._get_nodes_with_embeddings(query_bundle)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\vector_store\retrievers\retriever.py", line 180, in _get_nodes_with_embeddings
+    query_result = self._vector_store.query(query, **self._kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\vector_stores\simple.py", line 376, in query
+    top_similarities, top_ids = get_top_k_embeddings(
+                                ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\query\embedding_utils.py", line 30, in get_top_k_embeddings
+    similarity = similarity_fn(query_embedding_np, emb)  # type: ignore[arg-type]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\embeddings\base.py", line 62, in similarity
+    product = np.dot(embedding1, embedding2)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: shapes (384,) and (1536,) not aligned: 384 (dim 0) != 1536 (dim 0)
+2025-01-24 01:06:21,185 - main - INFO - Received query: leopriiodfioer
+2025-01-24 01:06:21,186 - main - INFO - Query engine status: True
+2025-01-24 01:06:21,577 - main - ERROR - Chat endpoint error: shapes (384,) and (1536,) not aligned: 384 (dim 0) != 1536 (dim 0)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Documents\JuanGPT\Trial2\main.py", line 273, in chat
+    response = query_engine.query(query.text)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\base_query_engine.py", line 52, in query
+    query_result = self._query(str_or_query_bundle)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\query_engine\retriever_query_engine.py", line 178, in _query
+    nodes = self.retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\query_engine\retriever_query_engine.py", line 133, in retrieve
+    nodes = self._retriever.retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\base_retriever.py", line 245, in retrieve
+    nodes = self._retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\vector_store\retrievers\retriever.py", line 103, in _retrieve
+    return self._get_nodes_with_embeddings(query_bundle)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\vector_store\retrievers\retriever.py", line 180, in _get_nodes_with_embeddings
+    query_result = self._vector_store.query(query, **self._kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\vector_stores\simple.py", line 376, in query
+    top_similarities, top_ids = get_top_k_embeddings(
+                                ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\query\embedding_utils.py", line 30, in get_top_k_embeddings
+    similarity = similarity_fn(query_embedding_np, emb)  # type: ignore[arg-type]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\embeddings\base.py", line 62, in similarity
+    product = np.dot(embedding1, embedding2)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: shapes (384,) and (1536,) not aligned: 384 (dim 0) != 1536 (dim 0)
+2025-01-24 01:10:03,536 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2025-01-24 01:10:09,554 - sentence_transformers.SentenceTransformer - INFO - 2 prompts are loaded, with the keys: ['query', 'text']
+2025-01-24 01:10:09,948 - main - INFO - Successfully processed ./data\2020CensusAndPopulation.csv
+2025-01-24 01:10:09,965 - main - INFO - Successfully processed ./data\AdultFunctionalLiteracy.csv
+2025-01-24 01:10:09,978 - main - INFO - Successfully processed ./data\AdultSecondarySchool.csv
+2025-01-24 01:10:10,038 - main - INFO - Successfully processed ./data\AnnualBonusesAndGratitudeBySubCost.csv
+2025-01-24 01:10:10,100 - main - INFO - Successfully processed ./data\AnnualDirectWagesSubCost.csv
+2025-01-24 01:10:10,110 - main - INFO - Successfully processed ./data\AnnualEmploymentSize2013.csv
+2025-01-24 01:10:10,126 - main - INFO - Successfully processed ./data\AnnualEmploymentSize2021.csv
+2025-01-24 01:10:10,182 - main - INFO - Successfully processed ./data\AnnualHousingShoulderedSubCost.csv
+2025-01-24 01:10:10,246 - main - INFO - Successfully processed ./data\AnnualLaborCostMajorComponent.csv
+2025-01-24 01:10:10,278 - main - INFO - Successfully processed ./data\AnnualLaborCostsSubCost.csv
+2025-01-24 01:10:10,322 - main - INFO - Successfully processed ./data\AnnualMajorIndustry2021.csv
+2025-01-24 01:10:10,340 - main - INFO - Successfully processed ./data\AnnualMajorIndustryGroup2013To2021.csv
+2025-01-24 01:10:10,352 - main - INFO - Successfully processed ./data\AnnualPerCapitaThreshold.csv
+2025-01-24 01:10:10,507 - main - INFO - Successfully processed ./data\AnnualSocialSecurityExpenditureSubCost.csv
+2025-01-24 01:10:10,520 - main - INFO - Successfully processed ./data\AnnualTrainingProvider.csv
+2025-01-24 01:10:10,535 - main - INFO - Successfully processed ./data\AverageByCategoryOfEmployees.csv
+2025-01-24 01:10:10,579 - main - INFO - Successfully processed ./data\AverageBySexAndMajorOccupation2002.csv
+2025-01-24 01:10:10,612 - main - INFO - Successfully processed ./data\AverageBySexAndMajorOccupation2012.csv
+2025-01-24 01:10:10,698 - main - INFO - Successfully processed ./data\AverageMonthlyData.csv
+2025-01-24 01:10:10,720 - main - INFO - Successfully processed ./data\AverageMonthlyPension.csv
+2025-01-24 01:10:10,736 - main - INFO - Successfully processed ./data\AverageMontlyPensions.csv
+2025-01-24 01:10:10,757 - main - INFO - Successfully processed ./data\AverageRealDailySeasonal.csv
+2025-01-24 01:10:10,782 - main - INFO - Successfully processed ./data\AverageShareOfLaborCostEmploymentSize.csv
+2025-01-24 01:10:10,793 - main - INFO - Successfully processed ./data\AverageTyOfPension.csv
+2025-01-24 01:10:10,826 - main - INFO - Successfully processed ./data\AverageWeeklyHours.csv
+2025-01-24 01:10:10,839 - main - INFO - Successfully processed ./data\AvrageByBranchOfEconomic.csv
+2025-01-24 01:10:10,853 - main - INFO - Successfully processed ./data\BasisOfPaymentAndRegion.csv
+2025-01-24 01:10:10,870 - main - INFO - Successfully processed ./data\BasisOfPaymentSexAndEmploymentSize.csv
+2025-01-24 01:10:10,898 - main - INFO - Successfully processed ./data\BasisPaymentSex.csv
+2025-01-24 01:10:11,201 - main - INFO - Successfully processed ./data\BirthData.csv
+2025-01-24 01:10:11,734 - main - INFO - Successfully processed ./data\BirthDataByResidence.csv
+2025-01-24 01:10:11,747 - main - INFO - Successfully processed ./data\BirthsByBirthWeight.csv
+2025-01-24 01:10:11,956 - main - INFO - Successfully processed ./data\BirthsByMonth2016.csv
+2025-01-24 01:10:11,967 - main - INFO - Successfully processed ./data\BirthsByNationality.csv
+2025-01-24 01:10:11,977 - main - INFO - Successfully processed ./data\BirthsFatherOrMother.csv
+2025-01-24 01:10:11,988 - main - INFO - Successfully processed ./data\BirthsOccuredAbroadToFilipinoMother.csv
+2025-01-24 01:10:12,001 - main - INFO - Successfully processed ./data\CapitalFormation2000.csv
+2025-01-24 01:10:12,029 - main - INFO - Successfully processed ./data\CasesOccupationAgentOfInjury2021.csv
+2025-01-24 01:10:12,116 - main - INFO - Successfully processed ./data\CasesOccupationalDiseasesTypeOfDisease2013To2021.csv
+2025-01-24 01:10:12,138 - main - INFO - Successfully processed ./data\CasesOccupationalPartOfBodyInjured2021.csv
+2025-01-24 01:10:12,167 - main - INFO - Successfully processed ./data\CasesOccupationalTypeOfInjury2021.csv
+2025-01-24 01:10:12,185 - main - INFO - Successfully processed ./data\CasesOccupationCauseOfInjury2021.csv
+2025-01-24 01:10:12,210 - main - INFO - Successfully processed ./data\CasesOccupationTypeOfDisease2021.csv
+2025-01-24 01:10:12,231 - main - INFO - Successfully processed ./data\CasesOfOccupationalByRegion2021.csv
+2025-01-24 01:10:12,247 - main - INFO - Successfully processed ./data\CasesOfOccupationalInjuries2021.csv
+2025-01-24 01:10:12,257 - main - INFO - Successfully processed ./data\ConsumerPriceIndex.csv
+2025-01-24 01:10:12,269 - main - INFO - Successfully processed ./data\ConsumerPrizeIndex.csv
+2025-01-24 01:10:12,292 - main - INFO - Successfully processed ./data\ContractedOutAndEmploymentSize.csv
+2025-01-24 01:10:12,340 - main - INFO - Successfully processed ./data\DailyBasicPayData.csv
+2025-01-24 01:10:12,429 - main - INFO - Successfully processed ./data\DeathData.csv
+2025-01-24 01:10:12,446 - main - INFO - Successfully processed ./data\DeathsByAgeAndSex.csv
+2025-01-24 01:10:12,557 - main - INFO - Successfully processed ./data\DeathsByAttendanceDeath.csv
+2025-01-24 01:10:12,579 - main - INFO - Successfully processed ./data\DeathsByCauseOfDeathAndSex.csv
+2025-01-24 01:10:12,589 - main - INFO - Successfully processed ./data\DistributionByEmploymentSizeAndSex.csv
+2025-01-24 01:10:12,605 - main - INFO - Successfully processed ./data\DistributionByIndustryGroupAndSex.csv
+2025-01-24 01:10:12,617 - main - INFO - Successfully processed ./data\DistributionByTypeOfOwnershipAndSex.csv
+2025-01-24 01:10:12,629 - main - INFO - Successfully processed ./data\DuncanIndex.csv
+2025-01-24 01:10:12,642 - main - INFO - Successfully processed ./data\EasyToFillOccupations2016.csv
+2025-01-24 01:10:12,654 - main - INFO - Successfully processed ./data\EasyToFillOccupations2022.csv
+2025-01-24 01:10:12,678 - main - INFO - Successfully processed ./data\EconomicActivityRate.csv
+2025-01-24 01:10:12,700 - main - INFO - Successfully processed ./data\EconomicallyInactivePersons.csv
+2025-01-24 01:10:12,735 - main - INFO - Successfully processed ./data\EmployedByHoursBySex1.csv
+2025-01-24 01:10:12,770 - main - INFO - Successfully processed ./data\EmployedByHoursBySex2.csv
+2025-01-24 01:10:13,075 - main - INFO - Successfully processed ./data\EmployedPersonData.csv
+2025-01-24 01:10:13,096 - main - INFO - Successfully processed ./data\EmployedPersonsWhoAreHouseholdHeads.csv
+2025-01-24 01:10:13,117 - main - INFO - Successfully processed ./data\EmployedPersonsWhoAreMarried.csv
+2025-01-24 01:10:13,141 - main - INFO - Successfully processed ./data\EmployedPrimaryJob1.csv
+2025-01-24 01:10:13,162 - main - INFO - Successfully processed ./data\EmployedPrimaryJob2.csv
+2025-01-24 01:10:13,189 - main - INFO - Successfully processed ./data\EmployedWithExcessiveHours1.csv
+2025-01-24 01:10:13,236 - main - INFO - Successfully processed ./data\EmployedWithExcessiveHours2.csv
+2025-01-24 01:10:13,246 - main - INFO - Successfully processed ./data\EmployeesByEmploymentSize.csv
+2025-01-24 01:10:13,255 - main - INFO - Successfully processed ./data\EmployeesByEmploymentSizeAndTraining.csv
+2025-01-24 01:10:13,269 - main - INFO - Successfully processed ./data\EmployeesByMajorIndustryGroupAndTraining.csv
+2025-01-24 01:10:13,283 - main - INFO - Successfully processed ./data\EmployeesInPrecariousWork.csv
+2025-01-24 01:10:13,301 - main - INFO - Successfully processed ./data\EmployeesMajorIndustryGroup.csv
+2025-01-24 01:10:13,345 - main - INFO - Successfully processed ./data\EmployeesWithRecentJob.csv
+2025-01-24 01:10:13,380 - main - INFO - Successfully processed ./data\EmploymentActivityGrowthRate.csv
+2025-01-24 01:10:13,409 - main - INFO - Successfully processed ./data\EmploymentByClass.csv
+2025-01-24 01:10:13,431 - main - INFO - Successfully processed ./data\EmploymentctivityAndSexDistribution.csv
+2025-01-24 01:10:13,441 - main - INFO - Successfully processed ./data\EstablishmentsByEmploymentSize.csv
+2025-01-24 01:10:13,534 - main - INFO - Successfully processed ./data\EstablishmentsByPIP2013To2019.csv
+2025-01-24 01:10:13,550 - main - INFO - Successfully processed ./data\EstablishmentsByRegion.csv
+2025-01-24 01:10:13,747 - main - INFO - Successfully processed ./data\EstablishmentsBySizeOfEmployment2017To2019.csv
+2025-01-24 01:10:13,786 - main - INFO - Successfully processed ./data\EstablishmentsByTypeOfNonCashProductivity.csv
+2025-01-24 01:10:13,801 - main - INFO - Successfully processed ./data\EstablishmentsCBAAndWithUnion2014To2022.csv
+2025-01-24 01:10:13,814 - main - INFO - Successfully processed ./data\EstablishmentsCBAAndWithUnionByEmploymentSize.csv
+2025-01-24 01:10:13,830 - main - INFO - Successfully processed ./data\EstablishmentsMajorIndustryGroup.csv
+2025-01-24 01:10:13,847 - main - INFO - Successfully processed ./data\EstablishmentsNumberOfWorkersInjured2013To2024.csv
+2025-01-24 01:10:13,883 - main - INFO - Successfully processed ./data\EstablishmentsPIPByEconomicOrganization.csv
+2025-01-24 01:10:13,909 - main - INFO - Successfully processed ./data\EstablishmentsPIPByEmploymentSize2017To2019.csv
+2025-01-24 01:10:13,958 - main - INFO - Successfully processed ./data\EstablishmentsPIPByLegalOrganization2017To2019.csv
+2025-01-24 01:10:14,016 - main - INFO - Successfully processed ./data\EstablishmentsPIPProgramDeveloper2017To2019.csv
+2025-01-24 01:10:14,029 - main - INFO - Successfully processed ./data\EstablishmentsProviderAndEmploymentSize2021.csv
+2025-01-24 01:10:14,052 - main - INFO - Successfully processed ./data\EstablishmentsProviderAndMajorIndustry2013.csv
+2025-01-24 01:10:14,066 - main - INFO - Successfully processed ./data\EstablishmentsWithCBAByEmploymentSize.csv
+2025-01-24 01:10:14,086 - main - INFO - Successfully processed ./data\EstablishmentsWithCBAByIndustry2014To2022.csv
+2025-01-24 01:10:14,100 - main - INFO - Successfully processed ./data\EstablishmentsWithCBAByRegion.csv
+2025-01-24 01:10:14,112 - main - INFO - Successfully processed ./data\EstablishmentsWithCBAUnionAndRegion2022.csv
+2025-01-24 01:10:14,128 - main - INFO - Successfully processed ./data\EstablishmentsWithOrWithoutCommutingAccidents2013To2021.csv
+2025-01-24 01:10:14,143 - main - INFO - Successfully processed ./data\EstablishmentsWithUnionByScopeOfBargainingIndustry.csv
+2025-01-24 01:10:14,154 - main - INFO - Successfully processed ./data\EstablishmentsWithUniondTypeOfOwnership.csv
+2025-01-24 01:10:14,167 - main - INFO - Successfully processed ./data\EstablishmentsWithUnionEmploymentSize.csv
+2025-01-24 01:10:14,179 - main - INFO - Successfully processed ./data\EstablishmentsWithUnionScopeAndRegion2022.csv
+2025-01-24 01:10:14,205 - main - INFO - Successfully processed ./data\EstablismentsThatAttendedRTWPB.csv
+2025-01-24 01:10:14,255 - main - INFO - Successfully processed ./data\EstimatedBeneficiaries1995To2013.csv
+2025-01-24 01:10:14,299 - main - INFO - Successfully processed ./data\EstimatedBeneficiariesRevised.csv
+2025-01-24 01:10:14,306 - main - INFO - Successfully processed ./data\EstimatedByNationalHealth.csv
+2025-01-24 01:10:14,334 - main - INFO - Successfully processed ./data\FemaleShare1977.csv
+2025-01-24 01:10:14,360 - main - INFO - Successfully processed ./data\FemaleShare1992.csv
+2025-01-24 01:10:14,411 - main - INFO - Successfully processed ./data\FemaleShare2012.csv
+2025-01-24 01:10:14,423 - main - INFO - Successfully processed ./data\FemaleShareOfEmployment.csv
+2025-01-24 01:10:14,435 - main - INFO - Successfully processed ./data\FemaleShareSenior1977.csv
+2025-01-24 01:10:14,449 - main - INFO - Successfully processed ./data\FemaleShareSenior1992.csv
+2025-01-24 01:10:14,458 - main - INFO - Successfully processed ./data\FemaleShareSenior2012.csv
+2025-01-24 01:10:14,474 - main - INFO - Successfully processed ./data\FrequencyRatesIncapacityForWork2013To2021.csv
+2025-01-24 01:10:14,488 - main - INFO - Successfully processed ./data\FrequencyRatesOfCases2021.csv
+2025-01-24 01:10:14,510 - main - INFO - Successfully processed ./data\GenderWageGap.csv
+2025-01-24 01:10:14,527 - main - INFO - Successfully processed ./data\GenderWageGap2.csv
+2025-01-24 01:10:14,543 - main - INFO - Successfully processed ./data\GrossDomesticProduct2000.csv
+2025-01-24 01:10:14,557 - main - INFO - Successfully processed ./data\HardToFillOccupationsByNumberOfVacancies2016.csv
+2025-01-24 01:10:14,570 - main - INFO - Successfully processed ./data\HardToFillOccupationsByNumberOfVacancies2022.csv
+2025-01-24 01:10:14,582 - main - INFO - Successfully processed ./data\HealthcareByPrivateHousehold.csv
+2025-01-24 01:10:14,981 - main - INFO - Successfully processed ./data\Household.csv
+2025-01-24 01:10:15,218 - main - INFO - Successfully processed ./data\HouseholdData.csv
+2025-01-24 01:10:15,477 - main - INFO - Successfully processed ./data\HousingData.csv
+2025-01-24 01:10:15,495 - main - INFO - Successfully processed ./data\IncidenceRatesIncapacityForWork2013To2021.csv
+2025-01-24 01:10:15,507 - main - INFO - Successfully processed ./data\IncidenceRatesOfCases2021.csv
+2025-01-24 01:10:15,516 - main - INFO - Successfully processed ./data\IncomeGap.csv
+2025-01-24 01:10:15,527 - main - INFO - Successfully processed ./data\IncomeInequality.csv
+2025-01-24 01:10:15,547 - main - INFO - Successfully processed ./data\InfantDeathsByCausesOfDeath.csv
+2025-01-24 01:10:15,665 - main - INFO - Successfully processed ./data\InfantDeathsByUsualResidence.csv
+2025-01-24 01:10:15,747 - main - INFO - Successfully processed ./data\InfantDeathsPlaceOfOccurrence.csv
+2025-01-24 01:10:15,756 - main - INFO - Successfully processed ./data\InflationRate.csv
+2025-01-24 01:10:15,769 - main - INFO - Successfully processed ./data\LaborCostPerHourByIndustryGroup.csv
+2025-01-24 01:10:15,787 - main - INFO - Successfully processed ./data\LaborForceBySexAndAge.csv
+2025-01-24 01:10:15,858 - main - INFO - Successfully processed ./data\LaborForceData.csv
+2025-01-24 01:10:15,868 - main - INFO - Successfully processed ./data\LaborForceGapBySex.csv
+2025-01-24 01:10:15,889 - main - INFO - Successfully processed ./data\LaborProductivity2000.csv
+2025-01-24 01:10:15,903 - main - INFO - Successfully processed ./data\LengthOfRecruitmentPeriod2016.csv
+2025-01-24 01:10:15,916 - main - INFO - Successfully processed ./data\LengthOfRecruitmentPeriod2022.csv
+2025-01-24 01:10:16,018 - main - INFO - Successfully processed ./data\LiveBirths2016.csv
+2025-01-24 01:10:16,033 - main - INFO - Successfully processed ./data\LiveBirthsByAgeGroupOfMother.csv
+2025-01-24 01:10:16,134 - main - INFO - Successfully processed ./data\LiveBirthsByGeographicLocation.csv
+2025-01-24 01:10:16,218 - main - INFO - Successfully processed ./data\LiveBirthsByPlace.csv
+2025-01-24 01:10:16,230 - main - INFO - Successfully processed ./data\LiveBirthsInYear.csv
+2025-01-24 01:10:16,240 - main - INFO - Successfully processed ./data\ManufacturingWageIndex.csv
+2025-01-24 01:10:16,370 - main - INFO - Successfully processed ./data\MarriagesByAgeGroupOfBride.csv
+2025-01-24 01:10:16,502 - main - INFO - Successfully processed ./data\MarriagesByAgeGroupOfGroom.csv
+2025-01-24 01:10:16,599 - main - INFO - Successfully processed ./data\MaternalDeathsByUsualResidence.csv
+2025-01-24 01:10:16,740 - main - INFO - Successfully processed ./data\MedianMonthlyData.csv
+2025-01-24 01:10:16,751 - main - INFO - Successfully processed ./data\MinimumHourly.csv
+2025-01-24 01:10:27,106 - main - INFO - Successfully processed ./data\NewData.csv
+2025-01-24 01:10:27,400 - main - INFO - Successfully processed ./data\NumberOfDeathsAgeGroupAndSex.csv
+2025-01-24 01:10:27,419 - main - INFO - Successfully processed ./data\NumberOfDistributionBySex.csv
+2025-01-24 01:10:27,434 - main - INFO - Successfully processed ./data\NumberOfDistributionESD.csv
+2025-01-24 01:10:27,772 - main - INFO - Successfully processed ./data\NumberOfHousehold.csv
+2025-01-24 01:10:28,240 - main - INFO - Successfully processed ./data\OccupiedHousing.csv
+2025-01-24 01:10:28,285 - main - INFO - Successfully processed ./data\PercentAnnualLaborByMajorCostComponent.csv
+2025-01-24 01:10:28,320 - main - INFO - Successfully processed ./data\PercentBonusesAndGratitudeBySubCost.csv
+2025-01-24 01:10:28,362 - main - INFO - Successfully processed ./data\PercentDirectWagesSubCostComponent.csv
+2025-01-24 01:10:28,377 - main - INFO - Successfully processed ./data\PercentDistributionOfUnionByEmploymentSizeAndSex.csv
+2025-01-24 01:10:28,395 - main - INFO - Successfully processed ./data\PercentDistributionOfUnionByIndustryGroupAndSex.csv
+2025-01-24 01:10:28,410 - main - INFO - Successfully processed ./data\PercentDistributionOfWage.csv
+2025-01-24 01:10:28,427 - main - INFO - Successfully processed ./data\PercentDistributionPresidentsByEmploymentSizeAndSex.csv
+2025-01-24 01:10:28,448 - main - INFO - Successfully processed ./data\PercentDistributionPresidentsByIndustryGroupAndSex.csv
+2025-01-24 01:10:28,461 - main - INFO - Successfully processed ./data\PercentDistributionPresidentsByTypesOfOwnershipAndSex.csv
+2025-01-24 01:10:28,522 - main - INFO - Successfully processed ./data\PercentHousingShoulderedSubCost.csv
+2025-01-24 01:10:28,569 - main - INFO - Successfully processed ./data\PercentLaborCostsSubCost.csv
+2025-01-24 01:10:28,604 - main - INFO - Successfully processed ./data\PercentShareBranchOfCategoryOfEmployees.csv
+2025-01-24 01:10:28,634 - main - INFO - Successfully processed ./data\PercentShareBranchOfEconomicActivity.csv
+2025-01-24 01:10:28,650 - main - INFO - Successfully processed ./data\PercentShareCBAWithUnionByTypeOfOwnership.csv
+2025-01-24 01:10:28,665 - main - INFO - Successfully processed ./data\PercentShareOfCBAUnionizedTypeOfOwnership.csv
+2025-01-24 01:10:28,696 - main - INFO - Successfully processed ./data\PercentShareOfChildren.csv
+2025-01-24 01:10:28,712 - main - INFO - Successfully processed ./data\PercentShareOfUnionBySexAndRegion2022.csv
+2025-01-24 01:10:28,738 - main - INFO - Successfully processed ./data\PercentShareTotalEmployedBySex.csv
+2025-01-24 01:10:28,768 - main - INFO - Successfully processed ./data\PercentShareTotalWage.csv
+2025-01-24 01:10:28,782 - main - INFO - Successfully processed ./data\PercentShareTypeOfPension.csv
+2025-01-24 01:10:28,824 - main - INFO - Successfully processed ./data\PercentShareTypeOfPension1.csv
+2025-01-24 01:10:28,845 - main - INFO - Successfully processed ./data\PercentShareUnionizedCBATypesOfOwnership.csv
+2025-01-24 01:10:28,878 - main - INFO - Successfully processed ./data\PercentShareWithCBATypeOfOwnership.csv
+2025-01-24 01:10:29,075 - main - INFO - Successfully processed ./data\PercentSocialSecurityExpenditureSubCost.csv
+2025-01-24 01:10:29,168 - main - INFO - Successfully processed ./data\PIPBenifittedBySexCategory.csv
+2025-01-24 01:10:29,236 - main - INFO - Successfully processed ./data\PIPByAssistingGovernmentAgency.csv
+2025-01-24 01:10:29,345 - main - INFO - Successfully processed ./data\PIPByCategoryOfWorkers2017To2019.csv
+2025-01-24 01:10:29,376 - main - INFO - Successfully processed ./data\PIPByExtentPIPObjectiveWaMet2013.csv
+2025-01-24 01:10:29,429 - main - INFO - Successfully processed ./data\PIPByFrequencyOfVisitation2019.csv
+2025-01-24 01:10:29,462 - main - INFO - Successfully processed ./data\PIPByProgramDeveloper2013.csv
+2025-01-24 01:10:29,623 - main - INFO - Successfully processed ./data\PIPByProgramObjective2017To2019.csv
+2025-01-24 01:10:29,827 - main - INFO - Successfully processed ./data\PIPByProgramObjectivesExtentOfFulfillmentt2017To2019.csv
+2025-01-24 01:10:30,027 - main - INFO - Successfully processed ./data\PIPByProgramObjectiveWasMet2013.csv
+2025-01-24 01:10:30,096 - main - INFO - Successfully processed ./data\PIPByReasonsForNonAttainmentOfPIP.csv
+2025-01-24 01:10:30,156 - main - INFO - Successfully processed ./data\PIPByTypeOfGainsharingSchemes2017To2019.csv
+2025-01-24 01:10:30,310 - main - INFO - Successfully processed ./data\PIPByTypeOfRTWPB.csv
+2025-01-24 01:10:30,393 - main - INFO - Successfully processed ./data\PIPByTypeOfScheme2013.csv
+2025-01-24 01:10:30,432 - main - INFO - Successfully processed ./data\PIPByTypeOfTechnicalAssistance.csv
+2025-01-24 01:10:30,551 - main - INFO - Successfully processed ./data\PIPByUsualFormOfNonCashIncentive.csv
+2025-01-24 01:10:30,610 - main - INFO - Successfully processed ./data\PIPPrimaryObjectiveOfProductivityProgram.csv
+2025-01-24 01:10:30,652 - main - INFO - Successfully processed ./data\PIPThatAvailedOfTaxIncentives.csv
+2025-01-24 01:10:30,794 - main - INFO - Successfully processed ./data\Population.csv
+2025-01-24 01:10:30,816 - main - INFO - Successfully processed ./data\PopulationProjection.csv
+2025-01-24 01:10:30,829 - main - INFO - Successfully processed ./data\PovertyIncidence.csv
+2025-01-24 01:10:30,883 - main - INFO - Successfully processed ./data\PPIByPrimaryObjectiveOfProductivity2015.csv
+2025-01-24 01:10:30,925 - main - INFO - Successfully processed ./data\PPIByProductivityProgram2015.csv
+2025-01-24 01:10:30,973 - main - INFO - Successfully processed ./data\PPIByProgramDeveloper2015.csv
+2025-01-24 01:10:31,031 - main - INFO - Successfully processed ./data\PPIByTypeOfProductivityTechnique2015.csv
+2025-01-24 01:10:31,087 - main - INFO - Successfully processed ./data\PPIWorkersByAssistingAgency2015.csv
+2025-01-24 01:10:31,134 - main - INFO - Successfully processed ./data\PPIWorkersByTypeOfAssistanceProvided2015.csv
+2025-01-24 01:10:31,146 - main - INFO - Successfully processed ./data\ProportionOfCBAByEmploymentSize.csv
+2025-01-24 01:10:31,165 - main - INFO - Successfully processed ./data\ProportionOfCBAByMajorIndustryGroup.csv
+2025-01-24 01:10:31,178 - main - INFO - Successfully processed ./data\ProportionOfCBAByTypeOfOwnershipAndSex.csv
+2025-01-24 01:10:31,199 - main - INFO - Successfully processed ./data\ProportionOfSelfEmployed.csv
+2025-01-24 01:10:31,213 - main - INFO - Successfully processed ./data\RealGrossDomestic.csv
+2025-01-24 01:10:31,228 - main - INFO - Successfully processed ./data\ReasonsWhyVacancies2022.csv
+2025-01-24 01:10:31,441 - main - INFO - Successfully processed ./data\ReceivedCashAndNonCashProductivity2015.csv
+2025-01-24 01:10:31,645 - main - INFO - Successfully processed ./data\RegisteredMarriagesFemale.csv
+2025-01-24 01:10:31,861 - main - INFO - Successfully processed ./data\RegisteredMarriagesMale.csv
+2025-01-24 01:10:31,922 - main - INFO - Successfully processed ./data\RegisteredTotalDeaths.csv
+2025-01-24 01:10:31,942 - main - INFO - Successfully processed ./data\SeverityRates2013To2021.csv
+2025-01-24 01:10:31,956 - main - INFO - Successfully processed ./data\SeverityRatesAndAverage2021.csv
+2025-01-24 01:10:31,970 - main - INFO - Successfully processed ./data\ShareOfWageAndSalary.csv
+2025-01-24 01:10:31,983 - main - INFO - Successfully processed ./data\ShareOfWomen.csv
+2025-01-24 01:10:31,999 - main - INFO - Successfully processed ./data\ShareOfWorkersBySex.csv
+2025-01-24 01:10:32,014 - main - INFO - Successfully processed ./data\SocialSecurityBenifits.csv
+2025-01-24 01:10:32,047 - main - INFO - Successfully processed ./data\SpecificGroupAndRegion.csv
+2025-01-24 01:10:32,067 - main - INFO - Successfully processed ./data\SpecificGroupSexAndEmploymentSize.csv
+2025-01-24 01:10:32,121 - main - INFO - Successfully processed ./data\SpecificGroupSexAndMajorIndustry.csv
+2025-01-24 01:10:32,136 - main - INFO - Successfully processed ./data\SSSAndGSIS.csv
+2025-01-24 01:10:32,152 - main - INFO - Successfully processed ./data\SubcontractingByEmploymentSize.csv
+2025-01-24 01:10:32,178 - main - INFO - Successfully processed ./data\SubcontractingByMajorIndustryGroup.csv
+2025-01-24 01:10:32,210 - main - INFO - Successfully processed ./data\SubcontractingByMajorndustryGroup.csv
+2025-01-24 01:10:32,231 - main - INFO - Successfully processed ./data\SubcontractingByTypeOfJobsEmploymentSize.csv
+2025-01-24 01:10:32,259 - main - INFO - Successfully processed ./data\TimeRelatedUnderemployment.csv
+2025-01-24 01:10:32,268 - main - INFO - Successfully processed ./data\TotalLaborForce.csv
+2025-01-24 01:10:32,285 - main - INFO - Successfully processed ./data\TotalPaidUnionizedCBABySexAndRegion2022.csv
+2025-01-24 01:10:32,403 - main - INFO - Successfully processed ./data\TotalPopulation.csv
+2025-01-24 01:10:32,482 - main - INFO - Successfully processed ./data\TotalPopulation2010.csv
+2025-01-24 01:10:32,513 - main - INFO - Successfully processed ./data\TypeOfJobsServicesContractedOutAndMajorIndustry.csv
+2025-01-24 01:10:32,533 - main - INFO - Successfully processed ./data\TypeOfJobsServicesContractedOutAndRegion.csv
+2025-01-24 01:10:32,555 - main - INFO - Successfully processed ./data\TypeOfWorkersAndRegion.csv
+2025-01-24 01:10:32,576 - main - INFO - Successfully processed ./data\TypeOfWorkersSexAndEmploymentSize.csv
+2025-01-24 01:10:32,617 - main - INFO - Successfully processed ./data\TypeOfWorkersSexAndMajorIndustry .csv
+2025-01-24 01:10:32,647 - main - INFO - Successfully processed ./data\UnderemploymentBySex.csv
+2025-01-24 01:10:32,681 - main - INFO - Successfully processed ./data\UnemploymentLevelOfEducation.csv
+2025-01-24 01:10:32,764 - main - INFO - Successfully processed ./data\UnemploymentRate.csv
+2025-01-24 01:10:32,802 - main - INFO - Successfully processed ./data\UnionizedWorkersByEmploymentSize.csv
+2025-01-24 01:10:32,820 - main - INFO - Successfully processed ./data\UnionizedWorkersByEmploymentSizeAndSex.csv
+2025-01-24 01:10:32,948 - main - INFO - Successfully processed ./data\UnionizedWorkersByMajorIndustryGroupAndSex.csv
+2025-01-24 01:10:32,973 - main - INFO - Successfully processed ./data\UnionizedWorkersBySexAndRegion2022.csv
+2025-01-24 01:10:33,005 - main - INFO - Successfully processed ./data\UnionizedWorkersByTypeOfOwnership.csv
+2025-01-24 01:10:33,029 - main - INFO - Successfully processed ./data\UnionizedWorkersByTypeOfOwnershipAndSex.csv
+2025-01-24 01:10:33,056 - main - INFO - Successfully processed ./data\VacanciesAndApplicantsBMajorOccupationGroup.csv
+2025-01-24 01:10:33,113 - main - INFO - Successfully processed ./data\VacanciesByMajorIndustryGroup.csv
+2025-01-24 01:10:33,150 - main - INFO - Successfully processed ./data\VacanciesByMajorIndustryGroup2022.csv
+2025-01-24 01:10:33,189 - main - INFO - Successfully processed ./data\VacanciesByMajorIndustryGroupAndCategory.csv
+2025-01-24 01:10:33,219 - main - INFO - Successfully processed ./data\VacanciesByMethodsUsedInPromotingVacancies.csv
+2025-01-24 01:10:33,249 - main - INFO - Successfully processed ./data\VacanciesInJobPortalsByJobPortalsUsed.csv
+2025-01-24 01:10:33,274 - main - INFO - Successfully processed ./data\VacanciesMajorOccupatioGroupInEstablishments .csv
+2025-01-24 01:10:33,294 - main - INFO - Successfully processed ./data\VacanciesPositionAndOccupation2022.csv
+2025-01-24 01:10:33,316 - main - INFO - Successfully processed ./data\VacanciesWorkersByIndustryAndCategory.csv
+2025-01-24 01:10:33,353 - main - INFO - Successfully processed ./data\VisibleUnderemployment.csv
+2025-01-24 01:10:33,365 - main - INFO - Successfully processed ./data\WageShareInGross.csv
+2025-01-24 01:10:33,476 - main - INFO - Successfully processed ./data\WorkdaysAgentOfInjury2013To2021.csv
+2025-01-24 01:10:33,533 - main - INFO - Successfully processed ./data\WorkdaysCauseOfTheInjury2013To2021.csv
+2025-01-24 01:10:33,607 - main - INFO - Successfully processed ./data\WorkdaysLostInAgricultural2013.csv
+2025-01-24 01:10:33,646 - main - INFO - Successfully processed ./data\WorkdaysLostInEstablishments2015To2021.csv
+2025-01-24 01:10:33,813 - main - INFO - Successfully processed ./data\WorkdaysLostInEstablishmentsTypeOfInjury2013To2021.csv
+2025-01-24 01:10:33,888 - main - INFO - Successfully processed ./data\WorkdaysPartOfTheBody2013To2021.csv
+2025-01-24 01:10:33,940 - main - INFO - Successfully processed ./data\WorkersByAwarenessOnEmployees.csv
+2025-01-24 01:10:34,040 - main - INFO - Successfully processed ./data\WorkersByBusinessRecovery2020.csv
+2025-01-24 01:10:34,057 - main - INFO - Successfully processed ./data\WorkersByCategoryAndRegion.csv
+2025-01-24 01:10:34,081 - main - INFO - Successfully processed ./data\WorkersByCategorySex.csv
+2025-01-24 01:10:34,096 - main - INFO - Successfully processed ./data\WorkersByCategorySexAndEmploymentSize.csv
+2025-01-24 01:10:34,182 - main - INFO - Successfully processed ./data\WorkersByDisseminated2017.csv
+2025-01-24 01:10:34,196 - main - INFO - Successfully processed ./data\WorkersByEmploymentSize.csv
+2025-01-24 01:10:34,304 - main - INFO - Successfully processed ./data\WorkersByImpactOfQuarantines.csv
+2025-01-24 01:10:34,328 - main - INFO - Successfully processed ./data\WorkersByIndustryGroup2013To2021.csv
+2025-01-24 01:10:34,345 - main - INFO - Successfully processed ./data\WorkersByMajorIIndustryGroup.csv
+2025-01-24 01:10:34,456 - main - INFO - Successfully processed ./data\WorkersByModeOfLearningECP2017.csv
+2025-01-24 01:10:34,471 - main - INFO - Successfully processed ./data\WorkersByOccupationAndndStatusOfEmployment.csv
+2025-01-24 01:10:34,487 - main - INFO - Successfully processed ./data\WorkersByOccupationAndStatusOfEmployment2022.csv
+2025-01-24 01:10:34,694 - main - INFO - Successfully processed ./data\WorkersByOSHPolicies2013To2017.csv
+2025-01-24 01:10:35,001 - main - INFO - Successfully processed ./data\WorkersByOSHPolicies2019To2021.csv
+2025-01-24 01:10:35,041 - main - INFO - Successfully processed ./data\WorkersByOSHPoliciesByRegion2021.csv
+2025-01-24 01:10:35,057 - main - INFO - Successfully processed ./data\WorkersByRegion.csv
+2025-01-24 01:10:35,138 - main - INFO - Successfully processed ./data\WorkersBySourcesOfFunds.csv
+2025-01-24 01:10:35,154 - main - INFO - Successfully processed ./data\WorkersByTypeAndRegion.csv
+2025-01-24 01:10:35,192 - main - INFO - Successfully processed ./data\WorkersByTypeOfECP2017.csv
+2025-01-24 01:10:35,280 - main - INFO - Successfully processed ./data\WorkersByTypeOfInformationOnBenefits.csv
+2025-01-24 01:10:35,302 - main - INFO - Successfully processed ./data\WorkersByTypeSexAndEmploymentSize.csv
+2025-01-24 01:10:35,345 - main - INFO - Successfully processed ./data\WorkersByTypeSexAndMajorIndustry.csv
+2025-01-24 01:10:35,363 - main - INFO - Successfully processed ./data\WorkersCoveredByCBAByIndustryGroupAndSex.csv
+2025-01-24 01:10:35,379 - main - INFO - Successfully processed ./data\WorkersCoveredByCBAEmploymentSizeAndSex.csv
+2025-01-24 01:10:35,506 - main - INFO - Successfully processed ./data\WorkersNotAwareOfECP2017.csv
+2025-01-24 01:10:35,651 - main - INFO - Successfully processed ./data\WorkersNotAwareOnECPByTopic.csv
+2025-01-24 01:10:35,812 - main - INFO - Successfully processed ./data\WorkersProvideAssistanceECP2017.csv
+2025-01-24 01:10:35,851 - main - INFO - Successfully processed ./data\WorkersServicesByTypeOfECPServices .csv
+2025-01-24 01:10:35,911 - main - INFO - Successfully processed ./data\WorkersThatProvidedECP2017.csv
+2025-01-24 01:10:35,976 - main - INFO - Successfully processed ./data\WorkersWhoAvailedECPByFilingAgency.csv
+2025-01-24 01:10:36,168 - main - INFO - Successfully processed ./data\WorkersWhoAvailedOfECPByTypeAndDuration.csv
+2025-01-24 01:10:36,294 - main - INFO - Successfully processed ./data\WorkersWhoAvailedOfECPeServiceByTypeAndDuration.csv
+2025-01-24 01:10:36,329 - main - INFO - Successfully processed ./data\WorkersWithDesignatedHealth2013To2021.csv
+2025-01-24 01:10:36,344 - main - INFO - Successfully processed ./data\WorkersWithDesignatedHealthAndSafety2021.csv
+2025-01-24 01:10:36,494 - main - INFO - Successfully processed ./data\WorkersWithOSHRelatedTrainings2013To2021.csv
+2025-01-24 01:10:36,566 - main - INFO - Successfully processed ./data\WorkersWithOSHRelatedTrainings2021.csv
+2025-01-24 01:10:36,751 - main - INFO - Successfully processed ./data\WorkersWithPreventiveAndControl2013To2017.csv
+2025-01-24 01:10:36,900 - main - INFO - Successfully processed ./data\WorkersWithPreventiveAndControl2019To2021.csv
+2025-01-24 01:10:36,925 - main - INFO - Successfully processed ./data\WorkersWithPreventiveAndControlMeasures2021.csv
+2025-01-24 01:10:36,945 - main - INFO - Successfully processed ./data\WorkingBySexAndAge.csv
+2025-01-24 01:10:36,985 - main - INFO - Successfully processed ./data\WorkingChildrenBySexAndAge.csv
+2025-01-24 01:10:37,026 - main - INFO - Successfully processed ./data\WorkingChildrenBySexAndMajorIndustry.csv
+2025-01-24 01:10:37,063 - main - INFO - Successfully processed ./data\WorkingChildrenBySexAndOccupation1.csv
+2025-01-24 01:10:37,088 - main - INFO - Successfully processed ./data\WorkingChildrenBySexAndOccupation2.csv
+2025-01-24 01:10:37,103 - main - INFO - Successfully processed ./data\WorkingPovertyRate.csv
+2025-01-24 01:10:37,122 - main - INFO - Successfully processed ./data\YouthPopulationBySex.csv
+2025-01-24 01:10:37,136 - main - INFO - Successfully processed ./data\YouthUnemployment.csv
+2025-01-24 01:11:29,783 - llama_index.core.indices.loading - INFO - Loading all indices.
+2025-01-24 01:16:20,540 - main - INFO - Received query: population of manila
+2025-01-24 01:16:21,013 - main - ERROR - Chat endpoint error: shapes (384,) and (1536,) not aligned: 384 (dim 0) != 1536 (dim 0)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Documents\JuanGPT\Trial2\main.py", line 271, in chat
+    response = query_engine.query(query.text)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\base_query_engine.py", line 52, in query
+    query_result = self._query(str_or_query_bundle)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\query_engine\retriever_query_engine.py", line 178, in _query
+    nodes = self.retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\query_engine\retriever_query_engine.py", line 133, in retrieve
+    nodes = self._retriever.retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\base_retriever.py", line 245, in retrieve
+    nodes = self._retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\vector_store\retrievers\retriever.py", line 103, in _retrieve
+    return self._get_nodes_with_embeddings(query_bundle)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\vector_store\retrievers\retriever.py", line 180, in _get_nodes_with_embeddings
+    query_result = self._vector_store.query(query, **self._kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\vector_stores\simple.py", line 376, in query
+    top_similarities, top_ids = get_top_k_embeddings(
+                                ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\query\embedding_utils.py", line 30, in get_top_k_embeddings
+    similarity = similarity_fn(query_embedding_np, emb)  # type: ignore[arg-type]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\embeddings\base.py", line 62, in similarity
+    product = np.dot(embedding1, embedding2)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: shapes (384,) and (1536,) not aligned: 384 (dim 0) != 1536 (dim 0)
+2025-01-24 01:16:29,247 - main - INFO - Received query: bruh
+2025-01-24 01:16:29,684 - main - ERROR - Chat endpoint error: shapes (384,) and (1536,) not aligned: 384 (dim 0) != 1536 (dim 0)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Documents\JuanGPT\Trial2\main.py", line 271, in chat
+    response = query_engine.query(query.text)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\base_query_engine.py", line 52, in query
+    query_result = self._query(str_or_query_bundle)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\query_engine\retriever_query_engine.py", line 178, in _query
+    nodes = self.retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\query_engine\retriever_query_engine.py", line 133, in retrieve
+    nodes = self._retriever.retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\base_retriever.py", line 245, in retrieve
+    nodes = self._retrieve(query_bundle)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\instrumentation\dispatcher.py", line 321, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\vector_store\retrievers\retriever.py", line 103, in _retrieve
+    return self._get_nodes_with_embeddings(query_bundle)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\vector_store\retrievers\retriever.py", line 180, in _get_nodes_with_embeddings
+    query_result = self._vector_store.query(query, **self._kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\vector_stores\simple.py", line 376, in query
+    top_similarities, top_ids = get_top_k_embeddings(
+                                ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\indices\query\embedding_utils.py", line 30, in get_top_k_embeddings
+    similarity = similarity_fn(query_embedding_np, emb)  # type: ignore[arg-type]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\Documents\JuanGPT\Trial2\.venv\Lib\site-packages\llama_index\core\base\embeddings\base.py", line 62, in similarity
+    product = np.dot(embedding1, embedding2)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: shapes (384,) and (1536,) not aligned: 384 (dim 0) != 1536 (dim 0)

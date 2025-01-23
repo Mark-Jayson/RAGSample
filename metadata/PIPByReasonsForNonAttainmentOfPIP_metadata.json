@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PIPByReasonsForNonAttainmentOfPIP.csv",
+    "description": "Number of Establishments Employing 20 or More Workers with Productivity Improvement Program (PIP) by Reasons for Non-Attainment of PIP Objective/s and Major Industry Group, Philippines:  2019",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 228,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;reasons_for_non_attainment_of_pip_objective/s;2019"
+    ]
+}

@@ -1,7 +1,6 @@
 {
-    "source": "data\\InfantDeathsPlaceOfOccurrence.csv",
+    "source": "./data\\InfantDeathsPlaceOfOccurrence.csv",
     "description": "Deaths : Number of Registered Infant Deaths by Usual Residence and Attendance at Death, (Region,Province and City/Municipality) Philippines: 2016",
-    "warnings": [],
     "encoding": "ISO-8859-1",
     "delimiter": ",",
     "num_rows": 119,

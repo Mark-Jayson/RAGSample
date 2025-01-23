@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkersWhoAvailedECPByFilingAgency.csv",
+    "description": "Number of Establishments Employing 20 or More Workers with Employees Who Availed of ECP Benefits by Filing Agency, Type of ECP Benefits Availed and Major Industry Group, Philippines: 2015 - 2017",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 140,
+    "num_columns": 1,
+    "column_names": [
+        "filing_agency_and_type_of_ecp_benefits_availed;major_industry_group;2017"
+    ]
+}

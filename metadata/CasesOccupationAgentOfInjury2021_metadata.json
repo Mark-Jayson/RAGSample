@@ -1,0 +1,17 @@
+{
+    "source": "./data\\CasesOccupationAgentOfInjury2021.csv",
+    "description": "Cases of Occupational Injuries With Workdays Lost in Establishments Employing 20 or More Workers by Region and Agent of Injury, Philippines: 2013-2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 7,
+    "column_names": [
+        "region;2021_total;2021_..buildings",
+        "structures;2021_..prime_movers;2021_..distribution_systems;2021_..hand_tools;2021_..machines",
+        "equipment;2021_..conveying/_transport/_packaging_equipment_or_vehicles;2021_..materials",
+        "objects;2021_..chemical_substances;2021_..human",
+        "animals",
+        "plants",
+        "etc."
+    ]
+}

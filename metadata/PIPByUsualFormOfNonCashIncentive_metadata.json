@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PIPByUsualFormOfNonCashIncentive.csv",
+    "description": "Number of Establishments Employing 20 or More Workers with Productivity Improvement Program (PIP) by Usual Form of Non-Cash Incentive and Major Industry Group, Philippines:  2017 - 2019",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 399,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;type_of_gainsharing_schemes/practices;usual_form_of_non_cash_incentive;2017;2019"
+    ]
+}

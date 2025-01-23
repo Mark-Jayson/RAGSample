@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkersByOSHPolicies2019To2021.csv",
+    "description": "Number of Establishments Employing 20 or More Workers by Occupational Safety and Health (OSH) Policies/Programs Implemented and Major Industry Group, Philippines: 2019 and 2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 644,
+    "num_columns": 1,
+    "column_names": [
+        "osh_policy/program;major_industry_group;2019;2021"
+    ]
+}

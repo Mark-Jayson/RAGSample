@@ -1,0 +1,17 @@
+{
+    "source": "./data\\WorkersWithOSHRelatedTrainings2021.csv",
+    "description": "Number of Establishments Employing 20 or More Workers With Occupational Safety and Health (OSH)-Related Trainings/Seminars by Major Industry Group, Philippines: 2021",
+    "encoding": "Windows-1252",
+    "delimiter": ",",
+    "num_rows": 28,
+    "num_columns": 7,
+    "column_names": [
+        "osh_related_training/seminar;2021_all_industries;2021_..agriculture",
+        "forestry_and_fishing;2021_..mining_and_quarrying;2021_..manufacturing;2021_..electricity",
+        "gas",
+        "steam_and_air_conditioning_supply;2021_..water_supply;_sewerage",
+        "waste_management_and_remediation_activities;2021_..construction;2021_..wholesale_and_retail_trade;_repair_of_motor_vehicles_and_motorcycles;2021_..transportation_and_storage;2021_..accommodation_and_food_service_activities;2021_..information_and_communication;2021_..financial_and_insurance_activities;2021_..real_estate_activities;2021_..professional",
+        "scientific_and_technical_activities;2021_..administrative_and_support_service_activities;2021_..education_except_public_education;2021_..human_health_and_social_work_activities_except_public_health_activities;2021_..arts",
+        "entertainment_and__recreation;2021_..other_service_activities_except_activities_of_membership_organization"
+    ]
+}

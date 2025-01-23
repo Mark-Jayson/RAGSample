@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkersProvideAssistanceECP2017.csv",
+    "description": "Number of Establishments Employing 20 or More Workers that Provided Assistance (ECP Services) by Type of Assistance and Major Industry Group, Philippines: 2017",
+    "encoding": "Windows-1252",
+    "delimiter": ",",
+    "num_rows": 70,
+    "num_columns": 1,
+    "column_names": [
+        "type_of_assistance;majot_industry_group;2017"
+    ]
+}

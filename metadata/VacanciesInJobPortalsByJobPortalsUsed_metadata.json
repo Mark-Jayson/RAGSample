@@ -1,7 +1,6 @@
 {
-    "source": "data\\VacanciesInJobPortalsByJobPortalsUsed.csv",
+    "source": "./data\\VacanciesInJobPortalsByJobPortalsUsed.csv",
     "description": "Number of Establishments Employing 20 or More Workers Posted Vacancies in Job Portals by Job Portals Used and Major Industry Group, Philippines: September 2021 to August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 19,

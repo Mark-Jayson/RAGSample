@@ -1,7 +1,6 @@
 {
-    "source": "data\\VacanciesByMajorIndustryGroup2022.csv",
+    "source": "./data\\VacanciesByMajorIndustryGroup2022.csv",
     "description": "Number of Job Vacancies and Applicants in Establishments Employing 20 or More Workers  Type of Position and by Major Industry Group, Philippines: September 2021 to August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 19,

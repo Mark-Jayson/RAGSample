@@ -1,0 +1,31 @@
+{
+    "source": "./data\\WorkdaysAgentOfInjury2013To2021.csv",
+    "description": "Cases of Occupational Diseases in Establishments Employing 20 or more Workers by Industry Group and Type of Disease, Philippines: 2013-2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 19,
+    "num_columns": 21,
+    "column_names": [
+        "major_industry_group;2013_total;2013_..occupational_dermatitis;2013_..occupational_asthma;2013_..acute_poisonings;2013_..occupational_kidney_disease_caused_by_heavy_metals_or_organic_solvents;2013_..other_diseases_caused_by_chemicals;2013_..heat_stroke",
+        "cramps",
+        "exhaustion;2013_..chilblain",
+        "frostbite",
+        "freezing;2013_..deafness;2013_..tuberculosis;2013_..work_related_covid_19_infection;2013_..occupational_lung_diseases;2013_..other_infections;2013_..cataract;2013_..cardio_vascular_diseases;2013_..essential_hypertension;2013_..peptic_ulcer;2013_..carpal_tunnel_syndrome;2013_..shoulder_tendinitis;2013_..neck_shoulder_pain;2013_..back_pain;2013_..other_work_related_musculoskeletal_diseases;2013_..work_related_mental_health_condition;2013_..other_diseases;2015_total;2015_..occupational_dermatitis;2015_..occupational_asthma;2015_..acute_poisonings;2015_..occupational_kidney_disease_caused_by_heavy_metals_or_organic_solvents;2015_..other_diseases_caused_by_chemicals;2015_..heat_stroke",
+        "cramps.1",
+        "exhaustion;2015_..chilblain",
+        "frostbite.1",
+        "freezing;2015_..deafness;2015_..tuberculosis;2015_..work_related_covid_19_infection;2015_..occupational_lung_diseases;2015_..other_infections;2015_..cataract;2015_..cardio_vascular_diseases;2015_..essential_hypertension;2015_..peptic_ulcer;2015_..carpal_tunnel_syndrome;2015_..shoulder_tendinitis;2015_..neck_shoulder_pain;2015_..back_pain;2015_..other_work_related_musculoskeletal_diseases;2015_..work_related_mental_health_condition;2015_..other_diseases;2017_total;2017_..occupational_dermatitis;2017_..occupational_asthma;2017_..acute_poisonings;2017_..occupational_kidney_disease_caused_by_heavy_metals_or_organic_solvents;2017_..other_diseases_caused_by_chemicals;2017_..heat_stroke",
+        "cramps.2",
+        "exhaustion;2017_..chilblain",
+        "frostbite.2",
+        "freezing;2017_..deafness;2017_..tuberculosis;2017_..work_related_covid_19_infection;2017_..occupational_lung_diseases;2017_..other_infections;2017_..cataract;2017_..cardio_vascular_diseases;2017_..essential_hypertension;2017_..peptic_ulcer;2017_..carpal_tunnel_syndrome;2017_..shoulder_tendinitis;2017_..neck_shoulder_pain;2017_..back_pain;2017_..other_work_related_musculoskeletal_diseases;2017_..work_related_mental_health_condition;2017_..other_diseases;2019_total;2019_..occupational_dermatitis;2019_..occupational_asthma;2019_..acute_poisonings;2019_..occupational_kidney_disease_caused_by_heavy_metals_or_organic_solvents;2019_..other_diseases_caused_by_chemicals;2019_..heat_stroke",
+        "cramps.3",
+        "exhaustion;2019_..chilblain",
+        "frostbite.3",
+        "freezing;2019_..deafness;2019_..tuberculosis;2019_..work_related_covid_19_infection;2019_..occupational_lung_diseases;2019_..other_infections;2019_..cataract;2019_..cardio_vascular_diseases;2019_..essential_hypertension;2019_..peptic_ulcer;2019_..carpal_tunnel_syndrome;2019_..shoulder_tendinitis;2019_..neck_shoulder_pain;2019_..back_pain;2019_..other_work_related_musculoskeletal_diseases;2019_..work_related_mental_health_condition;2019_..other_diseases;2021_total;2021_..occupational_dermatitis;2021_..occupational_asthma;2021_..acute_poisonings;2021_..occupational_kidney_disease_caused_by_heavy_metals_or_organic_solvents;2021_..other_diseases_caused_by_chemicals;2021_..heat_stroke",
+        "cramps.4",
+        "exhaustion;2021_..chilblain",
+        "frostbite.4",
+        "freezing;2021_..deafness;2021_..tuberculosis;2021_..work_related_covid_19_infection;2021_..occupational_lung_diseases;2021_..other_infections;2021_..cataract;2021_..cardio_vascular_diseases;2021_..essential_hypertension;2021_..peptic_ulcer;2021_..carpal_tunnel_syndrome;2021_..shoulder_tendinitis;2021_..neck_shoulder_pain;2021_..back_pain;2021_..other_work_related_musculoskeletal_diseases;2021_..work_related_mental_health_condition;2021_..other_diseases"
+    ]
+}

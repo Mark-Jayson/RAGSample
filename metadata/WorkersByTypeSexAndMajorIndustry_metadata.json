@@ -1,7 +1,6 @@
 {
-    "source": "data\\WorkersByTypeSexAndMajorIndustry.csv",
+    "source": "./data\\WorkersByTypeSexAndMajorIndustry.csv",
     "description": "Total Employment and Number of Commission and Output-Rated Workers in Establishments with 20 or More Workers by Type, Sex and Major Industry Group, Philippines: June 2014 to August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 28,

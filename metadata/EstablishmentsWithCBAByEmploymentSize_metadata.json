@@ -1,0 +1,11 @@
+{
+    "source": "./data\\EstablishmentsWithCBAByEmploymentSize.csv",
+    "description": "Number and Proportion of Establishments Employing 20 or More Workers With Union, Collective Bargaining Agreement (CBA) and Labor Management Council (LMC) by Employment Size, Philippines: June 2014 to August 2022",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 3,
+    "num_columns": 1,
+    "column_names": [
+        "employment_size;2014_total_number_of_establishments;2014_establishments_with_union;2014_proportion_of_establishments_with_union_(percent);2014_establishments_with_cba;2014_proportion_of_establishments_with_cba_(percent);2014_establishments_with_lmc;2014_proportion_of_establishments_with_lmc_(percent);2016_total_number_of_establishments;2016_establishments_with_union;2016_proportion_of_establishments_with_union_(percent);2016_establishments_with_cba;2016_proportion_of_establishments_with_cba_(percent);2016_establishments_with_lmc;2016_proportion_of_establishments_with_lmc_(percent);2018_total_number_of_establishments;2018_establishments_with_union;2018_proportion_of_establishments_with_union_(percent);2018_establishments_with_cba;2018_proportion_of_establishments_with_cba_(percent);2018_establishments_with_lmc;2018_proportion_of_establishments_with_lmc_(percent);2020_total_number_of_establishments;2020_establishments_with_union;2020_proportion_of_establishments_with_union_(percent);2020_establishments_with_cba;2020_proportion_of_establishments_with_cba_(percent);2020_establishments_with_lmc;2020_proportion_of_establishments_with_lmc_(percent);2022_total_number_of_establishments;2022_establishments_with_union;2022_proportion_of_establishments_with_union_(percent);2022_establishments_with_cba;2022_proportion_of_establishments_with_cba_(percent);2022_establishments_with_lmc;2022_proportion_of_establishments_with_lmc_(percent)"
+    ]
+}

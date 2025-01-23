@@ -1,11 +1,6 @@
 {
-    "source": "data\\NewData.csv",
+    "source": "./data\\NewData.csv",
     "description": "Population by Age Group, Sex, Region, and Province/Highly Urbanized City: Philippines , 2020,,,,",
-    "warnings": [
-        "Column unnamed:_1 might be better as categorical",
-        "Column unnamed:_2 might be better as categorical",
-        "Column unnamed:_3 might be better as categorical"
-    ],
     "encoding": "ISO-8859-1",
     "delimiter": ",",
     "num_rows": 14582,

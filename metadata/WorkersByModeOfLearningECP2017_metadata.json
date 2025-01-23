@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkersByModeOfLearningECP2017.csv",
+    "description": "Number of Establishments  Employing 20 or More Workers by Mode of Learning about ECP and Major Industry Group, Philippines: 2017",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 336,
+    "num_columns": 1,
+    "column_names": [
+        "mode_of_learning_about_ecp;major_industry_group;2017"
+    ]
+}

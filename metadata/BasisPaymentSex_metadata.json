@@ -1,7 +1,6 @@
 {
-    "source": "data\\BasisPaymentSex.csv",
+    "source": "./data\\BasisPaymentSex.csv",
     "description": "Total Employment of Establishments with 20 or More Workers by Basis of Payment, Sex and Major Industry Group, Philippines: June 2014 to August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 28,

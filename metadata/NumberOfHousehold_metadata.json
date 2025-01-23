@@ -1,8 +1,7 @@
 {
-    "source": "data\\NumberOfHousehold.csv",
+    "source": "./data\\NumberOfHousehold.csv",
     "description": "Number of Households by Type of Building, Tenure Status of the Housing Unit/Lot, and Province/Highly Urbanized City: Philippines, 2020",
-    "warnings": [],
-    "encoding": "ISO-8859-1",
+    "encoding": "utf-8",
     "delimiter": ",",
     "num_rows": 1350,
     "num_columns": 1,

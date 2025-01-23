@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PercentAnnualLaborByMajorCostComponent.csv",
+    "description": "Percent Distribution of Annual Labor Cost in Establishments Employing 20 or More Workers by Industry Group and Major Cost Component, Philippines: 2013-2019",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 209,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;annual_labor_cost;2013;2019"
+    ]
+}

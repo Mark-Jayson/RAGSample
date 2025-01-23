@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkersByImpactOfQuarantines.csv",
+    "description": "Number of Establishments Employing 20 or More Workers by Impact of Quarantines and Lockdowns During COVID-19 Outbreak and Major Industry Group, Philippines:  June 30, 2020",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 228,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;impact_of_quarantines_and_lockdowns;2020"
+    ]
+}

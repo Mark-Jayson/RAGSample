@@ -1,7 +1,6 @@
 {
-    "source": "data\\TotalPopulation2010.csv",
+    "source": "./data\\TotalPopulation2010.csv",
     "description": "Total population by age group, sex, region, province, and highly urbanized city: 2010",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 134,

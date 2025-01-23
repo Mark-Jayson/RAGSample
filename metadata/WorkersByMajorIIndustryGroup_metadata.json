@@ -1,7 +1,6 @@
 {
-    "source": "data\\WorkersByMajorIIndustryGroup.csv",
+    "source": "./data\\WorkersByMajorIIndustryGroup.csv",
     "description": "Number and Percent Share of Establishments with 20 or More Workers with Agency-Hired Workers by Major Industry Group, Philippines: June 2014 to August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 19,

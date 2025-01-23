@@ -1,0 +1,11 @@
+{
+    "source": "./data\\EstablishmentsByTypeOfNonCashProductivity.csv",
+    "description": "Number of Establishments Employing 20 or More Workers by Type of Non-Cash Productivity-Based Incentives Provided and Major Industry Group, Philippines: 2015",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 133,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;non_cash_productivity_based_incentives;2015"
+    ]
+}

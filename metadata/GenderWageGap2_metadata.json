@@ -1,0 +1,11 @@
+{
+    "source": "./data\\GenderWageGap2.csv",
+    "description": "Gender Wage Gap",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 33,
+    "num_columns": 1,
+    "column_names": [
+        "indicator;item;2016;2017;2018"
+    ]
+}

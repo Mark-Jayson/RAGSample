@@ -1,8 +1,7 @@
 {
-    "source": "data\\DeathData.csv",
+    "source": "./data\\DeathData.csv",
     "description": "Number of Registered Death by Usual Residence and Sex",
-    "warnings": [],
-    "encoding": "Windows-1252",
+    "encoding": "utf-8",
     "delimiter": ",",
     "num_rows": 135,
     "num_columns": 1,

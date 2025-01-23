@@ -1,9 +1,6 @@
 {
-    "source": "data\\Household.csv",
+    "source": "./data\\Household.csv",
     "description": "Household Population by Age Group, Sex, Region, and Province/Highly Urbanized City: Philippines , 2020",
-    "warnings": [
-        "Columns with >50% missing values: ['unnamed:_1', 'unnamed:_2', 'unnamed:_3', 'unnamed:_4']"
-    ],
     "encoding": "utf-8",
     "delimiter": ",",
     "num_rows": 135,

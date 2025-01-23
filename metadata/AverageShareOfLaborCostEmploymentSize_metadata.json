@@ -1,0 +1,11 @@
+{
+    "source": "./data\\AverageShareOfLaborCostEmploymentSize.csv",
+    "description": "Average Share of Labor Cost to Total Cost in Establishments Employing 20 or More Workers by Industry Group and Employment Size, Philippines: 2013-2019",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 76,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;average_share_of_labor_cost_to_total_cost;2013;2019"
+    ]
+}

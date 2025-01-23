@@ -1,7 +1,6 @@
 {
-    "source": "data\\BirthsOccuredAbroadToFilipinoMother.csv",
+    "source": "./data\\BirthsOccuredAbroadToFilipinoMother.csv",
     "description": "Live Births Which Occurred Abroad to Filipino Mother by Age Group of Mother and Live Birth Order: 2016",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 10,

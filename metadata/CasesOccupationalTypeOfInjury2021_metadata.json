@@ -1,0 +1,16 @@
+{
+    "source": "./data\\CasesOccupationalTypeOfInjury2021.csv",
+    "description": "Cases of Occupational Injuries With Workdays Lost in Establishments Employing 20 or More Workers by Region and Type of Injury, Philippines: 2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 6,
+    "column_names": [
+        "region;2021_total;2021_..superficial_injuries;2021_..open_wounds;2021_..fractures;2021_..dislocations",
+        "sprains_and_strains;2021_..injury_of_nerve/s_of_part_of_body_injured;2021_..injury_of_blood_vessel/s_of_part_of_body_injured;2021_..injury_of_muscles_and_tendons;2021_..crushing_injury;2021_..traumatic_amputations;2021_..foreign_body_entering_through_natural_opening_(eyes",
+        "ears",
+        "respiratory_tract",
+        "git",
+        "gut);2021_..burns_and_corrosions;2021_..toxic_effect_of_substances_(non_medicinal);2021_..others"
+    ]
+}

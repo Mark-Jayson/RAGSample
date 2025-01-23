@@ -1,7 +1,6 @@
 {
-    "source": "data\\TypeOfWorkersSexAndMajorIndustry .csv",
+    "source": "./data\\TypeOfWorkersSexAndMajorIndustry .csv",
     "description": "Total Number of Persons Engaged in Establishments with 20 or More Workers by Type of Workers, Sex and Major Industry Group, Philippines: June 2014 to August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 28,

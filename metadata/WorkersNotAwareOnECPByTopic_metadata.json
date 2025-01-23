@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkersNotAwareOnECPByTopic.csv",
+    "description": "Number of Establishments Employing 20 or More Workers Not Aware of ECP by Topic of Interest and Major Industry Group, Philippines: 2017",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 168,
+    "num_columns": 1,
+    "column_names": [
+        "topic_of_interest;major_industry_group;2017"
+    ]
+}

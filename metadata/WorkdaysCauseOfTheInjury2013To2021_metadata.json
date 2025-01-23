@@ -1,0 +1,21 @@
+{
+    "source": "./data\\WorkdaysCauseOfTheInjury2013To2021.csv",
+    "description": "Cases of Occupational Injuries With Workdays Lost in Establishments Employing 20 or More Workers by Industry Group and Cause of Injury, Philippines: 2013-2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 19,
+    "num_columns": 11,
+    "column_names": [
+        "major_industry_group;2013_total;2013_..falls_of_persons;2013_..struck_by_falling_objects;2013_..stepping_on",
+        "striking_against_or_struck_by_objects",
+        "excluding_falling_objects;2013_..caught_by_or_in_between_objects;2013_..over_exertion_or_strenuous_movement;2013_..exposure_to_or_contact_with_extreme_temperatures;2013_..exposure_to_or_contact_with_electric_current;2013_..exposure_to_or_contact_with_harmful_substances_or_radiation;2013_..exposure_to_or_contact_with_harmful_substances;2013_..exposure_to_radiation;2013_..others;2015_total;2015_..falls_of_persons;2015_..struck_by_falling_objects;2015_..stepping_on",
+        "striking_against_or_struck_by_objects.1",
+        "excluding_falling_objects;2015_..caught_by_or_in_between_objects;2015_..over_exertion_or_strenuous_movement;2015_..exposure_to_or_contact_with_extreme_temperatures;2015_..exposure_to_or_contact_with_electric_current;2015_..exposure_to_or_contact_with_harmful_substances_or_radiation;2015_..exposure_to_or_contact_with_harmful_substances;2015_..exposure_to_radiation;2015_..others;2017_total;2017_..falls_of_persons;2017_..struck_by_falling_objects;2017_..stepping_on",
+        "striking_against_or_struck_by_objects.2",
+        "excluding_falling_objects;2017_..caught_by_or_in_between_objects;2017_..over_exertion_or_strenuous_movement;2017_..exposure_to_or_contact_with_extreme_temperatures;2017_..exposure_to_or_contact_with_electric_current;2017_..exposure_to_or_contact_with_harmful_substances_or_radiation;2017_..exposure_to_or_contact_with_harmful_substances;2017_..exposure_to_radiation;2017_..others;2019_total;2019_..falls_of_persons;2019_..struck_by_falling_objects;2019_..stepping_on",
+        "striking_against_or_struck_by_objects.3",
+        "excluding_falling_objects;2019_..caught_by_or_in_between_objects;2019_..over_exertion_or_strenuous_movement;2019_..exposure_to_or_contact_with_extreme_temperatures;2019_..exposure_to_or_contact_with_electric_current;2019_..exposure_to_or_contact_with_harmful_substances_or_radiation;2019_..exposure_to_or_contact_with_harmful_substances;2019_..exposure_to_radiation;2019_..others;2021_total;2021_..falls_of_persons;2021_..struck_by_falling_objects;2021_..stepping_on",
+        "striking_against_or_struck_by_objects.4",
+        "excluding_falling_objects;2021_..caught_by_or_in_between_objects;2021_..over_exertion_or_strenuous_movement;2021_..exposure_to_or_contact_with_extreme_temperatures;2021_..exposure_to_or_contact_with_electric_current;2021_..exposure_to_or_contact_with_harmful_substances_or_radiation;2021_..exposure_to_or_contact_with_harmful_substances;2021_..exposure_to_radiation;2021_..others"
+    ]
+}

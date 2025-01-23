@@ -1,7 +1,6 @@
 {
-    "source": "data\\VacanciesWorkersByIndustryAndCategory.csv",
+    "source": "./data\\VacanciesWorkersByIndustryAndCategory.csv",
     "description": "Total Number of Vacancies in Establishments with 20 or more Workers by Industry and Category, Philippines: January 2013 - June 2014 to September 2021 - August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 19,

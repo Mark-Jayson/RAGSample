@@ -1,7 +1,6 @@
 {
-    "source": "data\\EmployeesMajorIndustryGroup.csv",
+    "source": "./data\\EmployeesMajorIndustryGroup.csv",
     "description": "Number of Employees Provided with Job-Related Trainings in Establishments with 20 or More Workers by Type of Workers and Major Industry Group, Philippines: 2013 to 2021",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 20,

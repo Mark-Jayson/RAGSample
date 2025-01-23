@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PercentDirectWagesSubCostComponent.csv",
+    "description": "Percent Distribution of Direct Wages and Salaries in Establishments Employing 20 or More Workers by Major Industry Group and Sub-Cost Component, Philippines: 2013-2019",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 95,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;direct_wages_and_salaries;2013;2019"
+    ]
+}

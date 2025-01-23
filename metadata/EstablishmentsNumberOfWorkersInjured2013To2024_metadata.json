@@ -1,0 +1,11 @@
+{
+    "source": "./data\\EstablishmentsNumberOfWorkersInjured2013To2024.csv",
+    "description": "Establishments Employing 20 or More Workers With or Without Commuting Accidents, Number of Commuting Accidents and Number of Workers Injured by Industry Group, Philippines:  2013-2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 19,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2013_total_establishments;2013_..without_commuting_accidents;2013_..with_commuting_accidents;2013_number_of_commuting_accidents;2013_number_of_workers_injured;2015_total_establishments;2015_..without_commuting_accidents;2015_..with_commuting_accidents;2015_number_of_commuting_accidents;2015_number_of_workers_injured;2017_total_establishments;2017_..without_commuting_accidents;2017_..with_commuting_accidents;2017_number_of_commuting_accidents;2017_number_of_workers_injured;2019_total_establishments;2019_..without_commuting_accidents;2019_..with_commuting_accidents;2019_number_of_commuting_accidents;2019_number_of_workers_injured;2021_total_establishments;2021_..without_commuting_accidents;2021_..with_commuting_accidents;2021_number_of_commuting_accidents;2021_number_of_workers_injured"
+    ]
+}

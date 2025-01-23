@@ -1,7 +1,6 @@
 {
-    "source": "data\\TypeOfJobsServicesContractedOutAndMajorIndustry.csv",
+    "source": "./data\\TypeOfJobsServicesContractedOutAndMajorIndustry.csv",
     "description": "Number of Agency-Hired Workers in Establishments with 20 or More Workers by Type of Jobs/Services Contracted Out and Major Industry Group, Philippines: June 2014 to August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 19,

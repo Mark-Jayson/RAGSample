@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PPIWorkersByAssistingAgency2015.csv",
+    "description": "Number of Productivity Programs Implemented in Establishments Employing 20 or More Workers by Assisting Agency and Major Industry Group, Philippines: 2015",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 152,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;assisting_agency;2015"
+    ]
+}

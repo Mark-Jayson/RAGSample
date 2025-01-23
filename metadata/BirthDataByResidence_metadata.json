@@ -1,8 +1,7 @@
 {
-    "source": "data\\BirthDataByResidence.csv",
+    "source": "./data\\BirthDataByResidence.csv",
     "description": "Number of Live Births by Usual Residence of Mother, Year, Sex and Month of Occurrence",
-    "warnings": [],
-    "encoding": "ISO-8859-1",
+    "encoding": "utf-8",
     "delimiter": ",",
     "num_rows": 119,
     "num_columns": 1,

@@ -1,0 +1,15 @@
+{
+    "source": "./data\\WorkdaysLostInEstablishments2015To2021.csv",
+    "description": "Cases of Occupational Injuries With Workdays Lost in Establishments Employing 20 or More Workers by Industry Group and Major Occupation Group, Philippines: 2015-2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 19,
+    "num_columns": 5,
+    "column_names": [
+        "major_industry_group;2015_total;2015_..managers;2015_..professionals;2015_..technicians_and_associate_professionals;2015_..clerical_support_workers;2015_..service_and_sales_workers;2015_..skilled_agricultural",
+        "forestry_and_fishery_workers;2015_..craft_and_related_trades_workers;2015_..plant_and_machine_operators_and_assemblers;2015_..elementary_occupations;2017_total;2017_..managers;2017_..professionals;2017_..technicians_and_associate_professionals;2017_..clerical_support_workers;2017_..service_and_sales_workers;2017_..skilled_agricultural",
+        "forestry_and_fishery_workers;2017_..craft_and_related_trades_workers;2017_..plant_and_machine_operators_and_assemblers;2017_..elementary_occupations;2019_total;2019_..managers;2019_..professionals;2019_..technicians_and_associate_professionals;2019_..clerical_support_workers;2019_..service_and_sales_workers;2019_..skilled_agricultural",
+        "forestry_and_fishery_workers;2019_..craft_and_related_trades_workers;2019_..plant_and_machine_operators_and_assemblers;2019_..elementary_occupations;2021_total;2021_..managers;2021_..professionals;2021_..technicians_and_associate_professionals;2021_..clerical_support_workers;2021_..service_and_sales_workers;2021_..skilled_agricultural",
+        "forestry_and_fishery_workers;2021_..craft_and_related_trades_workers;2021_..plant_and_machine_operators_and_assemblers;2021_..elementary_occupations"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "source": "./data\\EstablishmentsWithUnionScopeAndRegion2022.csv",
+    "description": "Number of Establishments Employing 20 or More Workers With Union by Scope of Bargaining Unit and Region, Philippines: August 2022",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 1,
+    "column_names": [
+        "region;2022_establishments_with_union;2022_supervisors_only;2022_rank_and_file_only;2022_rank_and_file_including_supervisors"
+    ]
+}

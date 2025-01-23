@@ -1,0 +1,11 @@
+{
+    "source": "./data\\EstablishmentsWithOrWithoutCommutingAccidents2013To2021.csv",
+    "description": "Establishments Employing 20 or More Workers With or Without Commuting Accidents, Number of Commuting Accidents and Number of Workers Injured by Region, Philippines:  2013-2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 1,
+    "column_names": [
+        "region;2021_total_establishments;2021_..without_commuting_accidents;2021_..with_commuting_accidents;2021_number_of_commuting_accidents;2021_number_of_workers_injured"
+    ]
+}

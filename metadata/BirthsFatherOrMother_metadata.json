@@ -1,7 +1,6 @@
 {
-    "source": "data\\BirthsFatherOrMother.csv",
+    "source": "./data\\BirthsFatherOrMother.csv",
     "description": "Live Births Which Occurred Abroad to Filipino  Father or Mother or  Both by Age Group and Parents: 2016",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 11,

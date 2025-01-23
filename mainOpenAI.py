@@ -239,6 +239,8 @@ def main():
     load_dotenv()
     Settings.llm = OpenAI()
 
+    
+
     PERSIST_DIR = "./storage"
     if not os.path.exists(PERSIST_DIR):
     # load the documents and create the index

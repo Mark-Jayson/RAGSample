@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkersWhoAvailedOfECPeServiceByTypeAndDuration.csv",
+    "description": "Number of Establishments Employing 20 or More Workers with Employees Who Availed of ECP Services by Type and Duration When Service was Received and Major Industry Group, Philippines: 2015 - 2017",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 350,
+    "num_columns": 1,
+    "column_names": [
+        "type_of_services_(kagabay_program)_availed;duration_when_service_was_received;major_industry_group;2017"
+    ]
+}

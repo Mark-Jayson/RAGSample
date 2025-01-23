@@ -12,6 +12,7 @@ import pandas as pd
 import numpy as np
 from typing import List, Optional, Tuple
 from dotenv import load_dotenv
+from llama_index.embeddings.openai import OpenAIEmbedding
 from llama_index.core import (
     VectorStoreIndex,
     Document,
@@ -22,6 +23,7 @@ from llama_index.core import (
 from llama_index.core import Settings
 from llama_index.llms.groq import Groq
 from sentence_transformers import SentenceTransformer
+import json
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
@@ -191,11 +193,14 @@ def initialize_index():
     load_dotenv()
     PERSIST_DIR = "./storage"
     
-    embed_model = SentenceTransformer('BAAI/bge-small-en') #embedding model for data preprocessing. BAAI/bge-small-en a small-scale model but with competitive performance
-    api_key = os.getenv("GROQ_API_KEY")
-    llm = Groq(model="llama3-70b-8192", api_key=api_key) #Using Groq LLM 
+    embed_model = OpenAIEmbedding()
+    
+    api_key = os.getenv("GROQ_API_KEY") 
+    llm = Groq(model="llama3-70b-8192", api_key=api_key)
+    
+    # Set global settings
     Settings.llm = llm
-    service_context = ServiceContext.from_defaults(embed_model=embed_model, llm=llm)
+    Settings.embed_model = embed_model
     
     if not os.path.exists(PERSIST_DIR):
         data_folder = "data"
@@ -203,7 +208,7 @@ def initialize_index():
         documents = process_csv_files(csv_files) #calling the function process_csv_files to process the csv files
         
         if documents:
-            index = VectorStoreIndex.from_documents(documents, show_progress=True, service_context=service_context)
+            index = VectorStoreIndex.from_documents(documents, show_progress=True)
             index.storage_context.persist(persist_dir=PERSIST_DIR)
         else:
             raise Exception("No documents were successfully processed")
@@ -211,11 +216,11 @@ def initialize_index():
         storage_context = StorageContext.from_defaults(persist_dir=PERSIST_DIR)
         index = load_index_from_storage(storage_context)
     
-    return index, service_context
+    return index
 
 # Initialize the index and query engine
-index, service_context = initialize_index()
-query_engine = index.as_query_engine(service_context=service_context)
+index= initialize_index()
+query_engine = index.as_query_engine()
 
 class Query(BaseModel):
     text: str

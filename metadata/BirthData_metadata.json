@@ -1,8 +1,7 @@
 {
-    "source": "data\\BirthData.csv",
+    "source": "./data\\BirthData.csv",
     "description": "Number of Registered Live Births by Sex and by Usual Residence of Mother (Region, Province and Highly Urbanized City), Philippines: January - December 2013-2022",
-    "warnings": [],
-    "encoding": "ISO-8859-1",
+    "encoding": "utf-8",
     "delimiter": ",",
     "num_rows": 135,
     "num_columns": 1,

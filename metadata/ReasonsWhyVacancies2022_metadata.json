@@ -1,7 +1,6 @@
 {
-    "source": "data\\ReasonsWhyVacancies2022.csv",
+    "source": "./data\\ReasonsWhyVacancies2022.csv",
     "description": "Reasons Why Vacancies in Establishments with 20 or More Workers Were Hard to Fill, Philippines: January 2013 - June 2014 to September 2021 - August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 10,

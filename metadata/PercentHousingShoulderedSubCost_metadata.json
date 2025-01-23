@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PercentHousingShoulderedSubCost.csv",
+    "description": "Percent Distribution of Cost of Workers\u2019 Housing Shouldered by Employers in Establishments Employing 20 or More Workers by Industry Group and Sub-Cost Component, Philippines: 2013-2019",
+    "encoding": "Windows-1252",
+    "delimiter": ",",
+    "num_rows": 76,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;housing_shouldered_by_employers;2013;2019"
+    ]
+}

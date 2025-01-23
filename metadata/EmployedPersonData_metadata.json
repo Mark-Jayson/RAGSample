@@ -1,7 +1,6 @@
 {
-    "source": "data\\EmployedPersonData.csv",
+    "source": "./data\\EmployedPersonData.csv",
     "description": "Employed Persons by Major Occupation, by Region, by Sex: 2018 to 2021",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 198,

@@ -1,0 +1,11 @@
+{
+    "source": "./data\\IncidenceRatesOfCases2021.csv",
+    "description": "Incidence Rates of Cases of Occupational Injuries With Workdays Lost in Establishments Employing 20 or More Workers by Region and Incapacity for Work, Philippines: 2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 1,
+    "column_names": [
+        "region;2021_total;2021_..fatal;2021_..non_fatal;2021_....permanent_incapacity;2021_....temporary_incapacity"
+    ]
+}

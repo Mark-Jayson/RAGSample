@@ -1,0 +1,11 @@
+{
+    "source": "./data\\HousingData.csv",
+    "description": "Occupied Housing Units by Type of Building, Number of Floors, and Province/Highly Urbanized City: Philippines, 2020",
+    "encoding": "utf-8",
+    "delimiter": ",",
+    "num_rows": 1350,
+    "num_columns": 1,
+    "column_names": [
+        "type_of_building;geographic_location;total;one_floor;two_floors;three_floors;four_floors;five_to_10_floors;11_floors_or_more;not_reported;not_applicable"
+    ]
+}

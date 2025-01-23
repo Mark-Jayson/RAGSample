@@ -1,0 +1,11 @@
+{
+    "source": "./data\\AnnualLaborCostMajorComponent.csv",
+    "description": "Annual Labor Cost Per Employee in Establishments Employing 20 or More Workers by Industry Group and Major Cost Component, Philippines: 2013-2019",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 190,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;annual_labor_cost_per_employee;2013;2019"
+    ]
+}

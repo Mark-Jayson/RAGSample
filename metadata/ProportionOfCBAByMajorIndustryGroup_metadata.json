@@ -1,0 +1,11 @@
+{
+    "source": "./data\\ProportionOfCBAByMajorIndustryGroup.csv",
+    "description": "Number and Proportion of CBA Coverage in Establishments Employing 20 or More Workers by Major Industry Group, Philippines: June 2014 to August 2022",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 19,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2014_unionized_workers;2014_cba_coverage;2014_percent;2016_unionized_workers;2016_cba_coverage;2016_percent;2018_unionized_workers;2018_cba_coverage;2018_percent;2020_unionized_workers;2020_cba_coverage;2020_percent;2022_unionized_workers;2022_cba_coverage;2022_percent"
+    ]
+}

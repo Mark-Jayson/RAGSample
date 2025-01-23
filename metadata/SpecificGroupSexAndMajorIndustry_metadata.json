@@ -1,8 +1,7 @@
 {
-    "source": "data\\SpecificGroupSexAndMajorIndustry.csv",
+    "source": "./data\\SpecificGroupSexAndMajorIndustry.csv",
     "description": "Total Employment of Establishments with 20 or More Workers by Specific Group, Sex and Major Industry Group, Philippines: June 2014 to August 2022",
-    "warnings": [],
-    "encoding": "Windows-1252",
+    "encoding": "utf-8",
     "delimiter": ",",
     "num_rows": 28,
     "num_columns": 1,

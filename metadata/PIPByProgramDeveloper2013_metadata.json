@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PIPByProgramDeveloper2013.csv",
+    "description": "Number of Productivity Improvement Programs (PIPs) Implemented in Establishments Employing 20 or More Workers by Program Developer, Philippines: 2013",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 80,
+    "num_columns": 1,
+    "column_names": [
+        "productivity_improvement_program_implemented;program_developer;2013"
+    ]
+}

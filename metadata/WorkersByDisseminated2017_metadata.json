@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkersByDisseminated2017.csv",
+    "description": "Number of Establishments Employing 20 or More Workers Who Disseminated Information on ECP by Mode of Information Dissemination and Major Industry Group, Philippines:  2017",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 182,
+    "num_columns": 1,
+    "column_names": [
+        "mode_of_information_dissemination;major_industry_group;2017"
+    ]
+}

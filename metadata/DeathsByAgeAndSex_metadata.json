@@ -1,8 +1,7 @@
 {
-    "source": "data\\DeathsByAgeAndSex.csv",
+    "source": "./data\\DeathsByAgeAndSex.csv",
     "description": "Number of Registered Deaths by Age and Sex, Philippines: 2016",
-    "warnings": [],
-    "encoding": "Windows-1252",
+    "encoding": "utf-8",
     "delimiter": ",",
     "num_rows": 23,
     "num_columns": 1,

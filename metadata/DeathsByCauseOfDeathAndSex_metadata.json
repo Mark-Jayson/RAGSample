@@ -1,8 +1,7 @@
 {
-    "source": "data\\DeathsByCauseOfDeathAndSex.csv",
+    "source": "./data\\DeathsByCauseOfDeathAndSex.csv",
     "description": "Number of Registered Deaths by Causes of Death and Sex, Philippines: 2016",
-    "warnings": [],
-    "encoding": "Windows-1252",
+    "encoding": "utf-8",
     "delimiter": ",",
     "num_rows": 73,
     "num_columns": 1,

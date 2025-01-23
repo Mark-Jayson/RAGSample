@@ -1,8 +1,7 @@
 {
-    "source": "data\\RegisteredMarriagesMale.csv",
+    "source": "./data\\RegisteredMarriagesMale.csv",
     "description": "Number of Registered Marriages by Age Group of Male and Place of Occurrence (Region, Province and HUCs), Philippines: 2013-2022",
-    "warnings": [],
-    "encoding": "Windows-1252",
+    "encoding": "utf-8",
     "delimiter": ",",
     "num_rows": 134,
     "num_columns": 1,

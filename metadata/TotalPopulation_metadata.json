@@ -1,8 +1,7 @@
 {
-    "source": "data\\TotalPopulation.csv",
+    "source": "./data\\TotalPopulation.csv",
     "description": "Total population by geographic location (based on 2000, 2010 and 2015 Censuses)",
-    "warnings": [],
-    "encoding": "ISO-8859-1",
+    "encoding": "utf-8",
     "delimiter": ",",
     "num_rows": 135,
     "num_columns": 1,

@@ -1,7 +1,6 @@
 {
-    "source": "data\\LengthOfRecruitmentPeriod2022.csv",
+    "source": "./data\\LengthOfRecruitmentPeriod2022.csv",
     "description": "Length of Recruitment Period in Filling-Up Vacancies in Establishments with 20 or More Workers by Major Occupation Group, Philippines: July 2017 - June 2018 to September 2021 - August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 10,

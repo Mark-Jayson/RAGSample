@@ -1,7 +1,6 @@
 {
-    "source": "data\\BasisOfPaymentAndRegion.csv",
+    "source": "./data\\BasisOfPaymentAndRegion.csv",
     "description": "Total Employment of Establishments with 20 or More Workers by Basis of Payment and Region: August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 18,

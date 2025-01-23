@@ -1,7 +1,6 @@
 {
-    "source": "data\\SubcontractingByMajorndustryGroup.csv",
+    "source": "./data\\SubcontractingByMajorndustryGroup.csv",
     "description": "Number of Establishments with 20 or More Workers Engaged in Subcontracting by Type of Jobs/Services Contracted Out and Major Industry Group, Philippines: June 2014 to August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 19,

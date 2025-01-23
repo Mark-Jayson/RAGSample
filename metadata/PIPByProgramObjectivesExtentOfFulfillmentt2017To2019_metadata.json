@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PIPByProgramObjectivesExtentOfFulfillmentt2017To2019.csv",
+    "description": "Number of Establishments Employing 20 or More Workers with Productivity Improvement Program (PIP) by Program Objectives Extent of Fulfillment and Major Industry Group, Philippines:  2017 - 2019",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 420,
+    "num_columns": 1,
+    "column_names": [
+        "program_objectives_extent_of_fulfillment;major_industry_group;productivity_improvement_program_objective/s;2017;2019"
+    ]
+}

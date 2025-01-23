@@ -1,7 +1,6 @@
 {
-    "source": "data\\RegisteredTotalDeaths.csv",
+    "source": "./data\\RegisteredTotalDeaths.csv",
     "description": "Number of Registered Total Deaths,  Maternal Deaths and Infant Deaths and by Usual Residence and Place of Occurrence  (Region, Province, City/Municipality), Philippines:2016",
-    "warnings": [],
     "encoding": "Windows-1252",
     "delimiter": ",",
     "num_rows": 119,

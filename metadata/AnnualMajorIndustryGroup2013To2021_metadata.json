@@ -1,7 +1,6 @@
 {
-    "source": "data\\AnnualMajorIndustryGroup2013To2021.csv",
+    "source": "./data\\AnnualMajorIndustryGroup2013To2021.csv",
     "description": "Annual Training Cost Incurred by Establishments Providing Job-Related Trainings  by Type of Workers and Major Industry Group, Philippines: 2021  (In PhP Million except Percent Share)",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 20,

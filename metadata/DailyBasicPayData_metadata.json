@@ -1,8 +1,7 @@
 {
-    "source": "data\\DailyBasicPayData.csv",
+    "source": "./data\\DailyBasicPayData.csv",
     "description": "Average Daily Basic Pay of Wage and Salary Workers by Major Industry Group, Philippines: 2016 to October 2024",
-    "warnings": [],
-    "encoding": "Windows-1252",
+    "encoding": "utf-8",
     "delimiter": ",",
     "num_rows": 25,
     "num_columns": 1,

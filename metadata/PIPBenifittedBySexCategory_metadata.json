@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PIPBenifittedBySexCategory.csv",
+    "description": "Number of Establishments Employing 20 or More Workers with Productivity Improvement Program (PIP) by Workers Benifitted by Sex, Category and Major Industry Group, Philippines:  2017 - 2019",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 285,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;sex;category_of_employees_who_benefitted_from_pip_incentives;2017;2019"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "source": "./data\\EstablismentsThatAttendedRTWPB.csv",
+    "description": "Number of Establishments Employing 20 or More Workers That Attended RTWPB Training Programs and Implemented PIPs by Major Industry Group, Philippines:  2017 - 2019",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 76,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;indicator/s;2017;2019"
+    ]
+}

@@ -1,7 +1,6 @@
 {
-    "source": "data\\WorkersByCategorySex.csv",
+    "source": "./data\\WorkersByCategorySex.csv",
     "description": "Total Employment and Number of Non-Regular Workers in Establishments with 20 or More Workers by Category, Sex and Major Industry Group, Philippines: June 2014 to August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 28,

@@ -1,0 +1,11 @@
+{
+    "source": "./data\\EstablishmentsPIPByLegalOrganization2017To2019.csv",
+    "description": "Number of Establishments Employing 20 or More Workers with Productivity Improvement Program (PIP) by Legal Organization and Major Industry Group, Philippines:  2017 - 2019",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 133,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;legal_organization;2017;2019"
+    ]
+}

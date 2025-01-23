@@ -1,0 +1,11 @@
+{
+    "source": "./data\\EstablishmentsWithUnionByScopeOfBargainingIndustry.csv",
+    "description": "Number of Establishments Employing 20 or More Workers with Union by Scope of Bargaining Unit and Major Industry Group, Philippines: June 2014 to August 2022",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 19,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2014_establishments_with_union;2014_supervisors_only;2014_rank_and_file_only;2014_rank_and_file_including_supervisors;2016_establishments_with_union;2016_supervisors_only;2016_rank_and_file_only;2016_rank_and_file_including_supervisors;2018_establishments_with_union;2018_supervisors_only;2018_rank_and_file_only;2018_rank_and_file_including_supervisors;2020_establishments_with_union;2020_supervisors_only;2020_rank_and_file_only;2020_rank_and_file_including_supervisors;2022_establishments_with_union;2022_supervisors_only;2022_rank_and_file_only;2022_rank_and_file_including_supervisors"
+    ]
+}

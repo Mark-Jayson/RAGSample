@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PPIByProgramDeveloper2015.csv",
+    "description": "Number of Productivity Programs Implemented in Establishments Employing 20 or More Workers by Program Developer and Major Industry Group, Philippines: 2015",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 133,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;program_developer;2015"
+    ]
+}

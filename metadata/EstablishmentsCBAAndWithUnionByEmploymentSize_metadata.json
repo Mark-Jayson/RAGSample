@@ -1,0 +1,11 @@
+{
+    "source": "./data\\EstablishmentsCBAAndWithUnionByEmploymentSize.csv",
+    "description": "Number and Proportion of Establishments Employing 20 or More Workers With CBA and With Union by Employment Size, Philippines: June 2014 to August 2022",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 3,
+    "num_columns": 1,
+    "column_names": [
+        "employment_size;2014_establishments_with_union;2014_establishments_with_cba;2014_percent;2016_establishments_with_union;2016_establishments_with_cba;2016_percent;2018_establishments_with_union;2018_establishments_with_cba;2018_percent;2020_establishments_with_union;2020_establishments_with_cba;2020_percent;2022_establishments_with_union;2022_establishments_with_cba;2022_percent"
+    ]
+}

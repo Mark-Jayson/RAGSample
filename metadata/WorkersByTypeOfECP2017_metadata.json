@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkersByTypeOfECP2017.csv",
+    "description": "Number of Establishments Employing 20 or More Workers by Type of ECP Information Learned from Source/s and Major Industry Group, Philippines:  2017",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 70,
+    "num_columns": 1,
+    "column_names": [
+        "type_of_ecp_information_learned_from_source/s;major_industry_group;2017"
+    ]
+}

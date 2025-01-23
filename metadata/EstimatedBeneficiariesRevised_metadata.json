@@ -1,0 +1,11 @@
+{
+    "source": "./data\\EstimatedBeneficiariesRevised.csv",
+    "description": "Estimated Beneficiaries and Total Registered Members of National Health Insurance Program (Revised Table Format)",
+    "encoding": "Windows-1252",
+    "delimiter": ",",
+    "num_rows": 32,
+    "num_columns": 1,
+    "column_names": [
+        "indicator;item;2014;2015;2016;2017;2018"
+    ]
+}

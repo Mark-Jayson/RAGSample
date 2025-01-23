@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PIPByTypeOfScheme2013.csv",
+    "description": "Number of Establishments Employing 20 or More Workers With Gainsharing Scheme as Productivity Improvement Program (PIP) by Type of Scheme/s Implemented and Major Industry Group, Philippines: 2013",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 171,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;type_of_gainsharing_scheme/s_implemented;2013"
+    ]
+}

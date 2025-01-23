@@ -1,0 +1,11 @@
+{
+    "source": "./data\\TotalPaidUnionizedCBABySexAndRegion2022.csv",
+    "description": "Number of Total Paid Employees, Unionized Workers and CBA Coverage in Establishments Employing 20 or More Workers by Sex and Region: August 2022",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 1,
+    "column_names": [
+        "region;2022_paid_employees_both_sexes;2022_paid_employees_male;2022_paid_employees_female;2022_unionized_workers_both_sexes;2022_unionized_workers_male;2022_unionized_workers_female;2022_cba_coverage_both_sexes;2022_cba_coverage_male;2022_cba_coverage_female"
+    ]
+}

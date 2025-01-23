@@ -1,0 +1,11 @@
+{
+    "source": "./data\\EstablishmentsByPIP2013To2019.csv",
+    "description": "Number of Establishments Employing 20 or More Workers by Productivity Improvement Programs (PIPs) and Major Industry Group, Philippines: 2013 - 2019",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 285,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;productivity_improvement_program;2013;2015;2017;2019"
+    ]
+}

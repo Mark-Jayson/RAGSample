@@ -1,0 +1,11 @@
+{
+    "source": "./data\\SeverityRatesAndAverage2021.csv",
+    "description": "Severity Rates and Average Workdays Lost of Cases of Occupational Injuries Resulting to Temporary Incapacity in Establishments Employing 20 or More Workers by Region, Philippines: 2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 1,
+    "column_names": [
+        "region;2021_severity_rate;2021_average_workdays_lost"
+    ]
+}

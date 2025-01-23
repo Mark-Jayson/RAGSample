@@ -1,7 +1,6 @@
 {
-    "source": "data\\WorkersByTypeAndRegion.csv",
+    "source": "./data\\WorkersByTypeAndRegion.csv",
     "description": "Number of Commission and Output-Rated Workers in Establishments with 20 or More Workers by Type and Region: August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 18,

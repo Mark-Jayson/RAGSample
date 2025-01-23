@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkersByAwarenessOnEmployees.csv",
+    "description": "Number of Establishments Employing 20 or More Workers by Awareness on Employees' Compensation Commission (ECC) and Employees' Compensation Program (ECP), Dissemination, Maintainance of EC Logbook, Availment of ECP Benefits and Services, and Provision of As",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 112,
+    "num_columns": 1,
+    "column_names": [
+        "indicators;major_industry_group;2017"
+    ]
+}

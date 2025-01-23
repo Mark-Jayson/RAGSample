@@ -1,7 +1,6 @@
 {
-    "source": "data\\VacanciesByMethodsUsedInPromotingVacancies.csv",
+    "source": "./data\\VacanciesByMethodsUsedInPromotingVacancies.csv",
     "description": "Total Number of Establishments Employing 20 or More Workers with Vacancies by Methods Used in Promoting Vacancies to Obtain Applicants by Major Industry Group, Philippines: September 2021 to August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 19,

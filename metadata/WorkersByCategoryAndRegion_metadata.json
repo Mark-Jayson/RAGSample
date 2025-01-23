@@ -1,7 +1,6 @@
 {
-    "source": "data\\WorkersByCategoryAndRegion.csv",
+    "source": "./data\\WorkersByCategoryAndRegion.csv",
     "description": "Number of Non-Regular Workers in Establishments with 20 or More Workers by Category and Region: August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 18,

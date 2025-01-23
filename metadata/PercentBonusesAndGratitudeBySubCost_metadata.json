@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PercentBonusesAndGratitudeBySubCost.csv",
+    "description": "Percent Distribution of Bonuses and Gratuities in Establishments Employing 20 or More Workers by Industry Group and Sub-Cost Component, Philippines: 2013-2019",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 57,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;bonuses_and_gratuities;2013;2019"
+    ]
+}

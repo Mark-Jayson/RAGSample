@@ -1,0 +1,11 @@
+{
+    "source": "./data\\EstablishmentsWithCBAUnionAndRegion2022.csv",
+    "description": "Number and Proportion of Establishments Employing 20 or More Workers With CBA and With Union by Region, Philippines: August 2022",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 1,
+    "column_names": [
+        "region;2022_establishments_with_union;2022_establishments_with_cba;2022_percent"
+    ]
+}

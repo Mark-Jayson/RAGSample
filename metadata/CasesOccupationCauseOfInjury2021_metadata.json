@@ -1,0 +1,13 @@
+{
+    "source": "./data\\CasesOccupationCauseOfInjury2021.csv",
+    "description": "Cases of Occupational Injuries With Workdays Lost in Establishments Employing 20 or More Workers by Region and Cause of Injury, Philippines: 2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 3,
+    "column_names": [
+        "region;2021_total;2021_..falls_of_persons;2021_..struck_by_falling_objects;2021_..stepping_on",
+        "striking_against_or_struck_by_objects",
+        "excluding_falling_objects;2021_..caught_by_or_in_between_objects;2021_..over_exertion_or_strenuous_movement;2021_..exposure_to_or_contact_with_extreme_temperatures;2021_..exposure_to_or_contact_with_electric_current;2021_..exposure_to_or_contact_with_harmful_substances;2021_..exposure_to_radiation"
+    ]
+}

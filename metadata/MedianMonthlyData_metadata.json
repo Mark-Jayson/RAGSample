@@ -1,7 +1,6 @@
 {
-    "source": "data\\MedianMonthlyData.csv",
+    "source": "./data\\MedianMonthlyData.csv",
     "description": "Median Monthly Basic Pay and Allowance of Time-Rate Workers on Full-Time Basis by Industry, 2014 to 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 390,

@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PIPByFrequencyOfVisitation2019.csv",
+    "description": "Number of Establishments Employing 20 or More Workers with Productivity Improvement Program (PIP) by Frequency of Visitation/Monitoring of RTWPBs to the Establishments's Implementation of PIP/s and Major Industry Group, Philippines:  2019",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 114,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;frequency_of_visitation/monitoring_of_rtwpbs;2019"
+    ]
+}

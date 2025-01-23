@@ -1,0 +1,14 @@
+{
+    "source": "./data\\CasesOccupationalPartOfBodyInjured2021.csv",
+    "description": "Cases of Occupational Injuries With Workdays Lost in Establishments Employing 20 or More Workers by Region and Part of the Body Injured, Philippines: 2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 4,
+    "column_names": [
+        "region;2021_total;2021_..head;2021_..neck;2021_..trunk;2021_..abdomen",
+        "lower_back",
+        "lumbar_spine",
+        "pelvis;2021_..shoulder_and_upper_arm;2021_..elbow_and_forearm;2021_..wrist_and_hand;2021_..hip_and_thigh;2021_..lower_extremities;2021_..whole_body_or_multiple_sites_equally_injured"
+    ]
+}

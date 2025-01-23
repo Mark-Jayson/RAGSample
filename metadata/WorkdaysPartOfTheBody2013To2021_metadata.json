@@ -1,0 +1,26 @@
+{
+    "source": "./data\\WorkdaysPartOfTheBody2013To2021.csv",
+    "description": "Cases of Occupational Injuries With Workdays Lost in Establishments Employing 20 or More Workers by Industry Group and Part of the Body Injured, Philippines: 2013-2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 19,
+    "num_columns": 16,
+    "column_names": [
+        "major_industry_group;2013_total;2013_..head;2013_..neck;2013_..back;2013_..trunk;2013_..abdomen",
+        "lower_back",
+        "lumbar_spine",
+        "pelvis;2013_..arm_and_shoulder;2013_..shoulder_and_upper_arm;2013_..elbow_and_forearm;2013_..wrist_and_hand;2013_..hip_and_thigh;2013_..lower_extremities;2013_..whole_body_or_multiple_sites_equally_injured;2015_total;2015_..head;2015_..neck;2015_..back;2015_..trunk;2015_..abdomen",
+        "lower_back.1",
+        "lumbar_spine.1",
+        "pelvis;2015_..arm_and_shoulder;2015_..shoulder_and_upper_arm;2015_..elbow_and_forearm;2015_..wrist_and_hand;2015_..hip_and_thigh;2015_..lower_extremities;2015_..whole_body_or_multiple_sites_equally_injured;2017_total;2017_..head;2017_..neck;2017_..back;2017_..trunk;2017_..abdomen",
+        "lower_back.2",
+        "lumbar_spine.2",
+        "pelvis;2017_..arm_and_shoulder;2017_..shoulder_and_upper_arm;2017_..elbow_and_forearm;2017_..wrist_and_hand;2017_..hip_and_thigh;2017_..lower_extremities;2017_..whole_body_or_multiple_sites_equally_injured;2019_total;2019_..head;2019_..neck;2019_..back;2019_..trunk;2019_..abdomen",
+        "lower_back.3",
+        "lumbar_spine.3",
+        "pelvis;2019_..arm_and_shoulder;2019_..shoulder_and_upper_arm;2019_..elbow_and_forearm;2019_..wrist_and_hand;2019_..hip_and_thigh;2019_..lower_extremities;2019_..whole_body_or_multiple_sites_equally_injured;2021_total;2021_..head;2021_..neck;2021_..back;2021_..trunk;2021_..abdomen",
+        "lower_back.4",
+        "lumbar_spine.4",
+        "pelvis;2021_..arm_and_shoulder;2021_..shoulder_and_upper_arm;2021_..elbow_and_forearm;2021_..wrist_and_hand;2021_..hip_and_thigh;2021_..lower_extremities;2021_..whole_body_or_multiple_sites_equally_injured"
+    ]
+}

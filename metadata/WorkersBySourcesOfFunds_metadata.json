@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkersBySourcesOfFunds.csv",
+    "description": "Number of Establishments Employing 20 or More Workers by Sources of Funds During Quarantine/Lockdown and Major Industry Group, Philippines:  June 30, 2020",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 247,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;sources_of_funds_during_quarantine/lockdown;2020"
+    ]
+}

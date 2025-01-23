@@ -1,0 +1,15 @@
+{
+    "source": "./data\\CasesOccupationTypeOfDisease2021.csv",
+    "description": "Cases of Occupational Diseases in Establishments Employing 20 or more Workers by Region and Type of Disease, Philippines:2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 5,
+    "column_names": [
+        "region;2021_total;2021_..occupational_dermatitis;2021_..occupational_asthma;2021_..occupational_kidney_disease_caused_by_heavy_metals_or_organic_solvents;2021_..other_diseases_caused_by_chemicals;2021_..heat_stroke",
+        "cramps",
+        "exhaustion;2021_..chilblain",
+        "frostbite",
+        "freezing;2021_..deafness;2021_..tuberculosis;2021_..work_related_covid_19_infection;2021_..occupational_lung_diseases;2021_..other_infections;2021_..cataract;2021_..cardiovascular_diseases;2021_..carpal_tunnel_syndrome;2021_..shoulder_tendinitis;2021_..neck_shoulder_pain;2021_..back_pain;2021_..other_work_related_musculoskeletal_diseases;2021_..work_related_mental_health_condition;2021_..other_diseases"
+    ]
+}

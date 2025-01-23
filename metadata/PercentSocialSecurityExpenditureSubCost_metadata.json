@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PercentSocialSecurityExpenditureSubCost.csv",
+    "description": "Percent Distribution of Employer\u2019s Social Security Expenditures in Establishments Employing 20 or More Workers by Industry Group and Sub-Cost Component, Philippines: 2013-2019",
+    "encoding": "Windows-1252",
+    "delimiter": ",",
+    "num_rows": 114,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;social_security_expenditures;2013;2019"
+    ]
+}

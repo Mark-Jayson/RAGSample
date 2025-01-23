@@ -1,8 +1,7 @@
 {
-    "source": "data\\NumberOfDeathsAgeGroupAndSex.csv",
+    "source": "./data\\NumberOfDeathsAgeGroupAndSex.csv",
     "description": "Deaths : Number of Deaths by Usual Residence (Region, Province and City/Municipality), Age Group and Sex: Philippines, 2016",
-    "warnings": [],
-    "encoding": "ISO-8859-1",
+    "encoding": "utf-8",
     "delimiter": ",",
     "num_rows": 119,
     "num_columns": 1,

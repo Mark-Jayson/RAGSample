@@ -1,0 +1,11 @@
+{
+    "source": "./data\\DistributionByTypeOfOwnershipAndSex.csv",
+    "description": "Number and Percent Distribution of Unionized Workers in Establishments Employing 20 or More Workers by Type of Ownership and Sex, Philippines: June 2014 to June 2016",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 12,
+    "num_columns": 1,
+    "column_names": [
+        "type_of_ownership;sex;2014;2016"
+    ]
+}

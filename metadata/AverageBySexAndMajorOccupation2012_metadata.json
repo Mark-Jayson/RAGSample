@@ -1,0 +1,11 @@
+{
+    "source": "./data\\AverageBySexAndMajorOccupation2012.csv",
+    "description": "Average Real Daily Basic Pay by Sex and Major Occupation Group (Based on 2012 PSOC)",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 66,
+    "num_columns": 1,
+    "column_names": [
+        "indicator;sex;major_occupation;2016;2017;2018"
+    ]
+}

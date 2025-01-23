@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkersWithDesignatedHealthAndSafety2021.csv",
+    "description": "Number of Establishments Employing 20 or More Workers With Designated Health and Safety Personnel by Designated Personnel and by Region, Philippines: 2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 1,
+    "column_names": [
+        "region;2021_total_establishments;2021_total_establishments_with_designated_health_and_safety_personnel;2021_certified_first_aider;2021_occupational_health_nurse;2021_occupational_health_physician;2021_dentist;2021_industrial_hygienist;2021_safety_officer_1___accredited_by_dole;2021_safety_officer_1___not_accredited_by_dole;2021_safety_officer_2___accredited_by_dole;2021_safety_officer_2___not_accredited_by_dole;2021_safety_officer_3___accredited_by_dole;2021_safety_officer_3___not_accredited_by_dole;2021_safety_officer_4___accredited_by_dole;2021_safety_officer_4___not_accredited_by_dole;2021_others;2021_none"
+    ]
+}

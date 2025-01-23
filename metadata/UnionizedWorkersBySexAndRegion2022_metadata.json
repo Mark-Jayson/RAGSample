@@ -1,0 +1,11 @@
+{
+    "source": "./data\\UnionizedWorkersBySexAndRegion2022.csv",
+    "description": "Number of Unionized Workers, Union Officers and Presidents in Establishments Employing 20 or More Workers by Sex and Region:  August 2022",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 18,
+    "num_columns": 1,
+    "column_names": [
+        "region;2022_unionized_workers_both_sexes;2022_unionized_workers_male;2022_unionized_workers_female;2022_union_officers_both_sexes;2022_union_officers_male;2022_union_officers_female;2022_union_presidents_both_sexes;2022_union_presidents_male;2022_union_presidents_female"
+    ]
+}

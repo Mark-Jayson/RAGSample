@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkersByOSHPoliciesByRegion2021.csv",
+    "description": "Number of Establishments Employing 20 or More Workers by Occupational Safety and Health (OSH) Policies/Programs Implemented and by Region, Philippines: 2021",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 46,
+    "num_columns": 1,
+    "column_names": [
+        "osh_policy/program;2021_philippines;2021_..national_capital_region;2021_..cordillera_administrative_region;2021_..region_i___ilocos_region;2021_..region_ii___cagayan_valley;2021_..region_iii___central_luzon;2021_..region_iv_a___calabarzon;2021_..mimaropa_region;2021_..region_v___bicol_region;2021_..region_vi___western_visayas;2021_..region_vii___central_visayas;2021_..region_viii___eastern_visayas;2021_..region_ix___zamboanga_peninsula;2021_..region_x___northern_mindanao;2021_..region_xi___davao_region;2021_..region_xii___soccsksargen;2021_..region_xiii___caraga;2021_..bangsamoro_autonomous_region_in_muslim_mindanao"
+    ]
+}

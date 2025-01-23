@@ -1,0 +1,11 @@
+{
+    "source": "./data\\PIPByExtentPIPObjectiveWaMet2013.csv",
+    "description": "Number of Establishments Employing 20 or More Workers With Productivity Improvement Programs (PIPs) by Extent PIP Objective Was Met, Philippines: 2013",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 44,
+    "num_columns": 1,
+    "column_names": [
+        "productivity_improvement_program_(pip)_objective;extent_pip_objective_was_met;2013"
+    ]
+}

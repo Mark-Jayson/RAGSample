@@ -1,0 +1,11 @@
+{
+    "source": "./data\\LaborCostPerHourByIndustryGroup.csv",
+    "description": "Labor Cost Per Hour in Establishments Employing 20 or More Workers by Industry Group, Philippines: 2013-2019",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 19,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2013;2019"
+    ]
+}

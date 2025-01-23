@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkersWithPreventiveAndControl2013To2017.csv",
+    "description": "Number of Establishments Employing 20 or More Workers With Preventive and Control Measures/Activities Against Work Safety and Health Hazards by Type of Activity Conducted and Major Industry Group, Philippines: 2012-2013 to 2017",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 392,
+    "num_columns": 1,
+    "column_names": [
+        "preventive_and_control_measures/activities;major_industry_group;2013;2015;2017"
+    ]
+}

@@ -1,7 +1,6 @@
 {
-    "source": "data\\VacanciesMajorOccupatioGroupInEstablishments .csv",
+    "source": "./data\\VacanciesMajorOccupatioGroupInEstablishments .csv",
     "description": "Total Number of Vacancies and Applicants by Major Occupation Group in Establishments with 20 or More Workers, Philippines: July 2017 - June 2018 to September 2021 - August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 10,

@@ -1,8 +1,7 @@
 {
-    "source": "data\\HouseholdData.csv",
+    "source": "./data\\HouseholdData.csv",
     "description": "Occupied Housing Units, Number of Households, Household Population, by Type of Building and Province/Highly Urbanized City: Philippines, 2020",
-    "warnings": [],
-    "encoding": "ISO-8859-1",
+    "encoding": "utf-8",
     "delimiter": ",",
     "num_rows": 1350,
     "num_columns": 1,

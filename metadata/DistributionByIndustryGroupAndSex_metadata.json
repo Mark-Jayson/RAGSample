@@ -1,0 +1,11 @@
+{
+    "source": "./data\\DistributionByIndustryGroupAndSex.csv",
+    "description": "Number and Percent Distribution of Unionized Workers in Establishments Employing 20 or More Workers by Major Industry Group and Sex, Philippines: June 2014 to August 2022",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 19,
+    "num_columns": 1,
+    "column_names": [
+        "major_industry_group;2014_both_sexes;2014_..male;2014_..female;2016_both_sexes;2016_..male;2016_..female;2018_both_sexes;2018_..male;2018_..female;2020_both_sexes;2020_..male;2020_..female;2022_both_sexes;2022_..male;2022_..female"
+    ]
+}

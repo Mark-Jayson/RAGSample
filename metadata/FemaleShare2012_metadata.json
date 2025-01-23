@@ -1,0 +1,11 @@
+{
+    "source": "./data\\FemaleShare2012.csv",
+    "description": "Female Share in Occupational Employment (Based on 2012 PSOC)",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 44,
+    "num_columns": 1,
+    "column_names": [
+        "indicator;item;2016;2017;2018"
+    ]
+}

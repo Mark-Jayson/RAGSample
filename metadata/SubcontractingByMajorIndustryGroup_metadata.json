@@ -1,7 +1,6 @@
 {
-    "source": "data\\SubcontractingByMajorIndustryGroup.csv",
+    "source": "./data\\SubcontractingByMajorIndustryGroup.csv",
     "description": "Number and Percent Distribution of Establishments with 20 or More Workers Engaged in Subcontracting by Major Industry Group, Philippines: June 2014 to August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 19,

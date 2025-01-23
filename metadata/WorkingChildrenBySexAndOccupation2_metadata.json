@@ -1,0 +1,11 @@
+{
+    "source": "./data\\WorkingChildrenBySexAndOccupation2.csv",
+    "description": "Working Children by Sex and Major Occupation Group",
+    "encoding": "ascii",
+    "delimiter": ",",
+    "num_rows": 36,
+    "num_columns": 1,
+    "column_names": [
+        "indicator;sex;major_occupation_group;2016;2017;2018"
+    ]
+}

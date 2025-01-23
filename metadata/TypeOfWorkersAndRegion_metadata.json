@@ -1,7 +1,6 @@
 {
-    "source": "data\\TypeOfWorkersAndRegion.csv",
+    "source": "./data\\TypeOfWorkersAndRegion.csv",
     "description": "Total Number of Persons Engaged in Establishments with 20 or More Workers by Type of Workers and Region: August 2022",
-    "warnings": [],
     "encoding": "ascii",
     "delimiter": ",",
     "num_rows": 18,
