@@ -1,0 +1,291 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+/* Nav-Bar---Start */
+.navbar {
+  background-color: #0066d3;
+  color: #fff;
+  height: 60px;
+  padding: 0 20px;
+  top: 0;
+}
+
+.logo {
+  width: auto;
+  height: 55px;
+}
+
+/* Nav-Bar---End */
+
+/* Index---Start */
+.main-content {
+  margin-left: 4rem;
+  transition: margin-left 0.3s ease;
+  width: 100vw;
+  background-color: white !important;
+}
+
+.banner-container {
+  position: relative;
+  height: 55%;
+  width: 100%;
+}
+
+.banner-text {
+  font-family: "K2D", serif;
+  font-weight: 600;
+  margin: 0;
+  line-height: 1.4;
+  z-index: 1;
+  width: 50vw;
+  position: absolute;
+  top: 50%;
+  left: 4%;
+  transform: translateY(-50%);
+  text-align: left;
+}
+
+.banner-text h1 {
+  font-size: 2.5rem;
+}
+
+.banner-text a {
+  font-size: 1.1rem;
+  position: relative;
+  padding: 5px 10px;
+  color: #ffc107;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: 5px;
+}
+
+.banner-text a:hover {
+  border-color: #ffc107;
+  transition: all 0.3s ease;
+}
+
+.highlighted-text {
+  color: #0066cc;
+}
+
+.image-section {
+  background-image: url('assets/banner.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.overlay {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));
+}
+
+.input-container {
+  position: absolute;
+  bottom: 200px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80%;
+  max-width: 800px;
+  z-index: 100;
+}
+
+/* .input-group {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+} */
+
+.textarea-wrapper {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: white;
+}
+
+.text-area {
+  font-family: Poppins, serif;
+  font-size: 14px;
+  flex: 1;
+  padding: 10px;
+  border: none;
+  outline: none;
+  resize: none;
+  height: 50px;
+  max-height: 150px;
+  overflow-y: auto;
+  background-color: white;
+}
+
+.text-area::placeholder {
+  color: #004c99;
+}
+
+.text-area::-webkit-scrollbar {
+  width: 7px;
+  height: 10px;
+}
+
+.text-area::-webkit-scrollbar-thumb {
+  background-color: #aaa;
+  border-radius: 10px;
+  cursor: pointer;
+  min-height: 25px;
+}
+
+.send-btn {
+  background: transparent;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  color: #007bff;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.send-btn:hover {
+  color: #0056b3;
+  transform: scale(1.1);
+}
+
+.send-btn:active {
+  transform: scale(0.95);
+  color: #003366;
+  transition: transform 0.1s ease, color 0.1s ease;
+}
+
+.card {
+  border: none;
+  border-radius: 1rem;
+  background-color: transparent;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.card-icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.card-title {
+  font-size: 1rem;
+  color: #111;
+  margin: 0;
+}
+
+.card a {
+  display: flex;
+  align-items: center;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.title-text {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #111;
+}
+
+#project-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Index---End */
+
+/* RESPONSIVE ADJUSTMENTS */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .banner-text {
+    width: 70vw;
+    top: 50%;
+  }
+
+  .banner-text h1 {
+    font-size: 2.5rem;
+  }
+
+  .banner-text a {
+    font-size: 1.1rem;
+  }
+
+  .card-icon {
+    width: 35px;
+    height: auto;
+  }
+
+  .card-title {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+
+  .banner-text {
+    width: 80vw;
+  }
+
+  .banner-text h1 {
+    font-size: 2rem;
+  }
+
+  .card-title {
+    display: none;
+  }
+
+  .card-icon {
+    width: 35px;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .banner-text {
+    top: 40%;
+    width: 80vw;
+  }
+
+  .banner-text h1 {
+    font-size: 1.8rem;
+  }
+
+  .banner-container {
+    position: relative;
+    height: 100%;
+    width: 100%;
+  }
+
+  .input-container {
+    bottom: 10%;
+
+  }
+
+  .section-projects {
+    display: none;
+  }
+  
+}

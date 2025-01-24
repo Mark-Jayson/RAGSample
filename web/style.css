@@ -8,100 +8,6 @@ body {
   background-color: #ffffff;
 }
 
-/* Account Registration--Start */
-.account-bg {
-  background-image: url('assets/background.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.overlay {
-  background-color: rgba(0, 0, 0, 0.3);
-}
-
-.account-section {
-  background-color: #eee;
-  font-family: Poppins, serif;
-}
-
-.brand-container {
-  background-color: #0066CC;
-  border-radius: 15px 0 0 15px;
-}
-
-.brand-container img {
-  width: 310px;
-}
-
-.card {
-  border-radius: 15px 15px;
-}
-
-.form {
-  position: relative;
-}
-
-.form>label {
-  position: absolute;
-  top: -20px;
-  left: 10px;
-  font-size: 0.9rem;
-  padding: 0 0.25rem;
-}
-
-.form-control {
-  height: 60px;
-  margin-top: 40px;
-  border-radius: 15px;
-  padding: 0 0.75rem;
-  background-color: rgba(207, 204, 204, 0.3);
-}
-
-.account-btn {
-  border: none;
-  width: 200px;
-  background-color: #007bff;
-  color: #fff;
-  font-size: 1rem;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-.account-btn:hover {
-  transform: scale(1.1);
-  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
-}
-
-.account-btn:active {
-  transform: scale(0.95);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  background-color: #004085;
-}
-
-.account-btn:focus {
-  outline: 2px solid #80bdff;
-  outline-offset: 2px;
-}
-
-a {
-  text-decoration: none;
-  color: #007bff;
-
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* Account Registration---End */
-
 /* Nav-Bar---Start */
 .navbar {
   background-color: #0066d3;
@@ -453,9 +359,35 @@ a:hover {
 
 /* Conversation Page---End */
 
+/* About Page ---Start */
+.about,
+.features,
+.rationale {
+  font-family: Poppins, serif;
+}
+
+.card-feature {
+  border: none;
+  border-radius: 2rem;
+  margin-bottom: 1rem;
+  flex-direction: column;
+  padding: 1rem 1rem 0.5rem;
+  display: flex;
+  background-color: transparent;
+}
+
+.card-feature img {
+  width: 80%;
+  height: auto;
+  border-radius: 1.5rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 /* RESPONSIVE ADJUSTMENTS */
 
-/* LARGE */
 @media (min-width: 894px) and (max-width: 991px) {
   .brand-container {
     border-radius: 15px 15px 0 0;
@@ -463,7 +395,6 @@ a:hover {
 
 }
 
-/* MEDIUM */
 @media (max-width: 893px) {
   .brand-container {
     border-radius: 15px 15px 0 0;
@@ -499,7 +430,6 @@ a:hover {
   }
 }
 
-/* SMALL */
 @media (max-width: 596px) {
 
   /* Index Page */
