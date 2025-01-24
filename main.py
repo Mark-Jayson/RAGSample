@@ -69,9 +69,10 @@ class CSVHandler:
         """Read CSV file and extract description."""
         with open(file_path, 'r', encoding=encoding) as file:
             description = file.readline().strip().replace('"', '')
+            link = file.readline().strip().replace('"', '')
         
         df = pd.read_csv(file_path, encoding=encoding, sep=delimiter, skiprows=2, on_bad_lines='warn')
-        return description, df
+        return description, link, df
 
     def clean_column_names(self, df: pd.DataFrame) -> pd.DataFrame:
         """Clean and standardize column names."""
@@ -150,7 +151,7 @@ def process_csv_files(file_paths: List[str]) -> List[Document]:
             encoding = csv_handler.detect_encoding(file_path)
             delimiter = csv_handler.detect_delimiter(file_path, encoding)
             
-            description, df = csv_handler.read_file_with_description(file_path, encoding, delimiter)
+            description, link, df = csv_handler.read_file_with_description(file_path, encoding, delimiter)
             
             df = csv_handler.clean_column_names(df)
             df = csv_handler.clean_data(df)
@@ -164,6 +165,7 @@ def process_csv_files(file_paths: List[str]) -> List[Document]:
                 "num_rows": len(df),
                 "num_columns": len(df.columns),
                 "column_names": list(df.columns),
+                "link": link
             }
             
             metadata_filename = os.path.join(metadata_dir, f"{Path(file_path).stem}_metadata.json")
@@ -176,7 +178,8 @@ def process_csv_files(file_paths: List[str]) -> List[Document]:
                 metadata={
                     "source": file_path,
                     "description": description[:200],
-                    "metadata_reference": metadata_filename
+                    "metadata_reference": metadata_filename,
+                    "link": link
                 }
             )
             documents.append(document)
