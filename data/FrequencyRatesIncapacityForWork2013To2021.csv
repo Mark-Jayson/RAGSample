@@ -1,0 +1,22 @@
+"Frequency Rates of Cases of Occupational Injuries With Workdays Lost in Establishments Employing 20 or More Workers by Industry Group and Incapacity for Work, Philippines: 2013-2021"
+"https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__1B__ISLE__OID/1501B3GI020.px/table/tableViewLayout1/?rxid=eca9b9b4-2d32-429c-9bb1-f8c3b9a56a5c"
+"Major Industry Group";"2013 TOTAL";"2013 ..Fatal";"2013 ..Non-Fatal";"2013 ....Permanent Incapacity";"2013 ....Temporary Incapacity";"2015 TOTAL";"2015 ..Fatal";"2015 ..Non-Fatal";"2015 ....Permanent Incapacity";"2015 ....Temporary Incapacity";"2017 TOTAL";"2017 ..Fatal";"2017 ..Non-Fatal";"2017 ....Permanent Incapacity";"2017 ....Temporary Incapacity";"2019 TOTAL";"2019 ..Fatal";"2019 ..Non-Fatal";"2019 ....Permanent Incapacity";"2019 ....Temporary Incapacity";"2021 TOTAL";"2021 ..Fatal";"2021 ..Non-Fatal";"2021 ....Permanent Incapacity";"2021 ....Temporary Incapacity"
+"ALL INDUSTRIES";2.03;0.03;2.01;0.02;1.99;1.94;0.03;1.91;0.04;1.87;1.75;0.04;1.71;0.02;1.69;1.26;0.02;1.24;0.01;1.23;0.97;0.01;0.95;0.02;0.94
+"..Agriculture, Forestry and Fishing";5.45;0.20;5.25;0.01;5.25;4.06;0.15;3.91;0.15;3.76;4.10;0.03;4.07;0.01;4.06;2.16;..;2.16;0.01;2.15;4.76;0.02;4.74;0.01;4.73
+"..Mining and Quarrying";1.28;0.22;1.06;..;1.06;0.57;0.02;0.55;..;0.55;0.99;0.10;0.89;0.03;0.86;0.49;0.01;0.49;0.04;0.44;1.19;0.04;1.15;..;1.15
+"..Manufacturing";4.04;0.02;4.03;0.03;4.00;4.25;a;4.25;0.04;4.20;3.43;0.05;3.38;0.02;3.36;2.76;0.05;2.72;0.02;2.70;1.84;0.03;1.82;0.02;1.79
+"..Electricity, Gas, Steam and Air Conditioning Supply";2.58;0.07;2.51;..;2.51;3.32;0.29;3.04;0.08;2.96;3.52;0.28;3.25;0.14;3.11;2.42;0.14;2.28;0.02;2.26;2.60;0.07;2.53;0.03;2.50
+"..Water Supply; Sewerage, Waste Management and Remediation Activities";2.86;0.12;2.74;..;2.74;1.51;0.01;1.51;..;1.51;2.50;0.03;2.47;0.05;2.42;0.44;..;0.44;..;0.44;1.49;0.02;1.47;0.03;1.44
+"..Construction";1.18;a;1.18;..;1.18;3.39;0.07;3.31;0.11;3.20;1.14;0.03;1.10;0.01;1.09;1.68;0.07;1.61;0.01;1.60;1.32;0.04;1.28;0.04;1.23
+"..Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles Vehicles and Motorcycles";1.58;0.01;1.57;..;1.57;1.62;0.02;1.60;0.06;1.54;1.71;0.05;1.66;0.05;1.61;0.76;a;0.76;..;0.76;0.53;a;0.53;0.03;0.50
+"..Transportation and Storage";3.44;0.05;3.39;0.22;3.17;1.41;0.24;1.18;0.10;1.07;2.68;0.06;2.62;0.03;2.59;2.37;0.01;2.36;..;2.36;1.05;0.02;1.03;0.01;1.02
+"..Accommodation and Food Service Activities";2.10;0.05;2.06;..;2.06;1.79;0.06;1.73;0.02;1.71;2.44;0.06;2.38;0.01;2.37;1.67;a;1.67;..;1.67;0.98;0.02;0.97;0.03;0.94
+"..Information and Communication";0.14;..;0.14;0.02;0.12;0.41;0.02;0.39;..;0.39;0.41;0.02;0.39;..;0.39;0.29;..;0.29;..;0.29;0.21;0.02;0.19;..;0.19
+"..Financial and Insurance Activities";0.76;..;0.76;a;0.76;0.82;..;0.82;..;0.82;0.30;0.01;0.29;0.01;0.27;0.29;0.01;0.28;0.01;0.27;0.40;0.01;0.38;a;0.38
+"..Real Estate Activities";0.85;..;0.85;..;0.85;0.41;..;0.41;..;0.41;1.02;0.04;0.98;..;0.98;0.13;0.02;0.11;..;0.11;0.47;..;0.47;..;0.47
+"..Professional, Scientific and Technical Activities";0.55;0.08;0.46;a;0.46;0.61;0.01;0.60;..;0.60;1.44;0.31;1.13;0.03;1.10;0.12;..;0.12;..;0.12;0.28;0.03;0.25;..;0.25
+"..Administrative and Support Service Activities";0.42;a;0.42;a;0.42;0.59;0.01;0.58;0.01;0.57;0.72;0.01;0.71;0.01;0.70;0.63;0.02;0.61;..;0.61;0.42;a;0.42;a;0.41
+"..Education Except Public Education";0.27;a;0.26;..;0.26;0.37;..;0.37;..;0.37;0.43;..;0.43;0.01;0.42;0.18;..;0.18;..;0.18;0.21;a;0.21;..;0.21
+"..Human Health and Social Work Activities Except Public Health Activities";1.21;0.01;1.20;0.01;1.20;0.48;0.02;0.46;..;0.45;0.57;0.02;0.55;..;0.55;0.98;..;0.98;..;0.98;0.37;a;0.36;0.01;0.35
+"..Arts, Entertainment and Recreation";0.15;..;0.15;0.12;0.02;0.79;..;0.79;..;0.79;2.37;..;2.37;..;2.37;0.83;..;0.83;..;0.83;2.36;..;2.36;..;2.36
+"..Other Service Activities except Activities of Membership Organizations";0.72;..;0.72;..;0.72;0.67;..;0.67;..;0.67;0.38;..;0.38;..;0.38;0.18;..;0.18;..;0.18;1.22;..;1.22;..;1.22
